@@ -2,7 +2,7 @@
 
 <img align='right' src="./static/avatar.png" width="150" alt="fclite">
 
-# Friend-Circle-Lite
+# Friend-Circle-Lite 
 
 [前端展示](https://fc.liushen.fun) | [详细文档](https://blog.qyliu.top/posts/4dc716ec/)
 
