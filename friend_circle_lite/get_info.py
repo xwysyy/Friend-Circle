@@ -149,7 +149,15 @@ def parse_feed(url, session, count=5):
             if i >= count:
                 break
             
-            published = format_published_time(entry.published) if 'published' in entry else ''
+            if 'published' in entry:
+                published = format_published_time(entry.published)
+            elif 'updated' in entry:
+                published = format_published_time(entry.updated)
+                # 输出警告信息
+                print(f"警告：文章 {entry.title} 未包含发布时间，请尽快联系站长处理，暂时已设置为更新时间 {published}")
+            else:
+                published = ''
+                print(f"警告：文章 {entry.title} 未包含任何时间信息，请尽快联系站长处理")
             article = {
                 'title': entry.title if 'title' in entry else '',
                 'author': entry.author if 'author' in entry else '',
@@ -290,6 +298,13 @@ def sort_articles_by_time(data):
     返回：
     dict: 按时间排序后的文章信息字典
     """
+    # 先确保每个元素存在时间
+    for article in data['article_data']:
+        if article['created'] == '' or article['created'] == None:
+            article['created'] = '2024-01-01 00:00'
+            # 输出警告信息
+            print(f"警告：文章 {article['title']} 未包含任何可提取的时间信息，已设置为默认时间 2024-01-01 00:00")
+    
     if 'article_data' in data:
         sorted_articles = sorted(
             data['article_data'],
@@ -298,3 +313,53 @@ def sort_articles_by_time(data):
         )
         data['article_data'] = sorted_articles
     return data
+
+def marge_data_from_json_url(data, marge_json_url):
+    """
+    从另一个 JSON 文件中获取数据并合并到原数据中。
+
+    参数：
+    data (dict): 包含文章信息的字典
+    marge_json_url (str): 包含另一个文章信息的 JSON 文件的 URL。
+
+    返回：
+    dict: 合并后的文章信息字典，已去重处理
+    """
+    try:
+        response = requests.get(marge_json_url, headers=headers, timeout=timeout)
+        marge_data = response.json()
+    except Exception as e:
+        print(f"无法获取该链接：{marge_json_url}, 出现的问题为：{e}")
+        return data
+    
+    if 'article_data' in marge_data:
+        print("开始合并数据，原数据共有 %d 篇文章，境外数据共有 %d 篇文章" % (len(data['article_data']), len(marge_data['article_data'])))
+        data['article_data'].extend(marge_data['article_data'])
+        data['article_data'] = list({v['link']:v for v in data['article_data']}.values())
+        print("合并数据完成，现在共有 %d 篇文章" % len(data['article_data']))
+    return data
+
+def marge_errors_from_json_url(errors, marge_json_url):
+    """
+    从另一个网络 JSON 文件中获取错误信息并遍历，删除在errors中，不存在于marge_errors中的友链信息。
+
+    参数：
+    errors (list): 包含错误信息的列表
+    marge_json_url (str): 包含另一个错误信息的 JSON 文件的 URL。
+
+    返回：
+    list: 合并后的错误信息列表
+    """
+    try:
+        response = requests.get(marge_json_url, headers=headers, timeout=timeout)
+        marge_errors = response.json()
+    except Exception as e:
+        print(f"无法获取该链接：{marge_json_url}, 出现的问题为：{e}")
+        return errors
+
+    print("开始合并错误信息，原错误信息共有 %d 位朋友，境外错误信息共有 %d 位朋友" % (len(errors), len(marge_errors)))
+    for error in errors:
+        if error not in marge_errors:
+            errors.remove(error)
+    print("合并错误信息完成，现在共有 %d 位朋友" % len(errors))
+    return errors
