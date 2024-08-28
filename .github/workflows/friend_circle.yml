@@ -1,4 +1,4 @@
-name: Friend Circle Lite
+name: Friend Circle
 
 on:
   schedule:
@@ -27,8 +27,6 @@ jobs:
         pip install -r requirements.txt
         
     - name: Check RSS feeds
-      env:
-        SMTP_PWD: ${{ secrets.SMTP_PWD }}
       run: |
         python run.py
         
