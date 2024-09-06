@@ -4,9 +4,16 @@
     "active_num": 43,
     "error_num": 20,
     "article_num": 180,
-    "last_updated_time": "2024-09-06 16:12:06"
+    "last_updated_time": "2024-09-06 20:15:42"
   },
   "article_data": [
+    {
+      "title": "Fast-BEV 代码实践",
+      "created": "2024-09-06 11:30",
+      "link": "https://www.zywvvd.com/notes/study/deep-learning/bev/fastbev/fastbev-practice/",
+      "author": "又见苍岚",
+      "avatar": "https://www.zywvvd.com/image/avatar.png"
+    },
     {
       "title": "GCC 降级 / 版本选择",
       "created": "2024-09-06 09:41",
@@ -81,13 +88,6 @@
       "title": "KVM 虚拟机内存调整",
       "created": "2024-09-04 14:53",
       "link": "https://www.zywvvd.com/notes/system/linux/kvm/kvm-setmom/kvm-setmom/",
-      "author": "又见苍岚",
-      "avatar": "https://www.zywvvd.com/image/avatar.png"
-    },
-    {
-      "title": "BEVFusion",
-      "created": "2024-09-04 09:43",
-      "link": "https://www.zywvvd.com/notes/study/deep-learning/bev/bevfusion/bevfusion/",
       "author": "又见苍岚",
       "avatar": "https://www.zywvvd.com/image/avatar.png"
     },
@@ -216,6 +216,13 @@
       "link": "https://imqi1.com/note/412",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp"
+    },
+    {
+      "title": "去不图床外链较慢说明",
+      "created": "2024-08-25 00:00",
+      "link": "https://dusays.com/741/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
       "title": "迷你主机折腾小记：光猫桥接 + DDNS 搭建公网 IPv6 服务器",
@@ -356,13 +363,6 @@
       "link": "https://blog.liushen.fun/posts/a64defb4/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "title": "Nginx 可视化编辑工具 nginxWebUI 安装和使用",
-      "created": "2024-08-10 00:00",
-      "link": "https://dusays.com/736/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
       "title": "域名迁移至 blog.liushen.fun",
