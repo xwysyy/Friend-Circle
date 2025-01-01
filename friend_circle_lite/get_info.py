@@ -62,10 +62,12 @@ def check_feed(blog_url, session):
     atom_url = blog_url.rstrip('/') + '/atom.xml'
     rss_url = blog_url.rstrip('/') + '/rss.xml'  # 2024-07-26 添加 /rss.xml内容的支持
     rss2_url = blog_url.rstrip('/') + '/rss2.xml'
+    rss3_url = blog_url.rstrip('/') + '/rss/feed.xml' 
     feed_url = blog_url.rstrip('/') + '/feed'
     feed2_url = blog_url.rstrip('/') + '/feed.xml'  # 2024-07-26 添加 /feed.xml内容的支持
     feed3_url = blog_url.rstrip('/') + '/feed/'  # 2024-07-26 添加 /feed/内容的支持
     index_url = blog_url.rstrip('/') + '/index.xml' # 2024-07-25 添加 /index.xml内容的支持
+    
     
     try:
         atom_response = session.get(atom_url, headers=headers, timeout=timeout)
@@ -85,6 +87,13 @@ def check_feed(blog_url, session):
         rss_response = session.get(rss2_url, headers=headers, timeout=timeout)
         if rss_response.status_code == 200:
             return ['rss2', rss2_url]
+    except requests.RequestException:
+        pass
+
+    try:
+        rss_response = session.get(rss3_url, headers=headers, timeout=timeout)
+        if rss_response.status_code == 200:
+            return ['rss3', rss3_url]
     except requests.RequestException:
         pass
 
