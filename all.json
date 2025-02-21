@@ -1,18 +1,39 @@
 {
   "statistical_data": {
     "friends_num": 67,
-    "active_num": 46,
-    "error_num": 21,
-    "article_num": 184,
-    "last_updated_time": "2025-02-21 12:11:45"
+    "active_num": 47,
+    "error_num": 20,
+    "article_num": 189,
+    "last_updated_time": "2025-02-21 16:12:19"
   },
   "article_data": [
+    {
+      "title": "软件工程职位数量真的跌到了五年来的最低点吗？[译]",
+      "created": "2025-02-21 12:50",
+      "link": "https://baoyu.io/translations/software-engineer-jobs-five-year-low",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico"
+    },
+    {
+      "title": "马斯克号称 Grok 3 的知识库是实时更新的，别被他忽悠了！",
+      "created": "2025-02-21 12:44",
+      "link": "https://baoyu.io/blog/grok-3-knowledge-base-update-myth",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico"
+    },
     {
       "title": "iStoreOS如何给硬盘分区扩容？Openwrt已经正在使用的分区如何扩容？",
       "created": "2025-02-21 10:26",
       "link": "https://blog.zhheo.com/p/o898gwi7.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "仅需两个文件，实现在 VS Code 状态栏监控黄金价格",
+      "created": "2025-02-21 08:00",
+      "link": "https://www.imaegoo.com/2025/vscode-ext-gold-monitor/",
+      "author": "iMaeGoo’s Blog",
+      "avatar": "https://www.imaegoo.com/images/avatar.jpg"
     },
     {
       "title": "Grok 3 越狱提示词",
@@ -76,20 +97,6 @@
       "link": "https://blog.zhheo.com/p/nmqfcnhb.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "刚入门的初级开发者其实并不真的会写代码 [译]",
-      "created": "2025-02-18 10:52",
-      "link": "https://baoyu.io/translations/junior-developers-cant-code",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico"
-    },
-    {
-      "title": "找到心流：通过深度工作和慢生活逃离数字干扰 [译]",
-      "created": "2025-02-18 10:44",
-      "link": "https://baoyu.io/translations/flow-deep-work-slow-living",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico"
     },
     {
       "title": "Cisco Packet Tracer 路由实验：RIP、OSPF、BGP 配置与验证",
@@ -596,6 +603,13 @@
       "avatar": "https://avatar.qjqq.cn/1/6503bb1b7fa1a.webp!avatar"
     },
     {
+      "title": "人生的意义到底是什么",
+      "created": "2024-11-18 08:23",
+      "link": "https://mnchen.cn/posts/1014.html",
+      "author": "前尘小筑",
+      "avatar": "https://image.mnchen.cn/2023/12/mnochen.jpg"
+    },
+    {
       "title": "屠龙者终成恶龙",
       "created": "2024-11-14 18:00",
       "link": "https://www.imaegoo.com/2024/sensational-headlines/",
@@ -622,6 +636,13 @@
       "link": "https://blog.bsgun.cn/posts/7fe03505/",
       "author": "梦爱吃鱼",
       "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
+    },
+    {
+      "title": "anzhiyu主题自定义博客字体",
+      "created": "2024-11-06 08:23",
+      "link": "https://mnchen.cn/posts/1013.html",
+      "author": "前尘小筑",
+      "avatar": "https://image.mnchen.cn/2023/12/mnochen.jpg"
     },
     {
       "title": "Solitude如何引用自定义字体",
@@ -673,6 +694,13 @@
       "avatar": "https://blog.pj568.sbs/images/PJ568.svg"
     },
     {
+      "title": "在页脚位置添加动物（pjax修复）",
+      "created": "2024-10-25 00:00",
+      "link": "https://mnchen.cn/posts/1012.html",
+      "author": "前尘小筑",
+      "avatar": "https://image.mnchen.cn/2023/12/mnochen.jpg"
+    },
+    {
       "title": "蜀都行纪",
       "created": "2024-10-24 12:00",
       "link": "https://champhoon.xyz/log/chengdu/",
@@ -701,6 +729,13 @@
       "avatar": "https://avatar.qjqq.cn/1/6503bb1b7fa1a.webp!avatar"
     },
     {
+      "title": "python爬虫分享（爬取静态网站）",
+      "created": "2024-10-18 00:00",
+      "link": "https://mnchen.cn/posts/1011.html",
+      "author": "前尘小筑",
+      "avatar": "https://image.mnchen.cn/2023/12/mnochen.jpg"
+    },
+    {
       "title": "不得原谅、不得解脱、无人生还",
       "created": "2024-10-16 21:35",
       "link": "https://agen233.top/posts/32331f7/",
@@ -720,6 +755,13 @@
       "link": "https://www.lyszm.com/1039.html",
       "author": "六月是只猫",
       "avatar": "https://www.lyszm.com/img/avatar.jpg"
+    },
+    {
+      "title": "在公告栏添加一个随机ikun",
+      "created": "2024-10-01 00:00",
+      "link": "https://mnchen.cn/posts/1010.html",
+      "author": "前尘小筑",
+      "avatar": "https://image.mnchen.cn/2023/12/mnochen.jpg"
     },
     {
       "title": "温故而知新：后端通用查询方案的再思考",
@@ -769,13 +811,6 @@
       "link": "https://xxu.do/posts/academic/xia2",
       "author": "Jayden",
       "avatar": "https://github.com/Jaaayden.png"
-    },
-    {
-      "title": "使用 HTTP API 从 WPS 在线表格中增删改查数据示例",
-      "created": "2024-09-09 16:26",
-      "link": "https://www.imaegoo.com/2024/http-crud-data-from-wps/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://www.imaegoo.com/images/avatar.jpg"
     },
     {
       "title": "图床解决方案：Cloudflare R2+PicGo+WebP Cloud",
