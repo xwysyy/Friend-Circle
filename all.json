@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 67,
-    "active_num": 47,
-    "error_num": 20,
-    "article_num": 189,
-    "last_updated_time": "2025-02-24 08:43:28"
+    "active_num": 46,
+    "error_num": 21,
+    "article_num": 184,
+    "last_updated_time": "2025-02-24 16:13:16"
   },
   "article_data": [
+    {
+      "title": "Hexo上传服务器建议使用rsync来替代git上传，repo文件夹越来越大解决方法",
+      "created": "2025-02-24 15:40",
+      "link": "https://blog.zhheo.com/p/mc663kbo.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "请求“不”，而非请求“是”",
+      "created": "2025-02-24 09:21",
+      "link": "https://baoyu.io/translations/request-no-not-yes",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico"
+    },
     {
       "title": "Anthropic 在和客户合作的过程中总结的的企业落地 AI 最佳实践以及常见错误",
       "created": "2025-02-24 04:22",
@@ -67,13 +81,6 @@
       "title": "AI 正在推动程序员的进化，而不是灭亡",
       "created": "2025-02-22 08:41",
       "link": "https://baoyu.io/blog/ai-is-evolving-programmers",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico"
-    },
-    {
-      "title": "Coinbase 使用 AI 编程工具提升开发效率，同时正在欺诈预防、客户支持、风险评分、设计等多个业务领域积极应用 AI 技术",
-      "created": "2025-02-22 06:50",
-      "link": "https://baoyu.io/blog/coinbase-ai-improves-development-efficiency",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico"
     },
@@ -202,13 +209,6 @@
       "link": "https://imqi1.com/note/723",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp"
-    },
-    {
-      "title": "如何给文本添加隐藏信息？洪绘文本盲水印给文字添加一些隐藏内容",
-      "created": "2025-02-14 16:54",
-      "link": "https://blog.zhheo.com/p/d3go8ajr.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "DPanel 让 Docker 管理变得轻松又高效",
@@ -617,13 +617,6 @@
       "avatar": "https://avatar.qjqq.cn/1/6503bb1b7fa1a.webp!avatar"
     },
     {
-      "title": "人生的意义到底是什么",
-      "created": "2024-11-18 08:23",
-      "link": "https://mnchen.cn/posts/1014.html",
-      "author": "前尘小筑",
-      "avatar": "https://image.mnchen.cn/2023/12/mnochen.jpg"
-    },
-    {
       "title": "屠龙者终成恶龙",
       "created": "2024-11-14 18:00",
       "link": "https://www.imaegoo.com/2024/sensational-headlines/",
@@ -650,13 +643,6 @@
       "link": "https://blog.bsgun.cn/posts/7fe03505/",
       "author": "梦爱吃鱼",
       "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
-    },
-    {
-      "title": "anzhiyu主题自定义博客字体",
-      "created": "2024-11-06 08:23",
-      "link": "https://mnchen.cn/posts/1013.html",
-      "author": "前尘小筑",
-      "avatar": "https://image.mnchen.cn/2023/12/mnochen.jpg"
     },
     {
       "title": "Solitude如何引用自定义字体",
@@ -701,13 +687,6 @@
       "avatar": "https://blog.pj568.sbs/images/PJ568.svg"
     },
     {
-      "title": "在页脚位置添加动物（pjax修复）",
-      "created": "2024-10-25 00:00",
-      "link": "https://mnchen.cn/posts/1012.html",
-      "author": "前尘小筑",
-      "avatar": "https://image.mnchen.cn/2023/12/mnochen.jpg"
-    },
-    {
       "title": "蜀都行纪",
       "created": "2024-10-24 12:00",
       "link": "https://champhoon.xyz/log/chengdu/",
@@ -736,13 +715,6 @@
       "avatar": "https://avatar.qjqq.cn/1/6503bb1b7fa1a.webp!avatar"
     },
     {
-      "title": "python爬虫分享（爬取静态网站）",
-      "created": "2024-10-18 00:00",
-      "link": "https://mnchen.cn/posts/1011.html",
-      "author": "前尘小筑",
-      "avatar": "https://image.mnchen.cn/2023/12/mnochen.jpg"
-    },
-    {
       "title": "不得原谅、不得解脱、无人生还",
       "created": "2024-10-16 21:35",
       "link": "https://agen233.top/posts/32331f7/",
@@ -762,13 +734,6 @@
       "link": "https://www.lyszm.com/1039.html",
       "author": "六月是只猫",
       "avatar": "https://www.lyszm.com/img/avatar.jpg"
-    },
-    {
-      "title": "在公告栏添加一个随机ikun",
-      "created": "2024-10-01 00:00",
-      "link": "https://mnchen.cn/posts/1010.html",
-      "author": "前尘小筑",
-      "avatar": "https://image.mnchen.cn/2023/12/mnochen.jpg"
     },
     {
       "title": "温故而知新：后端通用查询方案的再思考",
