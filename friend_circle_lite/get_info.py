@@ -61,7 +61,7 @@ def check_feed(blog_url, session):
     
     atom_url = blog_url.rstrip('/') + '/atom.xml'
     rss_url = blog_url.rstrip('/') + '/rss.xml'  # 2024-07-26 添加 /rss.xml内容的支持
-    rss2_url = blog_url.rstrip('/') + '/rss2.xml'
+    rss2_url = blog_url.rstrip('/')
     feed_url = blog_url.rstrip('/') + '/feed'
     feed2_url = blog_url.rstrip('/') + '/feed.xml'  # 2024-07-26 添加 /feed.xml内容的支持
     feed3_url = blog_url.rstrip('/') + '/feed/'  # 2024-07-26 添加 /feed/内容的支持
