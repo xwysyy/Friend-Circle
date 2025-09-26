@@ -8,6 +8,6 @@
 spider_settings:
   enable: true
   json_url: "./friend.json"
-  article_count: 6
+  article_count: 10
   max_workers: 5
   # force_ipv4: true
