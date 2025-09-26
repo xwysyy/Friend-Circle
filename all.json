@@ -1,10 +1,10 @@
 {
   "statistical_data": {
-    "friends_num": 13,
+    "friends_num": 12,
     "active_num": 12,
-    "error_num": 1,
+    "error_num": 0,
     "article_num": 71,
-    "last_updated_time": "2025-09-26 16:17:51"
+    "last_updated_time": "2025-09-26 17:14:22"
   },
   "article_data": [
     {
@@ -111,6 +111,13 @@
       "link": "https://baoyu.io/blog/ai-writes-90-percent-code",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico"
+    },
+    {
+      "title": "重新思考学习率与Batch Size（四）：EMA",
+      "created": "2025-09-22 22:37",
+      "link": "https://kexue.fm/archives/11301",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png"
     },
     {
       "title": "Docker部署code-server",
@@ -225,6 +232,13 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
+      "title": "重新思考学习率与Batch Size（三）：Muon",
+      "created": "2025-09-16 06:52",
+      "link": "https://kexue.fm/archives/11285",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png"
+    },
+    {
       "title": "使用 Python 脚本实现图片相似度匹配",
       "created": "2025-09-16 00:00",
       "link": "https://dusays.com/827/",
@@ -239,18 +253,18 @@
       "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4"
     },
     {
-      "title": "The Rise of Subagents",
-      "created": "2025-09-15 08:00",
-      "link": "https://www.philschmid.de/the-rise-of-subagents",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico"
-    },
-    {
       "title": "LeoTalk · Hacker News Daily · 2025.09.11",
       "created": "2025-09-11 08:00",
       "link": "https://ifuryst.github.io/blog/2025/leotalk-hacker-news-daily-september-11-2025/",
       "author": "ifuryst",
       "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4"
+    },
+    {
+      "title": "重新思考学习率与Batch Size（二）：平均场",
+      "created": "2025-09-10 18:18",
+      "link": "https://kexue.fm/archives/11280",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png"
     },
     {
       "title": "几种通过 FFmpeg 无损压缩视频的方法",
@@ -274,11 +288,25 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
+      "title": "为什么Adam的Update RMS是0.2？",
+      "created": "2025-09-03 01:35",
+      "link": "https://kexue.fm/archives/11267",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png"
+    },
+    {
       "title": "卸载百度网盘智能看图",
       "created": "2025-09-02 08:00",
       "link": "https://www.imaegoo.com/2025/uninstall-netdisk-image-viewer/",
       "author": "iMaeGoo’s Blog",
       "avatar": "https://www.imaegoo.com/images/avatar.jpg"
+    },
+    {
+      "title": "重新思考学习率与Batch Size（一）：现状",
+      "created": "2025-09-01 19:10",
+      "link": "https://kexue.fm/archives/11260",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png"
     },
     {
       "title": "CDN 方式引入 Monaco Editor",
@@ -316,11 +344,11 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "title": "The 10 Steps for product AI generation with Gemini 2.5 Flash",
-      "created": "2025-08-27 08:00",
-      "link": "https://www.philschmid.de/gemini-image-generation-product",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico"
+      "title": "Cool Papers更新：简单适配Zotero Connector",
+      "created": "2025-08-26 00:11",
+      "link": "https://kexue.fm/archives/11250",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png"
     },
     {
       "title": "2025 年了，安卓平板上什么第三方九键输入法最好用？",
@@ -372,13 +400,6 @@
       "avatar": "https://www.imaegoo.com/images/avatar.jpg"
     },
     {
-      "title": "Memory in Agents, Make LLMs remember.",
-      "created": "2025-08-04 08:00",
-      "link": "https://www.philschmid.de/memory-in-agents",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico"
-    },
-    {
       "title": "第035期 - 釜沸生香",
       "created": "2025-08-03 08:00",
       "link": "https://rrorangeandfriends.de/posts/2025/035",
@@ -407,20 +428,6 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "Google Gemini CLI Cheatsheet",
-      "created": "2025-07-24 08:00",
-      "link": "https://www.philschmid.de/gemini-cli-cheatsheet",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico"
-    },
-    {
-      "title": "Code Sandbox MCP: A Simple Code Interpreter for Your AI Agents",
-      "created": "2025-07-22 08:00",
-      "link": "https://www.philschmid.de/code-sandbox-mcp",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico"
-    },
-    {
       "title": "第034期 - 云腴沁粉",
       "created": "2025-07-19 08:00",
       "link": "https://rrorangeandfriends.de/posts/2025/034",
@@ -440,13 +447,6 @@
       "link": "https://imqi1.com/note/810",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp"
-    },
-    {
-      "title": "Integrating Long-Term Memory with Gemini 2.5",
-      "created": "2025-07-03 08:00",
-      "link": "https://www.philschmid.de/gemini-with-memory",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico"
     },
     {
       "title": "第033期 - 一球听海",
