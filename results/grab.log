@@ -1,0 +1,730 @@
+2025-10-15 20:27:05,491 - INFO - 爬虫已启用
+2025-10-15 20:27:05,492 - INFO - chao fa 使用自定义 feed：https://yuanchaofa.com/rss.xml
+2025-10-15 20:27:05,493 - INFO - Lilian Weng 使用自定义 feed：https://lilianweng.github.io/index.xml
+2025-10-15 20:27:05,493 - INFO - 苏剑林 使用自定义 feed：https://kexue.fm/feed
+2025-10-15 20:27:05,494 - INFO - 阮一峰 使用自定义 feed：http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:27:05,494 - INFO - ifuryst 使用自定义 feed：https://www.ifuryst.com/feed.xml
+2025-10-15 20:27:05,496 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73f1d8f50440>: Failed to establish a new connection: [Errno 1] Operation not permitted')': http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:27:05,496 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f508f0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:27:05,497 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f50da0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /index.xml
+2025-10-15 20:27:05,497 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d9220500>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed
+2025-10-15 20:27:05,497 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f51370>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:27:06,698 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73f1d8f51550>: Failed to establish a new connection: [Errno 1] Operation not permitted')': http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:27:06,698 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f50980>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:27:06,698 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f50e60>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /index.xml
+2025-10-15 20:27:06,698 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f514f0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:27:06,699 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f50ef0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed
+2025-10-15 20:27:09,098 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73f1d8f519a0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:27:09,099 - ERROR - 不可链接的 FEED 地址：http://feeds.feedburner.com/ruanyifeng: HTTPConnectionPool(host='127.0.0.1', port=10808): Max retries exceeded with url: http://feeds.feedburner.com/ruanyifeng (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73f1d8f521e0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:27:09,099 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f51d00>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:27:09,099 - ERROR - 阮一峰 的 feed 抓取失败：http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:27:09,099 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f51ee0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:27:09,099 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f51e20>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /index.xml
+2025-10-15 20:27:09,099 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f52000>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed
+2025-10-15 20:27:09,100 - ERROR - 不可链接的 FEED 地址：https://yuanchaofa.com/rss.xml: HTTPSConnectionPool(host='yuanchaofa.com', port=443): Max retries exceeded with url: /rss.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f52540>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:27:09,100 - INFO - 大橘和朋友们的周刊 使用自定义 feed：https://rrorangeandfriends.de/feed.xml
+2025-10-15 20:27:09,100 - ERROR - 不可链接的 FEED 地址：https://www.ifuryst.com/feed.xml: HTTPSConnectionPool(host='www.ifuryst.com', port=443): Max retries exceeded with url: /feed.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f52600>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:27:09,100 - ERROR - 不可链接的 FEED 地址：https://lilianweng.github.io/index.xml: HTTPSConnectionPool(host='lilianweng.github.io', port=443): Max retries exceeded with url: /index.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f52720>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:27:09,100 - ERROR - 不可链接的 FEED 地址：https://kexue.fm/feed: HTTPSConnectionPool(host='kexue.fm', port=443): Max retries exceeded with url: /feed (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f528a0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:27:09,100 - ERROR - chao fa 的 feed 抓取失败：https://yuanchaofa.com/rss.xml
+2025-10-15 20:27:09,101 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f52de0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:27:09,101 - ERROR - ifuryst 的 feed 抓取失败：https://www.ifuryst.com/feed.xml
+2025-10-15 20:27:09,101 - ERROR - Lilian Weng 的 feed 抓取失败：https://lilianweng.github.io/index.xml
+2025-10-15 20:27:09,101 - ERROR - 苏剑林 的 feed 抓取失败：https://kexue.fm/feed
+2025-10-15 20:27:09,101 - INFO - 宝玉 使用自定义 feed：https://s.baoyu.io/feed.xml
+2025-10-15 20:27:09,102 - INFO - lololowe 使用自定义 feed：https://blog.lololowe.com/atom.xml
+2025-10-15 20:27:09,102 - INFO - varuxn 使用自定义 feed：https://varuxn.github.io/rss.xml
+2025-10-15 20:27:09,102 - INFO - 杜老师说 使用自定义 feed：https://dusays.com/atom.xml
+2025-10-15 20:27:09,102 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f532f0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:27:09,103 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f53920>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:27:09,103 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f53f80>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:27:09,104 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f90650>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:27:10,302 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f528d0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:27:10,304 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f524e0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:27:10,304 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f524b0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:27:10,304 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f52540>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:27:10,304 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f900b0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:27:12,702 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f90770>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:27:12,702 - ERROR - 不可链接的 FEED 地址：https://rrorangeandfriends.de/feed.xml: HTTPSConnectionPool(host='rrorangeandfriends.de', port=443): Max retries exceeded with url: /feed.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f90d10>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:27:12,702 - ERROR - 大橘和朋友们的周刊 的 feed 抓取失败：https://rrorangeandfriends.de/feed.xml
+2025-10-15 20:27:12,702 - INFO - 张洪Heo 使用自定义 feed：https://blog.zhheo.com/rss.xml
+2025-10-15 20:27:12,703 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f91220>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:27:12,704 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f90890>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:27:12,704 - ERROR - 不可链接的 FEED 地址：https://s.baoyu.io/feed.xml: HTTPSConnectionPool(host='s.baoyu.io', port=443): Max retries exceeded with url: /feed.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f914c0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:27:12,704 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f909b0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:27:12,704 - ERROR - 宝玉 的 feed 抓取失败：https://s.baoyu.io/feed.xml
+2025-10-15 20:27:12,705 - ERROR - 不可链接的 FEED 地址：https://blog.lololowe.com/atom.xml: HTTPSConnectionPool(host='blog.lololowe.com', port=443): Max retries exceeded with url: /atom.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f91550>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:27:12,705 - INFO - iMaeGoo’s Blog 使用自定义 feed：https://www.imaegoo.com/atom.xml
+2025-10-15 20:27:12,705 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f90b30>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:27:12,705 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f90bf0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:27:12,705 - ERROR - lololowe 的 feed 抓取失败：https://blog.lololowe.com/atom.xml
+2025-10-15 20:27:12,705 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f91b80>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:27:12,706 - ERROR - 不可链接的 FEED 地址：https://varuxn.github.io/rss.xml: HTTPSConnectionPool(host='varuxn.github.io', port=443): Max retries exceeded with url: /rss.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f91d00>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:27:12,706 - ERROR - 不可链接的 FEED 地址：https://dusays.com/atom.xml: HTTPSConnectionPool(host='dusays.com', port=443): Max retries exceeded with url: /atom.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f533b0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:27:12,707 - INFO - 清羽飞扬 使用自定义 feed：https://blog.liushen.fun/atom.xml
+2025-10-15 20:27:12,707 - ERROR - varuxn 的 feed 抓取失败：https://varuxn.github.io/rss.xml
+2025-10-15 20:27:12,707 - ERROR - 杜老师说 的 feed 抓取失败：https://dusays.com/atom.xml
+2025-10-15 20:27:12,707 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f90cb0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:27:12,707 - INFO - ImQi1 使用自定义 feed：https://imqi1.com/feed/
+2025-10-15 20:27:12,709 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f923c0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed/
+2025-10-15 20:27:13,903 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f913a0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:27:13,907 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f533e0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:27:13,908 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f90920>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:27:13,909 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f92510>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed/
+2025-10-15 20:27:16,304 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f92600>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:27:16,304 - ERROR - 不可链接的 FEED 地址：https://blog.zhheo.com/rss.xml: HTTPSConnectionPool(host='blog.zhheo.com', port=443): Max retries exceeded with url: /rss.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f92a80>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:27:16,304 - ERROR - 张洪Heo 的 feed 抓取失败：https://blog.zhheo.com/rss.xml
+2025-10-15 20:27:16,307 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f926f0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:27:16,307 - ERROR - 不可链接的 FEED 地址：https://www.imaegoo.com/atom.xml: HTTPSConnectionPool(host='www.imaegoo.com', port=443): Max retries exceeded with url: /atom.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f92ae0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:27:16,307 - ERROR - iMaeGoo’s Blog 的 feed 抓取失败：https://www.imaegoo.com/atom.xml
+2025-10-15 20:27:16,309 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f927e0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:27:16,309 - ERROR - 不可链接的 FEED 地址：https://blog.liushen.fun/atom.xml: HTTPSConnectionPool(host='blog.liushen.fun', port=443): Max retries exceeded with url: /atom.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f92bd0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:27:16,309 - ERROR - 清羽飞扬 的 feed 抓取失败：https://blog.liushen.fun/atom.xml
+2025-10-15 20:27:16,309 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f92960>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed/
+2025-10-15 20:27:16,309 - ERROR - 不可链接的 FEED 地址：https://imqi1.com/feed/: HTTPSConnectionPool(host='imqi1.com', port=443): Max retries exceeded with url: /feed/ (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73f1d8f92cc0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:27:16,309 - ERROR - ImQi1 的 feed 抓取失败：https://imqi1.com/feed/
+2025-10-15 20:27:16,310 - INFO - 数据处理完成
+2025-10-15 20:27:16,310 - INFO - 总共有 14 位朋友，其中 0 位博客可访问，14 位博客无法访问
+2025-10-15 20:27:16,311 - INFO - 抓取与写入完成：all.json, errors.json
+2025-10-15 20:29:59,135 - INFO - 爬虫已启用
+2025-10-15 20:29:59,135 - INFO - chao fa 使用自定义 feed：https://yuanchaofa.com/rss.xml
+2025-10-15 20:29:59,135 - INFO - Lilian Weng 使用自定义 feed：https://lilianweng.github.io/index.xml
+2025-10-15 20:29:59,136 - INFO - 苏剑林 使用自定义 feed：https://kexue.fm/feed
+2025-10-15 20:29:59,136 - INFO - 阮一峰 使用自定义 feed：http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:29:59,136 - INFO - ifuryst 使用自定义 feed：https://www.ifuryst.com/feed.xml
+2025-10-15 20:29:59,138 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7ea9aff0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:29:59,138 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de23e30>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed
+2025-10-15 20:29:59,139 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de44380>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /index.xml
+2025-10-15 20:29:59,139 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7e1d7df4a810>: Failed to establish a new connection: [Errno 1] Operation not permitted')': http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:29:59,140 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de45340>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:30:00,339 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7e0c8bc0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:30:00,339 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de44410>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed
+2025-10-15 20:30:00,340 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de44b30>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /index.xml
+2025-10-15 20:30:00,340 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7e1d7de44ec0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:30:00,340 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de454c0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:30:02,739 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de45820>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:30:02,739 - ERROR - 不可链接的 FEED 地址：https://yuanchaofa.com/rss.xml: HTTPSConnectionPool(host='yuanchaofa.com', port=443): Max retries exceeded with url: /rss.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de45f70>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:30:02,739 - ERROR - chao fa 的 feed 抓取失败：https://yuanchaofa.com/rss.xml
+2025-10-15 20:30:02,739 - INFO - 大橘和朋友们的周刊 使用自定义 feed：https://rrorangeandfriends.de/feed.xml
+2025-10-15 20:30:02,740 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de46390>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:30:02,740 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de458e0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed
+2025-10-15 20:30:02,740 - ERROR - 不可链接的 FEED 地址：https://kexue.fm/feed: HTTPSConnectionPool(host='kexue.fm', port=443): Max retries exceeded with url: /feed (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de46600>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:30:02,740 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de45a90>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /index.xml
+2025-10-15 20:30:02,740 - ERROR - 苏剑林 的 feed 抓取失败：https://kexue.fm/feed
+2025-10-15 20:30:02,741 - ERROR - 不可链接的 FEED 地址：https://lilianweng.github.io/index.xml: HTTPSConnectionPool(host='lilianweng.github.io', port=443): Max retries exceeded with url: /index.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de46630>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:30:02,741 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de45e50>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:30:02,741 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7e1d7de45c70>: Failed to establish a new connection: [Errno 1] Operation not permitted')': http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:30:02,741 - INFO - 宝玉 使用自定义 feed：https://s.baoyu.io/feed.xml
+2025-10-15 20:30:02,741 - ERROR - Lilian Weng 的 feed 抓取失败：https://lilianweng.github.io/index.xml
+2025-10-15 20:30:02,742 - INFO - lololowe 使用自定义 feed：https://blog.lololowe.com/atom.xml
+2025-10-15 20:30:02,741 - ERROR - 不可链接的 FEED 地址：http://feeds.feedburner.com/ruanyifeng: HTTPConnectionPool(host='127.0.0.1', port=10808): Max retries exceeded with url: http://feeds.feedburner.com/ruanyifeng (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7e1d7de46870>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:30:02,742 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de470b0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:30:02,741 - ERROR - 不可链接的 FEED 地址：https://www.ifuryst.com/feed.xml: HTTPSConnectionPool(host='www.ifuryst.com', port=443): Max retries exceeded with url: /feed.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de467b0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:30:02,742 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de47710>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:30:02,742 - ERROR - 阮一峰 的 feed 抓取失败：http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:30:02,742 - ERROR - ifuryst 的 feed 抓取失败：https://www.ifuryst.com/feed.xml
+2025-10-15 20:30:02,743 - INFO - varuxn 使用自定义 feed：https://varuxn.github.io/rss.xml
+2025-10-15 20:30:02,743 - INFO - 杜老师说 使用自定义 feed：https://dusays.com/atom.xml
+2025-10-15 20:30:02,743 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de47d70>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:30:02,744 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de88440>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:30:03,940 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de46510>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:30:03,943 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de46b10>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:30:03,943 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de467e0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:30:03,944 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de469f0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:30:03,944 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de46a50>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:30:06,341 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de467b0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:30:06,341 - ERROR - 不可链接的 FEED 地址：https://rrorangeandfriends.de/feed.xml: HTTPSConnectionPool(host='rrorangeandfriends.de', port=443): Max retries exceeded with url: /feed.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de88800>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:30:06,341 - ERROR - 大橘和朋友们的周刊 的 feed 抓取失败：https://rrorangeandfriends.de/feed.xml
+2025-10-15 20:30:06,341 - INFO - 张洪Heo 使用自定义 feed：https://blog.zhheo.com/rss.xml
+2025-10-15 20:30:06,342 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de88d10>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:30:06,343 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de464e0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:30:06,343 - ERROR - 不可链接的 FEED 地址：https://s.baoyu.io/feed.xml: HTTPSConnectionPool(host='s.baoyu.io', port=443): Max retries exceeded with url: /feed.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de88fb0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:30:06,343 - ERROR - 宝玉 的 feed 抓取失败：https://s.baoyu.io/feed.xml
+2025-10-15 20:30:06,343 - INFO - iMaeGoo’s Blog 使用自定义 feed：https://www.imaegoo.com/atom.xml
+2025-10-15 20:30:06,343 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de894f0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:30:06,344 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de88470>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:30:06,344 - ERROR - 不可链接的 FEED 地址：https://blog.lololowe.com/atom.xml: HTTPSConnectionPool(host='blog.lololowe.com', port=443): Max retries exceeded with url: /atom.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de89790>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:30:06,344 - ERROR - lololowe 的 feed 抓取失败：https://blog.lololowe.com/atom.xml
+2025-10-15 20:30:06,344 - INFO - 清羽飞扬 使用自定义 feed：https://blog.liushen.fun/atom.xml
+2025-10-15 20:30:06,344 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de89cd0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:30:06,344 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de885c0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:30:06,345 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de886e0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:30:06,345 - ERROR - 不可链接的 FEED 地址：https://varuxn.github.io/rss.xml: HTTPSConnectionPool(host='varuxn.github.io', port=443): Max retries exceeded with url: /rss.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de884d0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:30:06,345 - ERROR - 不可链接的 FEED 地址：https://dusays.com/atom.xml: HTTPSConnectionPool(host='dusays.com', port=443): Max retries exceeded with url: /atom.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de88f50>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:30:06,345 - ERROR - varuxn 的 feed 抓取失败：https://varuxn.github.io/rss.xml
+2025-10-15 20:30:06,345 - ERROR - 杜老师说 的 feed 抓取失败：https://dusays.com/atom.xml
+2025-10-15 20:30:06,345 - INFO - ImQi1 使用自定义 feed：https://imqi1.com/feed/
+2025-10-15 20:30:06,346 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de8a060>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed/
+2025-10-15 20:30:07,542 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de88e90>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:30:07,544 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de89670>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:30:07,545 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de46840>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:30:07,546 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de8a1e0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed/
+2025-10-15 20:30:09,943 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de8a2d0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:30:09,943 - ERROR - 不可链接的 FEED 地址：https://blog.zhheo.com/rss.xml: HTTPSConnectionPool(host='blog.zhheo.com', port=443): Max retries exceeded with url: /rss.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de8a750>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:30:09,943 - ERROR - 张洪Heo 的 feed 抓取失败：https://blog.zhheo.com/rss.xml
+2025-10-15 20:30:09,944 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de8a3c0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:30:09,944 - ERROR - 不可链接的 FEED 地址：https://www.imaegoo.com/atom.xml: HTTPSConnectionPool(host='www.imaegoo.com', port=443): Max retries exceeded with url: /atom.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de8a7b0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:30:09,944 - ERROR - iMaeGoo’s Blog 的 feed 抓取失败：https://www.imaegoo.com/atom.xml
+2025-10-15 20:30:09,945 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de8a4b0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:30:09,945 - ERROR - 不可链接的 FEED 地址：https://blog.liushen.fun/atom.xml: HTTPSConnectionPool(host='blog.liushen.fun', port=443): Max retries exceeded with url: /atom.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de8a8a0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:30:09,945 - ERROR - 清羽飞扬 的 feed 抓取失败：https://blog.liushen.fun/atom.xml
+2025-10-15 20:30:09,946 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de8a630>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed/
+2025-10-15 20:30:09,946 - ERROR - 不可链接的 FEED 地址：https://imqi1.com/feed/: HTTPSConnectionPool(host='imqi1.com', port=443): Max retries exceeded with url: /feed/ (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e1d7de8a990>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:30:09,947 - ERROR - ImQi1 的 feed 抓取失败：https://imqi1.com/feed/
+2025-10-15 20:30:09,947 - INFO - 数据处理完成
+2025-10-15 20:30:09,947 - INFO - 总共有 14 位朋友，其中 0 位博客可访问，14 位博客无法访问
+2025-10-15 20:30:09,948 - INFO - 抓取与写入完成：all.json, errors.json
+2025-10-15 20:38:04,111 - INFO - 爬虫已启用
+2025-10-15 20:38:04,111 - INFO - chao fa 使用自定义 feed：https://yuanchaofa.com/rss.xml
+2025-10-15 20:38:04,112 - INFO - Lilian Weng 使用自定义 feed：https://lilianweng.github.io/index.xml
+2025-10-15 20:38:04,112 - INFO - 苏剑林 使用自定义 feed：https://kexue.fm/feed
+2025-10-15 20:38:04,112 - INFO - 阮一峰 使用自定义 feed：http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:38:04,114 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520a83c50>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:38:04,115 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70e520a836e0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:38:04,117 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aac6e0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed
+2025-10-15 20:38:04,117 - INFO - ifuryst 使用自定义 feed：https://www.ifuryst.com/feed.xml
+2025-10-15 20:38:04,117 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aac2c0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /index.xml
+2025-10-15 20:38:04,118 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aad460>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:38:05,315 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520af0f50>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:38:05,315 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70e520a827b0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:38:05,317 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aac800>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed
+2025-10-15 20:38:05,318 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aac9b0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /index.xml
+2025-10-15 20:38:05,318 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aad5e0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:38:07,715 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aad760>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:38:07,715 - ERROR - 不可链接的 FEED 地址：https://yuanchaofa.com/rss.xml: HTTPSConnectionPool(host='yuanchaofa.com', port=443): Max retries exceeded with url: /rss.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aadeb0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:38:07,716 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70e520aad820>: Failed to establish a new connection: [Errno 1] Operation not permitted')': http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:38:07,716 - ERROR - chao fa 的 feed 抓取失败：https://yuanchaofa.com/rss.xml
+2025-10-15 20:38:07,716 - INFO - 大橘和朋友们的周刊 使用自定义 feed：https://rrorangeandfriends.de/feed.xml
+2025-10-15 20:38:07,716 - ERROR - 不可链接的 FEED 地址：http://feeds.feedburner.com/ruanyifeng: HTTPConnectionPool(host='127.0.0.1', port=10808): Max retries exceeded with url: http://feeds.feedburner.com/ruanyifeng (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70e520aae030>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:38:07,716 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aae5a0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:38:07,717 - ERROR - 阮一峰 的 feed 抓取失败：http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:38:07,717 - INFO - 宝玉 使用自定义 feed：https://s.baoyu.io/feed.xml
+2025-10-15 20:38:07,717 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aaec00>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:38:07,718 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aadb50>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed
+2025-10-15 20:38:07,718 - ERROR - 不可链接的 FEED 地址：https://kexue.fm/feed: HTTPSConnectionPool(host='kexue.fm', port=443): Max retries exceeded with url: /feed (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aaeea0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:38:07,718 - ERROR - 苏剑林 的 feed 抓取失败：https://kexue.fm/feed
+2025-10-15 20:38:07,718 - INFO - lololowe 使用自定义 feed：https://blog.lololowe.com/atom.xml
+2025-10-15 20:38:07,718 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aadc70>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /index.xml
+2025-10-15 20:38:07,718 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aaf260>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:38:07,718 - ERROR - 不可链接的 FEED 地址：https://lilianweng.github.io/index.xml: HTTPSConnectionPool(host='lilianweng.github.io', port=443): Max retries exceeded with url: /index.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aaf5c0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:38:07,719 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aadd90>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:38:07,719 - ERROR - Lilian Weng 的 feed 抓取失败：https://lilianweng.github.io/index.xml
+2025-10-15 20:38:07,719 - ERROR - 不可链接的 FEED 地址：https://www.ifuryst.com/feed.xml: HTTPSConnectionPool(host='www.ifuryst.com', port=443): Max retries exceeded with url: /feed.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aaf650>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:38:07,719 - INFO - varuxn 使用自定义 feed：https://varuxn.github.io/rss.xml
+2025-10-15 20:38:07,719 - ERROR - ifuryst 的 feed 抓取失败：https://www.ifuryst.com/feed.xml
+2025-10-15 20:38:07,720 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aafce0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:38:07,720 - INFO - 杜老师说 使用自定义 feed：https://dusays.com/atom.xml
+2025-10-15 20:38:07,720 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aaee70>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:38:08,917 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aad730>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:38:08,917 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aaed20>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:38:08,919 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aaf7a0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:38:08,920 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520aafe00>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:38:08,920 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520098110>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:38:11,317 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520098410>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:38:11,318 - ERROR - 不可链接的 FEED 地址：https://rrorangeandfriends.de/feed.xml: HTTPSConnectionPool(host='rrorangeandfriends.de', port=443): Max retries exceeded with url: /feed.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e5200989b0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:38:11,318 - ERROR - 大橘和朋友们的周刊 的 feed 抓取失败：https://rrorangeandfriends.de/feed.xml
+2025-10-15 20:38:11,318 - INFO - 张洪Heo 使用自定义 feed：https://blog.zhheo.com/rss.xml
+2025-10-15 20:38:11,318 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520098530>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:38:11,319 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520098f20>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:38:11,319 - ERROR - 不可链接的 FEED 地址：https://s.baoyu.io/feed.xml: HTTPSConnectionPool(host='s.baoyu.io', port=443): Max retries exceeded with url: /feed.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e5200990a0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:38:11,319 - ERROR - 宝玉 的 feed 抓取失败：https://s.baoyu.io/feed.xml
+2025-10-15 20:38:11,319 - INFO - iMaeGoo’s Blog 使用自定义 feed：https://www.imaegoo.com/atom.xml
+2025-10-15 20:38:11,319 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520098650>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:38:11,320 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520099640>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:38:11,320 - ERROR - 不可链接的 FEED 地址：https://blog.lololowe.com/atom.xml: HTTPSConnectionPool(host='blog.lololowe.com', port=443): Max retries exceeded with url: /atom.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520099850>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:38:11,320 - ERROR - lololowe 的 feed 抓取失败：https://blog.lololowe.com/atom.xml
+2025-10-15 20:38:11,320 - INFO - 清羽飞扬 使用自定义 feed：https://blog.liushen.fun/atom.xml
+2025-10-15 20:38:11,321 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e5200985f0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:38:11,321 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520098770>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:38:11,321 - ERROR - 不可链接的 FEED 地址：https://varuxn.github.io/rss.xml: HTTPSConnectionPool(host='varuxn.github.io', port=443): Max retries exceeded with url: /rss.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520098b00>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:38:11,321 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520098890>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:38:11,321 - ERROR - varuxn 的 feed 抓取失败：https://varuxn.github.io/rss.xml
+2025-10-15 20:38:11,321 - INFO - ImQi1 使用自定义 feed：https://imqi1.com/feed/
+2025-10-15 20:38:11,321 - ERROR - 不可链接的 FEED 地址：https://dusays.com/atom.xml: HTTPSConnectionPool(host='dusays.com', port=443): Max retries exceeded with url: /atom.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520098950>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:38:11,322 - ERROR - 杜老师说 的 feed 抓取失败：https://dusays.com/atom.xml
+2025-10-15 20:38:11,322 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e52009a330>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed/
+2025-10-15 20:38:12,519 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520099220>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:38:12,520 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e5200999d0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:38:12,521 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e520098a40>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:38:12,522 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e5200989b0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed/
+2025-10-15 20:38:14,919 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e52009a4e0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:38:14,920 - ERROR - 不可链接的 FEED 地址：https://blog.zhheo.com/rss.xml: HTTPSConnectionPool(host='blog.zhheo.com', port=443): Max retries exceeded with url: /rss.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e52009a960>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:38:14,920 - ERROR - 张洪Heo 的 feed 抓取失败：https://blog.zhheo.com/rss.xml
+2025-10-15 20:38:14,920 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e52009a5d0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:38:14,920 - ERROR - 不可链接的 FEED 地址：https://www.imaegoo.com/atom.xml: HTTPSConnectionPool(host='www.imaegoo.com', port=443): Max retries exceeded with url: /atom.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e52009a9c0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:38:14,920 - ERROR - iMaeGoo’s Blog 的 feed 抓取失败：https://www.imaegoo.com/atom.xml
+2025-10-15 20:38:14,921 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e52009a6c0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:38:14,921 - ERROR - 不可链接的 FEED 地址：https://blog.liushen.fun/atom.xml: HTTPSConnectionPool(host='blog.liushen.fun', port=443): Max retries exceeded with url: /atom.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e52009aab0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:38:14,921 - ERROR - 清羽飞扬 的 feed 抓取失败：https://blog.liushen.fun/atom.xml
+2025-10-15 20:38:14,922 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e52009a840>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed/
+2025-10-15 20:38:14,922 - ERROR - 不可链接的 FEED 地址：https://imqi1.com/feed/: HTTPSConnectionPool(host='imqi1.com', port=443): Max retries exceeded with url: /feed/ (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e52009aba0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:38:14,922 - ERROR - ImQi1 的 feed 抓取失败：https://imqi1.com/feed/
+2025-10-15 20:38:14,923 - INFO - 数据处理完成
+2025-10-15 20:38:14,923 - INFO - 总共有 14 位朋友，其中 0 位博客可访问，14 位博客无法访问
+2025-10-15 20:38:14,927 - INFO - 抓取与写入完成：all.json, errors.json
+2025-10-15 20:39:36,061 - INFO - 爬虫已启用
+2025-10-15 20:39:36,061 - INFO - chao fa 使用自定义 feed：https://yuanchaofa.com/rss.xml
+2025-10-15 20:39:36,061 - INFO - Lilian Weng 使用自定义 feed：https://lilianweng.github.io/index.xml
+2025-10-15 20:39:36,062 - INFO - 苏剑林 使用自定义 feed：https://kexue.fm/feed
+2025-10-15 20:39:36,062 - INFO - 阮一峰 使用自定义 feed：http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:39:36,063 - INFO - ifuryst 使用自定义 feed：https://www.ifuryst.com/feed.xml
+2025-10-15 20:39:36,064 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e59b950>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /index.xml
+2025-10-15 20:39:36,064 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e59b410>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:39:36,065 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c4440>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:39:36,065 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c49b0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed
+2025-10-15 20:39:36,066 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb98e5c4f20>: Failed to establish a new connection: [Errno 1] Operation not permitted')': http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:39:37,266 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e8b41d0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /index.xml
+2025-10-15 20:39:37,266 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e59bfb0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:39:37,266 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c45c0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:39:37,266 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c4ad0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed
+2025-10-15 20:39:37,267 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb98e5c5070>: Failed to establish a new connection: [Errno 1] Operation not permitted')': http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:39:39,666 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c54c0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /index.xml
+2025-10-15 20:39:39,666 - ERROR - 不可链接的 FEED 地址：https://lilianweng.github.io/index.xml: HTTPSConnectionPool(host='lilianweng.github.io', port=443): Max retries exceeded with url: /index.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c5c40>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:39:39,666 - ERROR - Lilian Weng 的 feed 抓取失败：https://lilianweng.github.io/index.xml
+2025-10-15 20:39:39,666 - INFO - 大橘和朋友们的周刊 使用自定义 feed：https://rrorangeandfriends.de/feed.xml
+2025-10-15 20:39:39,666 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c55e0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:39:39,667 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c54c0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:39:39,668 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c58e0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed
+2025-10-15 20:39:39,668 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb98e5c5a60>: Failed to establish a new connection: [Errno 1] Operation not permitted')': http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:39:39,668 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c5700>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:39:39,668 - ERROR - 不可链接的 FEED 地址：https://yuanchaofa.com/rss.xml: HTTPSConnectionPool(host='yuanchaofa.com', port=443): Max retries exceeded with url: /rss.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c60c0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:39:39,669 - ERROR - chao fa 的 feed 抓取失败：https://yuanchaofa.com/rss.xml
+2025-10-15 20:39:39,668 - ERROR - 不可链接的 FEED 地址：https://kexue.fm/feed: HTTPSConnectionPool(host='kexue.fm', port=443): Max retries exceeded with url: /feed (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c6450>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:39:39,669 - ERROR - 不可链接的 FEED 地址：https://www.ifuryst.com/feed.xml: HTTPSConnectionPool(host='www.ifuryst.com', port=443): Max retries exceeded with url: /feed.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c6810>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:39:39,669 - INFO - 宝玉 使用自定义 feed：https://s.baoyu.io/feed.xml
+2025-10-15 20:39:39,668 - ERROR - 不可链接的 FEED 地址：http://feeds.feedburner.com/ruanyifeng: HTTPConnectionPool(host='127.0.0.1', port=10808): Max retries exceeded with url: http://feeds.feedburner.com/ruanyifeng (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb98e5c61e0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:39:39,669 - ERROR - 阮一峰 的 feed 抓取失败：http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:39:39,669 - ERROR - ifuryst 的 feed 抓取失败：https://www.ifuryst.com/feed.xml
+2025-10-15 20:39:39,669 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c6cc0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:39:39,669 - ERROR - 苏剑林 的 feed 抓取失败：https://kexue.fm/feed
+2025-10-15 20:39:39,670 - INFO - lololowe 使用自定义 feed：https://blog.lololowe.com/atom.xml
+2025-10-15 20:39:39,670 - INFO - varuxn 使用自定义 feed：https://varuxn.github.io/rss.xml
+2025-10-15 20:39:39,670 - INFO - 杜老师说 使用自定义 feed：https://dusays.com/atom.xml
+2025-10-15 20:39:39,670 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c7050>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:39:39,671 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c7860>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:39:39,671 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c7ef0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:39:40,868 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c62a0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:39:40,870 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c6750>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:39:40,871 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e600050>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:39:40,872 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c6270>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:39:40,872 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c6600>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:39:43,268 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c6690>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:39:43,269 - ERROR - 不可链接的 FEED 地址：https://rrorangeandfriends.de/feed.xml: HTTPSConnectionPool(host='rrorangeandfriends.de', port=443): Max retries exceeded with url: /feed.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e6003b0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:39:43,269 - ERROR - 大橘和朋友们的周刊 的 feed 抓取失败：https://rrorangeandfriends.de/feed.xml
+2025-10-15 20:39:43,269 - INFO - 张洪Heo 使用自定义 feed：https://blog.zhheo.com/rss.xml
+2025-10-15 20:39:43,269 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e6008c0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:39:43,270 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c6420>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:39:43,270 - ERROR - 不可链接的 FEED 地址：https://s.baoyu.io/feed.xml: HTTPSConnectionPool(host='s.baoyu.io', port=443): Max retries exceeded with url: /feed.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e600b60>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:39:43,270 - ERROR - 宝玉 的 feed 抓取失败：https://s.baoyu.io/feed.xml
+2025-10-15 20:39:43,270 - INFO - iMaeGoo’s Blog 使用自定义 feed：https://www.imaegoo.com/atom.xml
+2025-10-15 20:39:43,271 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e6010a0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:39:43,272 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c5d90>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:39:43,272 - ERROR - 不可链接的 FEED 地址：https://blog.lololowe.com/atom.xml: HTTPSConnectionPool(host='blog.lololowe.com', port=443): Max retries exceeded with url: /atom.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e601340>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:39:43,272 - ERROR - lololowe 的 feed 抓取失败：https://blog.lololowe.com/atom.xml
+2025-10-15 20:39:43,272 - INFO - 清羽飞扬 使用自定义 feed：https://blog.liushen.fun/atom.xml
+2025-10-15 20:39:43,272 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e6001d0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:39:43,273 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e600290>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:39:43,273 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e601640>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:39:43,273 - ERROR - 不可链接的 FEED 地址：https://varuxn.github.io/rss.xml: HTTPSConnectionPool(host='varuxn.github.io', port=443): Max retries exceeded with url: /rss.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c60c0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:39:43,273 - ERROR - 不可链接的 FEED 地址：https://dusays.com/atom.xml: HTTPSConnectionPool(host='dusays.com', port=443): Max retries exceeded with url: /atom.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e5c66c0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:39:43,273 - ERROR - varuxn 的 feed 抓取失败：https://varuxn.github.io/rss.xml
+2025-10-15 20:39:43,273 - ERROR - 杜老师说 的 feed 抓取失败：https://dusays.com/atom.xml
+2025-10-15 20:39:43,274 - INFO - ImQi1 使用自定义 feed：https://imqi1.com/feed/
+2025-10-15 20:39:43,274 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e601c40>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed/
+2025-10-15 20:39:44,470 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e600a40>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:39:44,471 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e601220>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:39:44,473 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e601490>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:39:44,474 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e601d90>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed/
+2025-10-15 20:39:46,870 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e601e80>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:39:46,870 - ERROR - 不可链接的 FEED 地址：https://blog.zhheo.com/rss.xml: HTTPSConnectionPool(host='blog.zhheo.com', port=443): Max retries exceeded with url: /rss.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e602330>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:39:46,870 - ERROR - 张洪Heo 的 feed 抓取失败：https://blog.zhheo.com/rss.xml
+2025-10-15 20:39:46,871 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e601f70>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:39:46,872 - ERROR - 不可链接的 FEED 地址：https://www.imaegoo.com/atom.xml: HTTPSConnectionPool(host='www.imaegoo.com', port=443): Max retries exceeded with url: /atom.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e602390>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:39:46,872 - ERROR - iMaeGoo’s Blog 的 feed 抓取失败：https://www.imaegoo.com/atom.xml
+2025-10-15 20:39:46,874 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e602090>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:39:46,874 - ERROR - 不可链接的 FEED 地址：https://blog.liushen.fun/atom.xml: HTTPSConnectionPool(host='blog.liushen.fun', port=443): Max retries exceeded with url: /atom.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e602480>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:39:46,874 - ERROR - 清羽飞扬 的 feed 抓取失败：https://blog.liushen.fun/atom.xml
+2025-10-15 20:39:46,875 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e602210>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed/
+2025-10-15 20:39:46,875 - ERROR - 不可链接的 FEED 地址：https://imqi1.com/feed/: HTTPSConnectionPool(host='imqi1.com', port=443): Max retries exceeded with url: /feed/ (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb98e602570>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:39:46,875 - ERROR - ImQi1 的 feed 抓取失败：https://imqi1.com/feed/
+2025-10-15 20:39:46,875 - INFO - 数据处理完成
+2025-10-15 20:39:46,875 - INFO - 总共有 14 位朋友，其中 0 位博客可访问，14 位博客无法访问
+2025-10-15 20:39:46,876 - INFO - 抓取与写入完成：all.json, errors.json
+2025-10-15 20:43:08,066 - INFO - 爬虫已启用
+2025-10-15 20:43:08,066 - INFO - chao fa 使用自定义 feed：https://yuanchaofa.com/rss.xml
+2025-10-15 20:43:08,066 - INFO - Lilian Weng 使用自定义 feed：https://lilianweng.github.io/index.xml
+2025-10-15 20:43:08,067 - INFO - 苏剑林 使用自定义 feed：https://kexue.fm/feed
+2025-10-15 20:43:08,067 - INFO - 阮一峰 使用自定义 feed：http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:43:08,069 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5ab5c0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed
+2025-10-15 20:43:08,069 - INFO - ifuryst 使用自定义 feed：https://www.ifuryst.com/feed.xml
+2025-10-15 20:43:08,069 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5abda0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:43:08,070 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7d8b6a5ab1d0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:43:08,070 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d46b0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /index.xml
+2025-10-15 20:43:08,071 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d4e30>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:43:09,270 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d4500>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed
+2025-10-15 20:43:09,271 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5abe60>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:43:09,271 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7d8b6a5d44a0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:43:09,271 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d4ad0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /index.xml
+2025-10-15 20:43:09,272 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d4fb0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:43:11,671 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d5370>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed
+2025-10-15 20:43:11,671 - ERROR - 不可链接的 FEED 地址：https://kexue.fm/feed: HTTPSConnectionPool(host='kexue.fm', port=443): Max retries exceeded with url: /feed (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d5b50>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:43:11,671 - ERROR - 苏剑林 的 feed 抓取失败：https://kexue.fm/feed
+2025-10-15 20:43:11,671 - INFO - 大橘和朋友们的周刊 使用自定义 feed：https://rrorangeandfriends.de/feed.xml
+2025-10-15 20:43:11,672 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d5af0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:43:11,672 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d5910>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /index.xml
+2025-10-15 20:43:11,672 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d54f0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:43:11,672 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d59d0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:43:11,672 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7d8b6a5d5730>: Failed to establish a new connection: [Errno 1] Operation not permitted')': http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:43:11,672 - ERROR - 不可链接的 FEED 地址：https://lilianweng.github.io/index.xml: HTTPSConnectionPool(host='lilianweng.github.io', port=443): Max retries exceeded with url: /index.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d6210>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:43:11,673 - ERROR - Lilian Weng 的 feed 抓取失败：https://lilianweng.github.io/index.xml
+2025-10-15 20:43:11,673 - ERROR - 不可链接的 FEED 地址：https://www.ifuryst.com/feed.xml: HTTPSConnectionPool(host='www.ifuryst.com', port=443): Max retries exceeded with url: /feed.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d6540>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:43:11,673 - ERROR - 不可链接的 FEED 地址：https://yuanchaofa.com/rss.xml: HTTPSConnectionPool(host='yuanchaofa.com', port=443): Max retries exceeded with url: /rss.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d63c0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:43:11,673 - ERROR - 不可链接的 FEED 地址：http://feeds.feedburner.com/ruanyifeng: HTTPConnectionPool(host='127.0.0.1', port=10808): Max retries exceeded with url: http://feeds.feedburner.com/ruanyifeng (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7d8b6a5d61b0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:43:11,673 - INFO - 宝玉 使用自定义 feed：https://s.baoyu.io/feed.xml
+2025-10-15 20:43:11,673 - ERROR - ifuryst 的 feed 抓取失败：https://www.ifuryst.com/feed.xml
+2025-10-15 20:43:11,674 - INFO - lololowe 使用自定义 feed：https://blog.lololowe.com/atom.xml
+2025-10-15 20:43:11,673 - ERROR - 阮一峰 的 feed 抓取失败：http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:43:11,674 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d6c00>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:43:11,673 - ERROR - chao fa 的 feed 抓取失败：https://yuanchaofa.com/rss.xml
+2025-10-15 20:43:11,674 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d6f60>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:43:11,675 - INFO - varuxn 使用自定义 feed：https://varuxn.github.io/rss.xml
+2025-10-15 20:43:11,675 - INFO - 杜老师说 使用自定义 feed：https://dusays.com/atom.xml
+2025-10-15 20:43:11,675 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d78c0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:43:11,676 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d7ef0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:43:12,872 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d60c0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:43:12,875 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d7260>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:43:12,875 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d7320>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:43:12,876 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d67b0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:43:12,876 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d6810>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:43:15,273 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d6150>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:43:15,273 - ERROR - 不可链接的 FEED 地址：https://rrorangeandfriends.de/feed.xml: HTTPSConnectionPool(host='rrorangeandfriends.de', port=443): Max retries exceeded with url: /feed.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a618350>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:43:15,273 - ERROR - 大橘和朋友们的周刊 的 feed 抓取失败：https://rrorangeandfriends.de/feed.xml
+2025-10-15 20:43:15,273 - INFO - 张洪Heo 使用自定义 feed：https://blog.zhheo.com/rss.xml
+2025-10-15 20:43:15,273 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a618860>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:43:15,275 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d6000>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed.xml
+2025-10-15 20:43:15,275 - ERROR - 不可链接的 FEED 地址：https://s.baoyu.io/feed.xml: HTTPSConnectionPool(host='s.baoyu.io', port=443): Max retries exceeded with url: /feed.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a618b00>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:43:15,275 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d7fb0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:43:15,275 - ERROR - 宝玉 的 feed 抓取失败：https://s.baoyu.io/feed.xml
+2025-10-15 20:43:15,276 - INFO - iMaeGoo’s Blog 使用自定义 feed：https://www.imaegoo.com/atom.xml
+2025-10-15 20:43:15,275 - ERROR - 不可链接的 FEED 地址：https://blog.lololowe.com/atom.xml: HTTPSConnectionPool(host='blog.lololowe.com', port=443): Max retries exceeded with url: /atom.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a618c50>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:43:15,276 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a619220>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:43:15,276 - ERROR - lololowe 的 feed 抓取失败：https://blog.lololowe.com/atom.xml
+2025-10-15 20:43:15,276 - INFO - 清羽飞扬 使用自定义 feed：https://blog.liushen.fun/atom.xml
+2025-10-15 20:43:15,277 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a618110>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:43:15,277 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a618230>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:43:15,277 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a619790>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:43:15,277 - ERROR - 不可链接的 FEED 地址：https://varuxn.github.io/rss.xml: HTTPSConnectionPool(host='varuxn.github.io', port=443): Max retries exceeded with url: /rss.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a5d7fb0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:43:15,277 - ERROR - 不可链接的 FEED 地址：https://dusays.com/atom.xml: HTTPSConnectionPool(host='dusays.com', port=443): Max retries exceeded with url: /atom.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a619940>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:43:15,277 - ERROR - varuxn 的 feed 抓取失败：https://varuxn.github.io/rss.xml
+2025-10-15 20:43:15,278 - ERROR - 杜老师说 的 feed 抓取失败：https://dusays.com/atom.xml
+2025-10-15 20:43:15,278 - INFO - ImQi1 使用自定义 feed：https://imqi1.com/feed/
+2025-10-15 20:43:15,278 - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a619be0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed/
+2025-10-15 20:43:16,474 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a6189e0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:43:16,476 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a618d70>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:43:16,477 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a618aa0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:43:16,478 - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a619d30>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed/
+2025-10-15 20:43:18,874 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a619e20>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /rss.xml
+2025-10-15 20:43:18,874 - ERROR - 不可链接的 FEED 地址：https://blog.zhheo.com/rss.xml: HTTPSConnectionPool(host='blog.zhheo.com', port=443): Max retries exceeded with url: /rss.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a61a2d0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:43:18,874 - ERROR - 张洪Heo 的 feed 抓取失败：https://blog.zhheo.com/rss.xml
+2025-10-15 20:43:18,877 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a619f10>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:43:18,877 - ERROR - 不可链接的 FEED 地址：https://www.imaegoo.com/atom.xml: HTTPSConnectionPool(host='www.imaegoo.com', port=443): Max retries exceeded with url: /atom.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a61a360>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:43:18,877 - ERROR - iMaeGoo’s Blog 的 feed 抓取失败：https://www.imaegoo.com/atom.xml
+2025-10-15 20:43:18,878 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a61a030>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /atom.xml
+2025-10-15 20:43:18,878 - ERROR - 不可链接的 FEED 地址：https://blog.liushen.fun/atom.xml: HTTPSConnectionPool(host='blog.liushen.fun', port=443): Max retries exceeded with url: /atom.xml (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a61a480>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:43:18,878 - ERROR - 清羽飞扬 的 feed 抓取失败：https://blog.liushen.fun/atom.xml
+2025-10-15 20:43:18,879 - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=3)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a61a1b0>: Failed to establish a new connection: [Errno 1] Operation not permitted')': /feed/
+2025-10-15 20:43:18,879 - ERROR - 不可链接的 FEED 地址：https://imqi1.com/feed/: HTTPSConnectionPool(host='imqi1.com', port=443): Max retries exceeded with url: /feed/ (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d8b6a61a4e0>: Failed to establish a new connection: [Errno 1] Operation not permitted'))); 摘要：
+2025-10-15 20:43:18,879 - ERROR - ImQi1 的 feed 抓取失败：https://imqi1.com/feed/
+2025-10-15 20:43:18,879 - INFO - 数据处理完成
+2025-10-15 20:43:18,879 - INFO - 总共有 14 位朋友，其中 0 位博客可访问，14 位博客无法访问
+2025-10-15 20:43:18,881 - INFO - 抓取与写入完成：all.json, errors.json
+2025-10-15 20:56:30,483 - INFO - 爬虫已启用
+2025-10-15 20:56:30,483 - INFO - chao fa 使用自定义 feed：https://yuanchaofa.com/rss.xml
+2025-10-15 20:56:30,484 - INFO - Lilian Weng 使用自定义 feed：https://lilianweng.github.io/index.xml
+2025-10-15 20:56:30,484 - INFO - 苏剑林 使用自定义 feed：https://kexue.fm/feed
+2025-10-15 20:56:30,484 - INFO - 阮一峰 使用自定义 feed：http://feeds.feedburner.com/ruanyifeng
+2025-10-15 20:56:30,484 - INFO - ifuryst 使用自定义 feed：https://www.ifuryst.com/feed.xml
+2025-10-15 20:56:31,367 - INFO - 苏剑林 发布文章：随机矩阵的谱范数的快速估计 @ 2025-10-13 05:52
+2025-10-15 20:56:31,367 - INFO - 苏剑林 发布文章：DiVeQ：一种非常简洁的VQ训练方案 @ 2025-10-09 05:52
+2025-10-15 20:56:31,367 - INFO - 苏剑林 发布文章：为什么线性注意力要加Short Conv？ @ 2025-10-06 00:25
+2025-10-15 20:56:31,367 - INFO - 苏剑林 发布文章：AdamW的Weight RMS的渐近估计 @ 2025-10-01 20:51
+2025-10-15 20:56:31,367 - INFO - 苏剑林 发布文章：重新思考学习率与Batch Size（四）：EMA @ 2025-09-22 22:37
+2025-10-15 20:56:31,367 - INFO - 苏剑林 发布文章：重新思考学习率与Batch Size（三）：Muon @ 2025-09-16 06:52
+2025-10-15 20:56:31,367 - INFO - 苏剑林 发布文章：重新思考学习率与Batch Size（二）：平均场 @ 2025-09-10 18:18
+2025-10-15 20:56:31,367 - INFO - 苏剑林 发布文章：为什么Adam的Update RMS是0.2？ @ 2025-09-03 01:35
+2025-10-15 20:56:31,367 - INFO - 苏剑林 发布文章：重新思考学习率与Batch Size（一）：现状 @ 2025-09-01 19:10
+2025-10-15 20:56:31,367 - INFO - 苏剑林 发布文章：Cool Papers更新：简单适配Zotero Connector @ 2025-08-26 00:11
+2025-10-15 20:56:31,367 - INFO - 大橘和朋友们的周刊 使用自定义 feed：https://rrorangeandfriends.de/feed.xml
+2025-10-15 20:56:31,515 - INFO - Lilian Weng 发布文章：Why We Think @ 2025-05-01 08:00
+2025-10-15 20:56:31,516 - INFO - Lilian Weng 发布文章：Reward Hacking in Reinforcement Learning @ 2024-11-28 08:00
+2025-10-15 20:56:31,516 - INFO - Lilian Weng 发布文章：Extrinsic Hallucinations in LLMs @ 2024-07-07 08:00
+2025-10-15 20:56:31,516 - INFO - Lilian Weng 发布文章：Diffusion Models for Video Generation @ 2024-04-12 08:00
+2025-10-15 20:56:31,516 - INFO - Lilian Weng 发布文章：Thinking about High-Quality Human Data @ 2024-02-05 08:00
+2025-10-15 20:56:31,516 - INFO - Lilian Weng 发布文章：Adversarial Attacks on LLMs @ 2023-10-25 08:00
+2025-10-15 20:56:31,516 - INFO - Lilian Weng 发布文章：LLM Powered Autonomous Agents @ 2023-06-23 08:00
+2025-10-15 20:56:31,516 - INFO - Lilian Weng 发布文章：Prompt Engineering @ 2023-03-15 08:00
+2025-10-15 20:56:31,516 - INFO - Lilian Weng 发布文章：The Transformer Family Version 2.0 @ 2023-01-27 08:00
+2025-10-15 20:56:31,516 - INFO - Lilian Weng 发布文章：Large Transformer Model Inference Optimization @ 2023-01-10 18:00
+2025-10-15 20:56:31,516 - INFO - 宝玉 使用自定义 feed：https://s.baoyu.io/feed.xml
+2025-10-15 20:56:31,858 - INFO - 阮一峰 发布文章：科技爱好者周刊（第 368 期）：不要这样管理软件团队 @ 2025-10-10 16:08
+2025-10-15 20:56:31,859 - INFO - 阮一峰 发布文章：一天之内，智谱和 Anthropic 都发了最强编程模型 @ 2025-10-02 03:05
+2025-10-15 20:56:31,859 - INFO - 阮一峰 发布文章：科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用 @ 2025-09-26 16:08
+2025-10-15 20:56:31,859 - INFO - 阮一峰 发布文章：科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告 @ 2025-09-19 16:10
+2025-10-15 20:56:31,859 - INFO - 阮一峰 发布文章：科技爱好者周刊（第 365 期）：流量变现正在崩塌 @ 2025-09-12 16:07
+2025-10-15 20:56:31,859 - INFO - 阮一峰 发布文章：科技爱好者周刊（第 364 期）：最难还原的魔方 @ 2025-09-05 16:13
+2025-10-15 20:56:31,859 - INFO - lololowe 使用自定义 feed：https://blog.lololowe.com/atom.xml
+2025-10-15 20:56:31,923 - INFO - ifuryst 发布文章：LeoTalk · Hacker News Daily · 2025.10.15 @ 2025-10-15 08:00
+2025-10-15 20:56:31,923 - INFO - ifuryst 发布文章：LeoTalk AI周知 4: AI时代的入口和商业化之路 @ 2025-10-13 08:00
+2025-10-15 20:56:31,923 - INFO - ifuryst 发布文章：LeoTalk · Hacker News Daily · 2025.10.13 @ 2025-10-13 08:00
+2025-10-15 20:56:31,923 - INFO - ifuryst 发布文章：LeoTalk · Hacker News Daily · 2025.10.12 @ 2025-10-12 08:00
+2025-10-15 20:56:31,923 - INFO - ifuryst 发布文章：LeoTalk · Hacker News Daily · 2025.10.09 @ 2025-10-09 08:00
+2025-10-15 20:56:31,923 - INFO - ifuryst 发布文章：LeoTalk · Hacker News Daily · 2025.10.08 @ 2025-10-08 08:00
+2025-10-15 20:56:31,923 - INFO - ifuryst 发布文章：LeoTalk AI周知 3: 追求差异化的最后一公里 @ 2025-10-07 09:00
+2025-10-15 20:56:31,923 - INFO - ifuryst 发布文章：LeoTalk · Hacker News Daily · 2025.10.04 @ 2025-10-04 08:00
+2025-10-15 20:56:31,923 - INFO - ifuryst 发布文章：大模型上下文工程实践指南-第5章：检索增强生成 @ 2025-10-01 08:00
+2025-10-15 20:56:31,923 - INFO - ifuryst 发布文章：同学你好，你已经签到30次了 @ 2025-09-30 08:00
+2025-10-15 20:56:31,924 - INFO - varuxn 使用自定义 feed：https://varuxn.github.io/rss.xml
+2025-10-15 20:56:32,593 - INFO - 大橘和朋友们的周刊 发布文章：第036期 - 风语山巅 @ 2025-08-30 08:00
+2025-10-15 20:56:32,593 - INFO - 大橘和朋友们的周刊 发布文章：第035期 - 釜沸生香 @ 2025-08-03 08:00
+2025-10-15 20:56:32,593 - INFO - 大橘和朋友们的周刊 发布文章：第034期 - 云腴沁粉 @ 2025-07-19 08:00
+2025-10-15 20:56:32,593 - INFO - 大橘和朋友们的周刊 发布文章：第033期 - 一球听海 @ 2025-06-22 08:00
+2025-10-15 20:56:32,593 - INFO - 大橘和朋友们的周刊 发布文章：第032期 - Mojito @ 2025-06-01 08:00
+2025-10-15 20:56:32,593 - INFO - 杜老师说 使用自定义 feed：https://dusays.com/atom.xml
+2025-10-15 20:56:33,060 - INFO - varuxn 发布文章：Win11 下 WSL 换行符问题 @ 2024-12-22 23:35
+2025-10-15 20:56:33,060 - INFO - varuxn 发布文章：Hexo-ShokaX 搭建笔记 @ 2024-12-22 07:23
+2025-10-15 20:56:33,060 - INFO - varuxn 发布文章：关于 VMware 与 WSL 在 Win11 虚拟化的一些问题 @ 2024-12-22 04:47
+2025-10-15 20:56:33,060 - INFO - varuxn 发布文章：Visual Studio C++ 汇编 混合编程 @ 2024-12-22 04:46
+2025-10-15 20:56:33,060 - INFO - varuxn 发布文章：HUST 计网 TFTP Server 实验总结 @ 2024-12-22 04:45
+2025-10-15 20:56:33,060 - INFO - varuxn 发布文章：LateX @ 2024-12-22 04:42
+2025-10-15 20:56:33,060 - INFO - 张洪Heo 使用自定义 feed：https://blog.zhheo.com/rss.xml
+2025-10-15 20:56:33,242 - INFO - chao fa 发布文章：2025-09-合法赚钱就是高尚的（月度小结） @ 2025-10-05 06:18
+2025-10-15 20:56:33,242 - INFO - chao fa 发布文章：RAG 进化之路：传统 RAG 到工具与强化学习双轮驱动的 Agentic RAG @ 2025-10-03 19:53
+2025-10-15 20:56:33,242 - INFO - chao fa 发布文章：手写 Self-Attention 的四重境界，从 self-attention 到 multi-head self-attention @ 2024-08-18 20:00
+2025-10-15 20:56:33,242 - INFO - chao fa 发布文章：手写 transformer decoder（CausalLM） @ 2024-08-18 21:00
+2025-10-15 20:56:33,242 - INFO - chao fa 发布文章：手写大模型组件之Group Query Attention，从 MHA，MQA 到 GQA @ 2024-12-09 06:00
+2025-10-15 20:56:33,242 - INFO - chao fa 发布文章：LoRA 原理和 PyTorch 代码实现 @ 2024-11-10 05:56
+2025-10-15 20:56:33,242 - INFO - chao fa 发布文章：LLM activate function激活函数的进化之路，从 ReLU，GELU 到 SwiGLU(swishGLU) @ 2025-01-28 02:58
+2025-10-15 20:56:33,242 - INFO - chao fa 发布文章：LLM MOE的进化之路，从普通简化 MOE，到 sparse moe，再到 deepseek 使用的 share_expert sparse moe @ 2025-01-28 03:30
+2025-10-15 20:56:33,242 - INFO - chao fa 发布文章：2020年过去了，我不怀念它 @ 2021-01-01 04:20
+2025-10-15 20:56:33,242 - INFO - chao fa 发布文章：2024，公开表达元年 @ 2024-12-29 05:00
+2025-10-15 20:56:33,242 - INFO - iMaeGoo’s Blog 使用自定义 feed：https://www.imaegoo.com/atom.xml
+2025-10-15 20:56:33,454 - INFO - lololowe 发布文章：SNMP协议总结及实验 @ 2025-10-13 20:23
+2025-10-15 20:56:33,454 - INFO - lololowe 发布文章：链路状态检测: BFD、NQA、IP-link @ 2025-09-23 17:38
+2025-10-15 20:56:33,454 - INFO - lololowe 发布文章：Docker部署code-server @ 2025-09-22 20:47
+2025-10-15 20:56:33,454 - INFO - lololowe 发布文章：RIP 路由信息协议 @ 2025-09-22 10:05
+2025-10-15 20:56:33,454 - INFO - lololowe 发布文章：VSCode 配置C/C++环境 @ 2025-09-21 15:38
+2025-10-15 20:56:33,454 - INFO - lololowe 发布文章：加密技术与认证机制指南 @ 2025-09-20 11:56
+2025-10-15 20:56:33,454 - INFO - lololowe 发布文章：Java运算符和表达式 @ 2025-09-18 22:00
+2025-10-15 20:56:33,454 - INFO - lololowe 发布文章：Java基础语法2 @ 2025-09-18 22:00
+2025-10-15 20:56:33,454 - INFO - lololowe 发布文章：Java基础语法1 @ 2025-09-18 22:00
+2025-10-15 20:56:33,454 - INFO - lololowe 发布文章：TCP流量控制与拥塞控制机制解析 @ 2025-09-17 21:08
+2025-10-15 20:56:33,454 - INFO - 清羽飞扬 使用自定义 feed：https://blog.liushen.fun/atom.xml
+2025-10-15 20:56:33,838 - INFO - 张洪Heo 发布文章：Mac空格响应慢？Adobe软件Ps、Ai卡在抓手工具解决方法，临时抓手无法恢复指针 @ 2025-10-09 19:02
+2025-10-15 20:56:33,838 - INFO - 张洪Heo 发布文章：如何在Mac上部署indexTTS2，快速语音克隆和情感控制 @ 2025-10-02 21:59
+2025-10-15 20:56:33,838 - INFO - 张洪Heo 发布文章：升级到 macOS Tahoe 26 没有启动台？用 LaunchNext 实现在 macOS26 中使用启动台！ @ 2025-09-24 09:42
+2025-10-15 20:56:33,838 - INFO - 张洪Heo 发布文章：如何批量下载抖音某一个博主的全部视频，抖音视频批量下载方法 @ 2025-09-22 10:10
+2025-10-15 20:56:33,838 - INFO - 张洪Heo 发布文章：在 Mac 的 Drawthings 中使用 Qwen Image Edit 打造个人IP形象衍生图 @ 2025-09-19 18:11
+2025-10-15 20:56:33,838 - INFO - 张洪Heo 发布文章：AE、PR导出的视频发灰发亮怎么办？使用QucikTime播放颜色不对解决方法 @ 2025-09-18 11:03
+2025-10-15 20:56:33,838 - INFO - 张洪Heo 发布文章：AE如何给曲线添加波浪动态效果，动态的波浪线制作 @ 2025-09-17 11:42
+2025-10-15 20:56:33,838 - INFO - 张洪Heo 发布文章：蓝屏报错 clock watchdog timeout 的一次经历，开机1分30秒必定死机 @ 2025-09-16 10:40
+2025-10-15 20:56:33,838 - INFO - 张洪Heo 发布文章：让你的Mac巨省电，使用EfficiencyTool自定义程序在性能核心还是节能核心上运行 @ 2025-09-15 10:48
+2025-10-15 20:56:33,838 - INFO - 张洪Heo 发布文章：OpenWrt如何启用DoH？让软路由下的设备使用 DNS over HTTPS @ 2025-09-12 18:30
+2025-10-15 20:56:33,838 - INFO - ImQi1 使用自定义 feed：https://imqi1.com/feed/
+2025-10-15 20:56:33,899 - INFO - 清羽飞扬 发布文章：使用TinyAuth实现任意应用登录认证 @ 2025-10-07 16:20
+2025-10-15 20:56:33,899 - INFO - 清羽飞扬 发布文章：不同姿势部署Anheyu-App应用 @ 2025-09-30 23:59
+2025-10-15 20:56:33,899 - INFO - 清羽飞扬 发布文章：Casdoor强行兼容Artalk社交登录 @ 2025-09-16 23:50
+2025-10-15 20:56:33,899 - INFO - 清羽飞扬 发布文章：血证未泯，山河已立 @ 2025-09-09 13:50
+2025-10-15 20:56:33,899 - INFO - 清羽飞扬 发布文章：第三方1Panel应用商店不完全指北 @ 2025-08-29 15:50
+2025-10-15 20:56:33,899 - INFO - 清羽飞扬 发布文章：循一缕风，入山偷得夏日凉 @ 2025-08-08 13:50
+2025-10-15 20:56:33,899 - INFO - 清羽飞扬 发布文章：Forgejo及其Action自部署简明教程 @ 2025-07-25 22:00
+2025-10-15 20:56:33,899 - INFO - 清羽飞扬 发布文章：西安·十几年后的初识 @ 2025-07-18 20:00
+2025-10-15 20:56:33,899 - INFO - 清羽飞扬 发布文章：企业微信实用操作指南 @ 2025-07-11 01:09
+2025-10-15 20:56:33,899 - INFO - 清羽飞扬 发布文章：浅谈AIGC论文检测 @ 2025-07-01 19:32
+2025-10-15 20:56:33,973 - INFO - iMaeGoo’s Blog 发布文章：卸载百度网盘智能看图 @ 2025-09-02 08:00
+2025-10-15 20:56:33,973 - INFO - iMaeGoo’s Blog 发布文章：CDN 方式引入 Monaco Editor @ 2025-09-01 17:30
+2025-10-15 20:56:33,973 - INFO - iMaeGoo’s Blog 发布文章：在线工具 - 富文本转 Markdown @ 2025-09-01 12:30
+2025-10-15 20:56:33,973 - INFO - iMaeGoo’s Blog 发布文章：2025 年了，安卓平板上什么第三方九键输入法最好用？ @ 2025-08-25 12:00
+2025-10-15 20:56:33,973 - INFO - iMaeGoo’s Blog 发布文章：鸿蒙 PC 编译运行 Electron 应用 @ 2025-08-25 08:00
+2025-10-15 20:56:33,973 - INFO - iMaeGoo’s Blog 发布文章：bat 脚本打印输出彩色文字 @ 2025-08-06 08:00
+2025-10-15 20:56:33,973 - INFO - iMaeGoo’s Blog 发布文章：Android 强制锁定屏幕旋转方向 @ 2025-07-11 08:00
+2025-10-15 20:56:33,973 - INFO - iMaeGoo’s Blog 发布文章：腾讯代码托管服务 Coding 将停服 @ 2025-06-27 09:00
+2025-10-15 20:56:33,973 - INFO - iMaeGoo’s Blog 发布文章：微信快速找出自己创建的群聊 @ 2025-05-08 13:00
+2025-10-15 20:56:33,973 - INFO - iMaeGoo’s Blog 发布文章：将扣子空间生成的 jsx 格式网页部署到自己的服务器 @ 2025-04-29 08:00
+2025-10-15 20:56:34,154 - INFO - 杜老师说 发布文章：Focalboard 开源项目管理的有力工具 @ 2025-10-10 00:00
+2025-10-15 20:56:34,154 - INFO - 杜老师说 发布文章：NodePass 开源的隧道工具重新定义内网穿透 @ 2025-10-04 00:00
+2025-10-15 20:56:34,154 - INFO - 杜老师说 发布文章：探索网络实验的神器 Mininet @ 2025-09-28 00:00
+2025-10-15 20:56:34,154 - INFO - 杜老师说 发布文章：Ubuntu 系统无法通过 pip 命令安装 Python 库问题解决 @ 2025-09-22 00:00
+2025-10-15 20:56:34,154 - INFO - 杜老师说 发布文章：使用 Python 脚本实现图片相似度匹配 @ 2025-09-16 00:00
+2025-10-15 20:56:34,154 - INFO - 杜老师说 发布文章：几种通过 FFmpeg 无损压缩视频的方法 @ 2025-09-10 00:00
+2025-10-15 20:56:34,154 - INFO - 杜老师说 发布文章：天津游记「多图预警」 @ 2025-09-04 00:00
+2025-10-15 20:56:34,154 - INFO - 杜老师说 发布文章：合肥游记「多图预警」 @ 2025-08-29 00:00
+2025-10-15 20:56:34,154 - INFO - 杜老师说 发布文章：探索扣子空间「邀请码不限量分享」 @ 2025-08-23 00:00
+2025-10-15 20:56:34,154 - INFO - 杜老师说 发布文章：在银河麒麟桌面操作系统 ARM 版上安装 KVM 虚拟化 @ 2025-08-17 00:00
+2025-10-15 20:56:35,819 - INFO - ImQi1 发布文章：比较是快乐的小偷 @ 2025-09-28 04:21
+2025-10-15 20:56:35,819 - INFO - ImQi1 发布文章：搬家，新车，父亲手术 @ 2025-09-16 19:47
+2025-10-15 20:56:35,819 - INFO - ImQi1 发布文章：花了几百块给电动车换了半身义体 @ 2025-08-16 19:49
+2025-10-15 20:56:35,819 - INFO - ImQi1 发布文章：分享一些增强访客幸福感的一些技巧 @ 2025-08-07 00:40
+2025-10-15 20:56:35,819 - INFO - ImQi1 发布文章：主页翻新，真是一项大工程 @ 2025-07-29 07:52
+2025-10-15 20:56:35,819 - INFO - ImQi1 发布文章：冒着酷暑去仙螺岛乘坐缆车 @ 2025-07-28 06:45
+2025-10-15 20:56:35,819 - INFO - ImQi1 发布文章：赚到人生第一桶金，换下了带了9个月的手表 @ 2025-07-17 07:33
+2025-10-15 20:56:35,819 - INFO - ImQi1 发布文章：SCDN新方案，如何免费申请EdgeOne兑换码 @ 2025-07-05 04:56
+2025-10-15 20:56:35,819 - INFO - ImQi1 发布文章：通关《捞女游戏》 @ 2025-07-01 08:56
+2025-10-15 20:56:35,819 - INFO - ImQi1 发布文章：一篇文章看懂TLS协议与SSL证书 @ 2025-06-22 03:50
+2025-10-15 20:56:36,709 - INFO - 宝玉 发布文章：The Art of Conversing with AI: Beyond Prompting, Mastering the Mysteries of Agentic Context Engineering @ 2025-10-15 11:05
+2025-10-15 20:56:36,710 - INFO - 宝玉 发布文章：Prompt to produce a script for a NotebookLM explainer video @ 2025-10-15 10:10
+2025-10-15 20:56:36,710 - INFO - 宝玉 发布文章：我身陷“凭感觉编程”的地狱 @ 2025-10-11 04:12
+2025-10-15 20:56:36,710 - INFO - 宝玉 发布文章：Sora 2 提示词指南 | OpenAI Cookbook @ 2025-10-08 02:37
+2025-10-15 20:56:36,710 - INFO - 宝玉 发布文章：Vibe engineering（凭感觉工程） @ 2025-10-08 02:23
+2025-10-15 20:56:36,710 - INFO - 宝玉 发布文章：Why do so many people struggle with prompt engineering despite using templates and AI assistance? @ 2025-10-06 13:06
+2025-10-15 20:56:36,710 - INFO - 宝玉 发布文章：为什么我用了那么多提示词模板甚至用了 AI 帮忙还是写不好提示词？ @ 2025-10-06 12:05
+2025-10-15 20:56:36,710 - INFO - 宝玉 发布文章：软件正在吞噬劳动力：一场静默却深刻的产业革命 @ 2025-10-04 09:35
+2025-10-15 20:56:36,710 - INFO - 宝玉 发布文章：AI 智能体的上下文工程：实用指南 @ 2025-10-01 09:28
+2025-10-15 20:56:36,710 - INFO - 宝玉 发布文章：如何设计智能体循环 @ 2025-10-01 08:47
+2025-10-15 20:56:36,710 - INFO - 数据处理完成
+2025-10-15 20:56:36,710 - INFO - 总共有 14 位朋友，其中 14 位博客可访问，0 位博客无法访问
+2025-10-15 20:56:36,717 - INFO - 抓取与写入完成：all.json, errors.json
+2025-10-15 21:15:08,543 - INFO - 爬虫已启用
+2025-10-15 21:15:08,544 - INFO - chao fa 使用自定义 feed：https://yuanchaofa.com/rss.xml
+2025-10-15 21:15:08,545 - INFO - Lilian Weng 使用自定义 feed：https://lilianweng.github.io/index.xml
+2025-10-15 21:15:08,545 - INFO - 苏剑林 使用自定义 feed：https://kexue.fm/feed
+2025-10-15 21:15:08,546 - INFO - 阮一峰 使用自定义 feed：http://feeds.feedburner.com/ruanyifeng
+2025-10-15 21:15:08,549 - INFO - ifuryst 使用自定义 feed：https://www.ifuryst.com/feed.xml
+2025-10-15 21:15:08,655 - INFO - Lilian Weng 发布文章：Why We Think @ 2025-05-01 08:00
+2025-10-15 21:15:08,656 - INFO - Lilian Weng 发布文章：Reward Hacking in Reinforcement Learning @ 2024-11-28 08:00
+2025-10-15 21:15:08,656 - INFO - Lilian Weng 发布文章：Extrinsic Hallucinations in LLMs @ 2024-07-07 08:00
+2025-10-15 21:15:08,656 - INFO - Lilian Weng 发布文章：Diffusion Models for Video Generation @ 2024-04-12 08:00
+2025-10-15 21:15:08,656 - INFO - Lilian Weng 发布文章：Thinking about High-Quality Human Data @ 2024-02-05 08:00
+2025-10-15 21:15:08,656 - INFO - Lilian Weng 发布文章：Adversarial Attacks on LLMs @ 2023-10-25 08:00
+2025-10-15 21:15:08,656 - INFO - Lilian Weng 发布文章：LLM Powered Autonomous Agents @ 2023-06-23 08:00
+2025-10-15 21:15:08,656 - INFO - Lilian Weng 发布文章：Prompt Engineering @ 2023-03-15 08:00
+2025-10-15 21:15:08,656 - INFO - Lilian Weng 发布文章：The Transformer Family Version 2.0 @ 2023-01-27 08:00
+2025-10-15 21:15:08,656 - INFO - Lilian Weng 发布文章：Large Transformer Model Inference Optimization @ 2023-01-10 18:00
+2025-10-15 21:15:08,657 - INFO - 大橘和朋友们的周刊 使用自定义 feed：https://rrorangeandfriends.de/feed.xml
+2025-10-15 21:15:09,113 - INFO - chao fa 发布文章：2025-09-合法赚钱就是高尚的（月度小结） @ 2025-10-05 06:18
+2025-10-15 21:15:09,118 - INFO - chao fa 发布文章：RAG 进化之路：传统 RAG 到工具与强化学习双轮驱动的 Agentic RAG @ 2025-10-03 19:53
+2025-10-15 21:15:09,118 - INFO - chao fa 发布文章：手写 Self-Attention 的四重境界，从 self-attention 到 multi-head self-attention @ 2024-08-18 20:00
+2025-10-15 21:15:09,118 - INFO - chao fa 发布文章：手写 transformer decoder（CausalLM） @ 2024-08-18 21:00
+2025-10-15 21:15:09,118 - INFO - chao fa 发布文章：手写大模型组件之Group Query Attention，从 MHA，MQA 到 GQA @ 2024-12-09 06:00
+2025-10-15 21:15:09,118 - INFO - chao fa 发布文章：LoRA 原理和 PyTorch 代码实现 @ 2024-11-10 05:56
+2025-10-15 21:15:09,118 - INFO - chao fa 发布文章：LLM activate function激活函数的进化之路，从 ReLU，GELU 到 SwiGLU(swishGLU) @ 2025-01-28 02:58
+2025-10-15 21:15:09,118 - INFO - chao fa 发布文章：LLM MOE的进化之路，从普通简化 MOE，到 sparse moe，再到 deepseek 使用的 share_expert sparse moe @ 2025-01-28 03:30
+2025-10-15 21:15:09,118 - INFO - chao fa 发布文章：2020年过去了，我不怀念它 @ 2021-01-01 04:20
+2025-10-15 21:15:09,118 - INFO - chao fa 发布文章：2024，公开表达元年 @ 2024-12-29 05:00
+2025-10-15 21:15:09,119 - INFO - 宝玉 使用自定义 feed：https://s.baoyu.io/feed.xml
+2025-10-15 21:15:09,144 - INFO - 阮一峰 发布文章：科技爱好者周刊（第 368 期）：不要这样管理软件团队 @ 2025-10-10 16:08
+2025-10-15 21:15:09,144 - INFO - 阮一峰 发布文章：一天之内，智谱和 Anthropic 都发了最强编程模型 @ 2025-10-02 03:05
+2025-10-15 21:15:09,150 - INFO - 阮一峰 发布文章：科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用 @ 2025-09-26 16:08
+2025-10-15 21:15:09,150 - INFO - 阮一峰 发布文章：科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告 @ 2025-09-19 16:10
+2025-10-15 21:15:09,150 - INFO - 阮一峰 发布文章：科技爱好者周刊（第 365 期）：流量变现正在崩塌 @ 2025-09-12 16:07
+2025-10-15 21:15:09,150 - INFO - 阮一峰 发布文章：科技爱好者周刊（第 364 期）：最难还原的魔方 @ 2025-09-05 16:13
+2025-10-15 21:15:09,150 - INFO - lololowe 使用自定义 feed：https://blog.lololowe.com/atom.xml
+2025-10-15 21:15:09,263 - INFO - ifuryst 发布文章：LeoTalk · Hacker News Daily · 2025.10.15 @ 2025-10-15 08:00
+2025-10-15 21:15:09,263 - INFO - ifuryst 发布文章：LeoTalk AI周知 4: AI时代的入口和商业化之路 @ 2025-10-13 08:00
+2025-10-15 21:15:09,263 - INFO - ifuryst 发布文章：LeoTalk · Hacker News Daily · 2025.10.13 @ 2025-10-13 08:00
+2025-10-15 21:15:09,263 - INFO - ifuryst 发布文章：LeoTalk · Hacker News Daily · 2025.10.12 @ 2025-10-12 08:00
+2025-10-15 21:15:09,263 - INFO - ifuryst 发布文章：LeoTalk · Hacker News Daily · 2025.10.09 @ 2025-10-09 08:00
+2025-10-15 21:15:09,263 - INFO - ifuryst 发布文章：LeoTalk · Hacker News Daily · 2025.10.08 @ 2025-10-08 08:00
+2025-10-15 21:15:09,263 - INFO - ifuryst 发布文章：LeoTalk AI周知 3: 追求差异化的最后一公里 @ 2025-10-07 09:00
+2025-10-15 21:15:09,263 - INFO - ifuryst 发布文章：LeoTalk · Hacker News Daily · 2025.10.04 @ 2025-10-04 08:00
+2025-10-15 21:15:09,263 - INFO - ifuryst 发布文章：大模型上下文工程实践指南-第5章：检索增强生成 @ 2025-10-01 08:00
+2025-10-15 21:15:09,263 - INFO - ifuryst 发布文章：同学你好，你已经签到30次了 @ 2025-09-30 08:00
+2025-10-15 21:15:09,263 - INFO - varuxn 使用自定义 feed：https://varuxn.github.io/rss.xml
+2025-10-15 21:15:09,449 - INFO - 大橘和朋友们的周刊 发布文章：第036期 - 风语山巅 @ 2025-08-30 08:00
+2025-10-15 21:15:09,455 - INFO - 大橘和朋友们的周刊 发布文章：第035期 - 釜沸生香 @ 2025-08-03 08:00
+2025-10-15 21:15:09,455 - INFO - 大橘和朋友们的周刊 发布文章：第034期 - 云腴沁粉 @ 2025-07-19 08:00
+2025-10-15 21:15:09,455 - INFO - 大橘和朋友们的周刊 发布文章：第033期 - 一球听海 @ 2025-06-22 08:00
+2025-10-15 21:15:09,455 - INFO - 大橘和朋友们的周刊 发布文章：第032期 - Mojito @ 2025-06-01 08:00
+2025-10-15 21:15:09,455 - INFO - 杜老师说 使用自定义 feed：https://dusays.com/atom.xml
+2025-10-15 21:15:09,461 - INFO - 宝玉 发布文章：The Art of Conversing with AI: Beyond Prompting, Mastering the Mysteries of Agentic Context Engineering @ 2025-10-15 11:05
+2025-10-15 21:15:09,461 - INFO - 宝玉 发布文章：Prompt to produce a script for a NotebookLM explainer video @ 2025-10-15 10:10
+2025-10-15 21:15:09,461 - INFO - 宝玉 发布文章：我身陷“凭感觉编程”的地狱 @ 2025-10-11 04:12
+2025-10-15 21:15:09,461 - INFO - 宝玉 发布文章：Sora 2 提示词指南 | OpenAI Cookbook @ 2025-10-08 02:37
+2025-10-15 21:15:09,461 - INFO - 宝玉 发布文章：Vibe engineering（凭感觉工程） @ 2025-10-08 02:23
+2025-10-15 21:15:09,462 - INFO - 宝玉 发布文章：Why do so many people struggle with prompt engineering despite using templates and AI assistance? @ 2025-10-06 13:06
+2025-10-15 21:15:09,462 - INFO - 宝玉 发布文章：为什么我用了那么多提示词模板甚至用了 AI 帮忙还是写不好提示词？ @ 2025-10-06 12:05
+2025-10-15 21:15:09,462 - INFO - 宝玉 发布文章：软件正在吞噬劳动力：一场静默却深刻的产业革命 @ 2025-10-04 09:35
+2025-10-15 21:15:09,462 - INFO - 宝玉 发布文章：AI 智能体的上下文工程：实用指南 @ 2025-10-01 09:28
+2025-10-15 21:15:09,462 - INFO - 宝玉 发布文章：如何设计智能体循环 @ 2025-10-01 08:47
+2025-10-15 21:15:09,462 - INFO - 张洪Heo 使用自定义 feed：https://blog.zhheo.com/rss.xml
+2025-10-15 21:15:09,560 - INFO - varuxn 发布文章：Win11 下 WSL 换行符问题 @ 2024-12-22 23:35
+2025-10-15 21:15:09,560 - INFO - varuxn 发布文章：Hexo-ShokaX 搭建笔记 @ 2024-12-22 07:23
+2025-10-15 21:15:09,560 - INFO - varuxn 发布文章：关于 VMware 与 WSL 在 Win11 虚拟化的一些问题 @ 2024-12-22 04:47
+2025-10-15 21:15:09,560 - INFO - varuxn 发布文章：Visual Studio C++ 汇编 混合编程 @ 2024-12-22 04:46
+2025-10-15 21:15:09,560 - INFO - varuxn 发布文章：HUST 计网 TFTP Server 实验总结 @ 2024-12-22 04:45
+2025-10-15 21:15:09,560 - INFO - varuxn 发布文章：LateX @ 2024-12-22 04:42
+2025-10-15 21:15:09,560 - INFO - iMaeGoo’s Blog 使用自定义 feed：https://www.imaegoo.com/atom.xml
+2025-10-15 21:15:09,742 - INFO - 苏剑林 发布文章：随机矩阵的谱范数的快速估计 @ 2025-10-13 05:52
+2025-10-15 21:15:09,742 - INFO - 苏剑林 发布文章：DiVeQ：一种非常简洁的VQ训练方案 @ 2025-10-09 05:52
+2025-10-15 21:15:09,742 - INFO - 苏剑林 发布文章：为什么线性注意力要加Short Conv？ @ 2025-10-06 00:25
+2025-10-15 21:15:09,742 - INFO - 苏剑林 发布文章：AdamW的Weight RMS的渐近估计 @ 2025-10-01 20:51
+2025-10-15 21:15:09,742 - INFO - 苏剑林 发布文章：重新思考学习率与Batch Size（四）：EMA @ 2025-09-22 22:37
+2025-10-15 21:15:09,742 - INFO - 苏剑林 发布文章：重新思考学习率与Batch Size（三）：Muon @ 2025-09-16 06:52
+2025-10-15 21:15:09,742 - INFO - 苏剑林 发布文章：重新思考学习率与Batch Size（二）：平均场 @ 2025-09-10 18:18
+2025-10-15 21:15:09,742 - INFO - 苏剑林 发布文章：为什么Adam的Update RMS是0.2？ @ 2025-09-03 01:35
+2025-10-15 21:15:09,742 - INFO - 苏剑林 发布文章：重新思考学习率与Batch Size（一）：现状 @ 2025-09-01 19:10
+2025-10-15 21:15:09,743 - INFO - 苏剑林 发布文章：Cool Papers更新：简单适配Zotero Connector @ 2025-08-26 00:11
+2025-10-15 21:15:09,743 - INFO - 清羽飞扬 使用自定义 feed：https://blog.liushen.fun/atom.xml
+2025-10-15 21:15:09,846 - INFO - 杜老师说 发布文章：Focalboard 开源项目管理的有力工具 @ 2025-10-10 00:00
+2025-10-15 21:15:09,846 - INFO - 杜老师说 发布文章：NodePass 开源的隧道工具重新定义内网穿透 @ 2025-10-04 00:00
+2025-10-15 21:15:09,846 - INFO - 杜老师说 发布文章：探索网络实验的神器 Mininet @ 2025-09-28 00:00
+2025-10-15 21:15:09,846 - INFO - 杜老师说 发布文章：Ubuntu 系统无法通过 pip 命令安装 Python 库问题解决 @ 2025-09-22 00:00
+2025-10-15 21:15:09,846 - INFO - 杜老师说 发布文章：使用 Python 脚本实现图片相似度匹配 @ 2025-09-16 00:00
+2025-10-15 21:15:09,846 - INFO - 杜老师说 发布文章：几种通过 FFmpeg 无损压缩视频的方法 @ 2025-09-10 00:00
+2025-10-15 21:15:09,846 - INFO - 杜老师说 发布文章：天津游记「多图预警」 @ 2025-09-04 00:00
+2025-10-15 21:15:09,846 - INFO - 杜老师说 发布文章：合肥游记「多图预警」 @ 2025-08-29 00:00
+2025-10-15 21:15:09,846 - INFO - 杜老师说 发布文章：探索扣子空间「邀请码不限量分享」 @ 2025-08-23 00:00
+2025-10-15 21:15:09,846 - INFO - 杜老师说 发布文章：在银河麒麟桌面操作系统 ARM 版上安装 KVM 虚拟化 @ 2025-08-17 00:00
+2025-10-15 21:15:09,846 - INFO - ImQi1 使用自定义 feed：https://imqi1.com/feed/
+2025-10-15 21:15:09,925 - INFO - lololowe 发布文章：SNMP协议总结及实验 @ 2025-10-13 20:23
+2025-10-15 21:15:09,925 - INFO - lololowe 发布文章：链路状态检测: BFD、NQA、IP-link @ 2025-09-23 17:38
+2025-10-15 21:15:09,925 - INFO - lololowe 发布文章：Docker部署code-server @ 2025-09-22 20:47
+2025-10-15 21:15:09,925 - INFO - lololowe 发布文章：RIP 路由信息协议 @ 2025-09-22 10:05
+2025-10-15 21:15:09,925 - INFO - lololowe 发布文章：VSCode 配置C/C++环境 @ 2025-09-21 15:38
+2025-10-15 21:15:09,926 - INFO - lololowe 发布文章：加密技术与认证机制指南 @ 2025-09-20 11:56
+2025-10-15 21:15:09,926 - INFO - lololowe 发布文章：Java运算符和表达式 @ 2025-09-18 22:00
+2025-10-15 21:15:09,926 - INFO - lololowe 发布文章：Java基础语法2 @ 2025-09-18 22:00
+2025-10-15 21:15:09,926 - INFO - lololowe 发布文章：Java基础语法1 @ 2025-09-18 22:00
+2025-10-15 21:15:09,926 - INFO - lololowe 发布文章：TCP流量控制与拥塞控制机制解析 @ 2025-09-17 21:08
+2025-10-15 21:15:09,990 - INFO - 张洪Heo 发布文章：Mac空格响应慢？Adobe软件Ps、Ai卡在抓手工具解决方法，临时抓手无法恢复指针 @ 2025-10-09 19:02
+2025-10-15 21:15:09,990 - INFO - 张洪Heo 发布文章：如何在Mac上部署indexTTS2，快速语音克隆和情感控制 @ 2025-10-02 21:59
+2025-10-15 21:15:09,990 - INFO - 张洪Heo 发布文章：升级到 macOS Tahoe 26 没有启动台？用 LaunchNext 实现在 macOS26 中使用启动台！ @ 2025-09-24 09:42
+2025-10-15 21:15:09,990 - INFO - 张洪Heo 发布文章：如何批量下载抖音某一个博主的全部视频，抖音视频批量下载方法 @ 2025-09-22 10:10
+2025-10-15 21:15:09,990 - INFO - 张洪Heo 发布文章：在 Mac 的 Drawthings 中使用 Qwen Image Edit 打造个人IP形象衍生图 @ 2025-09-19 18:11
+2025-10-15 21:15:09,990 - INFO - 张洪Heo 发布文章：AE、PR导出的视频发灰发亮怎么办？使用QucikTime播放颜色不对解决方法 @ 2025-09-18 11:03
+2025-10-15 21:15:09,990 - INFO - 张洪Heo 发布文章：AE如何给曲线添加波浪动态效果，动态的波浪线制作 @ 2025-09-17 11:42
+2025-10-15 21:15:09,990 - INFO - 张洪Heo 发布文章：蓝屏报错 clock watchdog timeout 的一次经历，开机1分30秒必定死机 @ 2025-09-16 10:40
+2025-10-15 21:15:09,990 - INFO - 张洪Heo 发布文章：让你的Mac巨省电，使用EfficiencyTool自定义程序在性能核心还是节能核心上运行 @ 2025-09-15 10:48
+2025-10-15 21:15:09,990 - INFO - 张洪Heo 发布文章：OpenWrt如何启用DoH？让软路由下的设备使用 DNS over HTTPS @ 2025-09-12 18:30
+2025-10-15 21:15:10,254 - INFO - 清羽飞扬 发布文章：使用TinyAuth实现任意应用登录认证 @ 2025-10-07 16:20
+2025-10-15 21:15:10,254 - INFO - 清羽飞扬 发布文章：不同姿势部署Anheyu-App应用 @ 2025-09-30 23:59
+2025-10-15 21:15:10,254 - INFO - 清羽飞扬 发布文章：Casdoor强行兼容Artalk社交登录 @ 2025-09-16 23:50
+2025-10-15 21:15:10,254 - INFO - 清羽飞扬 发布文章：血证未泯，山河已立 @ 2025-09-09 13:50
+2025-10-15 21:15:10,254 - INFO - 清羽飞扬 发布文章：第三方1Panel应用商店不完全指北 @ 2025-08-29 15:50
+2025-10-15 21:15:10,254 - INFO - 清羽飞扬 发布文章：循一缕风，入山偷得夏日凉 @ 2025-08-08 13:50
+2025-10-15 21:15:10,254 - INFO - 清羽飞扬 发布文章：Forgejo及其Action自部署简明教程 @ 2025-07-25 22:00
+2025-10-15 21:15:10,254 - INFO - 清羽飞扬 发布文章：西安·十几年后的初识 @ 2025-07-18 20:00
+2025-10-15 21:15:10,254 - INFO - 清羽飞扬 发布文章：企业微信实用操作指南 @ 2025-07-11 01:09
+2025-10-15 21:15:10,254 - INFO - 清羽飞扬 发布文章：浅谈AIGC论文检测 @ 2025-07-01 19:32
+2025-10-15 21:15:10,763 - INFO - ImQi1 发布文章：比较是快乐的小偷 @ 2025-09-28 04:21
+2025-10-15 21:15:10,763 - INFO - ImQi1 发布文章：搬家，新车，父亲手术 @ 2025-09-16 19:47
+2025-10-15 21:15:10,763 - INFO - ImQi1 发布文章：花了几百块给电动车换了半身义体 @ 2025-08-16 19:49
+2025-10-15 21:15:10,763 - INFO - ImQi1 发布文章：分享一些增强访客幸福感的一些技巧 @ 2025-08-07 00:40
+2025-10-15 21:15:10,763 - INFO - ImQi1 发布文章：主页翻新，真是一项大工程 @ 2025-07-29 07:52
+2025-10-15 21:15:10,763 - INFO - ImQi1 发布文章：冒着酷暑去仙螺岛乘坐缆车 @ 2025-07-28 06:45
+2025-10-15 21:15:10,763 - INFO - ImQi1 发布文章：赚到人生第一桶金，换下了带了9个月的手表 @ 2025-07-17 07:33
+2025-10-15 21:15:10,763 - INFO - ImQi1 发布文章：SCDN新方案，如何免费申请EdgeOne兑换码 @ 2025-07-05 04:56
+2025-10-15 21:15:10,763 - INFO - ImQi1 发布文章：通关《捞女游戏》 @ 2025-07-01 08:56
+2025-10-15 21:15:10,764 - INFO - ImQi1 发布文章：一篇文章看懂TLS协议与SSL证书 @ 2025-06-22 03:50
+2025-10-15 21:15:11,075 - INFO - iMaeGoo’s Blog 发布文章：卸载百度网盘智能看图 @ 2025-09-02 08:00
+2025-10-15 21:15:11,075 - INFO - iMaeGoo’s Blog 发布文章：CDN 方式引入 Monaco Editor @ 2025-09-01 17:30
+2025-10-15 21:15:11,075 - INFO - iMaeGoo’s Blog 发布文章：在线工具 - 富文本转 Markdown @ 2025-09-01 12:30
+2025-10-15 21:15:11,075 - INFO - iMaeGoo’s Blog 发布文章：2025 年了，安卓平板上什么第三方九键输入法最好用？ @ 2025-08-25 12:00
+2025-10-15 21:15:11,075 - INFO - iMaeGoo’s Blog 发布文章：鸿蒙 PC 编译运行 Electron 应用 @ 2025-08-25 08:00
+2025-10-15 21:15:11,075 - INFO - iMaeGoo’s Blog 发布文章：bat 脚本打印输出彩色文字 @ 2025-08-06 08:00
+2025-10-15 21:15:11,075 - INFO - iMaeGoo’s Blog 发布文章：Android 强制锁定屏幕旋转方向 @ 2025-07-11 08:00
+2025-10-15 21:15:11,075 - INFO - iMaeGoo’s Blog 发布文章：腾讯代码托管服务 Coding 将停服 @ 2025-06-27 09:00
+2025-10-15 21:15:11,075 - INFO - iMaeGoo’s Blog 发布文章：微信快速找出自己创建的群聊 @ 2025-05-08 13:00
+2025-10-15 21:15:11,075 - INFO - iMaeGoo’s Blog 发布文章：将扣子空间生成的 jsx 格式网页部署到自己的服务器 @ 2025-04-29 08:00
+2025-10-15 21:15:11,075 - INFO - 数据处理完成
+2025-10-15 21:15:11,075 - INFO - 总共有 14 位朋友，其中 14 位博客可访问，0 位博客无法访问
+2025-10-15 21:15:11,107 - INFO - 抓取与写入完成：all.json, errors.json

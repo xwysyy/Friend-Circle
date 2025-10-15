@@ -1,0 +1,2 @@
+"""Friend Circle app package."""
+
