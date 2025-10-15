@@ -3,7 +3,7 @@ Friend Circle core: config loader + RSS/Atom aggregation helpers.
 
 Public API: load_config, collect_from_config, fetch_and_process_data, sort_articles_by_time.
 """
-from datetime import datetime, timedelta
+from datetime import datetime, timezone
 from dateutil import parser
 from typing import Any, Dict, List, Tuple, Optional
 import logging
@@ -14,6 +14,7 @@ import yaml
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib3.util import Retry
 from requests.adapters import HTTPAdapter
+from zoneinfo import ZoneInfo
 
 
 headers = {
@@ -58,35 +59,55 @@ def _make_session() -> requests.Session:
 
 
 
-def format_published_time(time_str: str) -> str:
-    """
-    格式化发布时间为统一格式 YYYY-MM-DD HH:MM
-    """
+def _normalize_datetime(value: datetime, target_tz: ZoneInfo) -> datetime:
+    """将解析出的时间标准化为目标时区。"""
+    if value.tzinfo is None:
+        # 将无时区信息的时间视作 UTC，保持与旧实现加 8 小时的行为一致
+        value = value.replace(tzinfo=timezone.utc)
+    return value.astimezone(target_tz)
+
+
+def _parse_time_string(time_str: str) -> Optional[datetime]:
+    """尝试解析时间字符串，返回 ``datetime`` 或 ``None``。"""
     try:
-        # 尝试自动解析
-        parsed_time = parser.parse(time_str) + timedelta(hours=8)
-        return parsed_time.strftime('%Y-%m-%d %H:%M')
+        return parser.parse(time_str)
     except (ValueError, parser.ParserError):
         pass
-    
+
     time_formats = [
-        '%a, %d %b %Y %H:%M:%S %z',       
-        '%a, %d %b %Y %H:%M:%S GMT',      
-        '%Y-%m-%dT%H:%M:%S%z',            
-        '%Y-%m-%dT%H:%M:%SZ',             
-        '%Y-%m-%d %H:%M:%S',             
-        '%Y-%m-%d'                        
+        '%a, %d %b %Y %H:%M:%S %z',
+        '%a, %d %b %Y %H:%M:%S GMT',
+        '%Y-%m-%dT%H:%M:%S%z',
+        '%Y-%m-%dT%H:%M:%SZ',
+        '%Y-%m-%d %H:%M:%S',
+        '%Y-%m-%d',
     ]
 
     for fmt in time_formats:
         try:
-            parsed_time = datetime.strptime(time_str, fmt) + timedelta(hours=8)
-            return parsed_time.strftime('%Y-%m-%d %H:%M')
+            return datetime.strptime(time_str, fmt)
         except ValueError:
             continue
+    return None
 
-    # 如果所有格式都无法匹配，返回原字符串或一个默认值
-    return ''
+
+def format_published_time(time_str: str, target_timezone: str = 'Asia/Shanghai') -> str:
+    """格式化发布时间为统一格式 ``YYYY-MM-DD HH:MM``。
+
+    Args:
+        time_str: 原始时间字符串。
+        target_timezone: 目标时区名称，默认为 ``Asia/Shanghai``。
+
+    Returns:
+        统一格式的时间字符串，若解析失败则返回空字符串。
+    """
+    parsed_time = _parse_time_string(time_str)
+    if not parsed_time:
+        return ''
+
+    target_tz = ZoneInfo(target_timezone)
+    localized = _normalize_datetime(parsed_time, target_tz)
+    return localized.strftime('%Y-%m-%d %H:%M')
 
 
 
