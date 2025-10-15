@@ -1,8 +1,12 @@
 {
   "rewrites": [
     {
-      "source": "/:name.json",
-      "destination": "/results/:name.json"
+      "source": "/(all|errors)\\.json",
+      "destination": "/results/$1.json"
+    },
+    {
+      "source": "/friends.json",
+      "destination": "/config/friends.json"
     }
   ]
 }
