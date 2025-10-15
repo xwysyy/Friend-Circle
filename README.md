@@ -3,6 +3,7 @@
 # Friend Circle · 友链文章聚合器 ✨
 
 [![CI - Friend Circle](https://github.com/xwysyy/Friend-Circle/actions/workflows/friend_circle.yml/badge.svg)](https://github.com/xwysyy/Friend-Circle/actions/workflows/friend_circle.yml)
+![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel)
 ![RSS](https://img.shields.io/badge/RSS-Feed-FFA500?logo=rss&logoColor=white)
 ![uv](https://img.shields.io/badge/Package%20Manager-uv-5C6EE3)
 ![Last commit](https://img.shields.io/github/last-commit/xwysyy/Friend-Circle?color=57A64A)
