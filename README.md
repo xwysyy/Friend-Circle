@@ -3,10 +3,12 @@
 # Friend Circle · 友链文章聚合器 ✨
 
 [![CI - Friend Circle](https://github.com/xwysyy/Friend-Circle/actions/workflows/friend_circle.yml/badge.svg)](https://github.com/xwysyy/Friend-Circle/actions/workflows/friend_circle.yml)
-![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel)
 ![RSS](https://img.shields.io/badge/RSS-Feed-FFA500?logo=rss&logoColor=white)
 ![uv](https://img.shields.io/badge/Package%20Manager-uv-5C6EE3)
 ![Last commit](https://img.shields.io/github/last-commit/xwysyy/Friend-Circle?color=57A64A)
+<br>
+![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/xwysyy/Friend-Circle)
 
 一个简洁稳健的「友链文章聚合器」，从 `config/conf.yaml` 读取数据源，抓取各博客的 RSS/Atom，输出统一 JSON：`results/all.json`。
 
