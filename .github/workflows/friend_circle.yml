@@ -9,7 +9,7 @@ env:
   TZ: Asia/Shanghai
 
 jobs:
-  friend-circle-lite:
+  friend-circle:
     runs-on: ubuntu-latest
 
     steps:
@@ -43,5 +43,5 @@ jobs:
         PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
       run: |
         git add .
-        git commit -m "chore: update RSS feeds" || echo "No changes to commit"
+        git commit -m "chore: update rss feeds" || echo "No changes to commit"
         git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git master
