@@ -122,6 +122,23 @@ spider_settings:
 - 依赖安装：`uv pip install -r requirements.txt`
 - 本地运行：`uv run python run.py`
 
+## 📝 提交规范（Conventional Commits）
+
+- 格式：`type(scope)!: subject`
+- 类型（二选一或更多）：`build | chore | ci | docs | feat | fix | perf | refactor | revert | style | test`
+- `scope` 可选，简述影响范围，如 `core`、`config` 等；`!` 表示破坏性变更
+- 主题使用简洁祈使句，推荐英文或中英文均可
+
+示例：
+- `feat(core): add link rewrite support`
+- `fix(parser): handle empty content safely`
+- `chore: update RSS feeds`
+
+本仓库内置了本地提交钩子用于校验提交信息：`.githooks/commit-msg`
+- 启用（一次性）：`git config core.hooksPath .githooks`
+- 若权限问题：`chmod +x .githooks/commit-msg`
+- CI 已启用同样校验，并将自动提交信息设置为 `chore: update RSS feeds`
+
 ## 🪪 许可协议
 
 本项目使用 MIT License，详见 `LICENSE`。

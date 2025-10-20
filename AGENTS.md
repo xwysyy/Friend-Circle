@@ -23,8 +23,11 @@
 - Tests have been removed from this repository.
 
 ## Commit & Pull Request Guidelines
-- Commits are concise and descriptive (history includes emoji, e.g., “⏱️ GitHub Action 定时更新”). No strict convention enforced.
-- Prefer Conventional Commits for new work: `feat:`, `fix:`, `docs:`, `refactor:`.
+- Conventional Commits enforced via hook:
+  - Format: `type(scope)!: subject`
+  - Types: `build|chore|ci|docs|feat|fix|perf|refactor|revert|style|test`
+  - Enable local hooks: `git config core.hooksPath .githooks`
+  - CI uses message `chore: update RSS feeds`
 - PRs include: clear description, linked issues, config changes, sample commands/endpoints, and screenshots/log snippets when relevant.
 
 ## Security & Configuration Tips

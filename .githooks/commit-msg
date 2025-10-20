@@ -1,0 +1,47 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+MSG_FILE="$1"
+MSG_HEAD=$(head -n1 "$MSG_FILE" | tr -d '\r')
+
+# Conventional Commits: type(scope)!: subject
+# Allowed types
+TYPE_RE='(build|chore|ci|docs|feat|fix|perf|refactor|revert|style|test)'
+# Optional (scope)
+SCOPE_RE='(\([a-zA-Z0-9._\-\/]+\))?'
+# Optional ! for breaking change
+BREAK_RE='(!)?'
+# Subject: at least one non-space char after colon+space
+SUBJECT_RE=': .\+'
+FULL_RE="^${TYPE_RE}${SCOPE_RE}${BREAK_RE}${SUBJECT_RE}$"
+
+# Allow merge commits and version tags
+if [[ "$MSG_HEAD" =~ ^Merge\  ]]; then
+  exit 0
+fi
+if [[ "$MSG_HEAD" =~ ^v?[0-9]+\.[0-9]+\.[0-9]+ ]]; then
+  exit 0
+fi
+
+if [[ "$MSG_HEAD" =~ $FULL_RE ]]; then
+  exit 0
+fi
+
+cat <<EOF
+✖ Invalid commit message format.
+
+Expected: type(scope)!: subject
+
+Allowed types: build|chore|ci|docs|feat|fix|perf|refactor|revert|style|test
+Examples:
+  feat(core): add link rewrite support
+  fix(parser): handle empty content safely
+  chore: update rss feeds
+  docs: add usage examples to README
+  refactor: simplify session retry setup
+
+Tip: Configure hooks path once:
+  git config core.hooksPath .githooks
+EOF
+exit 1
+
