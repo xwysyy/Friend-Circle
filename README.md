@@ -117,57 +117,10 @@ spider_settings:
 - 时间字段缺失？
   - 会记录警告并采用默认值，以保证排序稳定；建议源头补齐时间信息。
 
-## 🧪 开发与测试
+## 🧪 开发
 
 - 依赖安装：`uv pip install -r requirements.txt`
-- 安装测试框架：`uv pip install pytest`（或 `pip install pytest`）
 - 本地运行：`uv run python run.py`
-- 运行全部测试：
-
-```
-pytest -q
-# 或使用 uv 执行
-uv run pytest -q
-```
-
-- 选择性运行：
-
-```
-# 只跑核心单测
-pytest -q tests/test_core.py
-
-# 只跑某个用例
-pytest -q tests/test_core.py::test_format_published_time_default_timezone
-
-# 按关键字筛选
-pytest -q -k parse_feed
-
-# 更详细输出/打印日志
-pytest -vv -s
-```
-
-- 覆盖率（可选）：
-
-```
-uv pip install pytest-cov  # 或 pip install pytest-cov
-pytest --cov=app -q
-```
-
-- 测试说明：
-  - 测试位于 `tests/`，包括 `tests/test_core.py` 与 `tests/test_integration.py`。
-  - 集成测试会本地起一个轻量 HTTP 服务，或使用 monkeypatch 伪造网络会话，不访问外网。
-  - 编写新测试时，建议使用 `responses` / `requests-mock` 模拟网络，并固定随机种子以保证一致性。
-  - 本仓库包含一个“实网”测试用例，会直接拉取 `config/friend.json` 中的真实 RSS 链接，并对结果做基本校验（带容错），默认会随 `pytest` 一起运行；若你不希望访问外网，可在运行时排除该用例：
-
-```
-pytest -q -k "not fetch_live_from_config_friend_json"
-# 或使用 uv
-uv run pytest -q -k "not fetch_live_from_config_friend_json"
-```
-
-注意：
-- 为了避免对上游施加过大压力，实网测试每个友链只抓 1 篇，且并发限制为 4；同时收敛了超时与重试以加快失败路径。
-- 若网络或上游不稳定，测试可能标记为 xfail（预期失败），而不是硬失败。
 
 ## 🪪 许可协议
 

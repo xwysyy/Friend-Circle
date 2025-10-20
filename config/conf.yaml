@@ -9,3 +9,12 @@ spider_settings:
   json_url: "config/friend.json"
   article_count: 10
   max_workers: 5
+  # 可选：文章链接改写（按友链名或域名匹配，执行前缀/正则替换）
+  # 下面示例将 https://kirigaya.cn/api/rss/blog?seq=350 改写为 https://kirigaya.cn/blog?seq=350
+  link_rewrites:
+    - match:
+        name: "锦恢"           # 与 friend.json 第一列一致
+      rules:
+        - type: "prefix"
+          from: "https://kirigaya.cn/api/rss/blog"
+          to:   "https://kirigaya.cn/blog"

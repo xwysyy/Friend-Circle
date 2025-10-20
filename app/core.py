@@ -6,6 +6,8 @@ Public API: load_config, collect_from_config, fetch_and_process_data, sort_artic
 from datetime import datetime, timezone
 from dateutil import parser
 from typing import Any, Dict, List, Tuple, Optional
+from urllib.parse import urlparse
+import re
 import logging
 import time
 import requests
@@ -386,6 +388,13 @@ def collect_from_config(config: JSONDict) -> Tuple[JSONDict, List[Any]]:
         count=article_count,
         max_workers=max_workers,
     )
+    # 可选：根据配置对文章链接进行改写（如按友链名或域名匹配，进行前缀/正则替换）
+    link_rewrites = spider.get('link_rewrites') or []
+    if link_rewrites and 'article_data' in result:
+        try:
+            rewrite_article_links(result['article_data'], link_rewrites)
+        except Exception as e:
+            logging.error(f"处理链接改写配置时发生错误: {e}")
     result = sort_articles_by_time(result)
     return result, errors
 
@@ -402,3 +411,89 @@ def load_config(config_file: str) -> JSONDict:
     """
     with open(config_file, 'r', encoding='utf-8') as file:
         return yaml.safe_load(file)
+
+
+def _match_article(article: JSONDict, matcher: Dict[str, Any]) -> bool:
+    """判断文章是否与改写规则的匹配条件吻合。
+
+    支持按作者名（友链名）或域名匹配。多个条件取“或”。
+    """
+    if not matcher:
+        return False
+
+    author = str(article.get('author', '')).strip()
+    link = str(article.get('link', '')).strip()
+    host = ''
+    try:
+        host = urlparse(link).netloc
+    except Exception:
+        pass
+
+    name_ok = bool(matcher.get('name')) and (author == matcher.get('name'))
+    host_ok = bool(matcher.get('host')) and (host == matcher.get('host'))
+
+    return name_ok or host_ok
+
+
+def rewrite_article_links(article_data: List[JSONDict], link_rewrites: List[Dict[str, Any]]) -> None:
+    """根据配置批量改写文章链接。
+
+    配置示例：
+        link_rewrites:
+          - match: { name: "锦恢" }
+            rules:
+              - type: "prefix"
+                from: "https://kirigaya.cn/api/rss/blog"
+                to:   "https://kirigaya.cn/blog"
+
+    也支持正则：
+              - type: "regex"
+                pattern: "^https://kirigaya\\.cn/api/rss/(.*)$"
+                replace: "https://kirigaya.cn/\\1"
+                # 可选：count: 1  # 替换次数，默认 1
+    """
+    if not link_rewrites:
+        return
+
+    for idx, article in enumerate(article_data):
+        link = str(article.get('link', '')).strip()
+        if not link:
+            continue
+
+        for group in link_rewrites:
+            matcher = group.get('match', {}) or {}
+            if not _match_article(article, matcher):
+                continue
+
+            rules = group.get('rules', []) or []
+            updated_link = link
+            for rule in rules:
+                rtype = str(rule.get('type', '')).lower()
+                try:
+                    if rtype == 'prefix':
+                        frm = rule.get('from')
+                        to = rule.get('to')
+                        if isinstance(frm, str) and isinstance(to, str) and updated_link.startswith(frm):
+                            new_link = to + updated_link[len(frm):]
+                            if new_link != updated_link:
+                                logging.info(f"Rewrite link by prefix: {updated_link} -> {new_link}")
+                                updated_link = new_link
+                    elif rtype == 'regex':
+                        pattern = rule.get('pattern')
+                        repl = rule.get('replace')
+                        if isinstance(pattern, str) and isinstance(repl, str):
+                            count = rule.get('count', 1)
+                            try:
+                                new_link = re.sub(pattern, repl, updated_link, count=count)
+                            except re.error as rex:
+                                logging.warning(f"无效的正则表达式：{pattern}: {rex}")
+                                continue
+                            if new_link != updated_link:
+                                logging.info(f"Rewrite link by regex: {updated_link} -> {new_link}")
+                                updated_link = new_link
+                except Exception as e:
+                    logging.warning(f"应用改写规则异常（忽略继续）：{e}")
+
+            if updated_link != link:
+                article['link'] = updated_link
+            # 命中一个组后继续允许命中下一个组，以便叠加改写（如有需要）
