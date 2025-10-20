@@ -43,5 +43,5 @@ jobs:
         PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
       run: |
         git add .
-        git commit -m "chore: update rss feeds" || echo "No changes to commit"
+        git commit -m "chore: update rss feeds"
         git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git master
