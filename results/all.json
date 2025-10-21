@@ -1,18 +1,32 @@
 {
   "statistical_data": {
-    "friends_num": 15,
-    "active_num": 15,
+    "friends_num": 16,
+    "active_num": 16,
     "error_num": 0,
-    "article_num": 137,
-    "last_updated_time": "2025-10-21 08:54:30"
+    "article_num": 147,
+    "last_updated_time": "2025-10-21 11:27:39"
   },
   "article_data": [
+    {
+      "title": "怎样才算好文档？",
+      "created": "2025-10-21 09:35",
+      "link": "https://baoyu.io/translations/what_makes_documentation_good.md",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico"
+    },
     {
       "title": "如何在课程中取得好成绩 —— Andrej 的成功建议",
       "created": "2025-10-21 03:10",
       "link": "https://baoyu.io/translations/karpathy-advice",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico"
+    },
+    {
+      "title": "将电热毯通过 Homeassistant 接入 Homekit 并支持调节档位",
+      "created": "2025-10-20 12:20",
+      "link": "https://blog.zhheo.com/p/eqc0vrd6.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "LeoTalk AI周知 5: Deep Agent",
@@ -78,6 +92,20 @@
       "avatar": "https://kirigaya.cn/favicon.png"
     },
     {
+      "title": "Final Cut Pro 资源库文件过大如何解决？如何清理资源库中的渲染文件和缓存？",
+      "created": "2025-10-17 17:37",
+      "link": "https://blog.zhheo.com/p/zvkkf5jm.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "Final Cut Pro 视频导出参数如何自定义码率？导出参数详细设置",
+      "created": "2025-10-17 17:21",
+      "link": "https://blog.zhheo.com/p/k34vgibs.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
       "title": "科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈",
       "created": "2025-10-17 08:10",
       "link": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html",
@@ -113,6 +141,13 @@
       "avatar": "https://baoyu.io/favicon.ico"
     },
     {
+      "title": "AI Agent Benchmark Compendium",
+      "created": "2025-10-15 08:00",
+      "link": "https://www.philschmid.de/benchmark-compedium",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico"
+    },
+    {
       "title": "LeoTalk · Hacker News Daily · 2025.10.15",
       "created": "2025-10-15 08:00",
       "link": "https://ifuryst.github.io/blog/2025/leotalk-hacker-news-daily-october-15-2025/",
@@ -146,6 +181,13 @@
       "link": "https://kexue.fm/archives/11335",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png"
+    },
+    {
+      "title": "Agents 2.0: From Shallow Loops to Deep Agents",
+      "created": "2025-10-12 08:00",
+      "link": "https://www.philschmid.de/agents-2.0-deep-agents",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico"
     },
     {
       "title": "LeoTalk · Hacker News Daily · 2025.10.12",
@@ -286,13 +328,6 @@
       "link": "https://kexue.fm/archives/11307",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png"
-    },
-    {
-      "title": "AI 智能体的上下文工程：实用指南",
-      "created": "2025-10-01 09:28",
-      "link": "https://baoyu.io/translations/effective-context-engineering-for-ai-agents",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico"
     },
     {
       "title": "不同姿势部署Anheyu-App应用",
@@ -463,13 +498,6 @@
       "avatar": "https://imqi1.com/avatar.webp"
     },
     {
-      "title": "蓝屏报错 clock watchdog timeout 的一次经历，开机1分30秒必定死机",
-      "created": "2025-09-16 10:40",
-      "link": "https://blog.zhheo.com/p/7zoumq5l.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
       "title": "使用 Python 脚本实现图片相似度匹配",
       "created": "2025-09-16 00:00",
       "link": "https://dusays.com/827/",
@@ -484,18 +512,11 @@
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png"
     },
     {
-      "title": "让你的Mac巨省电，使用EfficiencyTool自定义程序在性能核心还是节能核心上运行",
-      "created": "2025-09-15 10:48",
-      "link": "https://blog.zhheo.com/p/25udchxs.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "OpenWrt如何启用DoH？让软路由下的设备使用 DNS over HTTPS",
-      "created": "2025-09-12 18:30",
-      "link": "https://blog.zhheo.com/p/tvu4kf6v.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+      "title": "The Rise of Subagents",
+      "created": "2025-09-15 08:00",
+      "link": "https://www.philschmid.de/the-rise-of-subagents",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico"
     },
     {
       "title": "科技爱好者周刊（第 365 期）：流量变现正在崩塌",
@@ -596,6 +617,13 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
+      "title": "The 10 Steps for product AI generation with Gemini 2.5 Flash",
+      "created": "2025-08-27 08:00",
+      "link": "https://www.philschmid.de/gemini-image-generation-product",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico"
+    },
+    {
       "title": "纯 Python 实现简易版本的前向计算图捕获工具 torch.fx.symbolic_trace",
       "created": "2025-08-26 07:06",
       "link": "https://kirigaya.cn/blog/article?seq=348",
@@ -666,6 +694,13 @@
       "avatar": "https://www.imaegoo.com/images/avatar.jpg"
     },
     {
+      "title": "Memory in Agents, Make LLMs remember.",
+      "created": "2025-08-04 08:00",
+      "link": "https://www.philschmid.de/memory-in-agents",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico"
+    },
+    {
       "title": "第035期 - 釜沸生香",
       "created": "2025-08-03 08:00",
       "link": "https://rrorangeandfriends.de/posts/2025/035",
@@ -706,6 +741,20 @@
       "link": "https://kirigaya.cn/blog/article?seq=344",
       "author": "锦恢",
       "avatar": "https://kirigaya.cn/favicon.png"
+    },
+    {
+      "title": "Google Gemini CLI Cheatsheet",
+      "created": "2025-07-24 08:00",
+      "link": "https://www.philschmid.de/gemini-cli-cheatsheet",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico"
+    },
+    {
+      "title": "Code Sandbox MCP: A Simple Code Interpreter for Your AI Agents",
+      "created": "2025-07-22 08:00",
+      "link": "https://www.philschmid.de/code-sandbox-mcp",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico"
     },
     {
       "title": "第034期 - 云腴沁粉",
@@ -750,11 +799,25 @@
       "avatar": "https://imqi1.com/avatar.webp"
     },
     {
+      "title": "Integrating Long-Term Memory with Gemini 2.5",
+      "created": "2025-07-03 08:00",
+      "link": "https://www.philschmid.de/gemini-with-memory",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico"
+    },
+    {
       "title": "通关《捞女游戏》",
       "created": "2025-07-01 00:56",
       "link": "https://imqi1.com/note/792",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp"
+    },
+    {
+      "title": "The New Skill in AI is Not Prompting, It's Context Engineering",
+      "created": "2025-06-30 08:00",
+      "link": "https://www.philschmid.de/context-engineering",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico"
     },
     {
       "title": "腾讯代码托管服务 Coding 将停服",
@@ -776,6 +839,13 @@
       "link": "https://imqi1.com/tech/790",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp"
+    },
+    {
+      "title": "Single vs Multi-Agent System?",
+      "created": "2025-06-20 08:00",
+      "link": "https://www.philschmid.de/single-vs-multi-agents",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico"
     },
     {
       "title": "第032期 - Mojito",
