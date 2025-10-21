@@ -4,11 +4,32 @@
     "active_num": 14,
     "error_num": 0,
     "article_num": 127,
-    "last_updated_time": "2025-10-21 20:23:24"
+    "last_updated_time": "2025-10-22 02:15:33"
   },
   "article_data": [
     {
-      "title": "MuP之上：1. 好模型的自我修养",
+      "title": "🪛 OpenMCP 重磅推出调用链可视化 & 季度小结",
+      "created": "2025-10-22 07:56",
+      "link": "https://kirigaya.cn/blog/article?seq=355",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png"
+    },
+    {
+      "title": "错误处理：异常好于状态码",
+      "created": "2025-10-22 00:28",
+      "link": "http://www.ruanyifeng.com/blog/2025/10/exception.html",
+      "author": "阮一峰",
+      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg"
+    },
+    {
+      "title": "MinIO 社区版 Web 管理界面被删事件全解析",
+      "created": "2025-10-22 00:00",
+      "link": "https://dusays.com/833/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "title": "MuP之上：1. 好模型的三个特征",
       "created": "2025-10-21 15:19",
       "link": "https://kexue.fm/archives/11340",
       "author": "苏剑林",
@@ -22,11 +43,25 @@
       "avatar": "https://baoyu.io/favicon.ico"
     },
     {
+      "title": "大模型上下文工程实践指南-第6章：工具使用与MCP",
+      "created": "2025-10-21 08:00",
+      "link": "https://ifuryst.github.io/blog/2025/ce101-6-tool-use-and-mcp/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4"
+    },
+    {
       "title": "如何在课程中取得好成绩 —— Andrej 的成功建议",
       "created": "2025-10-21 03:10",
       "link": "https://baoyu.io/translations/karpathy-advice",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico"
+    },
+    {
+      "title": "将电热毯通过 Homeassistant 接入 Homekit 并支持调节档位",
+      "created": "2025-10-20 12:20",
+      "link": "https://blog.zhheo.com/p/eqc0vrd6.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "LeoTalk AI周知 5: Deep Agent",
@@ -90,6 +125,20 @@
       "link": "https://kirigaya.cn/blog/article?seq=353",
       "author": "锦恢",
       "avatar": "https://kirigaya.cn/favicon.png"
+    },
+    {
+      "title": "Final Cut Pro 资源库文件过大如何解决？如何清理资源库中的渲染文件和缓存？",
+      "created": "2025-10-17 17:37",
+      "link": "https://blog.zhheo.com/p/zvkkf5jm.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "Final Cut Pro 视频导出参数如何自定义码率？导出参数详细设置",
+      "created": "2025-10-17 17:21",
+      "link": "https://blog.zhheo.com/p/k34vgibs.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈",
@@ -202,13 +251,6 @@
       "link": "https://blog.zhheo.com/p/o5o9gtsr.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "LeoTalk · Hacker News Daily · 2025.10.09",
-      "created": "2025-10-09 08:00",
-      "link": "https://ifuryst.github.io/blog/2025/leotalk-hacker-news-daily-october-9-2025/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4"
     },
     {
       "title": "DiVeQ：一种非常简洁的VQ训练方案",
@@ -414,13 +456,6 @@
       "avatar": "https://imqi1.com/avatar.webp"
     },
     {
-      "title": "蓝屏报错 clock watchdog timeout 的一次经历，开机1分30秒必定死机",
-      "created": "2025-09-16 10:40",
-      "link": "https://blog.zhheo.com/p/7zoumq5l.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
       "title": "使用 Python 脚本实现图片相似度匹配",
       "created": "2025-09-16 00:00",
       "link": "https://dusays.com/827/",
@@ -435,32 +470,11 @@
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png"
     },
     {
-      "title": "让你的Mac巨省电，使用EfficiencyTool自定义程序在性能核心还是节能核心上运行",
-      "created": "2025-09-15 10:48",
-      "link": "https://blog.zhheo.com/p/25udchxs.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
       "title": "The Rise of Subagents",
       "created": "2025-09-15 08:00",
       "link": "https://www.philschmid.de/the-rise-of-subagents",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico"
-    },
-    {
-      "title": "OpenWrt如何启用DoH？让软路由下的设备使用 DNS over HTTPS",
-      "created": "2025-09-12 18:30",
-      "link": "https://blog.zhheo.com/p/tvu4kf6v.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "科技爱好者周刊（第 365 期）：流量变现正在崩塌",
-      "created": "2025-09-12 08:07",
-      "link": "http://www.ruanyifeng.com/blog/2025/09/weekly-issue-365.html",
-      "author": "阮一峰",
-      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg"
     },
     {
       "title": "重新思考学习率与Batch Size（二）：平均场",
@@ -547,13 +561,6 @@
       "avatar": "https://kirigaya.cn/favicon.png"
     },
     {
-      "title": "探索扣子空间「邀请码不限量分享」",
-      "created": "2025-08-23 00:00",
-      "link": "https://dusays.com/823/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png"
-    },
-    {
       "title": "nestjs 中创建 sse 连接的几个坑",
       "created": "2025-08-18 06:15",
       "link": "https://kirigaya.cn/blog/article?seq=347",
@@ -622,13 +629,6 @@
       "link": "https://blog.liushen.fun/posts/de5fc13c/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "title": "Drawio MCP，让你可以制作一个帮你绘制流程图的 AI Agent",
-      "created": "2025-07-24 08:16",
-      "link": "https://kirigaya.cn/blog/article?seq=344",
-      "author": "锦恢",
-      "avatar": "https://kirigaya.cn/favicon.png"
     },
     {
       "title": "Google Gemini CLI Cheatsheet",
