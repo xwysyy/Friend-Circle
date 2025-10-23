@@ -1,10 +1,10 @@
 {
   "statistical_data": {
-    "friends_num": 14,
-    "active_num": 14,
+    "friends_num": 15,
+    "active_num": 15,
     "error_num": 0,
-    "article_num": 127,
-    "last_updated_time": "2025-10-23 14:27:34"
+    "article_num": 137,
+    "last_updated_time": "2025-10-23 17:19:41"
   },
   "article_data": [
     {
@@ -272,6 +272,13 @@
       "link": "https://ifuryst.github.io/blog/2025/leotalk-hacker-news-daily-october-12-2025/",
       "author": "ifuryst",
       "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4"
+    },
+    {
+      "title": "模型量化操作————GPTQ和AWQ量化",
+      "created": "2025-10-11 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/10/11/Quantized.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico"
     },
     {
       "title": "我身陷“凭感觉编程”的地狱",
@@ -547,11 +554,25 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "title": "多模态模型——QwenVL2.5的微调以及强化学习代码操作",
+      "created": "2025-08-29 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/08/29/QwenVLCode.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico"
+    },
+    {
       "title": "合肥游记「多图预警」",
       "created": "2025-08-29 00:00",
       "link": "https://dusays.com/824/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "title": "多模态算法QwenVL、KimiVL等算法原理",
+      "created": "2025-08-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/08/28/MultiModal2.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico"
     },
     {
       "title": "The 10 Steps for product AI generation with Gemini 2.5 Flash",
@@ -580,6 +601,13 @@
       "link": "https://imqi1.com/note/830",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp"
+    },
+    {
+      "title": "常见的各类LLM基座模型（GPT、DeepSeek、Qwen等）模型解析以及对比",
+      "created": "2025-08-15 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/08/15/LLM.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico"
     },
     {
       "title": "循一缕风，入山偷得夏日凉",
@@ -638,6 +666,13 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "title": "图像消除论文-2：RORem、ObjectClear",
+      "created": "2025-07-25 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/07/25/ImageEraser2.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico"
+    },
+    {
       "title": "Google Gemini CLI Cheatsheet",
       "created": "2025-07-24 08:00",
       "link": "https://www.philschmid.de/gemini-cli-cheatsheet",
@@ -680,6 +715,27 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "title": "README",
+      "created": "2025-07-06 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/07/06/life-1.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico"
+    },
+    {
+      "title": "深入浅出了解生成模型-7：调度器（scheduler）原理",
+      "created": "2025-07-06 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/07/06/DFscheduler.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico"
+    },
+    {
+      "title": "深入浅出了解生成模型-6：常用基座模型与 Adapters等解析",
+      "created": "2025-07-06 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/07/06/DFBaseModel.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico"
+    },
+    {
       "title": "SCDN新方案，如何免费申请EdgeOne兑换码",
       "created": "2025-07-04 20:56",
       "link": "https://imqi1.com/tech/802",
@@ -694,6 +750,13 @@
       "avatar": "https://www.philschmid.de/favicon.ico"
     },
     {
+      "title": "pytorch使用-1：pytorch中基础概念",
+      "created": "2025-07-01 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/07/01/torch_basic.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico"
+    },
+    {
       "title": "通关《捞女游戏》",
       "created": "2025-07-01 00:56",
       "link": "https://imqi1.com/note/792",
@@ -706,6 +769,13 @@
       "link": "https://www.philschmid.de/context-engineering",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico"
+    },
+    {
+      "title": "CV中常用Backbone-4：目标检查算法原理以及代码操作",
+      "created": "2025-06-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/06/28/Objectdetection.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico"
     },
     {
       "title": "第033期 - 一球听海",
