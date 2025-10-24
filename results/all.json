@@ -1,12 +1,19 @@
 {
   "statistical_data": {
-    "friends_num": 15,
-    "active_num": 15,
+    "friends_num": 16,
+    "active_num": 16,
     "error_num": 0,
-    "article_num": 137,
-    "last_updated_time": "2025-10-24 18:20:24"
+    "article_num": 147,
+    "last_updated_time": "2025-10-24 19:23:16"
   },
   "article_data": [
+    {
+      "title": "Final Cut Pro 音频降噪、人声增强插件，优化视频中的人声表现",
+      "created": "2025-10-24 17:53",
+      "link": "https://blog.zhheo.com/p/x8l6npg3.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
     {
       "title": "Final Cut Pro 如何给人物抠像？使用 FxFactory 实现人物抠像功能",
       "created": "2025-10-24 11:55",
@@ -50,6 +57,34 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
+      "title": "OpenAI no longer has to preserve all of its ChatGPT data, with some exceptions",
+      "created": "2025-10-23 13:19",
+      "link": "https://simonwillison.net/2025/Oct/23/openai-no-longer-has-to-preserve/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png"
+    },
+    {
+      "title": "Quoting AWS",
+      "created": "2025-10-23 12:49",
+      "link": "https://simonwillison.net/2025/Oct/23/aws-postmortem/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png"
+    },
+    {
+      "title": "Video: Building a tool to copy-paste share terminal sessions using Claude Code for web",
+      "created": "2025-10-23 12:14",
+      "link": "https://simonwillison.net/2025/Oct/23/claude-code-for-web-video/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png"
+    },
+    {
+      "title": "Dane Stuckey (OpenAI CISO) on prompt injection risks for ChatGPT Atlas",
+      "created": "2025-10-23 04:43",
+      "link": "https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png"
+    },
+    {
       "title": "“学术论文科普”提示词，把枯燥的学术论文变成通俗易懂的科普文",
       "created": "2025-10-23 02:59",
       "link": "https://baoyu.io/blog/turn-academic-papers-into-popular-science-prompt",
@@ -62,6 +97,20 @@
       "link": "https://imqi1.com/note/845",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp"
+    },
+    {
+      "title": "Living dangerously with Claude",
+      "created": "2025-10-22 20:20",
+      "link": "https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png"
+    },
+    {
+      "title": "SLOCCount in WebAssembly",
+      "created": "2025-10-22 14:12",
+      "link": "https://simonwillison.net/2025/Oct/22/sloccount-in-webassembly/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png"
     },
     {
       "title": "视觉设计提升实用指南",
@@ -99,11 +148,32 @@
       "avatar": "https://baoyu.io/favicon.ico"
     },
     {
+      "title": "Don't let Claude Code delete your session logs",
+      "created": "2025-10-22 08:45",
+      "link": "https://simonwillison.net/2025/Oct/22/claude-code-logs/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png"
+    },
+    {
       "title": "🪛 OpenMCP 重磅推出调用链可视化 & 季度小结",
       "created": "2025-10-22 07:56",
       "link": "https://kirigaya.cn/blog/article?seq=355",
       "author": "锦恢",
       "avatar": "https://kirigaya.cn/favicon.png"
+    },
+    {
+      "title": "Unseeable prompt injections in screenshots: more vulnerabilities in Comet and other AI browsers",
+      "created": "2025-10-22 06:12",
+      "link": "https://simonwillison.net/2025/Oct/21/unseeable-prompt-injections/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png"
+    },
+    {
+      "title": "Introducing ChatGPT Atlas",
+      "created": "2025-10-22 02:45",
+      "link": "https://simonwillison.net/2025/Oct/21/introducing-chatgpt-atlas/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png"
     },
     {
       "title": "错误处理：异常好于状态码",
@@ -125,6 +195,13 @@
       "link": "https://kexue.fm/archives/11340",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png"
+    },
+    {
+      "title": "Quoting Phil Gyford",
+      "created": "2025-10-21 10:40",
+      "link": "https://simonwillison.net/2025/Oct/21/phil-gyford/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png"
     },
     {
       "title": "怎样才算好文档？",
@@ -440,13 +517,6 @@
       "link": "https://kexue.fm/archives/11301",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png"
-    },
-    {
-      "title": "如何批量下载抖音某一个博主的全部视频，抖音视频批量下载方法",
-      "created": "2025-09-22 10:10",
-      "link": "https://blog.zhheo.com/p/u4t3kbx9.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "Ubuntu 系统无法通过 pip 命令安装 Python 库问题解决",
