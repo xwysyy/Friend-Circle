@@ -4,9 +4,44 @@
     "active_num": 17,
     "error_num": 0,
     "article_num": 157,
-    "last_updated_time": "2025-10-26 14:25:30"
+    "last_updated_time": "2025-10-26 18:17:20"
   },
   "article_data": [
+    {
+      "title": "RAG 和 CE 是什么关系？我们真的需要 RAG 吗？",
+      "created": "2025-10-27 01:42",
+      "link": "https://kirigaya.cn/blog/article?seq=356",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png"
+    },
+    {
+      "title": "连马桶都会看图说话了，巨头敢卖，你敢坐么？",
+      "created": "2025-10-26 12:03",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650997853&idx=1&sn=56756abaab5e90240bc57e5f5724880a",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico"
+    },
+    {
+      "title": "打造图像编辑领域的ImageNet？苹果用Nano Banana开源了一个超大数据集",
+      "created": "2025-10-26 12:03",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650997853&idx=2&sn=2bd93466fe509df28782e2605a1b627a",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico"
+    },
+    {
+      "title": "NVIDIA港大MIT联合推出Fast-dLLM v2：端到端吞吐量提升2.5倍",
+      "created": "2025-10-26 12:03",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650997853&idx=3&sn=49320f031dd49a6b0e0a11a318cda424",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico"
+    },
+    {
+      "title": "深度拆解，硬核解构，揭开vLLM推理系统实现高效吞吐的秘籍",
+      "created": "2025-10-26 12:03",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650997853&idx=4&sn=ddf1d251e7a6ffefc8293431457f8af3",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico"
+    },
     {
       "title": "LeoTalk · Hacker News Daily · 2025.10.26",
       "created": "2025-10-26 08:00",
@@ -99,13 +134,6 @@
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png"
     },
     {
-      "title": "Final Cut Pro 音频降噪、人声增强插件，优化视频中的人声表现",
-      "created": "2025-10-24 17:53",
-      "link": "https://blog.zhheo.com/p/x8l6npg3.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
       "title": "死磕「文本智能」，多模态研究的下一个前沿",
       "created": "2025-10-24 14:23",
       "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650997488&idx=1&sn=ffebc93253fec56d23c6abd642af3078",
@@ -116,13 +144,6 @@
       "title": "Meta裁员后续：田渊栋被过河拆桥，姚顺雨等集体「抢人」",
       "created": "2025-10-24 14:23",
       "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650997488&idx=2&sn=2bf3aee4de2c139d227bb943b5771d7f",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico"
-    },
-    {
-      "title": "Seedream 4.0大战Nano Banana、GPT-4o？EdiVal-Agent 终结图像编辑评测",
-      "created": "2025-10-24 14:23",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650997488&idx=3&sn=b8688690e91fe24f1ed3901a99d233b1",
       "author": "机器之心",
       "avatar": "https://www.jiqizhixin.com/favicon.ico"
     },
@@ -174,27 +195,6 @@
       "link": "https://simonwillison.net/2025/Oct/23/openai-no-longer-has-to-preserve/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png"
-    },
-    {
-      "title": "谷歌最强AI，被港科大开源超了？让海外创作者喊出「King Bomb」的P图大杀器来了",
-      "created": "2025-10-23 13:07",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650997283&idx=1&sn=c49b7f7af9d9b4d8c5d1a54f6666896a",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico"
-    },
-    {
-      "title": "10个视频9个看走眼：连真视频都打Sora水印碰瓷，这世界还能信啥？",
-      "created": "2025-10-23 13:07",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650997283&idx=2&sn=d9cd3c61cac0a513cb90a1057410b3b1",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico"
-    },
-    {
-      "title": "无VAE扩散模型！ 清华&可灵团队「撞车」谢赛宁团队「RAE」",
-      "created": "2025-10-23 13:07",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650997283&idx=3&sn=5f360bd0e002a0b13a56108054adf6ea",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico"
     },
     {
       "title": "Quoting AWS",
@@ -589,6 +589,13 @@
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png"
     },
     {
+      "title": "如何批量下载抖音某一个博主的全部视频，抖音视频批量下载方法",
+      "created": "2025-09-22 10:10",
+      "link": "https://blog.zhheo.com/p/u4t3kbx9.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
       "title": "Ubuntu 系统无法通过 pip 命令安装 Python 库问题解决",
       "created": "2025-09-22 00:00",
       "link": "https://dusays.com/828/",
@@ -790,13 +797,6 @@
       "link": "https://imqi1.com/note/818",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp"
-    },
-    {
-      "title": "如何约束大模型严格输出指定内容？引导解码器 Guided Decoder 原理讲解 & 实战演示",
-      "created": "2025-07-26 06:21",
-      "link": "https://kirigaya.cn/blog/article?seq=345",
-      "author": "锦恢",
-      "avatar": "https://kirigaya.cn/favicon.png"
     },
     {
       "title": "Forgejo及其Action自部署简明教程",
