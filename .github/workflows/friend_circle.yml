@@ -2,7 +2,7 @@ name: Friend Circle
 
 on:
   schedule:
-     - cron: "0 0,3,6,10,14,16 * * *"  # Runs at 08,11,14,18,22,24 Shanghai time (UTC+8)
+    - cron: "0 */4 * * *"
   workflow_dispatch:
   push:
     branches:
