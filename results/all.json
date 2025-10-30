@@ -1,10 +1,10 @@
 {
   "statistical_data": {
-    "friends_num": 17,
-    "active_num": 17,
+    "friends_num": 18,
+    "active_num": 18,
     "error_num": 0,
-    "article_num": 157,
-    "last_updated_time": "2025-10-31 00:20:20"
+    "article_num": 167,
+    "last_updated_time": "2025-10-31 01:25:39"
   },
   "article_data": [
     {
@@ -533,6 +533,13 @@
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png"
     },
     {
+      "title": "Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)",
+      "created": "2025-10-05 08:06",
+      "link": "https://sebastianraschka.com/blog/2025/llm-evaluation-4-approaches.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico"
+    },
+    {
       "title": "2025-09-合法赚钱就是高尚的（月度小结）",
       "created": "2025-10-05 06:18",
       "link": "https://yuanchaofa.com/blog/2025-09-month-summary.html",
@@ -687,6 +694,13 @@
       "avatar": "https://kirigaya.cn/favicon.png"
     },
     {
+      "title": "Understanding and Implementing Qwen3 From Scratch",
+      "created": "2025-09-06 16:00",
+      "link": "https://sebastianraschka.com/blog/2025/qwen3-from-scratch.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico"
+    },
+    {
       "title": "天津游记「多图预警」",
       "created": "2025-09-04 00:00",
       "link": "https://dusays.com/825/",
@@ -764,6 +778,13 @@
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico"
     },
     {
+      "title": "From GPT-2 to gpt-oss: Analyzing the Architectural Advances",
+      "created": "2025-08-09 19:00",
+      "link": "https://sebastianraschka.com/blog/2025/from-gpt-2-to-gpt-oss.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico"
+    },
+    {
       "title": "循一缕风，入山偷得夏日凉",
       "created": "2025-08-08 13:50",
       "link": "https://blog.liushen.fun/posts/aae6fd55/",
@@ -834,6 +855,13 @@
       "avatar": "https://www.philschmid.de/favicon.ico"
     },
     {
+      "title": "The Big LLM Architecture Comparison",
+      "created": "2025-07-19 14:00",
+      "link": "https://sebastianraschka.com/blog/2025/the-big-llm-architecture-comparison.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico"
+    },
+    {
       "title": "第034期 - 云腴沁粉",
       "created": "2025-07-19 08:00",
       "link": "https://rrorangeandfriends.de/posts/2025/034",
@@ -897,6 +925,13 @@
       "avatar": "https://www.philschmid.de/favicon.ico"
     },
     {
+      "title": "LLM Research Papers: The 2025 List (January to June)",
+      "created": "2025-07-01 14:06",
+      "link": "https://sebastianraschka.com/blog/2025/llm-research-papers-the-2025-list-january-to-june.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico"
+    },
+    {
       "title": "pytorch使用-1：pytorch中基础概念",
       "created": "2025-07-01 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/07/01/torch_basic.html",
@@ -932,6 +967,13 @@
       "avatar": "https://rrorangeandfriends.de/favicon.png"
     },
     {
+      "title": "Understanding and Coding the KV Cache in LLMs from Scratch",
+      "created": "2025-06-17 16:00",
+      "link": "https://sebastianraschka.com/blog/2025/coding-the-kv-cache-in-llms.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico"
+    },
+    {
       "title": "第032期 - Mojito",
       "created": "2025-06-01 08:00",
       "link": "https://rrorangeandfriends.de/posts/2025/032",
@@ -939,11 +981,39 @@
       "avatar": "https://rrorangeandfriends.de/favicon.png"
     },
     {
+      "title": "Coding LLMs from the Ground Up: A Complete Course",
+      "created": "2025-05-10 08:00",
+      "link": "https://sebastianraschka.com/blog/2025/coding-llms-from-the-ground-up-a-complete-course.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico"
+    },
+    {
       "title": "Why We Think",
       "created": "2025-05-01 08:00",
       "link": "https://lilianweng.github.io/posts/2025-05-01-thinking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4"
+    },
+    {
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://sebastianraschka.com/blog/2025/the-state-of-reinforcement-learning-for-llm-reasoning.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico"
+    },
+    {
+      "title": "First Look at Reasoning From Scratch: Chapter 1",
+      "created": "2025-03-29 14:03",
+      "link": "https://sebastianraschka.com/blog/2025/first-look-at-reasoning-from-scratch.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico"
+    },
+    {
+      "title": "Inference-Time Compute Scaling Methods to Improve Reasoning Models",
+      "created": "2025-03-08 14:03",
+      "link": "https://sebastianraschka.com/blog/2025/state-of-llm-reasoning-and-inference-scaling.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico"
     },
     {
       "title": "LLM MOE的进化之路，从普通简化 MOE，到 sparse moe，再到 deepseek 使用的 share_expert sparse moe",
