@@ -7,7 +7,7 @@
 spider_settings:
   enable: true
   json_url: "config/friend.json"
-  article_count: 10
+  article_count: 100
   max_workers: 5
   # 可选：文章链接改写（按友链名或域名匹配，执行前缀/正则替换）
   link_rewrites:
