@@ -4,9 +4,16 @@
     "active_num": 18,
     "error_num": 0,
     "article_num": 267,
-    "last_updated_time": "2025-10-31 06:14:43"
+    "last_updated_time": "2025-10-31 09:11:52"
   },
   "article_data": [
+    {
+      "title": "科技爱好者周刊（第 371 期）：一个乐观主义者的专访",
+      "created": "2025-10-31 08:09",
+      "link": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-371.html",
+      "author": "阮一峰",
+      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg"
+    },
     {
       "title": "为什么我需要设计回流系统？openmcp reflux 用量化指标帮你让你更加了解你的 Agent 系统与 MCP",
       "created": "2025-10-31 06:32",
@@ -97,6 +104,13 @@
       "link": "https://baoyu.io/translations/the-new-calculus-of-ai-based-coding.html",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico"
+    },
+    {
+      "title": "DGX Spark and Mac Mini for Local PyTorch Development",
+      "created": "2025-10-29 08:06",
+      "link": "https://sebastianraschka.com/blog/2025/dgx-impressions.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico"
     },
     {
       "title": "Hacking the WiFi-enabled color screen GitHub Universe conference badge",
@@ -811,13 +825,6 @@
       "link": "https://imqi1.com/discuss/836",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp"
-    },
-    {
-      "title": "科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用",
-      "created": "2025-09-26 08:08",
-      "link": "http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html",
-      "author": "阮一峰",
-      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg"
     },
     {
       "title": "升级到 macOS Tahoe 26 没有启动台？用 LaunchNext 实现在 macOS26 中使用启动台！",
@@ -1742,13 +1749,6 @@
       "link": "https://lilianweng.github.io/posts/2024-07-07-hallucination/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4"
-    },
-    {
-      "title": "Developing an LLM: Building, Training, Finetuning",
-      "created": "2024-06-02 14:03",
-      "link": "https://sebastianraschka.com/blog/2024/llms-building-training-finetuning.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico"
     },
     {
       "title": "Diffusion Models for Video Generation",
