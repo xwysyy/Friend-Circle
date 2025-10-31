@@ -4,7 +4,7 @@
     "active_num": 18,
     "error_num": 0,
     "article_num": 267,
-    "last_updated_time": "2025-10-31 14:23:45"
+    "last_updated_time": "2025-10-31 16:20:26"
   },
   "article_data": [
     {
@@ -13,6 +13,27 @@
       "link": "https://blog.zhheo.com/p/a8cqpj9s.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "刚刚，Kimi开源新架构，开始押注线性注意力",
+      "created": "2025-10-31 12:09",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650999192&idx=1&sn=10755327ea1686f446af56ca04d686c7",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico"
+    },
+    {
+      "title": "L4大方向有了：理想自动驾驶团队，在全球AI顶会上揭幕新范式",
+      "created": "2025-10-31 12:09",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650999192&idx=2&sn=388b15388ea98f88371d1ddddfd460ad",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico"
+    },
+    {
+      "title": "港科提出新算法革新大模型推理范式：随机策略估值竟成LLM数学推理「神操作」",
+      "created": "2025-10-31 12:09",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650999192&idx=3&sn=5fa8d222a14423dd66bfa0f3f81c9825",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico"
     },
     {
       "title": "科技爱好者周刊（第 371 期）：一个乐观主义者的专访",
@@ -27,6 +48,34 @@
       "link": "https://kirigaya.cn/blog/article?seq=357",
       "author": "锦恢",
       "avatar": "https://kirigaya.cn/favicon.png"
+    },
+    {
+      "title": "刚刚，智源悟界·Emu3.5登场，原生具备世界建模能力",
+      "created": "2025-10-30 16:50",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650999086&idx=1&sn=d74ff35496022cec359245f95c64917d",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico"
+    },
+    {
+      "title": "扩散语言模型新发现：其计算潜力正在被浪费？",
+      "created": "2025-10-30 16:50",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650999086&idx=2&sn=0bc4a6f4b2515f4e118ac774b8e87f08",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico"
+    },
+    {
+      "title": "世界模型可单GPU秒级生成了？厦大、腾讯开源FlashWorld，效果惊艳、免费体验",
+      "created": "2025-10-30 16:50",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650999086&idx=3&sn=91cd947497796ff89c2d749b8c38608f",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico"
+    },
+    {
+      "title": "人大、清华DeepAnalyze，让LLM化身数据科学家",
+      "created": "2025-10-30 16:50",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650999086&idx=4&sn=f898cfabaddc40a56961c419a8c47129",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico"
     },
     {
       "title": "Quoting François Chollet",
@@ -260,27 +309,6 @@
       "avatar": "https://www.jiqizhixin.com/favicon.ico"
     },
     {
-      "title": "打造图像编辑领域的ImageNet？苹果用Nano Banana开源了一个超大数据集",
-      "created": "2025-10-26 12:03",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650997853&idx=2&sn=2bd93466fe509df28782e2605a1b627a",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico"
-    },
-    {
-      "title": "NVIDIA港大MIT联合推出Fast-dLLM v2：端到端吞吐量提升2.5倍",
-      "created": "2025-10-26 12:03",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650997853&idx=3&sn=49320f031dd49a6b0e0a11a318cda424",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico"
-    },
-    {
-      "title": "深度拆解，硬核解构，揭开vLLM推理系统实现高效吞吐的秘籍",
-      "created": "2025-10-26 12:03",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650997853&idx=4&sn=ddf1d251e7a6ffefc8293431457f8af3",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico"
-    },
-    {
       "title": "LeoTalk · Hacker News Daily · 2025.10.26",
       "created": "2025-10-26 08:00",
       "link": "https://ifuryst.github.io/blog/2025/leotalk-hacker-news-daily-october-26-2025/",
@@ -300,34 +328,6 @@
       "link": "https://simonwillison.net/2025/Oct/25/claude-docs/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png"
-    },
-    {
-      "title": "Yoshua Bengio，刚刚成为全球首个百万引用科学家！",
-      "created": "2025-10-25 12:24",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650997783&idx=1&sn=0f796e9cbaf70b81378e4cb06ba7ea90",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico"
-    },
-    {
-      "title": "Anthropic、Thinking Machines Lab论文曝光：30万次压力测试揭示AI规范缺陷",
-      "created": "2025-10-25 12:24",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650997783&idx=2&sn=5bbb8649a97080c4794eae4313774b85",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico"
-    },
-    {
-      "title": "让机器人「不仅会想，还能准确去做」，VLA-R1把「推理+行动」带进真实世界",
-      "created": "2025-10-25 12:24",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650997783&idx=3&sn=a48af9f359750553c5aaa3006f903a6a",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico"
-    },
-    {
-      "title": "NeurIPS 2025 | ARGRE框架实现高效LLM解毒：自回归奖励引导，安全对齐更快、更准、更轻",
-      "created": "2025-10-25 12:24",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650997783&idx=4&sn=5ee383875da786805b097e0ca531911b",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico"
     },
     {
       "title": "Visual Features Across Modalities: SVG and ASCII Art Reveal Cross-Modal Understanding",
