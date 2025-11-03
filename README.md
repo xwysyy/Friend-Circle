@@ -23,6 +23,7 @@
 - 🧭 时间统一：输出时间格式 `YYYY-MM-DD HH:MM`，缺失时合理兜底。
 - 🧩 RSS/Atom 兼容：多源解析，结构化为统一 JSON。
 - 🧪 可本地/远程数据源：`json_url` 支持文件或 HTTP(S)。
+- 🗂 分类支持：同目录下多个 JSON 自动合并，并按文件名注入 `category` 字段。
 - 🛰️ 自动化：GitHub Actions 每 6 小时定时更新，可手动触发。
 
 ## 📦 快速开始
@@ -40,6 +41,7 @@ uv pip install -r requirements.txt
 
 - `spider_settings.enable`：是否启用抓取（`true/false`）
 - `spider_settings.json_url`：你的 `friend.json`（本地路径或 HTTP/HTTPS，默认 `config/friend.json`）
+- 若 `json_url` 指向本地文件，则会扫描其所在目录下全部 `*.json` 一并聚合，并按文件名作为分类名（见下文“分类与多 JSON 数据源”）。
 - `spider_settings.article_count`：每个博客抓取的最大文章数
 - `spider_settings.max_workers`：抓取并发（建议 5–20，视机器与友链规模）
 
@@ -49,7 +51,7 @@ uv pip install -r requirements.txt
 uv run python run.py
 ```
 
-完成后在 `results/` 下生成：`all.json`、`errors.json`、`grab.log`。
+完成后在 `results/` 下生成：`all.json`、`errors.json`、`grab.log`（`all.json` 的每篇文章包含 `category`）。
 
 ## 🔧 配置详解（conf.yaml）
 
@@ -80,6 +82,34 @@ spider_settings:
   ]
 }
 ```
+
+## 🗂 分类与多 JSON 数据源
+
+- 如果 `spider_settings.json_url` 指向本地路径（例如 `config/friend.json`），程序会在其所在目录扫描全部 `*.json` 文件，按“文件名去扩展名”作为分类名，自动合并为一个输出。
+- 如果是远程 `http(s)` 路径，或未能定位到本地目录，则回退为单一来源；此时分类名会尝试由 URL 的文件名推断，例如 `friend`，无法推断时使用 `default`。
+- 示例：
+
+```
+config/
+├── friend.json     # 分类名：friend
+├── ai.json         # 分类名：ai
+└── frontend.json   # 分类名：frontend
+```
+
+- 输出 `results/all.json` 中的每条文章会包含 `category` 字段，例如：
+
+```json
+{
+  "title": "AI深度应用关键元年，快手重塑内容与商业价值",
+  "created": "2025-11-03 12:01",
+  "link": "https://mp.weixin.qq.com/s?__biz=...",
+  "author": "机器之心",
+  "avatar": "https://www.jiqizhixin.com/favicon.ico",
+  "category": "friend"
+}
+```
+
+说明：`results/errors.json` 仍为抓取失败的原始友链条目列表（4 元组），未额外携带分类标注。
 
 ## 📤 运行产物与日志（`results/`）
 
