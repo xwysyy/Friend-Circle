@@ -17,6 +17,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib3.util import Retry
 from requests.adapters import HTTPAdapter
 from zoneinfo import ZoneInfo
+import os
 
 
 headers = {
@@ -383,20 +384,80 @@ def collect_from_config(config: JSONDict) -> Tuple[JSONDict, List[Any]]:
     json_url = spider.get('json_url', '')
     article_count = int(spider.get('article_count', 5))
     max_workers = int(spider.get('max_workers', 10))
-    result, errors = fetch_and_process_data(
-        json_url=json_url,
-        count=article_count,
-        max_workers=max_workers,
-    )
+
+    # 统一聚合容器（支持多 JSON 分类聚合）
+    aggregated_result: JSONDict = {
+        'statistical_data': {
+            'friends_num': 0,
+            'active_num': 0,
+            'error_num': 0,
+            'article_num': 0,
+            'last_updated_time': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+        },
+        'article_data': [],
+    }
+    aggregated_errors: List[Any] = []
+
+    # 解析 json_url 所在目录；若为本地路径，则搜集该目录下所有 .json 作为分类来源
+    json_sources: List[Tuple[str, str]] = []  # (json_path_or_url, category)
+    try:
+        if json_url and not (json_url.startswith('http://') or json_url.startswith('https://')):
+            base_dir = os.path.dirname(json_url) or '.'
+            if os.path.isdir(base_dir):
+                for name in os.listdir(base_dir):
+                    if not name.lower().endswith('.json'):
+                        continue
+                    # 使用文件名（无后缀）作为分类名
+                    category = os.path.splitext(name)[0]
+                    json_sources.append((os.path.join(base_dir, name), category))
+                if json_sources:
+                    logging.info(
+                        f"已启用分类模式：共发现 {len(json_sources)} 个 JSON 数据源于 {base_dir}"
+                    )
+        # 若未发现本地多 JSON，则回退到单一来源（保持兼容现有配置）
+        if not json_sources and json_url:
+            # 尝试从路径/URL 中推断分类名
+            try:
+                base_name = os.path.basename(json_url)
+                category = os.path.splitext(base_name)[0] or 'default'
+            except Exception:
+                category = 'default'
+            json_sources.append((json_url, category))
+    except Exception as e:
+        logging.warning(f"发现分类数据源时出错，回退到单一来源：{e}")
+        base_name = os.path.basename(json_url) if json_url else 'default'
+        json_sources.append((json_url, os.path.splitext(base_name)[0] or 'default'))
+
+    # 按来源逐个抓取并聚合，同时给每条文章写入 category 字段
+    for src, category in json_sources:
+        logging.info(f"开始处理数据源：{src}（分类：{category}）")
+        result, errors = fetch_and_process_data(
+            json_url=src,
+            count=article_count,
+            max_workers=max_workers,
+        )
+        # 注入分类字段
+        for item in result.get('article_data', []) or []:
+            item['category'] = category
+        # 聚合统计与数据
+        stat = result.get('statistical_data', {}) or {}
+        aggregated_result['statistical_data']['friends_num'] += int(stat.get('friends_num', 0) or 0)
+        aggregated_result['statistical_data']['active_num'] += int(stat.get('active_num', 0) or 0)
+        aggregated_result['statistical_data']['error_num'] += int(stat.get('error_num', 0) or 0)
+        aggregated_result['statistical_data']['article_num'] += int(stat.get('article_num', 0) or 0)
+        aggregated_result['article_data'].extend(result.get('article_data', []) or [])
+        aggregated_errors.extend(errors or [])
+
     # 可选：根据配置对文章链接进行改写（如按友链名或域名匹配，进行前缀/正则替换）
     link_rewrites = spider.get('link_rewrites') or []
-    if link_rewrites and 'article_data' in result:
+    if link_rewrites and 'article_data' in aggregated_result:
         try:
-            rewrite_article_links(result['article_data'], link_rewrites)
+            rewrite_article_links(aggregated_result['article_data'], link_rewrites)
         except Exception as e:
             logging.error(f"处理链接改写配置时发生错误: {e}")
-    result = sort_articles_by_time(result)
-    return result, errors
+
+    aggregated_result = sort_articles_by_time(aggregated_result)
+    return aggregated_result, aggregated_errors
 
 
 def load_config(config_file: str) -> JSONDict:
