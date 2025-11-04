@@ -4,7 +4,7 @@
     "active_num": 20,
     "error_num": 0,
     "article_num": 301,
-    "last_updated_time": "2025-11-05 02:22:29"
+    "last_updated_time": "2025-11-05 04:18:21"
   },
   "article_data": [
     {
@@ -70,6 +70,14 @@
       "author": "阮一峰",
       "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
       "category": "friend"
+    },
+    {
+      "title": "Beyond Standard LLMs",
+      "created": "2025-11-04 08:08",
+      "link": "https://sebastianraschka.com/blog/2025/beyond-standard-llms.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
     },
     {
       "title": "AI 到底在抢谁的饭碗？我分析了 1.8 亿份招聘数据后，有了一些发现。",
@@ -2163,14 +2171,6 @@
       "title": "New LLM Pre-training and Post-training Paradigms",
       "created": "2024-08-17 14:03",
       "link": "https://sebastianraschka.com/blog/2024/new-llm-pre-training-and-post-training.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "Instruction Pretraining LLMs",
-      "created": "2024-07-20 14:03",
-      "link": "https://sebastianraschka.com/blog/2024/instruction-pretraining-llms.html",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
