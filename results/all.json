@@ -4,9 +4,17 @@
     "active_num": 25,
     "error_num": 0,
     "article_num": 386,
-    "last_updated_time": "2025-11-08 09:08:54"
+    "last_updated_time": "2025-11-08 10:59:07"
   },
   "article_data": [
+    {
+      "title": "Mastodon 4.5",
+      "created": "2025-11-08 09:52",
+      "link": "https://simonwillison.net/2025/Nov/8/mastodon-45/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "title": "LeoTalk · Hacker News Daily · 2025.11.08",
       "created": "2025-11-08 08:00",
@@ -427,14 +435,6 @@
       "title": "Quoting Barry Warsaw",
       "created": "2025-11-04 05:27",
       "link": "https://simonwillison.net/2025/Nov/3/barry-warsaw/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "title": "The case against pgvector",
-      "created": "2025-11-04 04:26",
-      "link": "https://simonwillison.net/2025/Nov/3/the-case-against-pgvector/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
@@ -2696,33 +2696,9 @@
       "category": "ai"
     },
     {
-      "title": "sst/opentui",
+      "title": "666ghj/BettaFish",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/sst/opentui",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "HKUDS/DeepCode",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/HKUDS/DeepCode",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "microsoft/agent-lightning",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/microsoft/agent-lightning",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "GeeeekExplorer/nano-vllm",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/GeeeekExplorer/nano-vllm",
+      "link": "https://github.com/666ghj/BettaFish",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2736,33 +2712,25 @@
       "category": "ai"
     },
     {
+      "title": "usestrix/strix",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/usestrix/strix",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "microsoft/agent-lightning",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/microsoft/agent-lightning",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "title": "qeeqbox/social-analyzer",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/qeeqbox/social-analyzer",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "666ghj/BettaFish",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/666ghj/BettaFish",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "block/goose",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/block/goose",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "charmbracelet/glow",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/charmbracelet/glow",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2776,9 +2744,33 @@
       "category": "ai"
     },
     {
-      "title": "microsoft/Web-Dev-For-Beginners",
+      "title": "Skyvern-AI/skyvern",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/microsoft/Web-Dev-For-Beginners",
+      "link": "https://github.com/Skyvern-AI/skyvern",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "charmbracelet/glow",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/charmbracelet/glow",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "sst/opentui",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/sst/opentui",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "GeeeekExplorer/nano-vllm",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/GeeeekExplorer/nano-vllm",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2792,17 +2784,25 @@
       "category": "ai"
     },
     {
-      "title": "Skyvern-AI/skyvern",
+      "title": "droidrun/droidrun",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Skyvern-AI/skyvern",
+      "link": "https://github.com/droidrun/droidrun",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "title": "hacksider/Deep-Live-Cam",
+      "title": "HKUDS/DeepCode",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/hacksider/Deep-Live-Cam",
+      "link": "https://github.com/HKUDS/DeepCode",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "microsoft/Web-Dev-For-Beginners",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/microsoft/Web-Dev-For-Beginners",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
