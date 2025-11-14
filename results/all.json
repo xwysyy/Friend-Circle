@@ -4,9 +4,41 @@
     "active_num": 25,
     "error_num": 0,
     "article_num": 388,
-    "last_updated_time": "2025-11-14 06:16:00"
+    "last_updated_time": "2025-11-14 09:13:13"
   },
   "article_data": [
+    {
+      "title": "科技爱好者周刊（第 373 期）：数据模型是新产品的核心",
+      "created": "2025-11-14 08:06",
+      "link": "http://www.ruanyifeng.com/blog/2025/11/weekly-issue-373.html",
+      "author": "阮一峰",
+      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
+      "category": "friend"
+    },
+    {
+      "title": "Introducing GPT-5.1 for developers",
+      "created": "2025-11-14 07:59",
+      "link": "https://simonwillison.net/2025/Nov/13/gpt-51/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "title": "Datasette 1.0a22",
+      "created": "2025-11-14 07:04",
+      "link": "https://simonwillison.net/2025/Nov/13/datasette-10a22/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "title": "Nano Banana can be prompt engineered for extremely nuanced AI image generation",
+      "created": "2025-11-14 06:50",
+      "link": "https://simonwillison.net/2025/Nov/13/nano-banana-can-be-prompt-engineered/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "title": "借助 Skills 提升前端设计 | Claude",
       "created": "2025-11-14 01:26",
@@ -528,14 +560,6 @@
       "category": "ai"
     },
     {
-      "title": "Quoting Ben Stolovitz",
-      "created": "2025-11-07 08:15",
-      "link": "https://simonwillison.net/2025/Nov/7/ben-stolovitz/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
       "title": "科技爱好者周刊（第 372 期）：软件界面如何设计",
       "created": "2025-11-07 08:14",
       "link": "http://www.ruanyifeng.com/blog/2025/11/weekly-issue-372.html",
@@ -557,22 +581,6 @@
       "link": "https://ifuryst.github.io/blog/2025/leotalk-hacker-news-daily-november-7-2025/",
       "author": "ifuryst",
       "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
-      "category": "ai"
-    },
-    {
-      "title": "Kimi K2 Thinking",
-      "created": "2025-11-07 07:53",
-      "link": "https://simonwillison.net/2025/Nov/6/kimi-k2-thinking/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "title": "Quoting Nathan Lambert",
-      "created": "2025-11-07 05:44",
-      "link": "https://simonwillison.net/2025/Nov/6/nathan-lambert/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -1014,14 +1022,6 @@
       "author": "锦恢",
       "avatar": "https://kirigaya.cn/favicon.png",
       "category": "ai"
-    },
-    {
-      "title": "错误处理：异常好于状态码",
-      "created": "2025-10-22 00:28",
-      "link": "http://www.ruanyifeng.com/blog/2025/10/exception.html",
-      "author": "阮一峰",
-      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
-      "category": "friend"
     },
     {
       "title": "MinIO 社区版 Web 管理界面被删事件全解析",
