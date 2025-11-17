@@ -1,12 +1,28 @@
 {
   "statistical_data": {
     "friends_num": 25,
-    "active_num": 24,
-    "error_num": 1,
-    "article_num": 378,
-    "last_updated_time": "2025-11-17 18:18:32"
+    "active_num": 25,
+    "error_num": 0,
+    "article_num": 388,
+    "last_updated_time": "2025-11-17 20:32:54"
   },
   "article_data": [
+    {
+      "title": "你的 AI Coding 不听话？写了 prompt 还是不听话？不妨试试用基于反馈的 mcp server 来改掉这个坏毛病！",
+      "created": "2025-11-18 02:30",
+      "link": "https://kirigaya.cn/blog/article?seq=360",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
+      "title": "AdamW的Weight RMS的渐近估计（下）",
+      "created": "2025-11-17 16:56",
+      "link": "https://kexue.fm/archives/11404",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
     {
       "title": "真情实感体验了阿里「千问APP」后，为什么说它是「中国的ChatGPT」？",
       "created": "2025-11-17 12:20",
@@ -672,6 +688,14 @@
       "category": "ai"
     },
     {
+      "title": "n个正态随机数的最大值的渐近估计",
+      "created": "2025-11-06 21:24",
+      "link": "https://kexue.fm/archives/11390",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
       "title": "WSL2 下安装 Docker",
       "created": "2025-11-06 01:28",
       "link": "https://kirigaya.cn/blog/article?seq=358",
@@ -757,6 +781,14 @@
       "link": "https://blog.bytebytego.com/p/how-perplexity-built-an-ai-google",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "title": "流形上的最速下降：5. 对偶梯度下降",
+      "created": "2025-11-03 10:22",
+      "link": "https://kexue.fm/archives/11388",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -952,6 +984,14 @@
       "category": "ai"
     },
     {
+      "title": "低精度Attention可能存在有偏的舍入误差",
+      "created": "2025-10-27 10:11",
+      "link": "https://kexue.fm/archives/11371",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
       "title": "EP186: Latency vs. Throughput",
       "created": "2025-10-25 23:31",
       "link": "https://blog.bytebytego.com/p/ep186-latency-vs-throughput",
@@ -1064,6 +1104,14 @@
       "category": "friend"
     },
     {
+      "title": "MuP之上：1. 好模型的三个特征",
+      "created": "2025-10-21 15:19",
+      "link": "https://kexue.fm/archives/11340",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
       "title": "将电热毯通过 Homeassistant 接入 Homekit 并支持调节档位",
       "created": "2025-10-20 12:20",
       "link": "https://blog.zhheo.com/p/eqc0vrd6.html",
@@ -1152,6 +1200,14 @@
       "category": "ai"
     },
     {
+      "title": "随机矩阵的谱范数的快速估计",
+      "created": "2025-10-12 21:52",
+      "link": "https://kexue.fm/archives/11335",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
       "title": "Agents 2.0: From Shallow Loops to Deep Agents",
       "created": "2025-10-12 08:00",
       "link": "https://www.philschmid.de/agents-2.0-deep-agents",
@@ -1184,6 +1240,14 @@
       "category": "friend"
     },
     {
+      "title": "DiVeQ：一种非常简洁的VQ训练方案",
+      "created": "2025-10-08 21:52",
+      "link": "https://kexue.fm/archives/11328",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
       "title": "RL | 速读 IJCAI 2025 的强化学习论文 - MoonOut",
       "created": "2025-10-08 20:53",
       "link": "https://www.cnblogs.com/moonout/p/19125375",
@@ -1198,6 +1262,14 @@
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico",
       "category": "friend"
+    },
+    {
+      "title": "为什么线性注意力要加Short Conv？",
+      "created": "2025-10-05 16:25",
+      "link": "https://kexue.fm/archives/11320",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
     },
     {
       "title": "Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)",
@@ -1230,6 +1302,14 @@
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
       "category": "friend"
+    },
+    {
+      "title": "AdamW的Weight RMS的渐近估计（上）",
+      "created": "2025-10-01 12:51",
+      "link": "https://kexue.fm/archives/11307",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
     },
     {
       "title": "不同姿势部署Anheyu-App应用",
@@ -1270,6 +1350,14 @@
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
       "category": "friend"
+    },
+    {
+      "title": "重新思考学习率与Batch Size（四）：EMA",
+      "created": "2025-09-22 14:37",
+      "link": "https://kexue.fm/archives/11301",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
     },
     {
       "title": "如何批量下载抖音某一个博主的全部视频，抖音视频批量下载方法",
@@ -1374,14 +1462,6 @@
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico",
       "category": "friend"
-    },
-    {
-      "title": "全新的 zero-shot 语音合成模型 index-tts 2.0 安装教程与深度体验",
-      "created": "2025-09-09 06:19",
-      "link": "https://kirigaya.cn/blog/article?seq=349",
-      "author": "锦恢",
-      "avatar": "https://kirigaya.cn/favicon.png",
-      "category": "ai"
     },
     {
       "title": "从 Langchain 到 Spring AI，我们究竟需要怎么样一个企业级 AI 开发框架？",
