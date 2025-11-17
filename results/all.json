@@ -1,12 +1,44 @@
 {
   "statistical_data": {
     "friends_num": 25,
-    "active_num": 25,
-    "error_num": 0,
-    "article_num": 388,
-    "last_updated_time": "2025-11-17 16:23:42"
+    "active_num": 24,
+    "error_num": 1,
+    "article_num": 378,
+    "last_updated_time": "2025-11-17 18:18:32"
   },
   "article_data": [
+    {
+      "title": "真情实感体验了阿里「千问APP」后，为什么说它是「中国的ChatGPT」？",
+      "created": "2025-11-17 12:20",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651002014&idx=1&sn=a60c5f7561888f042e880f4b7934646d",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "ChatGPT：再见「破折号」",
+      "created": "2025-11-17 12:20",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651002014&idx=2&sn=17dac374e9d15f221375a1210b28656f",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "解决特斯拉「监督稀疏」难题，DriveVLA-W0用世界模型放大自动驾驶Data Scaling Law",
+      "created": "2025-11-17 12:20",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651002014&idx=3&sn=025f400e7456628a21519627321a47a7",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "VinciCoder：多模态统一代码生成框架和视觉反馈强化学习，数据代码模型权重已开源",
+      "created": "2025-11-17 12:20",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651002014&idx=4&sn=014fc5b651ebba5491ae7f9138c2a639",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
     {
       "title": "AutoDev Code Review Agent：应对 10 倍代码量的 Agentic 代码审查",
       "created": "2025-11-17 12:19",
@@ -360,30 +392,6 @@
       "category": "ai"
     },
     {
-      "title": "中国医生需要怎样的AI？GPT-5、OpenEvidence都输掉实战后，我们有了答案",
-      "created": "2025-11-12 21:20",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651001296&idx=1&sn=78d62d43ee387cb0bde8fc512dbfb64b",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "你以为在点「红绿灯」验证身份，其实是在给AI免费打工",
-      "created": "2025-11-12 21:20",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651001296&idx=2&sn=f41267192c7f92865f25e290458557ad",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "IHES Library：解锁数学物理界的「智慧圣殿」",
-      "created": "2025-11-12 21:20",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651001296&idx=3&sn=c95b9a9112b632cf16811cba61afcadf",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "title": "AutoDev CLI：构建 AI Agent 生成的 AI Agent 质量保障与验证架构",
       "created": "2025-11-12 16:35",
       "link": "http://www.phodal.com/blog/autodev-cli-validate-framework/",
@@ -445,14 +453,6 @@
       "link": "https://blog.bytebytego.com/p/how-spotify-built-its-data-platform",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "title": "刚刚，豆包编程模型来了，我们用四个关卡考了考它！",
-      "created": "2025-11-11 16:38",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651001022&idx=1&sn=171957282a6baa767c4bd66eaad2d89d",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -672,14 +672,6 @@
       "category": "ai"
     },
     {
-      "title": "n个正态随机数的最大值的渐近估计",
-      "created": "2025-11-06 21:24",
-      "link": "https://kexue.fm/archives/11390",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
       "title": "WSL2 下安装 Docker",
       "created": "2025-11-06 01:28",
       "link": "https://kirigaya.cn/blog/article?seq=358",
@@ -765,14 +757,6 @@
       "link": "https://blog.bytebytego.com/p/how-perplexity-built-an-ai-google",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "title": "流形上的最速下降：5. 对偶梯度下降",
-      "created": "2025-11-03 10:22",
-      "link": "https://kexue.fm/archives/11388",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -968,14 +952,6 @@
       "category": "ai"
     },
     {
-      "title": "低精度Attention可能存在有偏的舍入误差",
-      "created": "2025-10-27 10:11",
-      "link": "https://kexue.fm/archives/11371",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
       "title": "EP186: Latency vs. Throughput",
       "created": "2025-10-25 23:31",
       "link": "https://blog.bytebytego.com/p/ep186-latency-vs-throughput",
@@ -1088,14 +1064,6 @@
       "category": "friend"
     },
     {
-      "title": "MuP之上：1. 好模型的三个特征",
-      "created": "2025-10-21 15:19",
-      "link": "https://kexue.fm/archives/11340",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
       "title": "将电热毯通过 Homeassistant 接入 Homekit 并支持调节档位",
       "created": "2025-10-20 12:20",
       "link": "https://blog.zhheo.com/p/eqc0vrd6.html",
@@ -1184,14 +1152,6 @@
       "category": "ai"
     },
     {
-      "title": "随机矩阵的谱范数的快速估计",
-      "created": "2025-10-12 21:52",
-      "link": "https://kexue.fm/archives/11335",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
       "title": "Agents 2.0: From Shallow Loops to Deep Agents",
       "created": "2025-10-12 08:00",
       "link": "https://www.philschmid.de/agents-2.0-deep-agents",
@@ -1224,14 +1184,6 @@
       "category": "friend"
     },
     {
-      "title": "DiVeQ：一种非常简洁的VQ训练方案",
-      "created": "2025-10-08 21:52",
-      "link": "https://kexue.fm/archives/11328",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
       "title": "RL | 速读 IJCAI 2025 的强化学习论文 - MoonOut",
       "created": "2025-10-08 20:53",
       "link": "https://www.cnblogs.com/moonout/p/19125375",
@@ -1246,14 +1198,6 @@
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico",
       "category": "friend"
-    },
-    {
-      "title": "为什么线性注意力要加Short Conv？",
-      "created": "2025-10-05 16:25",
-      "link": "https://kexue.fm/archives/11320",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
     },
     {
       "title": "Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)",
@@ -1286,14 +1230,6 @@
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
       "category": "friend"
-    },
-    {
-      "title": "AdamW的Weight RMS的渐近估计",
-      "created": "2025-10-01 12:51",
-      "link": "https://kexue.fm/archives/11307",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
     },
     {
       "title": "不同姿势部署Anheyu-App应用",
@@ -1334,14 +1270,6 @@
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
       "category": "friend"
-    },
-    {
-      "title": "重新思考学习率与Batch Size（四）：EMA",
-      "created": "2025-09-22 14:37",
-      "link": "https://kexue.fm/archives/11301",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
     },
     {
       "title": "如何批量下载抖音某一个博主的全部视频，抖音视频批量下载方法",
@@ -1414,14 +1342,6 @@
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
-    },
-    {
-      "title": "重新思考学习率与Batch Size（三）：Muon",
-      "created": "2025-09-15 22:52",
-      "link": "https://kexue.fm/archives/11285",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
     },
     {
       "title": "让你的Mac巨省电，使用EfficiencyTool自定义程序在性能核心还是节能核心上运行",
