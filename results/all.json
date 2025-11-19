@@ -4,9 +4,17 @@
     "active_num": 25,
     "error_num": 0,
     "article_num": 388,
-    "last_updated_time": "2025-11-19 09:12:42"
+    "last_updated_time": "2025-11-19 11:08:48"
   },
   "article_data": [
+    {
+      "title": "VS Code 使用国产大模型 MiniMax M2 教程",
+      "created": "2025-11-19 08:30",
+      "link": "http://www.ruanyifeng.com/blog/2025/11/vs-code-minimax-m2.html",
+      "author": "阮一峰",
+      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
+      "category": "friend"
+    },
     {
       "title": "llm-gemini 0.27",
       "created": "2025-11-19 07:00",
@@ -1037,14 +1045,6 @@
       "link": "https://blog.zhheo.com/p/a1ztzs2z.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
-      "category": "friend"
-    },
-    {
-      "title": "科技爱好者周刊（第 370 期）：正确的代码高亮",
-      "created": "2025-10-24 08:18",
-      "link": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html",
-      "author": "阮一峰",
-      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
       "category": "friend"
     },
     {
@@ -2688,81 +2688,9 @@
       "category": "ai"
     },
     {
-      "title": "NginxProxyManager/nginx-proxy-manager",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/NginxProxyManager/nginx-proxy-manager",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "title": "mudler/LocalAI",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/mudler/LocalAI",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "topoteretes/cognee",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/topoteretes/cognee",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "modelcontextprotocol/go-sdk",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/modelcontextprotocol/go-sdk",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "usestrix/strix",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/usestrix/strix",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "Skyvern-AI/skyvern",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/Skyvern-AI/skyvern",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "containerd/containerd",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/containerd/containerd",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "prometheus/alertmanager",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/prometheus/alertmanager",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "opencloud-eu/opencloud",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/opencloud-eu/opencloud",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "sansan0/TrendRadar",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/sansan0/TrendRadar",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2776,9 +2704,9 @@
       "category": "ai"
     },
     {
-      "title": "lima-vm/lima",
+      "title": "modelcontextprotocol/go-sdk",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/lima-vm/lima",
+      "link": "https://github.com/modelcontextprotocol/go-sdk",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2792,6 +2720,62 @@
       "category": "ai"
     },
     {
+      "title": "prometheus/alertmanager",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/prometheus/alertmanager",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "usestrix/strix",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/usestrix/strix",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "containerd/containerd",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/containerd/containerd",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "NginxProxyManager/nginx-proxy-manager",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/NginxProxyManager/nginx-proxy-manager",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "lima-vm/lima",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/lima-vm/lima",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "Skyvern-AI/skyvern",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/Skyvern-AI/skyvern",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "sst/opentui",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/sst/opentui",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "title": "kvcache-ai/ktransformers",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/kvcache-ai/ktransformers",
@@ -2800,9 +2784,17 @@
       "category": "ai"
     },
     {
-      "title": "dbeaver/dbeaver",
+      "title": "topoteretes/cognee",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/dbeaver/dbeaver",
+      "link": "https://github.com/topoteretes/cognee",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "sansan0/TrendRadar",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/sansan0/TrendRadar",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2816,9 +2808,17 @@
       "category": "ai"
     },
     {
-      "title": "sst/opentui",
+      "title": "opencloud-eu/opencloud",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/sst/opentui",
+      "link": "https://github.com/opencloud-eu/opencloud",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "dbeaver/dbeaver",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/dbeaver/dbeaver",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
