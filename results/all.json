@@ -1,12 +1,20 @@
 {
   "statistical_data": {
     "friends_num": 25,
-    "active_num": 22,
-    "error_num": 3,
-    "article_num": 348,
-    "last_updated_time": "2025-11-19 22:16:19"
+    "active_num": 25,
+    "error_num": 0,
+    "article_num": 388,
+    "last_updated_time": "2025-11-20 00:20:58"
   },
   "article_data": [
+    {
+      "title": "Muon优化器指南：快速上手与关键细节",
+      "created": "2025-11-19 23:08",
+      "link": "https://kexue.fm/archives/11416",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
     {
       "title": "Quoting Matthew Prince",
       "created": "2025-11-19 16:02",
@@ -160,6 +168,14 @@
       "category": "ai"
     },
     {
+      "title": "你的 AI Coding 不听话？写了 prompt 还是不听话？不妨试试用基于反馈的 mcp server 来改掉这个坏毛病！",
+      "created": "2025-11-18 02:30",
+      "link": "https://kirigaya.cn/blog/article?seq=360",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
       "title": "How Grab Built an AI Foundation Model To Understand Customers Better",
       "created": "2025-11-18 00:30",
       "link": "https://blog.bytebytego.com/p/how-grab-built-an-ai-foundation-model",
@@ -245,6 +261,22 @@
       "link": "https://simonwillison.net/2025/Nov/16/andrej-karpathy/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "title": "GPU 微架构之旅 | 第五天：术业有专攻——那些“特种兵”单元",
+      "created": "2025-11-16 23:13",
+      "link": "https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-5-specialists/",
+      "author": "Less Bug",
+      "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "GPU 微架构之旅 | 第四天：GPU 的“记忆宫殿”——存储体系探秘",
+      "created": "2025-11-16 23:12",
+      "link": "https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-4-memory-pyramid/",
+      "author": "Less Bug",
+      "avatar": "https://www.less-bug.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -624,6 +656,14 @@
       "category": "ai"
     },
     {
+      "title": "咖啡配方——小黄油拿铁制作方法",
+      "created": "2025-11-09 02:02",
+      "link": "https://kirigaya.cn/blog/article?seq=359",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
       "title": "EP188: Servers You Should Know in Modern Systems",
       "created": "2025-11-09 00:30",
       "link": "https://blog.bytebytego.com/p/ep188-servers-you-should-know-in",
@@ -693,6 +733,14 @@
       "link": "https://kexue.fm/archives/11390",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "title": "WSL2 下安装 Docker",
+      "created": "2025-11-06 01:28",
+      "link": "https://kirigaya.cn/blog/article?seq=358",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
       "category": "ai"
     },
     {
@@ -864,6 +912,14 @@
       "category": "friend"
     },
     {
+      "title": "为什么我需要设计回流系统？openmcp reflux 用量化指标帮你让你更加了解你的 Agent 系统与 MCP",
+      "created": "2025-10-31 06:32",
+      "link": "https://kirigaya.cn/blog/article?seq=357",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
       "title": "Skill Discovery | RGSD：基于高质量参考轨迹，预训练 skill space - MoonOut",
       "created": "2025-10-31 00:50",
       "link": "https://www.cnblogs.com/moonout/p/19178418",
@@ -933,6 +989,14 @@
       "link": "https://baoyu.io/translations/inside-the-ai-workflows-of-every-s-six-engineers",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "RAG 和 CE 是什么关系？我们真的需要 RAG 吗？",
+      "created": "2025-10-28 03:35",
+      "link": "https://kirigaya.cn/blog/article?seq=356",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
       "category": "ai"
     },
     {
@@ -1040,6 +1104,14 @@
       "category": "friend"
     },
     {
+      "title": "🪛 OpenMCP 重磅推出调用链可视化 & 季度小结",
+      "created": "2025-10-22 07:56",
+      "link": "https://kirigaya.cn/blog/article?seq=355",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
       "title": "MinIO 社区版 Web 管理界面被删事件全解析",
       "created": "2025-10-22 00:00",
       "link": "https://dusays.com/833/",
@@ -1070,6 +1142,38 @@
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico",
       "category": "friend"
+    },
+    {
+      "title": "前端开发想要控制请求的调度顺序？试试写一把 JS 异步锁🔒",
+      "created": "2025-10-19 08:30",
+      "link": "https://kirigaya.cn/blog/article?seq=354",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
+      "title": "高级感 ppt 模板网站汇总（持续更新）",
+      "created": "2025-10-19 07:00",
+      "link": "https://kirigaya.cn/blog/article?seq=350",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
+      "title": "锦恢的 AI Agent 小白教程（一）Agent 的基本概念与分类",
+      "created": "2025-10-18 06:11",
+      "link": "https://kirigaya.cn/blog/article?seq=351",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
+      "title": "咖啡教程——意式咖啡机制作拿铁",
+      "created": "2025-10-18 01:53",
+      "link": "https://kirigaya.cn/blog/article?seq=353",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
     },
     {
       "title": "Final Cut Pro 资源库文件过大如何解决？如何清理资源库中的渲染文件和缓存？",
@@ -1262,14 +1366,6 @@
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
       "category": "friend"
-    },
-    {
-      "title": "重新思考学习率与Batch Size（四）：EMA",
-      "created": "2025-09-22 14:37",
-      "link": "https://kexue.fm/archives/11301",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
     },
     {
       "title": "如何批量下载抖音某一个博主的全部视频，抖音视频批量下载方法",
@@ -1496,6 +1592,22 @@
       "category": "ai"
     },
     {
+      "title": "GPU 微架构之旅 | 第三天：从着色器到机器码",
+      "created": "2025-08-13 14:45",
+      "link": "https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-3-instruction-life-from-shader-to-machine-code/",
+      "author": "Less Bug",
+      "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "GPU 微架构之旅 | 第二天：深入“快递站”——Warp 与 SM 的运作之谜",
+      "created": "2025-08-13 14:45",
+      "link": "https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-2-how-wrap-and-sm-work/",
+      "author": "Less Bug",
+      "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "title": "LibreTV 免费的在线视频观看神器",
       "created": "2025-08-11 00:00",
       "link": "https://dusays.com/821/",
@@ -1525,6 +1637,22 @@
       "link": "http://www.phodal.com/blog/ai4modernization/",
       "author": "Phodal Huang",
       "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
+      "category": "ai"
+    },
+    {
+      "title": "GPU 微架构之旅 | 第一天：初识神力——为什么 GPU 那么快？",
+      "created": "2025-08-06 18:54",
+      "link": "https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-1-first-knowing-the-divine-power-why-is-gpu-so-fast/",
+      "author": "Less Bug",
+      "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "GPU 微架构之旅 | 序言：嘿，你想不想亲手拆开一块 GPU？",
+      "created": "2025-08-06 18:54",
+      "link": "https://www.less-bug.com/posts/gpu-microarchitecture-journey-preface-hey-do-you-want-to-disassemble-a-gpu-with-your-own-hands/",
+      "author": "Less Bug",
+      "avatar": "https://www.less-bug.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1718,6 +1846,22 @@
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico",
       "category": "friend"
+    },
+    {
+      "title": "乱序 CPU 经典 Hazard 问题：一次 Issue Queue 调试之旅",
+      "created": "2025-07-07 00:04",
+      "link": "https://www.less-bug.com/posts/a-debug-journey-of-issue-queue-in-a-classic-reorder-cpu-problem/",
+      "author": "Less Bug",
+      "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "一觉醒来发现 git commit 卡住了？GPG 签名流程排查",
+      "created": "2025-07-07 00:04",
+      "link": "https://www.less-bug.com/posts/what-happened-when-git-commit-hangs-gpg-signature-flow-troubleshoot/",
+      "author": "Less Bug",
+      "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
     },
     {
       "title": "README",
@@ -1928,6 +2072,14 @@
       "category": "ai"
     },
     {
+      "title": "基于 DevContainer 的 Rust for Linux 内核开发环境搭建笔记（也支持纯C/混合开发）",
+      "created": "2025-06-03 10:56",
+      "link": "https://www.less-bug.com/posts/setting-up-a-rust-for-linux-kernel-development-environment-using-devcontainers/",
+      "author": "Less Bug",
+      "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "title": "1Panel自动同步Github仓库",
       "created": "2025-06-01 14:00",
       "link": "https://blog.liushen.fun/posts/327826ac/",
@@ -2032,6 +2184,14 @@
       "category": "ai"
     },
     {
+      "title": "“PC 指向下一条要执行的指令”真的对吗？",
+      "created": "2025-05-09 22:51",
+      "link": "https://www.less-bug.com/posts/pc-point-to-next-instruction--is-it-true/",
+      "author": "Less Bug",
+      "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "title": "预生成上下文：重构 RAG 的关键工程能力，构建企业级 AI 编程底座",
       "created": "2025-05-09 14:42",
       "link": "http://www.phodal.com/blog/pregen-context-refactoring-rag/",
@@ -2080,6 +2240,22 @@
       "category": "ai"
     },
     {
+      "title": "记录排查 xrdp 连接后立即断开问题",
+      "created": "2025-05-03 12:44",
+      "link": "https://www.less-bug.com/posts/how-i-fixed-a-xrdp-connection-lost-issue/",
+      "author": "Less Bug",
+      "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "Retain Counter：无需显式拓扑排序的自动调度方法",
+      "created": "2025-05-02 21:31",
+      "link": "https://www.less-bug.com/posts/how-to-schedule-tasks-without-explicit-topological-sorting/",
+      "author": "Less Bug",
+      "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "title": "论文速读记录 | 2025.05 - MoonOut",
       "created": "2025-05-02 17:47",
       "link": "https://www.cnblogs.com/moonout/p/18857655",
@@ -2093,6 +2269,22 @@
       "link": "https://lilianweng.github.io/posts/2025-05-01-thinking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "title": "使用 WireGuard 打通家庭内网与出差设备",
+      "created": "2025-04-29 15:55",
+      "link": "https://www.less-bug.com/posts/use-wireguard-to-connect-home-intranet-and-business-travel-equipment/",
+      "author": "Less Bug",
+      "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "AXI4 总线协议学习与实践",
+      "created": "2025-04-29 15:54",
+      "link": "https://www.less-bug.com/posts/learn-and-practice-of-axi4-bus-protocol/",
+      "author": "Less Bug",
+      "avatar": "https://www.less-bug.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -2166,6 +2358,14 @@
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico",
       "category": "friend"
+    },
+    {
+      "title": "Scala 速通入门教程",
+      "created": "2025-04-05 12:04",
+      "link": "https://www.less-bug.com/posts/learn-scala-in-one-day/",
+      "author": "Less Bug",
+      "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
     },
     {
       "title": "Model Context Protocol (MCP) an overview",
@@ -2352,11 +2552,35 @@
       "category": "friend"
     },
     {
+      "title": "如何实现飞书授权登录",
+      "created": "2024-12-21 14:17",
+      "link": "https://www.iamazing.cn/page/feishu-oauth-login",
+      "author": "JustSong",
+      "avatar": "https://iamazing.cn/favicon.ico",
+      "category": "ai"
+    },
+    {
       "title": "手写大模型组件之Group Query Attention，从 MHA，MQA 到 GQA",
       "created": "2024-12-09 06:00",
       "link": "https://yuanchaofa.com/hands-on-code/hands-on-group-query-attention-and-multi-query-attention.html",
       "author": "chao fa",
       "avatar": "https://yuanchaofa.com/img/icon.webp",
+      "category": "ai"
+    },
+    {
+      "title": "阅读大规模代码：挑战与实践（4-EX）番外篇：试炼阅读某1000行的函数",
+      "created": "2024-12-02 16:49",
+      "link": "https://www.less-bug.com/posts/reading-large-code-challenges-and-practices-4-ex-extra-1000-line-read-in-action/",
+      "author": "Less Bug",
+      "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "阅读大规模代码：挑战与实践（4）深入代码细节",
+      "created": "2024-11-30 11:31",
+      "link": "https://www.less-bug.com/posts/reading-large-code-challenges-and-practices-4-deep-dive-into-code-details/",
+      "author": "Less Bug",
+      "avatar": "https://www.less-bug.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -2381,6 +2605,30 @@
       "link": "https://sebastianraschka.com/blog/2024/understanding-multimodal-llms.html",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "物理光学笔记",
+      "created": "2024-10-30 19:22",
+      "link": "https://www.less-bug.com/posts/notes-of-physics-optics/",
+      "author": "Less Bug",
+      "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "深入理解向量场微积分",
+      "created": "2024-10-27 11:35",
+      "link": "https://www.less-bug.com/posts/understanding-vector-field-calculus/",
+      "author": "Less Bug",
+      "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "如何理解群的作用、轨道稳定子定理？",
+      "created": "2024-10-13 10:44",
+      "link": "https://www.less-bug.com/posts/understanding-group-action-and-orbital-stabilizer-theorem/",
+      "author": "Less Bug",
+      "avatar": "https://www.less-bug.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -2576,6 +2824,14 @@
       "category": "ai"
     },
     {
+      "title": "写在 8.7k star 之际",
+      "created": "2023-11-05 18:41",
+      "link": "https://www.iamazing.cn/page/written-at-the-moment-of-8.7k-stars",
+      "author": "JustSong",
+      "avatar": "https://iamazing.cn/favicon.ico",
+      "category": "ai"
+    },
+    {
       "title": "Adversarial Attacks on LLMs",
       "created": "2023-10-25 08:00",
       "link": "https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/",
@@ -2640,11 +2896,43 @@
       "category": "ai"
     },
     {
+      "title": "Message Pusher 对常见第三方推送平台的支持",
+      "created": "2023-05-11 14:56",
+      "link": "https://www.iamazing.cn/page/message-pusher-common-custom-templates",
+      "author": "JustSong",
+      "avatar": "https://iamazing.cn/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "Message Pusher 的自定义 Webhook 功能如何使用",
+      "created": "2023-05-11 14:56",
+      "link": "https://www.iamazing.cn/page/message-pusher-webhook",
+      "author": "JustSong",
+      "avatar": "https://iamazing.cn/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "Related Repos",
+      "created": "2023-05-09 16:22",
+      "link": "https://www.iamazing.cn/page/related-repos",
+      "author": "JustSong",
+      "avatar": "https://iamazing.cn/favicon.ico",
+      "category": "ai"
+    },
+    {
       "title": "Bucketlist Sailing",
       "created": "2023-05-07 11:02",
       "link": "https://philliphaeusler.com/posts/bucketlist_sailing/",
       "author": "Phillip Haeusler",
       "avatar": "https://philliphaeusler.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "开源的微信消息推送服务",
+      "created": "2023-05-07 09:09",
+      "link": "https://www.iamazing.cn/page/message-pusher",
+      "author": "JustSong",
+      "avatar": "https://iamazing.cn/favicon.ico",
       "category": "ai"
     },
     {
@@ -2656,11 +2944,35 @@
       "category": "ai"
     },
     {
+      "title": "One API",
+      "created": "2023-04-23 22:32",
+      "link": "https://www.iamazing.cn/page/one-api",
+      "author": "JustSong",
+      "avatar": "https://iamazing.cn/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "个人项目：Go Public",
+      "created": "2023-04-12 12:25",
+      "link": "https://www.iamazing.cn/page/go-public",
+      "author": "JustSong",
+      "avatar": "https://iamazing.cn/favicon.ico",
+      "category": "ai"
+    },
+    {
       "title": "Prompt Engineering",
       "created": "2023-03-15 08:00",
       "link": "https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "title": "《献给阿尔吉侬的花束》阅读笔记",
+      "created": "2023-02-11 16:28",
+      "link": "https://www.iamazing.cn/page/flowers-for-algernon",
+      "author": "JustSong",
+      "avatar": "https://iamazing.cn/favicon.ico",
       "category": "ai"
     },
     {
@@ -2677,6 +2989,14 @@
       "link": "https://lilianweng.github.io/posts/2023-01-10-inference-optimization/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "title": "我的个人项目总览",
+      "created": "2022-12-14 22:49",
+      "link": "https://www.iamazing.cn/page/0-my-projects",
+      "author": "JustSong",
+      "avatar": "https://iamazing.cn/favicon.ico",
       "category": "ai"
     },
     {
