@@ -4,9 +4,17 @@
     "active_num": 25,
     "error_num": 0,
     "article_num": 388,
-    "last_updated_time": "2025-11-24 22:16:19"
+    "last_updated_time": "2025-11-25 00:18:16"
   },
   "article_data": [
+    {
+      "title": "sqlite-utils 4.0a1 has several (minor) backwards incompatible changes",
+      "created": "2025-11-24 22:52",
+      "link": "https://simonwillison.net/2025/Nov/24/sqlite-utils-40a1/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "title": "生成扩散模型漫谈（三十一）：预测数据而非噪声",
       "created": "2025-11-24 17:31",
@@ -53,6 +61,14 @@
       "link": "https://baoyu.io/blog/system-prompt-of-notebooklm-infographic",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "LeoTalk AI周知 10: 基模&amp;专模",
+      "created": "2025-11-24 08:00",
+      "link": "https://ifuryst.github.io/blog/2025/leotalk-ai-weekly-10-base-model-n-specialized-mode/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -608,14 +624,6 @@
       "category": "friend"
     },
     {
-      "title": "LeoTalk · Hacker News Daily · 2025.11.15",
-      "created": "2025-11-15 08:00",
-      "link": "https://ifuryst.github.io/blog/2025/leotalk-hacker-news-daily-november-15-2025/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
-      "category": "ai"
-    },
-    {
       "title": "parakeet-mlx",
       "created": "2025-11-15 04:00",
       "link": "https://simonwillison.net/2025/Nov/14/parakeet-mlx/#atom-everything",
@@ -654,14 +662,6 @@
       "author": "阮一峰",
       "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
       "category": "friend"
-    },
-    {
-      "title": "Introducing GPT-5.1 for developers",
-      "created": "2025-11-14 07:59",
-      "link": "https://simonwillison.net/2025/Nov/13/gpt-51/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
     },
     {
       "title": "借助 Skills 提升前端设计 | Claude",
