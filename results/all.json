@@ -1,10 +1,10 @@
 {
   "statistical_data": {
-    "friends_num": 25,
-    "active_num": 25,
+    "friends_num": 26,
+    "active_num": 26,
     "error_num": 0,
-    "article_num": 388,
-    "last_updated_time": "2025-11-26 11:11:41"
+    "article_num": 408,
+    "last_updated_time": "2025-11-26 11:43:33"
   },
   "article_data": [
     {
@@ -208,6 +208,14 @@
       "category": "ai"
     },
     {
+      "title": "新时代的 Google Scholar",
+      "created": "2025-11-24 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2025/11/24/google_scholar_new_features/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
       "title": "LeoTalk AI周知 10: 基模&amp;专模",
       "created": "2025-11-24 08:00",
       "link": "https://ifuryst.github.io/blog/2025/leotalk-ai-weekly-10-base-model-n-specialized-mode/",
@@ -285,6 +293,14 @@
       "link": "https://simonwillison.net/2025/Nov/23/agent-design-is-still-hard/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "title": "ToyNLP: 从零实现自然语言处理经典模型",
+      "created": "2025-11-23 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2025/11/23/toynlp/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1008,6 +1024,14 @@
       "category": "ai"
     },
     {
+      "title": "BERT 论文复现",
+      "created": "2025-11-02 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2025/11/02/bert/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
       "title": "EP187: Why is DeepSeek-OCR such a BIG DEAL?",
       "created": "2025-11-01 23:30",
       "link": "https://blog.bytebytego.com/p/ep187-10-key-data-structures-we-use",
@@ -1230,6 +1254,14 @@
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
       "category": "friend"
+    },
+    {
+      "title": "近期做开源项目的一些正反馈",
+      "created": "2025-10-16 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2025/10/16/open_source_feedback/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
     },
     {
       "title": "如何使用 PHP 脚本筛选去不图床已到期用户邮箱",
@@ -1517,6 +1549,14 @@
       "link": "https://sebastianraschka.com/blog/2025/qwen3-from-scratch.html",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "AI 的黄金时代",
+      "created": "2025-09-06 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2025/09/06/ai_golden_age/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -2008,6 +2048,14 @@
       "category": "ai"
     },
     {
+      "title": "Rust ♥️ Python: Rust 做底层实现的高效 Python 库",
+      "created": "2025-06-25 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2025/06/25/rust_and_python/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
       "title": "深入浅出了解生成模型-5：diffuser/accelerate库学习及其数据合成",
       "created": "2025-06-25 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/06/25/accelerate-diffusers.html",
@@ -2109,6 +2157,14 @@
       "link": "https://www.less-bug.com/posts/setting-up-a-rust-for-linux-kernel-development-environment-using-devcontainers/",
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "LLM KV Cache: A Simple Implementation",
+      "created": "2025-06-03 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2025/06/03/llm_kv_cache/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -2245,6 +2301,14 @@
       "link": "http://www.phodal.com/blog/ai-friendly-platform-enginneering/",
       "author": "Phodal Huang",
       "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
+      "category": "ai"
+    },
+    {
+      "title": "ToyRL: 从零实现深度强化学习算法",
+      "created": "2025-05-08 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2025/05/08/toyrl/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -2424,6 +2488,14 @@
       "category": "ai"
     },
     {
+      "title": "简单聊一聊 Redis 的锁",
+      "created": "2025-03-23 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2025/03/23/redis_lock/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
       "title": "Orthogonal Linear Layers",
       "created": "2025-03-12 07:39",
       "link": "https://philliphaeusler.com/posts/orthogonal_linear_layers/",
@@ -2437,6 +2509,38 @@
       "link": "https://sebastianraschka.com/blog/2025/state-of-llm-reasoning-and-inference-scaling.html",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "LLM Speculative Sampling",
+      "created": "2025-03-08 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2025/03/08/llm_sps/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "title": "Presentia: 简单而优雅的 Presentation 模板",
+      "created": "2025-03-01 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2025/03/01/presentia/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "title": "Deepseek GRPO 中的 KL Divergence",
+      "created": "2025-02-23 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2025/02/23/grpo_kl/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "title": "大语言模型与深度学习书籍推荐",
+      "created": "2025-02-20 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2025/02/20/dl_book/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -2480,6 +2584,14 @@
       "category": "ai"
     },
     {
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2025/01/23/oh_numpy_pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
       "title": "Implementing A Byte Pair Encoding (BPE) Tokenizer From Scratch",
       "created": "2025-01-17 14:03",
       "link": "https://sebastianraschka.com/blog/2025/bpe-from-scratch.html",
@@ -2501,6 +2613,22 @@
       "link": "https://yuanchaofa.com/blog/2024-year-summary.html",
       "author": "chao fa",
       "avatar": "https://yuanchaofa.com/img/icon.webp",
+      "category": "ai"
+    },
+    {
+      "title": "我的 2024",
+      "created": "2024-12-28 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2024/12/28/2024_summary/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "title": "LLM in 2024",
+      "created": "2024-12-23 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2024/12/23/ai_think_2024/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -2568,6 +2696,14 @@
       "category": "ai"
     },
     {
+      "title": "zhplot: 让 Python 中文做图变得简单",
+      "created": "2024-12-08 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2024/12/08/zhplot/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
       "title": "阅读大规模代码：挑战与实践（4-EX）番外篇：试炼阅读某1000行的函数",
       "created": "2024-12-02 16:49",
       "link": "https://www.less-bug.com/posts/reading-large-code-challenges-and-practices-4-ex-extra-1000-line-read-in-action/",
@@ -2581,6 +2717,14 @@
       "link": "https://www.less-bug.com/posts/reading-large-code-challenges-and-practices-4-deep-dive-into-code-details/",
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2024/11/28/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -2648,6 +2792,14 @@
       "category": "ai"
     },
     {
+      "title": "Dawid-Skene 算法",
+      "created": "2024-08-21 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2024/08/21/ds/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
       "title": "手写 transformer decoder（CausalLM）",
       "created": "2024-08-18 21:00",
       "link": "https://yuanchaofa.com/hands-on-code/hands-on-causallm-decoder.html",
@@ -2677,6 +2829,14 @@
       "link": "https://lilianweng.github.io/posts/2024-04-12-diffusion-video/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "title": "终身学习:2023",
+      "created": "2024-02-07 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2024/02/07/lifelong-2023/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
