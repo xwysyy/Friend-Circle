@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 26,
-    "active_num": 26,
-    "error_num": 0,
-    "article_num": 408,
-    "last_updated_time": "2025-11-28 04:15:42"
+    "active_num": 23,
+    "error_num": 3,
+    "article_num": 358,
+    "last_updated_time": "2025-11-28 06:14:53"
   },
   "article_data": [
     {
@@ -134,14 +134,6 @@
       "author": "阮一峰",
       "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
       "category": "friend"
-    },
-    {
-      "title": "Why (Senior) Engineers Struggle to Build AI Agents",
-      "created": "2025-11-26 08:00",
-      "link": "https://www.philschmid.de/why-engineers-struggle-building-agents",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
     },
     {
       "title": "大模型上下文工程实践指南-第7章：智能体",
@@ -528,14 +520,6 @@
       "category": "friend"
     },
     {
-      "title": "Practical Guide on how to build an Agent from scratch with Gemini 3",
-      "created": "2025-11-21 08:00",
-      "link": "https://www.philschmid.de/building-agents",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "title": "LeoTalk · Hacker News Daily · 2025.11.21",
       "created": "2025-11-21 08:00",
       "link": "https://ifuryst.github.io/blog/2025/leotalk-hacker-news-daily-november-21-2025/",
@@ -630,14 +614,6 @@
       "author": "阮一峰",
       "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
       "category": "friend"
-    },
-    {
-      "title": "Gemini 3 Prompting: Best Practices for General Usage",
-      "created": "2025-11-19 08:00",
-      "link": "https://www.philschmid.de/gemini-3-prompt-practices",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
     },
     {
       "title": "How Disney Hotstar (now JioHotstar) Scaled Its Infra for 60 Million Concurrent Users",
@@ -872,14 +848,6 @@
       "category": "ai"
     },
     {
-      "title": "Kimi-K2 和 Kimi-K2-Thinking 深度解读：从预训练优化到 Agentic 能力训练的完整流程（含MuonClip优化、Agentic 数据合成等）",
-      "created": "2025-11-10 01:26",
-      "link": "https://yuanchaofa.com/post/kimi-k2-and-kimi-k2-thinking-notes.html",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
-      "category": "ai"
-    },
-    {
       "title": "咖啡配方——小黄油拿铁制作方法",
       "created": "2025-11-09 02:02",
       "link": "https://kirigaya.cn/blog/article?seq=359",
@@ -934,14 +902,6 @@
       "author": "阮一峰",
       "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
       "category": "friend"
-    },
-    {
-      "title": "Gemini API File Search: A Web Developer Tutorial",
-      "created": "2025-11-07 08:00",
-      "link": "https://www.philschmid.de/gemini-file-search-javascript",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
     },
     {
       "title": "Top Strategies to Share Data Between Services",
@@ -1032,14 +992,6 @@
       "category": "friend"
     },
     {
-      "title": "影视飓风TIM成功背后：一个程序员对自媒体商业化的深度复盘（25年10月月度小结）",
-      "created": "2025-11-03 04:52",
-      "link": "https://yuanchaofa.com/blog/2025-10-month-summary.html",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
-      "category": "ai"
-    },
-    {
       "title": "从Moments迁移到Ech0",
       "created": "2025-11-02 22:00",
       "link": "https://blog.liushen.fun/posts/e0b4d5a/",
@@ -1112,14 +1064,6 @@
       "category": "ai"
     },
     {
-      "title": "Build your first AI Agent with Gemini, n8n and Google Cloud Run",
-      "created": "2025-10-30 08:00",
-      "link": "https://www.philschmid.de/n8n-cloud-run-gemini",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "title": "DGX Spark and Mac Mini for Local PyTorch Development",
       "created": "2025-10-29 08:06",
       "link": "https://sebastianraschka.com/blog/2025/dgx-impressions.html",
@@ -1134,14 +1078,6 @@
       "author": "锦恢",
       "avatar": "https://kirigaya.cn/favicon.png",
       "category": "ai"
-    },
-    {
-      "title": "一站式操作系统 ISO 下载平台",
-      "created": "2025-10-28 00:00",
-      "link": "https://dusays.com/834/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
-      "category": "friend"
     },
     {
       "title": "低精度Attention可能存在有偏的舍入误差",
@@ -1198,14 +1134,6 @@
       "author": "锦恢",
       "avatar": "https://kirigaya.cn/favicon.png",
       "category": "ai"
-    },
-    {
-      "title": "MinIO 社区版 Web 管理界面被删事件全解析",
-      "created": "2025-10-22 00:00",
-      "link": "https://dusays.com/833/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
-      "category": "friend"
     },
     {
       "title": "MuP之上：1. 好模型的三个特征",
@@ -1288,22 +1216,6 @@
       "category": "ai"
     },
     {
-      "title": "如何使用 PHP 脚本筛选去不图床已到期用户邮箱",
-      "created": "2025-10-16 00:00",
-      "link": "https://dusays.com/832/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
-      "category": "friend"
-    },
-    {
-      "title": "AI Agent Benchmark Compendium",
-      "created": "2025-10-15 08:00",
-      "link": "https://www.philschmid.de/benchmark-compedium",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "title": "Agent 架构综述：从 Prompt 到上下文工程构建 AI Agent",
       "created": "2025-10-14 14:09",
       "link": "http://www.phodal.com/blog/prompt-to-agenticg/",
@@ -1320,28 +1232,12 @@
       "category": "ai"
     },
     {
-      "title": "Agents 2.0: From Shallow Loops to Deep Agents",
-      "created": "2025-10-12 08:00",
-      "link": "https://www.philschmid.de/agents-2.0-deep-agents",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "title": "模型量化操作————GPTQ和AWQ量化",
       "created": "2025-10-11 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/10/11/Quantized.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
-    },
-    {
-      "title": "Focalboard 开源项目管理的有力工具",
-      "created": "2025-10-10 00:00",
-      "link": "https://dusays.com/831/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
-      "category": "friend"
     },
     {
       "title": "Mac空格响应慢？Adobe软件Ps、Ai卡在抓手工具解决方法，临时抓手无法恢复指针",
@@ -1392,14 +1288,6 @@
       "category": "ai"
     },
     {
-      "title": "NodePass 开源的隧道工具重新定义内网穿透",
-      "created": "2025-10-04 00:00",
-      "link": "https://dusays.com/830/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
-      "category": "friend"
-    },
-    {
       "title": "论文速读记录 | 2025.10 - MoonOut",
       "created": "2025-10-02 23:00",
       "link": "https://www.cnblogs.com/moonout/p/19124123",
@@ -1432,14 +1320,6 @@
       "category": "ai"
     },
     {
-      "title": "探索网络实验的神器 Mininet",
-      "created": "2025-09-28 00:00",
-      "link": "https://dusays.com/829/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
-      "category": "friend"
-    },
-    {
       "title": "比较是快乐的小偷",
       "created": "2025-09-27 20:21",
       "link": "https://imqi1.com/discuss/836",
@@ -1461,14 +1341,6 @@
       "link": "https://blog.zhheo.com/p/u4t3kbx9.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
-      "category": "friend"
-    },
-    {
-      "title": "Ubuntu 系统无法通过 pip 命令安装 Python 库问题解决",
-      "created": "2025-09-22 00:00",
-      "link": "https://dusays.com/828/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
     },
     {
@@ -1520,35 +1392,11 @@
       "category": "friend"
     },
     {
-      "title": "使用 Python 脚本实现图片相似度匹配",
-      "created": "2025-09-16 00:00",
-      "link": "https://dusays.com/827/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
-      "category": "friend"
-    },
-    {
       "title": "让你的Mac巨省电，使用EfficiencyTool自定义程序在性能核心还是节能核心上运行",
       "created": "2025-09-15 10:48",
       "link": "https://blog.zhheo.com/p/25udchxs.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
-      "category": "friend"
-    },
-    {
-      "title": "The Rise of Subagents",
-      "created": "2025-09-15 08:00",
-      "link": "https://www.philschmid.de/the-rise-of-subagents",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "几种通过 FFmpeg 无损压缩视频的方法",
-      "created": "2025-09-10 00:00",
-      "link": "https://dusays.com/826/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
     },
     {
@@ -1584,14 +1432,6 @@
       "category": "ai"
     },
     {
-      "title": "天津游记「多图预警」",
-      "created": "2025-09-04 00:00",
-      "link": "https://dusays.com/825/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
-      "category": "friend"
-    },
-    {
       "title": "论文速读记录 | 2025.09 - MoonOut",
       "created": "2025-09-02 14:16",
       "link": "https://www.cnblogs.com/moonout/p/19069922",
@@ -1624,44 +1464,12 @@
       "category": "ai"
     },
     {
-      "title": "合肥游记「多图预警」",
-      "created": "2025-08-29 00:00",
-      "link": "https://dusays.com/824/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
-      "category": "friend"
-    },
-    {
       "title": "多模态算法QwenVL、KimiVL、DeepSeek等算法原理",
       "created": "2025-08-28 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/08/28/MultiModal2.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
-    },
-    {
-      "title": "The 10 Steps for product AI generation with Gemini 2.5 Flash",
-      "created": "2025-08-27 08:00",
-      "link": "https://www.philschmid.de/gemini-image-generation-product",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "探索扣子空间「邀请码不限量分享」",
-      "created": "2025-08-23 00:00",
-      "link": "https://dusays.com/823/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
-      "category": "friend"
-    },
-    {
-      "title": "在银河麒麟桌面操作系统 ARM 版上安装 KVM 虚拟化",
-      "created": "2025-08-17 00:00",
-      "link": "https://dusays.com/822/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
-      "category": "friend"
     },
     {
       "title": "花了几百块给电动车换了半身义体",
@@ -1702,14 +1510,6 @@
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
       "category": "ai"
-    },
-    {
-      "title": "LibreTV 免费的在线视频观看神器",
-      "created": "2025-08-11 00:00",
-      "link": "https://dusays.com/821/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
-      "category": "friend"
     },
     {
       "title": "From GPT-2 to gpt-oss: Analyzing the Architectural Advances",
@@ -1768,35 +1568,11 @@
       "category": "ai"
     },
     {
-      "title": "Electerm 高效便捷的开源终端工具",
-      "created": "2025-08-05 00:00",
-      "link": "https://dusays.com/820/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
-      "category": "friend"
-    },
-    {
-      "title": "Memory in Agents, Make LLMs remember.",
-      "created": "2025-08-04 08:00",
-      "link": "https://www.philschmid.de/memory-in-agents",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "title": "第035期 - 釜沸生香",
       "created": "2025-08-03 08:00",
       "link": "https://rrorangeandfriends.de/posts/2025/035",
       "author": "大橘和朋友们的周刊",
       "avatar": "https://rrorangeandfriends.de/favicon.png",
-      "category": "friend"
-    },
-    {
-      "title": "Wave Terminal 多功能开源终端工具",
-      "created": "2025-07-30 00:00",
-      "link": "https://dusays.com/819/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
     },
     {
@@ -1832,30 +1608,6 @@
       "category": "ai"
     },
     {
-      "title": "Google Gemini CLI Cheatsheet",
-      "created": "2025-07-24 08:00",
-      "link": "https://www.philschmid.de/gemini-cli-cheatsheet",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "SimpleMindMap 开启思维可视化之旅",
-      "created": "2025-07-24 00:00",
-      "link": "https://dusays.com/818/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
-      "category": "friend"
-    },
-    {
-      "title": "Code Sandbox MCP: A Simple Code Interpreter for Your AI Agents",
-      "created": "2025-07-22 08:00",
-      "link": "https://www.philschmid.de/code-sandbox-mcp",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "title": "The Big LLM Architecture Comparison",
       "created": "2025-07-19 14:00",
       "link": "https://sebastianraschka.com/blog/2025/the-big-llm-architecture-comparison.html",
@@ -1885,14 +1637,6 @@
       "link": "https://blog.liushen.fun/posts/96de9c07/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico",
-      "category": "friend"
-    },
-    {
-      "title": "Logseq 高效知识管理与协作利器",
-      "created": "2025-07-18 00:00",
-      "link": "https://dusays.com/817/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
     },
     {
@@ -1926,14 +1670,6 @@
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
       "category": "ai"
-    },
-    {
-      "title": "Linux 系统监控利器 ctop 命令详解",
-      "created": "2025-07-12 00:00",
-      "link": "https://dusays.com/816/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
-      "category": "friend"
     },
     {
       "title": "企业微信实用操作指南",
@@ -1984,14 +1720,6 @@
       "category": "ai"
     },
     {
-      "title": "Linux 下的高效压缩工具 Zstandard",
-      "created": "2025-07-06 00:00",
-      "link": "https://dusays.com/815/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
-      "category": "friend"
-    },
-    {
       "title": "2025 年 AI 编程趋势：智能体 10 倍生产率放大下的“粪围”蔓延",
       "created": "2025-07-04 15:40",
       "link": "http://www.phodal.com/blog/2025-ai4se-coding-trends/",
@@ -2016,14 +1744,6 @@
       "category": "ai"
     },
     {
-      "title": "Integrating Long-Term Memory with Gemini 2.5",
-      "created": "2025-07-03 08:00",
-      "link": "https://www.philschmid.de/gemini-with-memory",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "title": "浅谈AIGC论文检测",
       "created": "2025-07-01 19:32",
       "link": "https://blog.liushen.fun/posts/58e1bd57/",
@@ -2045,14 +1765,6 @@
       "link": "https://www.big-yellow-j.top/posts/2025/07/01/torch_basic.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "The New Skill in AI is Not Prompting, It's Context Engineering",
-      "created": "2025-06-30 08:00",
-      "link": "https://www.philschmid.de/context-engineering",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -2102,14 +1814,6 @@
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico",
       "category": "friend"
-    },
-    {
-      "title": "Single vs Multi-Agent System?",
-      "created": "2025-06-20 08:00",
-      "link": "https://www.philschmid.de/single-vs-multi-agents",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
     },
     {
       "title": "Understanding and Coding the KV Cache in LLMs from Scratch",
@@ -2336,14 +2040,6 @@
       "category": "friend"
     },
     {
-      "title": "Zero to One: Learning Agentic Patterns",
-      "created": "2025-05-05 08:00",
-      "link": "https://www.philschmid.de/agentic-pattern",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "title": "记录排查 xrdp 连接后立即断开问题",
       "created": "2025-05-03 12:44",
       "link": "https://www.less-bug.com/posts/how-i-fixed-a-xrdp-connection-lost-issue/",
@@ -2400,14 +2096,6 @@
       "category": "friend"
     },
     {
-      "title": "Google Gemini LangChain Cheatsheet",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "title": "The State of Reinforcement Learning for LLM Reasoning",
       "created": "2025-04-19 08:00",
       "link": "https://sebastianraschka.com/blog/2025/the-state-of-reinforcement-learning-for-llm-reasoning.html",
@@ -2422,14 +2110,6 @@
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico",
       "category": "friend"
-    },
-    {
-      "title": "OpenAI Codex CLI, how does it work?",
-      "created": "2025-04-17 08:00",
-      "link": "https://www.philschmid.de/openai-codex-cli",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
     },
     {
       "title": "Git | 如何将一个 remote branch 拉到本地 - MoonOut",
@@ -2461,22 +2141,6 @@
       "link": "https://www.less-bug.com/posts/learn-scala-in-one-day/",
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "Model Context Protocol (MCP) an overview",
-      "created": "2025-04-03 08:00",
-      "link": "https://www.philschmid.de/mcp-introduction",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "ReAct agent from scratch with Gemini 2.5 and LangGraph",
-      "created": "2025-03-31 08:00",
-      "link": "https://www.philschmid.de/langgraph-gemini-2-5-react-agent",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -2560,22 +2224,6 @@
       "category": "ai"
     },
     {
-      "title": "LLM MOE的进化之路，从普通简化 MOE，到 sparse moe，再到 deepseek 使用的 share_expert sparse moe",
-      "created": "2025-01-28 03:30",
-      "link": "https://yuanchaofa.com/llms-zero-to-hero/the-way-of-moe-model-evolution.html",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
-      "category": "ai"
-    },
-    {
-      "title": "LLM activate function激活函数的进化之路，从 ReLU，GELU 到 SwiGLU(swishGLU)",
-      "created": "2025-01-28 02:58",
-      "link": "https://yuanchaofa.com/llms-zero-to-hero/activate-function-from-relu-gelu-to-swishglu.html",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
-      "category": "ai"
-    },
-    {
       "title": "Noteworthy LLM Research Papers of 2024",
       "created": "2025-01-23 14:03",
       "link": "https://sebastianraschka.com/blog/2025/llm-research-2024.html",
@@ -2605,14 +2253,6 @@
       "link": "https://sebastianraschka.com/blog/2024/llm-research-papers-the-2024-list.html",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "2024，公开表达元年",
-      "created": "2024-12-29 05:00",
-      "link": "https://yuanchaofa.com/blog/2024-year-summary.html",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
       "category": "ai"
     },
     {
@@ -2688,14 +2328,6 @@
       "category": "ai"
     },
     {
-      "title": "手写大模型组件之Group Query Attention，从 MHA，MQA 到 GQA",
-      "created": "2024-12-09 06:00",
-      "link": "https://yuanchaofa.com/hands-on-code/hands-on-group-query-attention-and-multi-query-attention.html",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
-      "category": "ai"
-    },
-    {
       "title": "zhplot: 让 Python 中文做图变得简单",
       "created": "2024-12-08 08:00",
       "link": "https://shenxiangzhuang.github.io/blog/2024/12/08/zhplot/",
@@ -2733,14 +2365,6 @@
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
-      "category": "ai"
-    },
-    {
-      "title": "LoRA 原理和 PyTorch 代码实现",
-      "created": "2024-11-10 05:56",
-      "link": "https://yuanchaofa.com/hands-on-code/hands-on-lora.html",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
       "category": "ai"
     },
     {
@@ -2797,22 +2421,6 @@
       "link": "https://shenxiangzhuang.github.io/blog/2024/08/21/ds/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
-      "title": "手写 transformer decoder（CausalLM）",
-      "created": "2024-08-18 21:00",
-      "link": "https://yuanchaofa.com/hands-on-code/hands-on-causallm-decoder.html",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
-      "category": "ai"
-    },
-    {
-      "title": "手写 Self-Attention 的四重境界，从 self-attention 到 multi-head self-attention",
-      "created": "2024-08-18 20:00",
-      "link": "https://yuanchaofa.com/hands-on-code/from-self-attention-to-multi-head-self-attention.html",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
       "category": "ai"
     },
     {
@@ -3237,14 +2845,6 @@
       "link": "https://lilianweng.github.io/posts/2021-01-02-controllable-text-generation/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
-      "category": "ai"
-    },
-    {
-      "title": "2020年过去了，我不怀念它",
-      "created": "2021-01-01 04:20",
-      "link": "https://yuanchaofa.com/blog/2020-year-summary.html",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
       "category": "ai"
     },
     {
