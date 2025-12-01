@@ -4,9 +4,49 @@
     "active_num": 27,
     "error_num": 0,
     "article_num": 413,
-    "last_updated_time": "2025-12-01 12:45:39"
+    "last_updated_time": "2025-12-01 14:27:28"
   },
   "article_data": [
+    {
+      "title": "YouTube embeds fail with a 153 error",
+      "created": "2025-12-01 13:26",
+      "link": "https://simonwillison.net/2025/Dec/1/youtube-embed-153-error/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "title": "夸克x千问，AI浏览器还能这么玩？",
+      "created": "2025-12-01 12:06",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651004938&idx=1&sn=fb3ac672f880126efedc7f51f4070636",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "影响有多大？ICLR开盒大瓜后，OpenReview公布真相",
+      "created": "2025-12-01 12:06",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651004938&idx=2&sn=0f4122ea015691595566eacf58864b88",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "NeurIPS 2025 | DePass：通过单次前向传播分解实现统一的特征归因",
+      "created": "2025-12-01 12:06",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651004938&idx=3&sn=25484cb339fe684db22cf567767209ee",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "无需标注图像，VLM也能「自我进化」！RL自我进化框架VisPlay突破视觉推理难题",
+      "created": "2025-12-01 12:06",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651004938&idx=4&sn=e5dee4e1a7eb3771d10c561b0e57599e",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
     {
       "title": "LeoTalk · Hacker News Daily · 2025.12.01",
       "created": "2025-12-01 08:00",
@@ -392,38 +432,6 @@
       "category": "ai"
     },
     {
-      "title": "Gemini 3，是谢尔盖・布林「骂」出来的？",
-      "created": "2025-11-25 12:06",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651003553&idx=1&sn=d1316bd38e8317876603ade5041c2de6",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "与Banana Pro过过招，国产Libcom图像合成工作台开启Labubu漫游记",
-      "created": "2025-11-25 12:06",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651003553&idx=2&sn=544cc118b51d78678ea5ae40d983dec5",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "吴恩达发布论文自动审阅器，ICLR上达到接近人类水平",
-      "created": "2025-11-25 12:06",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651003553&idx=3&sn=8d81d9b05808e985115cdf51e2b4cd33",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "AAAI 2026 Oral | 悉尼科技大学联合港理工打破「一刀切」，联邦推荐如何实现「千人千面」的图文融合？",
-      "created": "2025-11-25 12:06",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651003553&idx=4&sn=24de619b63b04d18965923a7e00ad5eb",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "title": "LLM SVG Generation Benchmark",
       "created": "2025-11-25 12:02",
       "link": "https://simonwillison.net/2025/Nov/25/llm-svg-generation-benchmark/#atom-everything",
@@ -565,14 +573,6 @@
       "link": "https://baoyu.io/translations/nano-banana-pro-complete-developer-tutorial",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "Agent design is still hard",
-      "created": "2025-11-23 08:49",
-      "link": "https://simonwillison.net/2025/Nov/23/agent-design-is-still-hard/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
