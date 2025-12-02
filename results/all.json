@@ -4,9 +4,25 @@
     "active_num": 27,
     "error_num": 0,
     "article_num": 413,
-    "last_updated_time": "2025-12-03 00:22:26"
+    "last_updated_time": "2025-12-03 02:26:31"
   },
   "article_data": [
+    {
+      "title": "Introducing Mistral 3",
+      "created": "2025-12-03 01:30",
+      "link": "https://simonwillison.net/2025/Dec/2/introducing-mistral-3/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "title": "How Netflix Built a Distributed Write Ahead Log For Its Data Platform",
+      "created": "2025-12-03 00:30",
+      "link": "https://blog.bytebytego.com/p/how-netflix-built-a-distributed-write",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
     {
       "title": "论文速读记录 | 2025.12 - MoonOut",
       "created": "2025-12-02 23:13",
@@ -477,14 +493,6 @@
       "link": "https://baoyu.io/translations/anthropic-engineering-advanced-tool-use",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "Quoting Claude Opus 4.5 system prompt",
-      "created": "2025-11-25 07:58",
-      "link": "https://simonwillison.net/2025/Nov/24/claude-opus-45-system-prompt/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -1019,14 +1027,6 @@
       "title": "How Databricks Implemented Intelligent Kubernetes Load Balancing",
       "created": "2025-11-06 00:30",
       "link": "https://blog.bytebytego.com/p/how-databricks-implemented-intelligent",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "title": "How Datadog Built a Custom Database to Ingest Billions of Metrics Per Second",
-      "created": "2025-11-04 23:31",
-      "link": "https://blog.bytebytego.com/p/how-datadog-built-a-custom-database",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
