@@ -4,9 +4,41 @@
     "active_num": 27,
     "error_num": 0,
     "article_num": 413,
-    "last_updated_time": "2025-12-03 12:25:03"
+    "last_updated_time": "2025-12-03 14:25:44"
   },
   "article_data": [
+    {
+      "title": "TIL: Dependency groups and uv run",
+      "created": "2025-12-03 13:55",
+      "link": "https://simonwillison.net/2025/Dec/3/til-dependency-groups-and-uv-run/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "title": "原来这届中国AI年轻人，已经卷到业界都惊了",
+      "created": "2025-12-03 11:59",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651005301&idx=1&sn=bbca76c75a1acf072325ca31b51b7970",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "借鉴人脑「海马体-皮层」机制，红熊AI重做了一个「记忆系统」",
+      "created": "2025-12-03 11:59",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651005301&idx=2&sn=30687d8901c80c4a740d019a05f8ec9c",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "为什么给机器人装上昂贵的触觉传感器，反而让它变笨了？",
+      "created": "2025-12-03 11:59",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651005301&idx=3&sn=f6488a306a15c8f0586618193eeb8024",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
     {
       "title": "一些我用 AI 翻译文章的心得",
       "created": "2025-12-03 11:18",
@@ -53,6 +85,38 @@
       "link": "https://www.cnblogs.com/moonout/p/19299654",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "title": "华为新开源！扩散语言模型突破32K上下文，还解锁了「慢思考」",
+      "created": "2025-12-02 14:47",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651005150&idx=1&sn=d4d0e396baedd09427fc613c3a46e1a9",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "五年，终于等来Transformers v5",
+      "created": "2025-12-02 14:47",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651005150&idx=2&sn=adf53249c20f389072439602596ca904",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "AAAI 2026 Oral：明略科技开创稀疏数据「信息瓶颈动态压缩」，精度+速度双SOTA",
+      "created": "2025-12-02 14:47",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651005150&idx=3&sn=5806ef591c0a53dda4cd0f68344d1de4",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "NeurIPS 2025｜CAKE：大模型驱动的贝叶斯优化新配方，让黑箱优化更智能、更高效",
+      "created": "2025-12-02 14:47",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651005150&idx=4&sn=d2cc26f051c17a257a744209bdee1f5b",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -368,30 +432,6 @@
       "category": "ai"
     },
     {
-      "title": "Adam的稳+Muon的快？华为诺亚开源ROOT破解大模型训练「既要又要」的两难困境",
-      "created": "2025-11-27 12:06",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651003999&idx=1&sn=8d41cb907ba63a1d2141bf6ad119dd17",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "当推荐系统真正「懂你」：快手团队在NeurIPS 2025提出新成果TagCF",
-      "created": "2025-11-27 12:06",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651003999&idx=2&sn=cd12ad0b3d973ee34238ec1ed4e24528",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "首个3D生成解构模型PartCrafter问世，GitHub狂揽2k星标",
-      "created": "2025-11-27 12:06",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651003999&idx=3&sn=d0558a55f6a84d3e720485f306a18221",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "title": "AI 代码审查再进化：AutoDev 多智能体协作架构深度解析",
       "created": "2025-11-26 17:19",
       "link": "http://www.phodal.com/blog/autodev-multi-agents-code-review/",
@@ -405,38 +445,6 @@
       "link": "https://baoyu.io/blog/ilya-from-scaling-to-research",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "Scaling时代终结了，Ilya Sutskever刚刚宣布",
-      "created": "2025-11-26 09:33",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651003759&idx=1&sn=8ebbfd70abc1e84c6a90bb6fd0e8dc06",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "测完Nano Banana Pro的时空重现，我人傻了……",
-      "created": "2025-11-26 09:33",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651003759&idx=2&sn=4034e6c934f13ee870ee3893461670e2",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "中兴发了一篇论文，洞察AI更前沿的探索方向",
-      "created": "2025-11-26 09:33",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651003759&idx=3&sn=dd1f6185d5b710325d424f21a976590a",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "NeurIPS 2025 Spotlight | 中国联通以全局优化重塑扩散模型加速",
-      "created": "2025-11-26 09:33",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651003759&idx=4&sn=28d61605f64497dbecf642827e3af60a",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -493,14 +501,6 @@
       "link": "https://baoyu.io/translations/claude-skills-deep-dive",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "llm-anthropic 0.23",
-      "created": "2025-11-25 13:26",
-      "link": "https://simonwillison.net/2025/Nov/25/llm-anthropic/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
