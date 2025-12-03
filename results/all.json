@@ -4,9 +4,17 @@
     "active_num": 27,
     "error_num": 0,
     "article_num": 413,
-    "last_updated_time": "2025-12-04 00:23:07"
+    "last_updated_time": "2025-12-04 02:26:12"
   },
   "article_data": [
+    {
+      "title": "How Meta Uses AI Agents for Data Warehouse Access and Security",
+      "created": "2025-12-04 00:23",
+      "link": "https://blog.bytebytego.com/p/how-meta-uses-ai-agents-for-data",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
     {
       "title": "TIL: Dependency groups and uv run",
       "created": "2025-12-03 13:55",
@@ -45,6 +53,14 @@
       "link": "https://baoyu.io/blog/my-ai-article-translation-experience",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "A Technical Tour of the DeepSeek Models from V3 to V3.2",
+      "created": "2025-12-03 08:06",
+      "link": "https://sebastianraschka.com/blog/2025/technical-deepseek.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1021,14 +1037,6 @@
       "link": "https://kirigaya.cn/blog/article?seq=358",
       "author": "锦恢",
       "avatar": "https://kirigaya.cn/favicon.png",
-      "category": "ai"
-    },
-    {
-      "title": "How Databricks Implemented Intelligent Kubernetes Load Balancing",
-      "created": "2025-11-06 00:30",
-      "link": "https://blog.bytebytego.com/p/how-databricks-implemented-intelligent",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
@@ -2787,14 +2795,6 @@
       "title": "Building A GPT-Style LLM Classifier From Scratch",
       "created": "2024-09-21 14:03",
       "link": "https://sebastianraschka.com/blog/2024/building-a-gpt-style-llm-classifier.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "Building LLMs from the Ground Up: A 3-hour Coding Workshop",
-      "created": "2024-09-01 14:03",
-      "link": "https://sebastianraschka.com/blog/2024/building-llms-from-the-ground-up.html",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
