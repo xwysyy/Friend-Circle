@@ -4,7 +4,7 @@
     "active_num": 27,
     "error_num": 0,
     "article_num": 413,
-    "last_updated_time": "2025-12-05 02:26:32"
+    "last_updated_time": "2025-12-05 04:18:49"
   },
   "article_data": [
     {
@@ -45,6 +45,14 @@
       "link": "https://kirigaya.cn/blog/article?seq=361",
       "author": "锦恢",
       "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
+      "title": "Context Engineering for AI Agents: Part 2",
+      "created": "2025-12-04 08:00",
+      "link": "https://www.philschmid.de/context-engineering-part-2",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -2475,14 +2483,6 @@
       "title": "Model Context Protocol (MCP) an overview",
       "created": "2025-04-03 08:00",
       "link": "https://www.philschmid.de/mcp-introduction",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "ReAct agent from scratch with Gemini 2.5 and LangGraph",
-      "created": "2025-03-31 08:00",
-      "link": "https://www.philschmid.de/langgraph-gemini-2-5-react-agent",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
