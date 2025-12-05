@@ -4,9 +4,33 @@
     "active_num": 27,
     "error_num": 0,
     "article_num": 411,
-    "last_updated_time": "2025-12-05 12:26:22"
+    "last_updated_time": "2025-12-05 14:25:41"
   },
   "article_data": [
+    {
+      "title": "TIL: Subtests in pytest 9.0.0+",
+      "created": "2025-12-05 14:03",
+      "link": "https://simonwillison.net/2025/Dec/5/til-pytest-subtests/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "title": "滑动平均视角下的权重衰减和学习率",
+      "created": "2025-12-05 13:17",
+      "link": "https://kexue.fm/archives/11459",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "title": "Thoughts on Go vs. Rust vs. Zig",
+      "created": "2025-12-05 12:28",
+      "link": "https://simonwillison.net/2025/Dec/5/go-vs-rust-vs-zig/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "title": "The Resonant Computing Manifesto",
       "created": "2025-12-05 09:19",
@@ -440,14 +464,6 @@
       "category": "ai"
     },
     {
-      "title": "Bluesky Thread Viewer thread by @simonwillison.net",
-      "created": "2025-11-29 07:57",
-      "link": "https://simonwillison.net/2025/Nov/28/bluesky-thread-viewer/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
       "title": "⏳ LIMITED TIME OFFER: All in One Interview Prep Black Friday Sale",
       "created": "2025-11-29 00:32",
       "link": "https://blog.bytebytego.com/p/limited-time-offer-all-in-one-interview",
@@ -462,14 +478,6 @@
       "author": "阮一峰",
       "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
       "category": "friend"
-    },
-    {
-      "title": "Quoting Qwen3-VL Technical Report",
-      "created": "2025-11-28 01:01",
-      "link": "https://simonwillison.net/2025/Nov/27/qwen3-vl-technical-report/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
     },
     {
       "title": "Saga Pattern Demystified: Orchestration vs Choreography",
@@ -1406,14 +1414,6 @@
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico",
       "category": "friend"
-    },
-    {
-      "title": "为什么线性注意力要加Short Conv？",
-      "created": "2025-10-05 16:25",
-      "link": "https://kexue.fm/archives/11320",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
     },
     {
       "title": "Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)",
