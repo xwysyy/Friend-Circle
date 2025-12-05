@@ -3,10 +3,18 @@
     "friends_num": 27,
     "active_num": 27,
     "error_num": 0,
-    "article_num": 413,
-    "last_updated_time": "2025-12-05 09:15:19"
+    "article_num": 411,
+    "last_updated_time": "2025-12-05 11:15:35"
   },
   "article_data": [
+    {
+      "title": "The Resonant Computing Manifesto",
+      "created": "2025-12-05 09:19",
+      "link": "https://simonwillison.net/2025/Dec/5/resonant-computing/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "title": "科技爱好者周刊（第 376 期）：太空数据中心的争议",
       "created": "2025-12-05 08:09",
@@ -477,14 +485,6 @@
       "link": "https://blog.bytebytego.com/p/saga-pattern-demystified-orchestration",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "title": "deepseek-ai/DeepSeek-Math-V2",
-      "created": "2025-11-27 23:59",
-      "link": "https://simonwillison.net/2025/Nov/27/deepseek-math-v2/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -2888,17 +2888,57 @@
       "category": "ai"
     },
     {
-      "title": "NginxProxyManager/nginx-proxy-manager",
+      "title": "anthropics/claude-code",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/NginxProxyManager/nginx-proxy-manager",
+      "link": "https://github.com/anthropics/claude-code",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "title": "lima-vm/lima",
+      "title": "microsoft/magentic-ui",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/lima-vm/lima",
+      "link": "https://github.com/microsoft/magentic-ui",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "QuentinFuxa/WhisperLiveKit",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/QuentinFuxa/WhisperLiveKit",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "penpot/penpot",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/penpot/penpot",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "arhamkhnz/next-shadcn-admin-dashboard",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/arhamkhnz/next-shadcn-admin-dashboard",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "winapps-org/winapps",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/winapps-org/winapps",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "anthropics/claude-quickstarts",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/anthropics/claude-quickstarts",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2912,113 +2952,57 @@
       "category": "ai"
     },
     {
-      "title": "666ghj/BettaFish",
+      "title": "gunnarmorling/1brc",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/666ghj/BettaFish",
+      "link": "https://github.com/gunnarmorling/1brc",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "title": "nocobase/nocobase",
+      "title": "trekhleb/javascript-algorithms",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/nocobase/nocobase",
+      "link": "https://github.com/trekhleb/javascript-algorithms",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "title": "mudler/LocalAI",
+      "title": "oven-sh/bun",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/mudler/LocalAI",
+      "link": "https://github.com/oven-sh/bun",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "title": "opencloud-eu/opencloud",
+      "title": "Comfy-Org/ComfyUI-Manager",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/opencloud-eu/opencloud",
+      "link": "https://github.com/Comfy-Org/ComfyUI-Manager",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "title": "dbeaver/dbeaver",
+      "title": "danielmiessler/Fabric",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/dbeaver/dbeaver",
+      "link": "https://github.com/danielmiessler/Fabric",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "title": "Skyvern-AI/skyvern",
+      "title": "ostris/ai-toolkit",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Skyvern-AI/skyvern",
+      "link": "https://github.com/ostris/ai-toolkit",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "title": "usestrix/strix",
+      "title": "comfyanonymous/ComfyUI",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/usestrix/strix",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "modelcontextprotocol/go-sdk",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/modelcontextprotocol/go-sdk",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "kvcache-ai/ktransformers",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/kvcache-ai/ktransformers",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "topoteretes/cognee",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/topoteretes/cognee",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "sst/opentui",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/sst/opentui",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "containerd/containerd",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/containerd/containerd",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "ayn2op/discordo",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/ayn2op/discordo",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "prometheus/alertmanager",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/prometheus/alertmanager",
+      "link": "https://github.com/comfyanonymous/ComfyUI",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
