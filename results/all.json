@@ -3,10 +3,18 @@
     "friends_num": 27,
     "active_num": 27,
     "error_num": 0,
-    "article_num": 415,
-    "last_updated_time": "2025-12-09 09:14:55"
+    "article_num": 414,
+    "last_updated_time": "2025-12-09 11:15:27"
   },
   "article_data": [
+    {
+      "title": "Deprecations via warnings don’t work for Python libraries",
+      "created": "2025-12-09 09:13",
+      "link": "https://simonwillison.net/2025/Dec/9/deprecations-via-warnings/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "title": "健身方法论：1-RM 综合估算公式与 Lr 负重估算算法",
       "created": "2025-12-08 21:40",
@@ -469,14 +477,6 @@
       "link": "https://blog.bytebytego.com/p/how-llms-learn-from-the-internet",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "title": "YouTube embeds fail with a 153 error",
-      "created": "2025-12-01 13:26",
-      "link": "https://simonwillison.net/2025/Dec/1/youtube-embed-153-error/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -2888,65 +2888,9 @@
       "category": "ai"
     },
     {
-      "title": "humanlayer/humanlayer",
+      "title": "aquasecurity/trivy",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/humanlayer/humanlayer",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "rustfs/rustfs",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/rustfs/rustfs",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "android/nav3-recipes",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/android/nav3-recipes",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "microsoft/magentic-ui",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/microsoft/magentic-ui",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "anthropics/claude-quickstarts",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/anthropics/claude-quickstarts",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "vercel/next.js",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/vercel/next.js",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "basecamp/once-campfire",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/basecamp/once-campfire",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "microsoft/typescript-go",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/microsoft/typescript-go",
+      "link": "https://github.com/aquasecurity/trivy",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2960,9 +2904,17 @@
       "category": "ai"
     },
     {
-      "title": "oven-sh/bun",
+      "title": "microsoft/typescript-go",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/oven-sh/bun",
+      "link": "https://github.com/microsoft/typescript-go",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "facebook/react",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/facebook/react",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2976,17 +2928,17 @@
       "category": "ai"
     },
     {
-      "title": "minio/minio",
+      "title": "lynx-family/lynx",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/minio/minio",
+      "link": "https://github.com/lynx-family/lynx",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "title": "FortAwesome/Font-Awesome",
+      "title": "oven-sh/bun",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/FortAwesome/Font-Awesome",
+      "link": "https://github.com/oven-sh/bun",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -3000,9 +2952,49 @@
       "category": "ai"
     },
     {
-      "title": "lynx-family/lynx",
+      "title": "anthropics/claude-quickstarts",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/lynx-family/lynx",
+      "link": "https://github.com/anthropics/claude-quickstarts",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "FortAwesome/Font-Awesome",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/FortAwesome/Font-Awesome",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "humanlayer/humanlayer",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/humanlayer/humanlayer",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "basecamp/once-campfire",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/basecamp/once-campfire",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "vercel/next.js",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/vercel/next.js",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "rustfs/rustfs",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/rustfs/rustfs",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -3024,17 +3016,17 @@
       "category": "ai"
     },
     {
-      "title": "gunnarmorling/1brc",
+      "title": "minio/minio",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/gunnarmorling/1brc",
+      "link": "https://github.com/minio/minio",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "title": "aquasecurity/trivy",
+      "title": "microsoft/magentic-ui",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/aquasecurity/trivy",
+      "link": "https://github.com/microsoft/magentic-ui",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
