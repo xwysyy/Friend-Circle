@@ -4,15 +4,23 @@
     "active_num": 27,
     "error_num": 0,
     "article_num": 410,
-    "last_updated_time": "2025-12-16 09:18:12"
+    "last_updated_time": "2025-12-16 11:21:19"
   },
   "article_data": [
     {
-      "title": "LeoTalk · Hacker News Daily · 2025.12.16",
-      "created": "2025-12-16 08:00",
-      "link": "https://ifuryst.github.io/blog/2025/leotalk-hacker-news-daily-december-16-2025/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "title": "让炼丹更科学一些（三）：SGD的终点损失收敛",
+      "created": "2025-12-16 10:25",
+      "link": "https://kexue.fm/archives/11480",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "title": "Quoting Kent Beck",
+      "created": "2025-12-16 09:25",
+      "link": "https://simonwillison.net/2025/Dec/16/kent-beck/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -472,14 +480,6 @@
       "category": "ai"
     },
     {
-      "title": "Deprecations via warnings don’t work for Python libraries",
-      "created": "2025-12-09 09:13",
-      "link": "https://simonwillison.net/2025/Dec/9/deprecations-via-warnings/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
       "title": "健身方法论：1-RM 综合估算公式与 Lr 负重估算算法",
       "created": "2025-12-08 21:40",
       "link": "https://kirigaya.cn/blog/article?seq=362",
@@ -501,14 +501,6 @@
       "link": "https://sebastianraschka.com/blog/2025/hello-world-ai.html",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "LeoTalk · Hacker News Daily · 2025.12.08",
-      "created": "2025-12-08 08:00",
-      "link": "https://ifuryst.github.io/blog/2025/leotalk-hacker-news-daily-december-8-2025/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -541,14 +533,6 @@
       "link": "https://blog.bytebytego.com/p/ep192-what-is-a-rest-api",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "title": "LeoTalk · Hacker News Daily · 2025.12.06",
-      "created": "2025-12-06 08:00",
-      "link": "https://ifuryst.github.io/blog/2025/leotalk-hacker-news-daily-december-6-2025/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -1000,6 +984,14 @@
       "category": "ai"
     },
     {
+      "title": "LeoTalk AI周知 9: 算法or工程",
+      "created": "2025-11-17 08:00",
+      "link": "https://ifuryst.github.io/blog/2025/leotalk-ai-weekly-9-algorithm-or-engineering/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
       "title": "GPU 微架构之旅 | 第五天：术业有专攻——那些“特种兵”单元",
       "created": "2025-11-16 23:13",
       "link": "https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-5-specialists/",
@@ -1056,6 +1048,14 @@
       "category": "ai"
     },
     {
+      "title": "LeoTalk · Hacker News Daily · 2025.11.13",
+      "created": "2025-11-13 08:00",
+      "link": "https://ifuryst.github.io/blog/2025/leotalk-hacker-news-daily-november-13-2025/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
       "title": "AutoDev CLI：构建 AI Agent 生成的 AI Agent 质量保障与验证架构",
       "created": "2025-11-12 16:35",
       "link": "http://www.phodal.com/blog/autodev-cli-validate-framework/",
@@ -1077,6 +1077,14 @@
       "link": "https://www.big-yellow-j.top/posts/2025/11/12/RLCode.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "LeoTalk · Hacker News Daily · 2025.11.12",
+      "created": "2025-11-12 08:00",
+      "link": "https://ifuryst.github.io/blog/2025/leotalk-hacker-news-daily-november-12-2025/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -1437,14 +1445,6 @@
       "link": "http://www.phodal.com/blog/prompt-to-agenticg/",
       "author": "Phodal Huang",
       "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
-      "category": "ai"
-    },
-    {
-      "title": "随机矩阵的谱范数的快速估计",
-      "created": "2025-10-12 21:52",
-      "link": "https://kexue.fm/archives/11335",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -2896,6 +2896,30 @@
       "category": "ai"
     },
     {
+      "title": "thedotmack/claude-mem",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "srbhr/Resume-Matcher",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/srbhr/Resume-Matcher",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "tursodatabase/turso",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/tursodatabase/turso",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "title": "datawhalechina/hello-agents",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/datawhalechina/hello-agents",
@@ -2912,9 +2936,25 @@
       "category": "ai"
     },
     {
-      "title": "tursodatabase/turso",
+      "title": "rustfs/rustfs",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/tursodatabase/turso",
+      "link": "https://github.com/rustfs/rustfs",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "agentsmd/agents.md",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/agentsmd/agents.md",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "microsoft/VibeVoice",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/microsoft/VibeVoice",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2923,6 +2963,22 @@
       "title": "block/goose",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/block/goose",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "NVIDIA/cutile-python",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/NVIDIA/cutile-python",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/Tencent/WeKnora",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2939,62 +2995,6 @@
       "title": "lfnovo/open-notebook",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/lfnovo/open-notebook",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "srbhr/Resume-Matcher",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/srbhr/Resume-Matcher",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "microsoft/VibeVoice",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/microsoft/VibeVoice",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "agentsmd/agents.md",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/agentsmd/agents.md",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "Tencent/WeKnora",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/Tencent/WeKnora",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "strands-agents/sdk-python",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/strands-agents/sdk-python",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "rustfs/rustfs",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/rustfs/rustfs",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "NVIDIA/cutile-python",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/NVIDIA/cutile-python",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
