@@ -1,12 +1,20 @@
 {
   "statistical_data": {
     "friends_num": 27,
-    "active_num": 26,
-    "error_num": 1,
-    "article_num": 389,
-    "last_updated_time": "2025-12-21 09:22:14"
+    "active_num": 27,
+    "error_num": 0,
+    "article_num": 410,
+    "last_updated_time": "2025-12-21 11:25:46"
   },
   "article_data": [
+    {
+      "title": "The complete \"Editable NotebookLM Slides\" solution",
+      "created": "2025-12-21 10:12",
+      "link": "https://baoyu.io/blog/the-complete-editable-notebooklm-slides-solution",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
     {
       "title": "LeoTalk · Hacker News Daily · 2025.12.21",
       "created": "2025-12-21 08:00",
@@ -696,6 +704,14 @@
       "category": "ai"
     },
     {
+      "title": "From Random Forests to RLVR: A Short History of ML/AI Hello Worlds",
+      "created": "2025-12-08 08:20",
+      "link": "https://sebastianraschka.com/blog/2025/hello-world-ai.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "title": "How Reddit Migrated Comments Functionality from Python to Go",
       "created": "2025-12-08 00:30",
       "link": "https://blog.bytebytego.com/p/how-reddit-migrated-comments-functionality",
@@ -789,6 +805,14 @@
       "link": "https://baoyu.io/blog/my-ai-article-translation-experience",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "From DeepSeek V3 to V3.2: Architecture, Sparse Attention, and RL Updates",
+      "created": "2025-12-03 08:06",
+      "link": "https://sebastianraschka.com/blog/2025/technical-deepseek.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1000,14 +1024,6 @@
       "category": "friend"
     },
     {
-      "title": "AI 智能体如何利用文件系统进行上下文工程",
-      "created": "2025-11-23 13:12",
-      "link": "https://baoyu.io/translations/how-agents-can-use-filesystems-for-context-engineering",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "title": "ToyNLP: 从零实现自然语言处理经典模型",
       "created": "2025-11-23 08:00",
       "link": "https://shenxiangzhuang.github.io/blog/2025/11/23/toynlp/",
@@ -1128,6 +1144,14 @@
       "category": "ai"
     },
     {
+      "title": "Recommendations for Getting the Most Out of a Technical Book",
+      "created": "2025-11-12 08:08",
+      "link": "https://sebastianraschka.com/blog/2025/reading-books.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "title": "DPO、PPO、GRPO代码乱记",
       "created": "2025-11-12 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/11/12/RLCode.html",
@@ -1208,6 +1232,14 @@
       "category": "friend"
     },
     {
+      "title": "Beyond Standard LLMs",
+      "created": "2025-11-04 08:08",
+      "link": "https://sebastianraschka.com/blog/2025/beyond-standard-llms.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "title": "流形上的最速下降：5. 对偶梯度下降",
       "created": "2025-11-03 10:22",
       "link": "https://kexue.fm/archives/11388",
@@ -1285,6 +1317,14 @@
       "link": "https://www.philschmid.de/n8n-cloud-run-gemini",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "DGX Spark and Mac Mini for Local PyTorch Development",
+      "created": "2025-10-29 08:06",
+      "link": "https://sebastianraschka.com/blog/2025/dgx-impressions.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1496,6 +1536,14 @@
       "category": "friend"
     },
     {
+      "title": "Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)",
+      "created": "2025-10-05 08:06",
+      "link": "https://sebastianraschka.com/blog/2025/llm-evaluation-4-approaches.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "title": "NodePass 开源的隧道工具重新定义内网穿透",
       "created": "2025-10-04 00:00",
       "link": "https://dusays.com/830/",
@@ -1629,6 +1677,14 @@
       "link": "http://www.phodal.com/blog/from-langchain-to-spring-ai/",
       "author": "Phodal Huang",
       "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
+      "category": "ai"
+    },
+    {
+      "title": "Understanding and Implementing Qwen3 From Scratch",
+      "created": "2025-09-06 16:00",
+      "link": "https://sebastianraschka.com/blog/2025/qwen3-from-scratch.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1768,6 +1824,14 @@
       "category": "friend"
     },
     {
+      "title": "From GPT-2 to gpt-oss: Analyzing the Architectural Advances",
+      "created": "2025-08-09 19:00",
+      "link": "https://sebastianraschka.com/blog/2025/from-gpt-2-to-gpt-oss.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "title": "循一缕风，入山偷得夏日凉",
       "created": "2025-08-08 13:50",
       "link": "https://blog.liushen.fun/posts/aae6fd55/",
@@ -1901,6 +1965,14 @@
       "link": "https://www.philschmid.de/code-sandbox-mcp",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "The Big LLM Architecture Comparison",
+      "created": "2025-07-19 14:00",
+      "link": "https://sebastianraschka.com/blog/2025/the-big-llm-architecture-comparison.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -2064,6 +2136,14 @@
       "category": "friend"
     },
     {
+      "title": "LLM Research Papers: The 2025 List (January to June)",
+      "created": "2025-07-01 14:06",
+      "link": "https://sebastianraschka.com/blog/2025/llm-research-papers-the-2025-list-january-to-june.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "title": "pytorch使用-1：pytorch中基础概念",
       "created": "2025-07-01 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/07/01/torch_basic.html",
@@ -2133,6 +2213,14 @@
       "link": "https://www.philschmid.de/single-vs-multi-agents",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "Understanding and Coding the KV Cache in LLMs from Scratch",
+      "created": "2025-06-17 16:00",
+      "link": "https://sebastianraschka.com/blog/2025/coding-the-kv-cache-in-llms.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -2272,6 +2360,14 @@
       "category": "ai"
     },
     {
+      "title": "Coding LLMs from the Ground Up: A Complete Course",
+      "created": "2025-05-10 08:00",
+      "link": "https://sebastianraschka.com/blog/2025/coding-llms-from-the-ground-up-a-complete-course.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "title": "“PC 指向下一条要执行的指令”真的对吗？",
       "created": "2025-05-09 22:51",
       "link": "https://www.less-bug.com/posts/pc-point-to-next-instruction--is-it-true/",
@@ -2368,6 +2464,14 @@
       "category": "ai"
     },
     {
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://sebastianraschka.com/blog/2025/the-state-of-reinforcement-learning-for-llm-reasoning.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "title": "美化你的RSS订阅地址",
       "created": "2025-04-18 20:47",
       "link": "https://blog.liushen.fun/posts/caee2d9f/",
@@ -2408,6 +2512,14 @@
       "category": "ai"
     },
     {
+      "title": "First Look at Reasoning From Scratch: Chapter 1",
+      "created": "2025-03-29 14:03",
+      "link": "https://sebastianraschka.com/blog/2025/first-look-at-reasoning-from-scratch.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "title": "简单聊一聊 Redis 的锁",
       "created": "2025-03-23 08:00",
       "link": "https://shenxiangzhuang.github.io/blog/2025/03/23/redis_lock/",
@@ -2421,6 +2533,14 @@
       "link": "https://philliphaeusler.com/posts/orthogonal_linear_layers/",
       "author": "Phillip Haeusler",
       "avatar": "https://philliphaeusler.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "Inference-Time Compute Scaling Methods to Improve Reasoning Models",
+      "created": "2025-03-08 14:03",
+      "link": "https://sebastianraschka.com/blog/2025/state-of-llm-reasoning-and-inference-scaling.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -2464,6 +2584,14 @@
       "category": "ai"
     },
     {
+      "title": "Understanding Reasoning LLMs",
+      "created": "2025-02-05 14:03",
+      "link": "https://sebastianraschka.com/blog/2025/understanding-reasoning-llms.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "title": "LLM MOE的进化之路，从普通简化 MOE，到 sparse moe，再到 deepseek 使用的 share_expert sparse moe",
       "created": "2025-01-28 03:30",
       "link": "https://yuanchaofa.com/llms-zero-to-hero/the-way-of-moe-model-evolution.html",
@@ -2480,11 +2608,27 @@
       "category": "ai"
     },
     {
+      "title": "Noteworthy LLM Research Papers of 2024",
+      "created": "2025-01-23 14:03",
+      "link": "https://sebastianraschka.com/blog/2025/llm-research-2024.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "title": "Oh-Numpy & Oh-Pytorch",
       "created": "2025-01-23 08:00",
       "link": "https://shenxiangzhuang.github.io/blog/2025/01/23/oh_numpy_pytorch/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "title": "Implementing A Byte Pair Encoding (BPE) Tokenizer From Scratch",
+      "created": "2025-01-17 14:03",
+      "link": "https://sebastianraschka.com/blog/2025/bpe-from-scratch.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -2494,6 +2638,14 @@
       "author": "huccihuang",
       "avatar": "https://avatars.githubusercontent.com/u/37830922?s=400&u=e1064ca880baded1c670372f9fa0a1b0cffac885&v=4",
       "category": "lang"
+    },
+    {
+      "title": "LLM Research Papers: The 2024 List",
+      "created": "2024-12-29 14:03",
+      "link": "https://sebastianraschka.com/blog/2024/llm-research-papers-the-2024-list.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
     },
     {
       "title": "我的 2024",
@@ -2624,6 +2776,14 @@
       "category": "ai"
     },
     {
+      "title": "Understanding Multimodal LLMs",
+      "created": "2024-11-03 14:03",
+      "link": "https://sebastianraschka.com/blog/2024/understanding-multimodal-llms.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "title": "物理光学笔记",
       "created": "2024-10-30 19:22",
       "link": "https://www.less-bug.com/posts/notes-of-physics-optics/",
@@ -2728,9 +2888,9 @@
       "category": "ai"
     },
     {
-      "title": "Tencent/WeKnora",
+      "title": "simstudioai/sim",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Tencent/WeKnora",
+      "link": "https://github.com/simstudioai/sim",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2744,9 +2904,17 @@
       "category": "ai"
     },
     {
-      "title": "datawhalechina/hello-agents",
+      "title": "DayuanJiang/next-ai-draw-io",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/datawhalechina/hello-agents",
+      "link": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "thedotmack/claude-mem",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/thedotmack/claude-mem",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2755,14 +2923,6 @@
       "title": "resemble-ai/chatterbox",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/resemble-ai/chatterbox",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "ChromeDevTools/chrome-devtools-mcp",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2784,38 +2944,6 @@
       "category": "ai"
     },
     {
-      "title": "simstudioai/sim",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/simstudioai/sim",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "jellyfin/jellyfin-desktop",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/jellyfin/jellyfin-desktop",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "thedotmack/claude-mem",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/thedotmack/claude-mem",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "mindsdb/mindsdb",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/mindsdb/mindsdb",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "title": "agentsmd/agents.md",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/agentsmd/agents.md",
@@ -2824,9 +2952,49 @@
       "category": "ai"
     },
     {
-      "title": "DayuanJiang/next-ai-draw-io",
+      "title": "v2fly/domain-list-community",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "link": "https://github.com/v2fly/domain-list-community",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "datawhalechina/hello-agents",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/datawhalechina/hello-agents",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "exo-explore/exo",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/exo-explore/exo",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "refly-ai/refly",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/refly-ai/refly",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/Tencent/WeKnora",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
