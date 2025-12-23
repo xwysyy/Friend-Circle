@@ -3,10 +3,26 @@
     "friends_num": 27,
     "active_num": 27,
     "error_num": 0,
-    "article_num": 411,
-    "last_updated_time": "2025-12-23 09:17:22"
+    "article_num": 413,
+    "last_updated_time": "2025-12-23 11:23:09"
   },
   "article_data": [
+    {
+      "title": "为什么DeltaNet要加L2 Normalize？",
+      "created": "2025-12-23 10:20",
+      "link": "https://kexue.fm/archives/11486",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "title": "提示 SMS Fee 无法登录怎么办，绕过 SMS Fee 方法",
+      "created": "2025-12-23 09:51",
+      "link": "https://blog.zhheo.com/p/41n5tavc.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
+      "category": "friend"
+    },
     {
       "title": "LeoTalk · Hacker News Daily · 2025.12.23",
       "created": "2025-12-23 08:00",
@@ -1440,14 +1456,6 @@
       "category": "friend"
     },
     {
-      "title": "MuP之上：1. 好模型的三个特征",
-      "created": "2025-10-21 15:19",
-      "link": "https://kexue.fm/archives/11340",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
       "title": "将电热毯通过 Homeassistant 接入 Homekit 并支持调节档位",
       "created": "2025-10-20 12:20",
       "link": "https://blog.zhheo.com/p/eqc0vrd6.html",
@@ -1629,14 +1637,6 @@
       "link": "https://imqi1.com/discuss/836",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
-    {
-      "title": "升级到 macOS Tahoe 26 没有启动台？用 LaunchNext 实现在 macOS26 中使用启动台！",
-      "created": "2025-09-24 09:42",
-      "link": "https://blog.zhheo.com/p/rvl5xpjy.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
       "category": "friend"
     },
     {
@@ -2888,41 +2888,9 @@
       "category": "ai"
     },
     {
-      "title": "simstudioai/sim",
+      "title": "anthropics/claude-code",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/simstudioai/sim",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "sst/opencode",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/sst/opencode",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "exo-explore/exo",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/exo-explore/exo",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "CopilotKit/CopilotKit",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/CopilotKit/CopilotKit",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "v2fly/domain-list-community",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/v2fly/domain-list-community",
+      "link": "https://github.com/anthropics/claude-code",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2936,33 +2904,9 @@
       "category": "ai"
     },
     {
-      "title": "refly-ai/refly",
+      "title": "ZJU-LLMs/Foundations-of-LLMs",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/refly-ai/refly",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "DayuanJiang/next-ai-draw-io",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "anthropics/claude-code",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/anthropics/claude-code",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "Tencent/WeKnora",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/Tencent/WeKnora",
+      "link": "https://github.com/ZJU-LLMs/Foundations-of-LLMs",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2976,9 +2920,57 @@
       "category": "ai"
     },
     {
-      "title": "danielmiessler/Personal_AI_Infrastructure",
+      "title": "v2fly/domain-list-community",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "link": "https://github.com/v2fly/domain-list-community",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "anthropics/skills",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/anthropics/skills",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "DayuanJiang/next-ai-draw-io",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "exo-explore/exo",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/exo-explore/exo",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "sst/opencode",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/sst/opencode",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "simstudioai/sim",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/simstudioai/sim",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2992,9 +2984,25 @@
       "category": "ai"
     },
     {
-      "title": "tursodatabase/turso",
+      "title": "GeeeekExplorer/nano-vllm",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/tursodatabase/turso",
+      "link": "https://github.com/GeeeekExplorer/nano-vllm",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "refly-ai/refly",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/refly-ai/refly",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "danielmiessler/Personal_AI_Infrastructure",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -3003,6 +3011,14 @@
       "title": "HKUDS/DeepCode",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/HKUDS/DeepCode",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/Tencent/WeKnora",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
