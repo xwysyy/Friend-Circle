@@ -1,12 +1,28 @@
 {
   "statistical_data": {
     "friends_num": 27,
-    "active_num": 27,
-    "error_num": 0,
-    "article_num": 412,
-    "last_updated_time": "2025-12-27 04:17:53"
+    "active_num": 26,
+    "error_num": 1,
+    "article_num": 402,
+    "last_updated_time": "2025-12-27 06:16:16"
   },
   "article_data": [
+    {
+      "title": "Stack Overflow 2025 年度报告：写代码如果不值钱了，我们该去哪？",
+      "created": "2025-12-27 06:01",
+      "link": "https://baoyu.io/blog/stack-overflow-2025-report-future-coding",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "设计师该不该写代码？一个被问错的问题——AI时代的设计价值与慢思考",
+      "created": "2025-12-27 04:55",
+      "link": "https://baoyu.io/blog/designers-code-rethinking-ai-era-design-value",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
     {
       "title": "How Rob Pike got spammed with an AI slop \"act of kindness\"",
       "created": "2025-12-27 02:16",
@@ -45,14 +61,6 @@
       "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651009172&idx=3&sn=f057db8171537906ad7d00a6df674975",
       "author": "机器之心",
       "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "让炼丹更科学一些（四）：新恒等式，新学习率",
-      "created": "2025-12-26 10:38",
-      "link": "https://kexue.fm/archives/11494",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -317,14 +325,6 @@
       "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651008576&idx=4&sn=0615da6cadc28346ead6b609ca7d12d9",
       "author": "机器之心",
       "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "为什么DeltaNet要加L2 Normalize？",
-      "created": "2025-12-23 10:20",
-      "link": "https://kexue.fm/archives/11486",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -760,14 +760,6 @@
       "category": "ai"
     },
     {
-      "title": "让炼丹更科学一些（三）：SGD的终点损失收敛",
-      "created": "2025-12-16 10:25",
-      "link": "https://kexue.fm/archives/11480",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
       "title": "Top AI Agentic Workflow Patterns",
       "created": "2025-12-16 00:31",
       "link": "https://blog.bytebytego.com/p/top-ai-agentic-workflow-patterns",
@@ -846,14 +838,6 @@
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
       "category": "friend"
-    },
-    {
-      "title": "让炼丹更科学一些（二）：将结论推广到无界域",
-      "created": "2025-12-12 10:21",
-      "link": "https://kexue.fm/archives/11469",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
     },
     {
       "title": "科技爱好者周刊（第 377 期）：14万美元的贫困线",
@@ -965,14 +949,6 @@
       "link": "https://blog.bytebytego.com/p/how-doordash-moved-to-a-service-mesh",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "title": "滑动平均视角下的权重衰减和学习率",
-      "created": "2025-12-05 13:17",
-      "link": "https://kexue.fm/archives/11459",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -1088,14 +1064,6 @@
       "category": "ai"
     },
     {
-      "title": "打造高效框架，让 AI 智能体胜任“长跑”任务",
-      "created": "2025-11-27 12:46",
-      "link": "https://baoyu.io/translations/effective-harnesses-for-long-running-agents",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "title": "AI 代码审查再进化：AutoDev 多智能体协作架构深度解析",
       "created": "2025-11-26 17:19",
       "link": "http://www.phodal.com/blog/autodev-multi-agents-code-review/",
@@ -1104,27 +1072,11 @@
       "category": "ai"
     },
     {
-      "title": "Ilya：扩展时代已经结束了，研究的时代已经开始",
-      "created": "2025-11-26 13:34",
-      "link": "https://baoyu.io/blog/ilya-from-scaling-to-research",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "title": "Why (Senior) Engineers Struggle to Build AI Agents",
       "created": "2025-11-26 08:00",
       "link": "https://www.philschmid.de/why-engineers-struggle-building-agents",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "生成扩散模型漫谈（三十一）：预测数据而非噪声",
-      "created": "2025-11-24 17:31",
-      "link": "https://kexue.fm/archives/11428",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -1176,27 +1128,11 @@
       "category": "ai"
     },
     {
-      "title": "Muon优化器指南：快速上手与关键细节",
-      "created": "2025-11-19 23:08",
-      "link": "https://kexue.fm/archives/11416",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
       "title": "Gemini 3 Prompting: Best Practices for General Usage",
       "created": "2025-11-19 08:00",
       "link": "https://www.philschmid.de/gemini-3-prompt-practices",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "AdamW的Weight RMS的渐近估计（下）",
-      "created": "2025-11-17 16:56",
-      "link": "https://kexue.fm/archives/11404",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -1312,14 +1248,6 @@
       "category": "ai"
     },
     {
-      "title": "n个正态随机数的最大值的渐近估计",
-      "created": "2025-11-06 21:24",
-      "link": "https://kexue.fm/archives/11390",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
       "title": "WSL2 下安装 Docker",
       "created": "2025-11-06 01:28",
       "link": "https://kirigaya.cn/blog/article?seq=358",
@@ -1349,14 +1277,6 @@
       "link": "https://sebastianraschka.com/blog/2025/beyond-standard-llms.html",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "流形上的最速下降：5. 对偶梯度下降",
-      "created": "2025-11-03 10:22",
-      "link": "https://kexue.fm/archives/11388",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
