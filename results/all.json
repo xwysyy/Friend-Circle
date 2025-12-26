@@ -3,10 +3,18 @@
     "friends_num": 27,
     "active_num": 27,
     "error_num": 0,
-    "article_num": 411,
-    "last_updated_time": "2025-12-26 09:17:30"
+    "article_num": 412,
+    "last_updated_time": "2025-12-26 11:21:30"
   },
   "article_data": [
+    {
+      "title": "让炼丹更科学一些（四）：新恒等式，新学习率",
+      "created": "2025-12-26 10:38",
+      "link": "https://kexue.fm/archives/11494",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
     {
       "title": "LeoTalk · Hacker News Daily · 2025.12.26",
       "created": "2025-12-26 08:00",
@@ -1438,14 +1446,6 @@
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
-    },
-    {
-      "title": "低精度Attention可能存在有偏的舍入误差",
-      "created": "2025-10-27 10:11",
-      "link": "https://kexue.fm/archives/11371",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
     },
     {
       "title": "Final Cut Pro 音频降噪、人声增强插件，优化视频中的人声表现",
@@ -2888,97 +2888,9 @@
       "category": "ai"
     },
     {
-      "title": "exo-explore/exo",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/exo-explore/exo",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "anthropics/claude-code",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/anthropics/claude-code",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "astral-sh/ty",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/astral-sh/ty",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "swisskyrepo/PayloadsAllTheThings",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/swisskyrepo/PayloadsAllTheThings",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "danielmiessler/Personal_AI_Infrastructure",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "AUTOMATIC1111/stable-diffusion-webui",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "GeeeekExplorer/nano-vllm",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/GeeeekExplorer/nano-vllm",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "resemble-ai/chatterbox",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/resemble-ai/chatterbox",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "davila7/claude-code-templates",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/davila7/claude-code-templates",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "LadybirdBrowser/ladybird",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/LadybirdBrowser/ladybird",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "title": "anthropics/skills",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/anthropics/skills",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "abseil/abseil-cpp",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/abseil/abseil-cpp",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2992,6 +2904,30 @@
       "category": "ai"
     },
     {
+      "title": "danielmiessler/Personal_AI_Infrastructure",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "resemble-ai/chatterbox",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/resemble-ai/chatterbox",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "anthropics/claude-code",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/anthropics/claude-code",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "title": "google/A2UI",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/google/A2UI",
@@ -3000,9 +2936,81 @@
       "category": "ai"
     },
     {
+      "title": "astral-sh/ty",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/astral-sh/ty",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "davila7/claude-code-templates",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/davila7/claude-code-templates",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "google/langextract",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/google/langextract",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "title": "danielmiessler/Fabric",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/danielmiessler/Fabric",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "swisskyrepo/PayloadsAllTheThings",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "letta-ai/letta",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/letta-ai/letta",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "GeeeekExplorer/nano-vllm",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/GeeeekExplorer/nano-vllm",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "exo-explore/exo",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/exo-explore/exo",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "cocoindex-io/cocoindex",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/cocoindex-io/cocoindex",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
