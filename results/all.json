@@ -1,12 +1,20 @@
 {
   "statistical_data": {
     "friends_num": 27,
-    "active_num": 26,
-    "error_num": 1,
-    "article_num": 402,
-    "last_updated_time": "2025-12-27 09:15:42"
+    "active_num": 27,
+    "error_num": 0,
+    "article_num": 410,
+    "last_updated_time": "2025-12-27 11:19:35"
   },
   "article_data": [
+    {
+      "title": "王二下班之后",
+      "created": "2025-12-27 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2025/12/27/wang_work/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
     {
       "title": "How uv got so fast",
       "created": "2025-12-27 07:43",
@@ -69,6 +77,14 @@
       "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651009172&idx=3&sn=f057db8171537906ad7d00a6df674975",
       "author": "机器之心",
       "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "让炼丹更科学一些（四）：新恒等式，新学习率",
+      "created": "2025-12-26 10:38",
+      "link": "https://kexue.fm/archives/11494",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -333,6 +349,14 @@
       "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651008576&idx=4&sn=0615da6cadc28346ead6b609ca7d12d9",
       "author": "机器之心",
       "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "为什么DeltaNet要加L2 Normalize？",
+      "created": "2025-12-23 10:20",
+      "link": "https://kexue.fm/archives/11486",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -760,6 +784,14 @@
       "category": "ai"
     },
     {
+      "title": "让炼丹更科学一些（三）：SGD的终点损失收敛",
+      "created": "2025-12-16 10:25",
+      "link": "https://kexue.fm/archives/11480",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
       "title": "Top AI Agentic Workflow Patterns",
       "created": "2025-12-16 00:31",
       "link": "https://blog.bytebytego.com/p/top-ai-agentic-workflow-patterns",
@@ -838,6 +870,14 @@
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
       "category": "friend"
+    },
+    {
+      "title": "让炼丹更科学一些（二）：将结论推广到无界域",
+      "created": "2025-12-12 10:21",
+      "link": "https://kexue.fm/archives/11469",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
     },
     {
       "title": "科技爱好者周刊（第 377 期）：14万美元的贫困线",
@@ -949,6 +989,14 @@
       "link": "https://blog.bytebytego.com/p/how-doordash-moved-to-a-service-mesh",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "title": "滑动平均视角下的权重衰减和学习率",
+      "created": "2025-12-05 13:17",
+      "link": "https://kexue.fm/archives/11459",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -1080,6 +1128,14 @@
       "category": "ai"
     },
     {
+      "title": "生成扩散模型漫谈（三十一）：预测数据而非噪声",
+      "created": "2025-11-24 17:31",
+      "link": "https://kexue.fm/archives/11428",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
       "title": "新时代的 Google Scholar",
       "created": "2025-11-24 08:00",
       "link": "https://shenxiangzhuang.github.io/blog/2025/11/24/google_scholar_new_features/",
@@ -1128,11 +1184,27 @@
       "category": "ai"
     },
     {
+      "title": "Muon优化器指南：快速上手与关键细节",
+      "created": "2025-11-19 23:08",
+      "link": "https://kexue.fm/archives/11416",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
       "title": "Gemini 3 Prompting: Best Practices for General Usage",
       "created": "2025-11-19 08:00",
       "link": "https://www.philschmid.de/gemini-3-prompt-practices",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "AdamW的Weight RMS的渐近估计（下）",
+      "created": "2025-11-17 16:56",
+      "link": "https://kexue.fm/archives/11404",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -1248,6 +1320,14 @@
       "category": "ai"
     },
     {
+      "title": "n个正态随机数的最大值的渐近估计",
+      "created": "2025-11-06 21:24",
+      "link": "https://kexue.fm/archives/11390",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
       "title": "WSL2 下安装 Docker",
       "created": "2025-11-06 01:28",
       "link": "https://kirigaya.cn/blog/article?seq=358",
@@ -1277,6 +1357,14 @@
       "link": "https://sebastianraschka.com/blog/2025/beyond-standard-llms.html",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "title": "流形上的最速下降：5. 对偶梯度下降",
+      "created": "2025-11-03 10:22",
+      "link": "https://kexue.fm/archives/11388",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -2792,14 +2880,6 @@
       "category": "ai"
     },
     {
-      "title": "终身学习:2023",
-      "created": "2024-02-07 08:00",
-      "link": "https://shenxiangzhuang.github.io/blog/2024/02/07/lifelong-2023/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "title": "Thinking about High-Quality Human Data",
       "created": "2024-02-05 08:00",
       "link": "https://lilianweng.github.io/posts/2024-02-05-human-data-quality/",
@@ -2808,41 +2888,9 @@
       "category": "ai"
     },
     {
-      "title": "anthropics/skills",
+      "title": "sgl-project/mini-sglang",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/anthropics/skills",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "virattt/ai-hedge-fund",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/virattt/ai-hedge-fund",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "danielmiessler/Personal_AI_Infrastructure",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "resemble-ai/chatterbox",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/resemble-ai/chatterbox",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "title": "anthropics/claude-code",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/anthropics/claude-code",
+      "link": "https://github.com/sgl-project/mini-sglang",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2856,9 +2904,9 @@
       "category": "ai"
     },
     {
-      "title": "astral-sh/ty",
+      "title": "exo-explore/exo",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/astral-sh/ty",
+      "link": "https://github.com/exo-explore/exo",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2872,9 +2920,17 @@
       "category": "ai"
     },
     {
-      "title": "google/langextract",
+      "title": "anthropics/claude-code",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/google/langextract",
+      "link": "https://github.com/anthropics/claude-code",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "cocoindex-io/cocoindex",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/cocoindex-io/cocoindex",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2888,9 +2944,17 @@
       "category": "ai"
     },
     {
-      "title": "danielmiessler/Fabric",
+      "title": "anthropics/skills",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/danielmiessler/Fabric",
+      "link": "https://github.com/anthropics/skills",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "title": "astral-sh/ty",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/astral-sh/ty",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2904,33 +2968,33 @@
       "category": "ai"
     },
     {
-      "title": "letta-ai/letta",
+      "title": "danielmiessler/Personal_AI_Infrastructure",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/letta-ai/letta",
+      "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "title": "GeeeekExplorer/nano-vllm",
+      "title": "danielmiessler/Fabric",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/GeeeekExplorer/nano-vllm",
+      "link": "https://github.com/danielmiessler/Fabric",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "title": "exo-explore/exo",
+      "title": "google/langextract",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/exo-explore/exo",
+      "link": "https://github.com/google/langextract",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "title": "cocoindex-io/cocoindex",
+      "title": "resemble-ai/chatterbox",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/cocoindex-io/cocoindex",
+      "link": "https://github.com/resemble-ai/chatterbox",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
