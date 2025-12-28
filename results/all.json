@@ -4,7 +4,7 @@
     "active_num": 27,
     "error_num": 0,
     "article_num": 411,
-    "last_updated_time": "2025-12-28 22:15:23"
+    "last_updated_time": "2025-12-29 00:19:20"
   },
   "article_data": [
     {
@@ -125,6 +125,14 @@
       "link": "https://shenxiangzhuang.github.io/blog/2025/12/27/wang_work/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "title": "模型推理框架——vllm原理及整体框架",
+      "created": "2025-12-27 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/12/27/vllm-1.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -2371,14 +2379,6 @@
       "title": "深入浅出了解生成模型-3：Diffusion模型原理以及代码",
       "created": "2025-05-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/05/19/DiffusionModel.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "title": "CV中常用Backbone-3：Clip/SAM原理以及代码操作",
-      "created": "2025-05-18 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/05/18/Clip-sam.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
