@@ -5,8 +5,9 @@ Public API: load_config, collect_from_config, fetch_and_process_data, sort_artic
 """
 from datetime import datetime, timezone
 from dateutil import parser
-from typing import Any, Dict, List, Tuple, Optional
+from typing import Any, Dict, List, Tuple, Optional, Set
 from urllib.parse import urlparse
+import hashlib
 import re
 import logging
 import time
@@ -37,6 +38,18 @@ timeout = (20, 30)
 
 JSONDict = Dict[str, Any]
 FriendEntry = List[Any]
+
+
+def make_article_id(link: str, title: str = "", published: str = "", feed_url: str = "") -> str:
+    """Create a stable id for an article.
+
+    Prefer `link` (raw entry.link) as primary key; fallback to a tuple of other fields.
+    The returned value is a SHA1 hex digest (40 chars).
+    """
+    base = (link or "").strip()
+    if not base:
+        base = "|".join([str(feed_url or ""), str(title or ""), str(published or "")]).strip()
+    return hashlib.sha1(base.encode("utf-8")).hexdigest()
 
 
 def _make_session() -> requests.Session:
@@ -114,7 +127,12 @@ def format_published_time(time_str: str, target_timezone: str = 'Asia/Shanghai')
 
 
 
-def parse_feed(url: str, session: requests.Session, count: int = 5) -> Optional[JSONDict]:
+def parse_feed(
+    url: str,
+    session: requests.Session,
+    count: int = 5,
+    ignore_ids: Optional[Set[str]] = None,
+) -> Optional[JSONDict]:
     """
     解析 Atom 或 RSS2 feed 并返回包含网站名称、作者、原链接和每篇文章详细内容的字典。
 
@@ -129,6 +147,7 @@ def parse_feed(url: str, session: requests.Session, count: int = 5) -> Optional[
     返回：
     dict | None: 解析成功返回包含网站信息与文章列表的字典；失败返回 None。
     """
+    ignore_ids = ignore_ids or set()
     try:
         response = session.get(url, headers=headers, timeout=timeout, allow_redirects=True)
         status = response.status_code
@@ -162,11 +181,13 @@ def parse_feed(url: str, session: requests.Session, count: int = 5) -> Optional[
             'link': feed.feed.link if 'link' in feed.feed else '',
             'articles': []
         }
-        
-        for i, entry in enumerate(feed.entries):
-            if i >= count:
+
+        kept = 0
+        skipped = 0
+        for entry in feed.entries:
+            if kept >= count:
                 break
-            
+
             if 'published' in entry:
                 published = format_published_time(entry.published)
             elif 'updated' in entry:
@@ -176,16 +197,30 @@ def parse_feed(url: str, session: requests.Session, count: int = 5) -> Optional[
             else:
                 published = ''
                 logging.warning(f"文章 {entry.title} 未包含任何时间信息")
+
+            title = entry.title if 'title' in entry else ''
+            link = entry.link if 'link' in entry else ''
+            article_id = make_article_id(link=link, title=title, published=published, feed_url=url)
+            if ignore_ids and article_id in ignore_ids:
+                skipped += 1
+                continue
+
             article = {
-                'title': entry.title if 'title' in entry else '',
+                'id': article_id,
+                'title': title,
                 'author': entry.author if 'author' in entry else '',
-                'link': entry.link if 'link' in entry else '',
+                'link': link,
                 'published': published,
                 'summary': entry.summary if 'summary' in entry else '',
                 'content': entry.content[0].value if 'content' in entry and entry.content else entry.description if 'description' in entry else ''
             }
             result['articles'].append(article)
-        
+
+            kept += 1
+
+        if skipped:
+            logging.info(f"Feed 已跳过 {skipped} 篇被忽略文章：{url}")
+
         return result
     except Exception as e:
         # 打印少量响应体片段以辅助定位（若可用）
@@ -196,7 +231,12 @@ def parse_feed(url: str, session: requests.Session, count: int = 5) -> Optional[
         logging.error(f"不可链接的 FEED 地址：{url}: {e}; 摘要：{snippet}")
         return None
 
-def process_friend(friend: FriendEntry, session: requests.Session, count: int) -> JSONDict:
+def process_friend(
+    friend: FriendEntry,
+    session: requests.Session,
+    count: int,
+    ignore_ids: Optional[Set[str]] = None,
+) -> JSONDict:
     """
     处理单个朋友的博客信息。
 
@@ -226,10 +266,11 @@ def process_friend(friend: FriendEntry, session: requests.Session, count: int) -
     logging.info(f"{name} 使用自定义 feed：{feed_url}")
 
     # 仅使用提供的自定义 feed_url 进行解析
-    feed_info = parse_feed(feed_url, session, count)
+    feed_info = parse_feed(feed_url, session, count, ignore_ids=ignore_ids)
     if feed_info:
         articles = [
             {
+                'id': article.get('id', ''),
                 'title': article['title'],
                 'created': article['published'],
                 'link': article['link'],
@@ -259,6 +300,7 @@ def fetch_and_process_data(
     json_url: str,
     count: int = 5,
     max_workers: int = 10,
+    ignore_ids: Optional[Set[str]] = None,
 ) -> Tuple[JSONDict, List[Any]]:
     """
     读取 JSON 数据并处理订阅信息，返回统计数据和文章信息。
@@ -306,7 +348,7 @@ def fetch_and_process_data(
     safe_workers = max(1, min(max_workers, total_friends or 1))
     with ThreadPoolExecutor(max_workers=safe_workers) as executor:
         future_to_friend = {
-            executor.submit(process_friend, friend, session, count): friend
+            executor.submit(process_friend, friend, session, count, ignore_ids): friend
             for friend in friends_data.get('friends', [])
         }
 
@@ -368,7 +410,7 @@ def sort_articles_by_time(data: JSONDict) -> JSONDict:
     return data
 
 
-def collect_from_config(config: JSONDict) -> Tuple[JSONDict, List[Any]]:
+def collect_from_config(config: JSONDict, ignore_ids: Optional[Set[str]] = None) -> Tuple[JSONDict, List[Any]]:
     """
     根据配置抓取并汇总文章数据，返回排序后的结果和抓取失败的友链列表。
 
@@ -435,6 +477,7 @@ def collect_from_config(config: JSONDict) -> Tuple[JSONDict, List[Any]]:
             json_url=src,
             count=article_count,
             max_workers=max_workers,
+            ignore_ids=ignore_ids,
         )
         # 注入分类字段
         for item in result.get('article_data', []) or []:
@@ -458,6 +501,42 @@ def collect_from_config(config: JSONDict) -> Tuple[JSONDict, List[Any]]:
 
     aggregated_result = sort_articles_by_time(aggregated_result)
     return aggregated_result, aggregated_errors
+
+
+def fetch_ignore_ids(ignore_source: str) -> Set[str]:
+    """Fetch ignore ids from an URL (http/https) or local json file path.
+
+    Expected payload shapes:
+    - {"status": 200, "data": ["id1", "id2"], ...}
+    - ["id1", "id2"]
+    """
+    source = str(ignore_source or "").strip()
+    if not source:
+        return set()
+
+    session = _make_session()
+    try:
+        if source.startswith("http://") or source.startswith("https://"):
+            response = session.get(source, headers=headers, timeout=timeout)
+            response.raise_for_status()
+            payload = response.json()
+        else:
+            import json as _json
+            with open(source, "r", encoding="utf-8") as f:
+                payload = _json.load(f)
+    except Exception as e:
+        logging.warning(f"获取忽略列表失败，将视为无忽略：{source}；错误：{e}")
+        return set()
+
+    ids: Any = payload
+    if isinstance(payload, dict):
+        ids = payload.get("data") or payload.get("ids") or []
+
+    if not isinstance(ids, list):
+        logging.warning(f"忽略列表返回格式异常（非 list），将视为无忽略：{source}")
+        return set()
+
+    return {str(x).strip() for x in ids if str(x).strip()}
 
 
 def load_config(config_file: str) -> JSONDict:

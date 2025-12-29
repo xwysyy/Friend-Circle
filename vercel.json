@@ -5,6 +5,10 @@
       "destination": "/results/$1.json"
     },
     {
+      "source": "/(all|errors)\\.personal\\.json",
+      "destination": "/results/$1.personal.json"
+    },
+    {
       "source": "/friends.json",
       "destination": "/config/friends.json"
     }
