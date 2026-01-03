@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 28,
-    "active_num": 27,
-    "error_num": 1,
-    "article_num": 408,
-    "last_updated_time": "2026-01-04 02:22:34"
+    "active_num": 28,
+    "error_num": 0,
+    "article_num": 418,
+    "last_updated_time": "2026-01-04 04:17:52"
   },
   "article_data": [
     {
@@ -593,6 +593,15 @@
       "category": "ai"
     },
     {
+      "id": "552a716e64ef1561e3d9bb90f946b5525666e0e0",
+      "title": "让炼丹更科学一些（四）：新恒等式，新学习率",
+      "created": "2025-12-26 10:38",
+      "link": "https://kexue.fm/archives/11494",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
       "id": "d35cc9b7472e045652bd19b2403f799c85b0f94f",
       "title": "科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录",
       "created": "2025-12-26 07:51",
@@ -725,6 +734,15 @@
       "link": "http://www.phodal.com/blog/agentic-ui-solution/",
       "author": "Phodal Huang",
       "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "f5f7b560b19d02f46a463510c028aa81c81399e6",
+      "title": "为什么DeltaNet要加L2 Normalize？",
+      "created": "2025-12-23 10:20",
+      "link": "https://kexue.fm/archives/11486",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -935,6 +953,15 @@
       "category": "ai"
     },
     {
+      "id": "8c1058db752fe6e03888ddd2d0cbf33072f1526a",
+      "title": "让炼丹更科学一些（三）：SGD的终点损失收敛",
+      "created": "2025-12-16 10:25",
+      "link": "https://kexue.fm/archives/11480",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
       "id": "6cf651c8ad27920631f415537678dcf17ceb4026",
       "title": "Top AI Agentic Workflow Patterns",
       "created": "2025-12-16 00:31",
@@ -1023,6 +1050,15 @@
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
       "category": "friend"
+    },
+    {
+      "id": "1c27b5a6412aadfc7f9430b867138021e3fe0cbb",
+      "title": "让炼丹更科学一些（二）：将结论推广到无界域",
+      "created": "2025-12-12 10:21",
+      "link": "https://kexue.fm/archives/11469",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
     },
     {
       "id": "709847afd923308ffacdbd6123954e248a691a10",
@@ -1148,6 +1184,15 @@
       "link": "https://blog.bytebytego.com/p/how-doordash-moved-to-a-service-mesh",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "id": "93280b81cb56fed522bd76fa773a680d37c3e4cc",
+      "title": "滑动平均视角下的权重衰减和学习率",
+      "created": "2025-12-05 13:17",
+      "link": "https://kexue.fm/archives/11459",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -1304,6 +1349,15 @@
       "category": "ai"
     },
     {
+      "id": "19ff0e1e80e7cb28b13a3f30ded1d92cd98cb52d",
+      "title": "生成扩散模型漫谈（三十一）：预测数据而非噪声",
+      "created": "2025-11-24 17:31",
+      "link": "https://kexue.fm/archives/11428",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
       "id": "af5f40949bef431a204146a18d93d05bacd186e7",
       "title": "新时代的 Google Scholar",
       "created": "2025-11-24 08:00",
@@ -1367,12 +1421,30 @@
       "category": "ai"
     },
     {
+      "id": "2c1dd79744f8fa24c786d378ae103bbbd058bfd5",
+      "title": "Muon优化器指南：快速上手与关键细节",
+      "created": "2025-11-19 23:08",
+      "link": "https://kexue.fm/archives/11416",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
       "id": "f1d2de91d7701f1942fae3d79dbac2c94c16eb6b",
       "title": "Gemini 3 Prompting: Best Practices for General Usage",
       "created": "2025-11-19 08:00",
       "link": "https://www.philschmid.de/gemini-3-prompt-practices",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8084dadab1958d9861194ffd45735001aae37430",
+      "title": "AdamW的Weight RMS的渐近估计（下）",
+      "created": "2025-11-17 16:56",
+      "link": "https://kexue.fm/archives/11404",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -1520,6 +1592,15 @@
       "category": "ai"
     },
     {
+      "id": "70813eb157e5512dbbd267a93f8bb70b40c3438b",
+      "title": "n个正态随机数的最大值的渐近估计",
+      "created": "2025-11-06 21:24",
+      "link": "https://kexue.fm/archives/11390",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
       "id": "2cb2959928a56208dd3b0812c5a7a979e7e27d25",
       "title": "WSL2 下安装 Docker",
       "created": "2025-11-06 01:28",
@@ -1553,6 +1634,15 @@
       "link": "https://sebastianraschka.com/blog/2025/beyond-standard-llms.html",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "3866abccae2c139a1c4f99f4dcb094e340808ab0",
+      "title": "流形上的最速下降：5. 对偶梯度下降",
+      "created": "2025-11-03 10:22",
+      "link": "https://kexue.fm/archives/11388",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
