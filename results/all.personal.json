@@ -4,9 +4,18 @@
     "active_num": 28,
     "error_num": 0,
     "article_num": 335,
-    "last_updated_time": "2026-01-03 16:21:36"
+    "last_updated_time": "2026-01-03 18:16:47"
   },
   "article_data": [
+    {
+      "id": "50815ddbcf14485f0ab79a6468ed8615e42814a6",
+      "title": "LLM | multi-turn 任务下的 RL 微调：RAGEN, ArCHer, GiGPO, VinePPO - MoonOut",
+      "created": "2026-01-03 16:54",
+      "link": "https://www.cnblogs.com/moonout/p/19188597",
+      "author": "Moon out",
+      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
     {
       "id": "03256c87ec7469a1035a36a571d8087e7ea0de6c",
       "title": "Was Daft Punk Having a Laugh When They Chose the Tempo of Harder, Better, Faster, Stronger?",
@@ -41,6 +50,15 @@
       "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010258&idx=3&sn=e9135230088e0121d87bc4f5c80c6b13",
       "author": "机器之心",
       "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "67e902415b23970487e468e4635beb4cdc9aba26",
+      "title": "2025 was an excellent year for this blog",
+      "created": "2026-01-03 08:00",
+      "link": "https://seangoedecke.com/2025-wrapup/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1322,15 +1340,6 @@
       "category": "friend"
     },
     {
-      "id": "4934ecd5d8751460065197b4dd0e1493349448dd",
-      "title": "The whole point of OpenAI's Responses API is to help them hide reasoning traces",
-      "created": "2025-09-09 08:00",
-      "link": "https://seangoedecke.com/responses-api/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "cb4ccab235e9d72e6c1bf94e524b431a5a52cbe8",
       "title": "从 Langchain 到 Spring AI，我们究竟需要怎么样一个企业级 AI 开发框架？",
       "created": "2025-09-08 19:57",
@@ -1686,15 +1695,6 @@
       "title": "Skill Discovery | FoG：使用 LLM / CLIP 给出 dodont 权重，以引导 agent 安全探索 - MoonOut",
       "created": "2025-07-15 20:34",
       "link": "https://www.cnblogs.com/moonout/p/18986304",
-      "author": "Moon out",
-      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
-      "id": "1a32ff38e6a61cdce83378645d65e8fa57ef6e0a",
-      "title": "Skill Discovery | DoDont：使用 do + don't 示例视频，引导 agent 学习人类期望的 skill - MoonOut",
-      "created": "2025-07-14 12:38",
-      "link": "https://www.cnblogs.com/moonout/p/18983738",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
       "category": "ai"
