@@ -3,46 +3,10 @@
     "friends_num": 28,
     "active_num": 28,
     "error_num": 0,
-    "article_num": 329,
-    "last_updated_time": "2026-01-05 09:26:00"
+    "article_num": 323,
+    "last_updated_time": "2026-01-05 11:51:26"
   },
   "article_data": [
-    {
-      "id": "248babae112e699cf639c96667a8cf01ba23b575",
-      "title": "Google 团队一年都没做出来的项目 Claude Code 一小时就把代码写出来了",
-      "created": "2026-01-05 09:07",
-      "link": "https://baoyu.io/blog/claude-code-beats-google-team-on-year-long-project-in-hour",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "62c7a6997464ba9ec3203e59b814c0efd2bef855",
-      "title": "The Dictator's Handbook and the politics of technical competence",
-      "created": "2026-01-05 08:00",
-      "link": "https://seangoedecke.com/the-dictators-handbook/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "71f3d9e7c77f6ac2ea854d99c471efab03589c55",
-      "title": "LeoTalk · Hacker News Daily · 2026.01.05",
-      "created": "2026-01-05 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/leotalk-hacker-news-daily-january-5-2026/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
-      "category": "ai"
-    },
-    {
-      "id": "18f5336da390fc0a5342f926ae06fb5cfe033c02",
-      "title": "The November 2025 inflection point",
-      "created": "2026-01-05 07:21",
-      "link": "https://simonwillison.net/2026/Jan/4/inflection/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
     {
       "id": "099d484a4251b892f450223b22fff01216d8eba9",
       "title": "从零手写 RoPE 位置编码：原理、PyTorch 源码实现与可视化理解",
@@ -1284,6 +1248,15 @@
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico",
       "category": "friend"
+    },
+    {
+      "id": "4934ecd5d8751460065197b4dd0e1493349448dd",
+      "title": "The whole point of OpenAI's Responses API is to help them hide reasoning traces",
+      "created": "2025-09-09 08:00",
+      "link": "https://seangoedecke.com/responses-api/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
     },
     {
       "id": "cb4ccab235e9d72e6c1bf94e524b431a5a52cbe8",
@@ -2537,10 +2510,19 @@
       "category": "ai"
     },
     {
-      "id": "af06ce44ed481c107b37f307da9ab45d34689464",
-      "title": "google-gemini/computer-use-preview",
+      "id": "7fe5e07244967130a0b45de8fce74d0adda8844d",
+      "title": "usememos/memos",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/google-gemini/computer-use-preview",
+      "link": "https://github.com/usememos/memos",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "cd76becfaa353d2a7aa87421556c7f2b9587ace3",
+      "title": "resemble-ai/chatterbox",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/resemble-ai/chatterbox",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2555,28 +2537,19 @@
       "category": "ai"
     },
     {
+      "id": "af06ce44ed481c107b37f307da9ab45d34689464",
+      "title": "google-gemini/computer-use-preview",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/google-gemini/computer-use-preview",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "77bd829c1bca5f1300e38830464d53ea1a06996c",
       "title": "BloopAI/vibe-kanban",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/BloopAI/vibe-kanban",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "9742d3dd0392e97e475197c84acfef8910ae5bb2",
-      "title": "afkarxyz/SpotiFLAC",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/afkarxyz/SpotiFLAC",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "edffb6e673e672e911652cc836964f09c56adb61",
-      "title": "harvard-edge/cs249r_book",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/harvard-edge/cs249r_book",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2591,46 +2564,19 @@
       "category": "ai"
     },
     {
-      "id": "10ba719313a0c83566e4fb1db426c34c44e8815e",
-      "title": "anthropics/skills",
+      "id": "edffb6e673e672e911652cc836964f09c56adb61",
+      "title": "harvard-edge/cs249r_book",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/anthropics/skills",
+      "link": "https://github.com/harvard-edge/cs249r_book",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "7fe5e07244967130a0b45de8fce74d0adda8844d",
-      "title": "usememos/memos",
+      "id": "9742d3dd0392e97e475197c84acfef8910ae5bb2",
+      "title": "afkarxyz/SpotiFLAC",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/usememos/memos",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "07a76f240bbe8813d7af01cf4266a97fe4369bb5",
-      "title": "gitroomhq/postiz-app",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/gitroomhq/postiz-app",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "2f697f94cde4c427048751b6bca2cb778e4c3b24",
-      "title": "Flowseal/zapret-discord-youtube",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/Flowseal/zapret-discord-youtube",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "cd76becfaa353d2a7aa87421556c7f2b9587ace3",
-      "title": "resemble-ai/chatterbox",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/resemble-ai/chatterbox",
+      "link": "https://github.com/afkarxyz/SpotiFLAC",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
