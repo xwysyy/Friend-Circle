@@ -1,10 +1,10 @@
 {
   "statistical_data": {
-    "friends_num": 28,
-    "active_num": 28,
+    "friends_num": 29,
+    "active_num": 29,
     "error_num": 0,
-    "article_num": 415,
-    "last_updated_time": "2026-01-05 16:27:23"
+    "article_num": 435,
+    "last_updated_time": "2026-01-05 17:11:02"
   },
   "article_data": [
     {
@@ -32,6 +32,15 @@
       "link": "https://seangoedecke.com/the-dictators-handbook/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8d90519fb1690502dd7c59a88435336cab69145e",
+      "title": "The importance of Agent Harness in 2026",
+      "created": "2026-01-05 08:00",
+      "link": "https://www.philschmid.de/agent-harness-2026",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -140,6 +149,15 @@
       "link": "https://blog.bytebytego.com/p/ep196-cloud-load-balancer-cheat-sheet",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "id": "a579a1c73e06d83acab3083d8c62842ba4facc22",
+      "title": "The Manifold Dial: Visualizing Why DeepSeek’s mHC Stabilizes Deep Networks",
+      "created": "2026-01-03 19:32",
+      "link": "https://subhadipmitra.com/blog/2026/deepseek-mhc-manifold-constrained-hyper-connections/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
       "category": "ai"
     },
     {
@@ -908,6 +926,15 @@
       "category": "ai"
     },
     {
+      "id": "9e02b7d61103cda181dd9a63b6a8d97095713f89",
+      "title": "I Trained Probes to Catch AI Models Sandbagging",
+      "created": "2025-12-20 08:30",
+      "link": "https://subhadipmitra.com/blog/2025/detecting-ai-sandbagging/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "category": "ai"
+    },
+    {
       "id": "81ad0681bd734a88a4329eeb0c727a8aa7b18ea6",
       "title": "第037期 - 西西弗书店",
       "created": "2025-12-20 08:00",
@@ -924,6 +951,15 @@
       "author": "阮一峰",
       "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
       "category": "friend"
+    },
+    {
+      "id": "38d85d80081aec03667e56e770d549ce10d978ee",
+      "title": "Why Steering Vectors Beat Prompting (And When They Don’t)",
+      "created": "2025-12-19 03:11",
+      "link": "https://subhadipmitra.com/blog/2025/steering-vectors-agents/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "category": "ai"
     },
     {
       "id": "e6b22d127909bb08e34441c1842b3a0d47f70e2f",
@@ -995,6 +1031,15 @@
       "link": "https://kexue.fm/archives/11480",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "id": "5c008fcbb43d07c92a69a20752ebfd1f7fffcfc1",
+      "title": "Why I Built a Spark-Native LLM Evaluation Framework (And What I Learned)",
+      "created": "2025-12-16 02:21",
+      "link": "https://subhadipmitra.com/blog/2025/building-spark-llm-eval/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
       "category": "ai"
     },
     {
@@ -1448,6 +1493,15 @@
       "category": "ai"
     },
     {
+      "id": "d51c9bf35b7b1f02caf752cbfa849cb410d22d1d",
+      "title": "The MCP Maturity Model: Evaluating Your Multi-Agent Context Strategy",
+      "created": "2025-11-19 08:00",
+      "link": "https://subhadipmitra.com/blog/2025/mcp-maturity-model/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "category": "ai"
+    },
+    {
       "id": "f1d2de91d7701f1942fae3d79dbac2c94c16eb6b",
       "title": "Gemini 3 Prompting: Best Practices for General Usage",
       "created": "2025-11-19 08:00",
@@ -1509,6 +1563,15 @@
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
+    },
+    {
+      "id": "2000e50820ff362cda11e73338dba943d32801eb",
+      "title": "UPIR: What If Distributed Systems Could Write (and Verify) Themselves?",
+      "created": "2025-11-15 08:00",
+      "link": "https://subhadipmitra.com/blog/2025/upir-distributed-systems/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "category": "ai"
     },
     {
       "id": "69b92483dfff0496633b0dd7542cf314d5541b02",
@@ -1907,6 +1970,15 @@
       "category": "friend"
     },
     {
+      "id": "d3ca7b50a811c1e250b3a640e3aaead691bfa23d",
+      "title": "The Data Platform Crisis Hiding Behind AI: Why you have 6 months to pivot",
+      "created": "2025-10-17 08:00",
+      "link": "https://subhadipmitra.com/blog/2025/agent-ready-data-platforms-sarp/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "category": "ai"
+    },
+    {
       "id": "c05191d9fd78ee42f9419e6c11391d6fdd793dc6",
       "title": "近期做开源项目的一些正反馈",
       "created": "2025-10-16 08:00",
@@ -1961,6 +2033,24 @@
       "category": "ai"
     },
     {
+      "id": "108167557d4053c72f32a4388bd58cb38947ec1a",
+      "title": "AI Meta-Cognition - The Observer Effect Series",
+      "created": "2025-10-11 23:00",
+      "link": "https://subhadipmitra.com/blog/2025/ai-deception/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "category": "ai"
+    },
+    {
+      "id": "eca9d1efeb349fb318ba9c38ba02cb2b3d55b2a5",
+      "title": "Building Safer AI: Industry Response and the Path Forward - (Part 4/4)",
+      "created": "2025-10-11 13:10",
+      "link": "https://subhadipmitra.com/blog/2025/building-safer-ai-industry-response-practical-solutions/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "category": "ai"
+    },
+    {
       "id": "fb60acad6ce6f2b83844a5c11c42007ab4986f1e",
       "title": "模型量化操作————GPTQ和AWQ量化",
       "created": "2025-10-11 08:00",
@@ -1997,6 +2087,15 @@
       "category": "friend"
     },
     {
+      "id": "85f2df675255b6d5ec869f08c62b9ec598494662",
+      "title": "Alignment Faking: When AI Pretends to Change - (Part 3/4)",
+      "created": "2025-10-07 08:00",
+      "link": "https://subhadipmitra.com/blog/2025/alignment-faking-ai-pretends-to-change-values/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "category": "ai"
+    },
+    {
       "id": "89647ba2c3533ab6657871f18e236781304389ed",
       "title": "Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)",
       "created": "2025-10-05 08:06",
@@ -2015,6 +2114,15 @@
       "category": "friend"
     },
     {
+      "id": "fa9ccf504a100c6b759d62fbc8b16c648085eae4",
+      "title": "Deliberative Alignment: Can We Train AI Not to Scheme? - (Part 2/4)",
+      "created": "2025-10-03 08:00",
+      "link": "https://subhadipmitra.com/blog/2025/deliberative-alignment-training-ai-not-to-scheme/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "category": "ai"
+    },
+    {
       "id": "a1e6827062a556939f4d8905696d2ac44f354fe0",
       "title": "论文速读记录 | 2025.10 - MoonOut",
       "created": "2025-10-02 23:00",
@@ -2031,6 +2139,15 @@
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico",
       "category": "friend"
+    },
+    {
+      "id": "69234f44a2e81845011bb994efffb6a70c6cb1ef",
+      "title": "The Observer Effect in AI: When Models Know They’re Being Tested - (Part 1/4)",
+      "created": "2025-09-30 08:00",
+      "link": "https://subhadipmitra.com/blog/2025/ai-observer-effect-models-recognize-evaluation/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "category": "ai"
     },
     {
       "id": "a8e24f40665fce47a92d5110578142282b5b62b6",
@@ -2246,6 +2363,15 @@
       "link": "http://www.phodal.com/blog/semantic-kernel-to-spring-ai/",
       "author": "Phodal Huang",
       "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "3ca4d7e2286a05c1c5f28ab1ecb2c46b0144f577",
+      "title": "We Need a Consent Layer for AI (And I’m Trying to Build One)",
+      "created": "2025-08-16 09:10",
+      "link": "https://subhadipmitra.com/blog/2025/building-consent-layer-for-ai/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
       "category": "ai"
     },
     {
@@ -2483,6 +2609,15 @@
       "category": "ai"
     },
     {
+      "id": "4d2d07cda950c7844872e18c1d429cdb7e77b04b",
+      "title": "Why Kimi K2 Stands Out - A Deep Dive into Its Trillion-Parameter MoE",
+      "created": "2025-07-13 19:20",
+      "link": "https://subhadipmitra.com/blog/2025/why-kimi-k2-stands-out/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "category": "ai"
+    },
+    {
       "id": "c8096e5895c358520becb0226cf719cd2b707fc5",
       "title": "Linux 系统监控利器 ctop 命令详解",
       "created": "2025-07-12 00:00",
@@ -2699,6 +2834,15 @@
       "category": "ai"
     },
     {
+      "id": "9c7a5a88119f852d27fb9dfdbad2a3f47450834d",
+      "title": "From 11% to 88% Peak Bandwidth: Writing Custom Triton Kernels for LLM Inference",
+      "created": "2025-06-15 18:30",
+      "link": "https://subhadipmitra.com/blog/2025/triton-kernels-llm-inference/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "category": "ai"
+    },
+    {
       "id": "e44b80e269ce8ae583d551589376076c3f494821",
       "title": "AutoDev Remote 编程智能体：你何必只让 AI 在白天分析需求、设计方案",
       "created": "2025-06-13 22:08",
@@ -2906,15 +3050,6 @@
       "category": "ai"
     },
     {
-      "id": "c2402852adf501654540e69510f23bcd532701fa",
-      "title": "OpenAI Codex CLI, how does it work?",
-      "created": "2025-04-17 08:00",
-      "link": "https://www.philschmid.de/openai-codex-cli",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "2972382a12e1b9b644ea4406d0b156cc2b77ea47",
       "title": "Critical Company Size",
       "created": "2025-04-13 07:39",
@@ -2948,6 +3083,24 @@
       "link": "https://shenxiangzhuang.github.io/blog/2025/03/23/redis_lock/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "e78df3e57c11438dd17deadb1905548a9dab4545",
+      "title": "Implementing Model Context Protocol in Autonomous Multi-Agent Systems - Technical Architecture and Performance Optimization",
+      "created": "2025-03-22 18:21",
+      "link": "https://subhadipmitra.com/blog/2025/implementing-model-context-protocol/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "category": "ai"
+    },
+    {
+      "id": "ead377b71e97179b7448b93bc030186586aea7e4",
+      "title": "Making LLMs Faster: My Deep Dive into Speculative Decoding",
+      "created": "2025-03-20 09:02",
+      "link": "https://subhadipmitra.com/blog/2025/making-llm-faster/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
       "category": "ai"
     },
     {
@@ -3068,6 +3221,24 @@
       "category": "ai"
     },
     {
+      "id": "6662d38ebad15d1b1d23d426223bf1617f5431a5",
+      "title": "Engineering Autonomous Multi-Agent Systems - A Technical Deep Dive into Telecom Customer Service",
+      "created": "2025-01-05 19:23",
+      "link": "https://subhadipmitra.com/blog/2025/telecom-autonomous-multi-agent-genai-system/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "category": "ai"
+    },
+    {
+      "id": "d39cff32ec038f134d2f822f471fff47c28cc4d8",
+      "title": "Why I Built a Modern Java SMPP Library in 2025",
+      "created": "2025-01-03 18:00",
+      "link": "https://subhadipmitra.com/blog/2025/why-i-built-modern-java-smpp-library/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "category": "ai"
+    },
+    {
       "id": "0d274d809f52b113660250a4fd3897f08a12e7f2",
       "title": "toml：迄今最适合 Python 项目的配置语言",
       "created": "2024-12-30 08:00",
@@ -3083,6 +3254,15 @@
       "link": "https://yuanchaofa.com/blog/2024-year-summary.html",
       "author": "chao fa",
       "avatar": "https://yuanchaofa.com/img/icon.webp",
+      "category": "ai"
+    },
+    {
+      "id": "691e8271d01f72b3dd6d5dfce5e4f058157cc901",
+      "title": "Engineering Multi-Agent Systems - A Retail Banking Case Study",
+      "created": "2024-12-28 20:15",
+      "link": "https://subhadipmitra.com/blog/2024/retail-bank-multi-agent-system/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
       "category": "ai"
     },
     {
