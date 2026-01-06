@@ -3,28 +3,10 @@
     "friends_num": 30,
     "active_num": 30,
     "error_num": 0,
-    "article_num": 366,
-    "last_updated_time": "2026-01-06 09:19:31"
+    "article_num": 365,
+    "last_updated_time": "2026-01-06 11:25:42"
   },
   "article_data": [
-    {
-      "id": "ed8355ca205d34766a17a39dfcd31da7f27594d0",
-      "title": "It’s hard to justify Tahoe icons",
-      "created": "2026-01-06 03:30",
-      "link": "https://simonwillison.net/2026/Jan/5/its-hard-to-justify-tahoe-icons/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "5321367309b615ce0688b78430f276266a1b8d69",
-      "title": "Oxide and Friends Predictions 2026, today at 4pm PT",
-      "created": "2026-01-06 00:53",
-      "link": "https://simonwillison.net/2026/Jan/5/oxide-and-friends-predictions-2026/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
     {
       "id": "c401f7900736c17c03e29713b8698c7c20a0a9c8",
       "title": "How Google’s Tensor Processing Unit (TPU) Works?",
@@ -41,15 +23,6 @@
       "link": "https://kirigaya.cn/blog/article?seq=364",
       "author": "锦恢",
       "avatar": "https://kirigaya.cn/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "ddecdacb24bd0f7eeb6152205e2cf9f5e1c9e6bd",
-      "title": "肖恩技术周刊（第 77 期）：稀缺特质",
-      "created": "2026-01-05 08:00",
-      "link": "https://weekly.shawnxie.top/content/2026/77.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -86,15 +59,6 @@
       "link": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "4194025a29a96001f1036f0c49743c08dc216f67",
-      "title": "2025年总结：Agent元年，寻找人类最后的护城河",
-      "created": "2025-12-31 08:00",
-      "link": "https://weekly.shawnxie.top/collection/2025.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -249,15 +213,6 @@
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
       "category": "ai"
-    },
-    {
-      "id": "4210014b8d36d9150bfc813782b809e928dbf7a4",
-      "title": "微信小程序链接怎么转换为二维码？扫码直接跳转到小程序指定页面",
-      "created": "2025-12-15 13:13",
-      "link": "https://blog.zhheo.com/p/x76r8o7c.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
-      "category": "friend"
     },
     {
       "id": "0352f0915f344dff6e2e620796d826af95ab9746",
@@ -1682,6 +1637,15 @@
       "category": "friend"
     },
     {
+      "id": "580fb6673bd103772ef3a4f7a6974296e2e1ee2e",
+      "title": "肖恩技术周刊（第 58 期）：坠落or飞翔",
+      "created": "2025-08-18 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/58.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "category": "ai"
+    },
+    {
       "id": "fec62a8eca4cb53164335263ea9cbde868a4b86f",
       "title": "在银河麒麟桌面操作系统 ARM 版上安装 KVM 虚拟化",
       "created": "2025-08-17 00:00",
@@ -1733,6 +1697,15 @@
       "link": "https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-2-how-wrap-and-sm-work/",
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "a08c28d4945bee42a04cb2c737df3093721e13a2",
+      "title": "肖恩技术周刊（第 57 期）：课题分离",
+      "created": "2025-08-11 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/57.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -2897,10 +2870,55 @@
       "category": "ai"
     },
     {
-      "id": "7fe5e07244967130a0b45de8fce74d0adda8844d",
-      "title": "usememos/memos",
+      "id": "4500b715e503477e36d1773d440efb363f1179bd",
+      "title": "ourongxing/newsnow",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/usememos/memos",
+      "link": "https://github.com/ourongxing/newsnow",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "f3f3fbf81f31de04d43a1e8acaf4a022c0cc1ec7",
+      "title": "nocodb/nocodb",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/nocodb/nocodb",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "adbef724cb274560f99367511b2ecdc73c31c6df",
+      "title": "anomalyco/opencode",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/anomalyco/opencode",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "77bd829c1bca5f1300e38830464d53ea1a06996c",
+      "title": "BloopAI/vibe-kanban",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/BloopAI/vibe-kanban",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "5d4fbe8b90e55a0cbb84e3dcb150f9507db68a49",
+      "title": "OpenBB-finance/OpenBB",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/OpenBB-finance/OpenBB",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "9fb0c8367c326909c13c7c2e3cdd167c3a56d1da",
+      "title": "danielmiessler/Personal_AI_Infrastructure",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2915,28 +2933,19 @@
       "category": "ai"
     },
     {
-      "id": "c9532cdbfd7ffa2a80bc937926b9b05c46befc0c",
-      "title": "antiwork/gumroad",
+      "id": "9742d3dd0392e97e475197c84acfef8910ae5bb2",
+      "title": "afkarxyz/SpotiFLAC",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/antiwork/gumroad",
+      "link": "https://github.com/afkarxyz/SpotiFLAC",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "af06ce44ed481c107b37f307da9ab45d34689464",
-      "title": "google-gemini/computer-use-preview",
+      "id": "7fe5e07244967130a0b45de8fce74d0adda8844d",
+      "title": "usememos/memos",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/google-gemini/computer-use-preview",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "77bd829c1bca5f1300e38830464d53ea1a06996c",
-      "title": "BloopAI/vibe-kanban",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/BloopAI/vibe-kanban",
+      "link": "https://github.com/usememos/memos",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2955,24 +2964,6 @@
       "title": "harvard-edge/cs249r_book",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/harvard-edge/cs249r_book",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "9742d3dd0392e97e475197c84acfef8910ae5bb2",
-      "title": "afkarxyz/SpotiFLAC",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/afkarxyz/SpotiFLAC",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "9fb0c8367c326909c13c7c2e3cdd167c3a56d1da",
-      "title": "danielmiessler/Personal_AI_Infrastructure",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
