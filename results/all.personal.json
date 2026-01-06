@@ -1,55 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 30,
-    "active_num": 30,
-    "error_num": 0,
-    "article_num": 368,
-    "last_updated_time": "2026-01-06 14:28:15"
+    "active_num": 29,
+    "error_num": 1,
+    "article_num": 340,
+    "last_updated_time": "2026-01-06 16:26:18"
   },
   "article_data": [
     {
-      "id": "c401f7900736c17c03e29713b8698c7c20a0a9c8",
-      "title": "How Google’s Tensor Processing Unit (TPU) Works?",
-      "created": "2026-01-06 00:31",
-      "link": "https://blog.bytebytego.com/p/how-googles-tensor-processing-unit",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "264b54863b1efe2ce363cd44855f8505ace723c4",
-      "title": "Langchain 的 agent test 技术博客翻译",
-      "created": "2026-01-05 23:44",
-      "link": "https://kirigaya.cn/blog/article?seq=364",
-      "author": "锦恢",
-      "avatar": "https://kirigaya.cn/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "d7f149219d6b1e22f998104de7332f3531449bf4",
-      "title": "刚刚，蝉联Future X全球榜首的MiroMind发布全球最强搜索智能体模型",
-      "created": "2026-01-05 14:07",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010381&idx=1&sn=893d4278b89bace640b0a584b28669bc",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "25c74d30f027e380ea6dfb093a39472d527a1902",
-      "title": "CES 2026超前瞻：空间智能来势汹汹！从实验室奢侈品到消费级刚需，如何重塑 AI 具身时代？",
-      "created": "2026-01-05 14:07",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010381&idx=2&sn=4ef83dd450c027b1dd419b611baa5cd3",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "1af0407ad582cc8c713e6fc0ac1b08d14d2b4821",
-      "title": "AAAI 2026 Oral｜InfiGUI-G1模型来了，刷新GUI Grounding SOTA",
-      "created": "2026-01-05 14:07",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010381&idx=3&sn=0d19da402f27ab560ccaa845f059c4f2",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "id": "96452d48297d55be1bb05dbfe506c4627ec1cacf",
+      "title": "（已解决）代·理核心崩溃“failed to ■■■ core, logs are not available” - MoonOut",
+      "created": "2026-01-06 15:48",
+      "link": "https://www.cnblogs.com/moonout/p/19448151",
+      "author": "Moon out",
+      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
       "category": "ai"
     },
     {
@@ -89,33 +53,6 @@
       "category": "ai"
     },
     {
-      "id": "5eed861a02b995c31f85c9b18b6b403c3a837c21",
-      "title": "The State Of LLMs 2025: Progress, Problems, and Predictions",
-      "created": "2025-12-30 16:15",
-      "link": "https://sebastianraschka.com/blog/2025/state-of-llms-2025.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "c597bcdce0539af6fc9d9577ea9f0d7728ab0461",
-      "title": "LLM Research Papers: The 2025 List (July to December)",
-      "created": "2025-12-30 16:00",
-      "link": "https://sebastianraschka.com/blog/2025/llm-research-papers-2025-part2.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "dca9c06155fc07f703291b76a1ea3d8c9054ffdb",
-      "title": "肖恩技术周刊（第 76 期）：疯狂的白银",
-      "created": "2025-12-29 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/76.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "b862cd6209e171582dfddff2fa7c56ba247f57a4",
       "title": "模型推理框架——vllm原理及整体框架",
       "created": "2025-12-27 08:00",
@@ -152,15 +89,6 @@
       "category": "ai"
     },
     {
-      "id": "6e06423f23f0583c15ce6e16333f59769bdfad75",
-      "title": "肖恩技术周刊（第 75 期）：Slop",
-      "created": "2025-12-22 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/75.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "04d86ac5fc8cf6362972c26a5e414892435ac4d7",
       "title": "明明配了SSH却无法推送私有仓库，原来是密钥版本太新了",
       "created": "2025-12-20 23:31",
@@ -176,15 +104,6 @@
       "link": "https://www.cnblogs.com/moonout/p/19377108",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
-      "id": "9e02b7d61103cda181dd9a63b6a8d97095713f89",
-      "title": "I Trained Probes to Catch AI Models Sandbagging",
-      "created": "2025-12-20 08:30",
-      "link": "https://subhadipmitra.com/blog/2025/detecting-ai-sandbagging/",
-      "author": "Subhadip Mitra",
-      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
       "category": "ai"
     },
     {
@@ -206,15 +125,6 @@
       "category": "friend"
     },
     {
-      "id": "38d85d80081aec03667e56e770d549ce10d978ee",
-      "title": "Why Steering Vectors Beat Prompting (And When They Don’t)",
-      "created": "2025-12-19 03:11",
-      "link": "https://subhadipmitra.com/blog/2025/steering-vectors-agents/",
-      "author": "Subhadip Mitra",
-      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
-      "category": "ai"
-    },
-    {
       "id": "8c1058db752fe6e03888ddd2d0cbf33072f1526a",
       "title": "让炼丹更科学一些（三）：SGD的终点损失收敛",
       "created": "2025-12-16 10:25",
@@ -224,30 +134,12 @@
       "category": "ai"
     },
     {
-      "id": "5c008fcbb43d07c92a69a20752ebfd1f7fffcfc1",
-      "title": "Why I Built a Spark-Native LLM Evaluation Framework (And What I Learned)",
-      "created": "2025-12-16 02:21",
-      "link": "https://subhadipmitra.com/blog/2025/building-spark-llm-eval/",
-      "author": "Subhadip Mitra",
-      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
-      "category": "ai"
-    },
-    {
       "id": "a01560d9513d98cb9e50f48526250e576c19457a",
       "title": "PbRL · MARL | 近期 preference-based MARL 工作速读 - MoonOut",
       "created": "2025-12-15 14:20",
       "link": "https://www.cnblogs.com/moonout/p/19025026",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
-      "id": "0352f0915f344dff6e2e620796d826af95ab9746",
-      "title": "肖恩技术周刊（第 74 期）：AI重塑未来",
-      "created": "2025-12-15 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/74.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -284,15 +176,6 @@
       "link": "https://ifuryst.github.io/blog/2025/leotalk-ai-weekly-12-new-stage/",
       "author": "ifuryst",
       "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
-      "category": "ai"
-    },
-    {
-      "id": "2d93d46358590aa4bf908610e443acbe9f073aa8",
-      "title": "From Random Forests to RLVR: A Short History of ML/AI Hello Worlds",
-      "created": "2025-12-08 08:20",
-      "link": "https://sebastianraschka.com/blog/2025/hello-world-ai.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -338,15 +221,6 @@
       "link": "https://www.philschmid.de/context-engineering-part-2",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "0545b247b0fca29c6df54054b19db4a366629650",
-      "title": "From DeepSeek V3 to V3.2: Architecture, Sparse Attention, and RL Updates",
-      "created": "2025-12-03 08:06",
-      "link": "https://sebastianraschka.com/blog/2025/technical-deepseek.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -701,15 +575,6 @@
       "category": "ai"
     },
     {
-      "id": "698fc9a8a750c43722af57ce6d3a1180c6807b9c",
-      "title": "Recommendations for Getting the Most Out of a Technical Book",
-      "created": "2025-11-12 08:08",
-      "link": "https://sebastianraschka.com/blog/2025/reading-books.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "9c1703c15f7be94950ffa02a9e638eb792a6bd61",
       "title": "DPO、PPO、GRPO代码乱记",
       "created": "2025-11-12 08:00",
@@ -854,15 +719,6 @@
       "category": "friend"
     },
     {
-      "id": "6e92047bb007da00983cc90a9364b05ea21bc5b2",
-      "title": "Beyond Standard LLMs",
-      "created": "2025-11-04 08:08",
-      "link": "https://sebastianraschka.com/blog/2025/beyond-standard-llms.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "3866abccae2c139a1c4f99f4dcb094e340808ab0",
       "title": "流形上的最速下降：5. 对偶梯度下降",
       "created": "2025-11-03 10:22",
@@ -968,15 +824,6 @@
       "link": "https://www.philschmid.de/n8n-cloud-run-gemini",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "4798db2ea0320f7cd6daebe89a59eb37fbe60881",
-      "title": "DGX Spark and Mac Mini for Local PyTorch Development",
-      "created": "2025-10-29 08:06",
-      "link": "https://sebastianraschka.com/blog/2025/dgx-impressions.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1295,15 +1142,6 @@
       "category": "ai"
     },
     {
-      "id": "89647ba2c3533ab6657871f18e236781304389ed",
-      "title": "Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)",
-      "created": "2025-10-05 08:06",
-      "link": "https://sebastianraschka.com/blog/2025/llm-evaluation-4-approaches.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "2dc1091621126a1c25734f4b285e9326432cacce",
       "title": "How I influence tech company politics as a staff software engineer",
       "created": "2025-10-04 08:00",
@@ -1547,15 +1385,6 @@
       "category": "ai"
     },
     {
-      "id": "e8fb65ed003da438100ab631f8fd219a91edfc2c",
-      "title": "Understanding and Implementing Qwen3 From Scratch",
-      "created": "2025-09-06 16:00",
-      "link": "https://sebastianraschka.com/blog/2025/qwen3-from-scratch.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "26aac7ae7a4faeb10fbf1b0617b4cdb42225161d",
       "title": "AI 的黄金时代",
       "created": "2025-09-06 08:00",
@@ -1745,15 +1574,6 @@
       "category": "friend"
     },
     {
-      "id": "9e6d5fdb4b797000190839f1a56c4af13114c5da",
-      "title": "From GPT-2 to gpt-oss: Analyzing the Architectural Advances",
-      "created": "2025-08-09 19:00",
-      "link": "https://sebastianraschka.com/blog/2025/from-gpt-2-to-gpt-oss.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5048550f33744700daaaf1689a68c95888634541",
       "title": "循一缕风，入山偷得夏日凉",
       "created": "2025-08-08 13:50",
@@ -1808,6 +1628,15 @@
       "category": "friend"
     },
     {
+      "id": "02f60cfcb20531d7f7000d2c3f3f4e6dad67323c",
+      "title": "肖恩技术周刊（第 56 期）：坎宁安定律",
+      "created": "2025-08-04 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/56.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "category": "ai"
+    },
+    {
       "id": "7944eaf2f6e3ff99d4981e9647123013a9b43db1",
       "title": "Memory in Agents, Make LLMs remember.",
       "created": "2025-08-04 08:00",
@@ -1833,6 +1662,15 @@
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
+    },
+    {
+      "id": "ea52bde203b549e93efe193be837801b3be33bc3",
+      "title": "肖恩技术周刊（第 55 期）：手机发展史",
+      "created": "2025-07-28 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/55.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "category": "ai"
     },
     {
       "id": "700dd961a9839abb822b7f0c3fdb089d82b44e11",
@@ -1880,12 +1718,12 @@
       "category": "ai"
     },
     {
-      "id": "9b83c424a7388adf89bc0e7fe88aecbed05e5ba1",
-      "title": "The Big LLM Architecture Comparison",
-      "created": "2025-07-19 14:00",
-      "link": "https://sebastianraschka.com/blog/2025/the-big-llm-architecture-comparison.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "id": "814e58b56b28c7ea65991c93fff63a2b28025180",
+      "title": "肖恩技术周刊（第 54 期）：芯片简史",
+      "created": "2025-07-21 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/54.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -1929,15 +1767,6 @@
       "title": "Skill Discovery | LGSD：用描述 state 的语言 embedding 的距离，作为 metra 的 d(x,y) 距离约束 - MoonOut",
       "created": "2025-07-16 17:50",
       "link": "https://www.cnblogs.com/moonout/p/18988042",
-      "author": "Moon out",
-      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
-      "id": "ab106bd32331db010911c004373f760e5d0e9b44",
-      "title": "Skill Discovery | FoG：使用 LLM / CLIP 给出 dodont 权重，以引导 agent 安全探索 - MoonOut",
-      "created": "2025-07-15 20:34",
-      "link": "https://www.cnblogs.com/moonout/p/18986304",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
       "category": "ai"
@@ -2060,15 +1889,6 @@
       "category": "friend"
     },
     {
-      "id": "145c37031e6c7a43ed4e1655b2d556d5bf0cb8a7",
-      "title": "LLM Research Papers: The 2025 List (January to June)",
-      "created": "2025-07-01 14:06",
-      "link": "https://sebastianraschka.com/blog/2025/llm-research-papers-the-2025-list-january-to-june.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "cdd76750432fa113610fa866d027af89c7c21074",
       "title": "pytorch使用-1：pytorch中基础概念",
       "created": "2025-07-01 08:00",
@@ -2147,15 +1967,6 @@
       "link": "https://www.philschmid.de/single-vs-multi-agents",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "d9915aa2bcdbcf5375be3a45e104cdef3aab3516",
-      "title": "Understanding and Coding the KV Cache in LLMs from Scratch",
-      "created": "2025-06-17 16:00",
-      "link": "https://sebastianraschka.com/blog/2025/coding-the-kv-cache-in-llms.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -2276,15 +2087,6 @@
       "category": "ai"
     },
     {
-      "id": "4794eaba6a0e784a1f7a047270589f0dbf1a120a",
-      "title": "Coding LLMs from the Ground Up: A Complete Course",
-      "created": "2025-05-10 08:00",
-      "link": "https://sebastianraschka.com/blog/2025/coding-llms-from-the-ground-up-a-complete-course.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "bef259b6b5a36dd90475d9ddd5672d7ec200b004",
       "title": "“PC 指向下一条要执行的指令”真的对吗？",
       "created": "2025-05-09 22:51",
@@ -2384,15 +2186,6 @@
       "category": "ai"
     },
     {
-      "id": "4511d0ebce0cfd62574c7e756649f666e0d9e293",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://sebastianraschka.com/blog/2025/the-state-of-reinforcement-learning-for-llm-reasoning.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "994ce6ada1e3d360ee18e9bb335e678de36ad6d0",
       "title": "美化你的RSS订阅地址",
       "created": "2025-04-18 20:47",
@@ -2447,15 +2240,6 @@
       "category": "ai"
     },
     {
-      "id": "9d9f27acfc979bdb551badc8d6eb7a5b064a0231",
-      "title": "First Look at Reasoning From Scratch: Chapter 1",
-      "created": "2025-03-29 14:03",
-      "link": "https://sebastianraschka.com/blog/2025/first-look-at-reasoning-from-scratch.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b5041a52d6895c086044005e6aa99ea1af764c71",
       "title": "简单聊一聊 Redis 的锁",
       "created": "2025-03-23 08:00",
@@ -2489,15 +2273,6 @@
       "link": "https://philliphaeusler.com/posts/orthogonal_linear_layers/",
       "author": "Phillip Haeusler",
       "avatar": "https://philliphaeusler.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "555d1ed3017c1dd8f63afda0380dee19747121b8",
-      "title": "Inference-Time Compute Scaling Methods to Improve Reasoning Models",
-      "created": "2025-03-08 14:03",
-      "link": "https://sebastianraschka.com/blog/2025/state-of-llm-reasoning-and-inference-scaling.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -2546,15 +2321,6 @@
       "category": "ai"
     },
     {
-      "id": "03ace23a1b218085bc37325e6f64f8c9bada851a",
-      "title": "Understanding Reasoning LLMs",
-      "created": "2025-02-05 14:03",
-      "link": "https://sebastianraschka.com/blog/2025/understanding-reasoning-llms.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "01863ddc1576c8d1bde892bae0398c734de8acf6",
       "title": "LLM MOE的进化之路，从普通简化 MOE，到 sparse moe，再到 deepseek 使用的 share_expert sparse moe",
       "created": "2025-01-28 03:30",
@@ -2573,30 +2339,12 @@
       "category": "ai"
     },
     {
-      "id": "69f1a4234d3eac6adf2b4b660ed65973c42865a8",
-      "title": "Noteworthy LLM Research Papers of 2024",
-      "created": "2025-01-23 14:03",
-      "link": "https://sebastianraschka.com/blog/2025/llm-research-2024.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "40f487badd0cfcedfe889db4d749471097b7c880",
       "title": "Oh-Numpy & Oh-Pytorch",
       "created": "2025-01-23 08:00",
       "link": "https://shenxiangzhuang.github.io/blog/2025/01/23/oh_numpy_pytorch/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
-      "id": "d4f422f3dedc87affdc9fae36464dbe562b28e54",
-      "title": "Implementing A Byte Pair Encoding (BPE) Tokenizer From Scratch",
-      "created": "2025-01-17 14:03",
-      "link": "https://sebastianraschka.com/blog/2025/bpe-from-scratch.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
