@@ -4,9 +4,36 @@
     "active_num": 29,
     "error_num": 2,
     "article_num": 437,
-    "last_updated_time": "2026-01-07 12:36:51"
+    "last_updated_time": "2026-01-07 14:27:35"
   },
   "article_data": [
+    {
+      "id": "9f52bbbeda2e952ba94476eae031f5bc745a28b8",
+      "title": "OpenAI前CTO首个创业产品Tinker，这里全量升级开放了，还有羊毛可薅",
+      "created": "2026-01-07 13:14",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010746&idx=1&sn=7b1dfed8d2f712507c9f00d6a73e770f",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "bdc2b5ffcedd05637c5721fd018d24bec7368ab1",
+      "title": "大模型最难的AI Infra，用Vibe Coding搞定",
+      "created": "2026-01-07 13:14",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010746&idx=2&sn=c5a0c0df20f3e61166879c48775d5d58",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "70a958445d1eff7988dcc19c38961aa1064de7b6",
+      "title": "注意力机制大变革？Bengio团队找到了一种超越Transformer的硬件对齐方案",
+      "created": "2026-01-07 13:14",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010746&idx=3&sn=d31d0264c0caec7516695c7e2d107cbb",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "bd4194e9f6de11b46ec40988ec45cf785e17663f",
       "title": "动态上下文发现 (Dynamic Context Discovery)",
@@ -50,6 +77,42 @@
       "link": "https://blog.bytebytego.com/p/how-ai-transformed-database-debugging",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "id": "ab6f1446f5743e4cd61c8fe042c642e1e0c9e4d7",
+      "title": "刚刚，智元提出SOP，让VLA模型在真实世界实现可扩展的在线进化",
+      "created": "2026-01-06 17:35",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010717&idx=1&sn=026d30a9a7fb8d87e55d333a7eb8730d",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "f58d673adc49c4745cabfaa6b6201c3803491175",
+      "title": "独家解读｜2025年AI五大趋势与底层数据革命",
+      "created": "2026-01-06 17:35",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010717&idx=2&sn=d5fefae8aec6158669293954c031e8f2",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "5829e063012bb906a67da74138f33965bafd2fbc",
+      "title": "开源1万小时具身智能数据，这家公司是为了什么？",
+      "created": "2026-01-06 17:35",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010717&idx=3&sn=81fd0019f16283c3a4d94ba04f102f2d",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "c1b9235dcece855715e2ebcf581d05cc3c5d4391",
+      "title": "别被室内基准高分骗了：大模型是在推理空间，还是在「背答案」？",
+      "created": "2026-01-06 17:35",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010717&idx=4&sn=e9a71be017d9e4d7eaa1958380fbcc37",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -197,33 +260,6 @@
       "category": "ai"
     },
     {
-      "id": "4fdf32bba61a188198e602c2b18f163134137eff",
-      "title": "从「被动」到「主动」，为什么给耳机装上「眼睛」后AI范式变了？",
-      "created": "2026-01-04 13:41",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010343&idx=1&sn=aa8a003be7b7cc51668842bb6f97548f",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "d3b4d94cadf520e4f46c406e4bf4d6118ffbc5b9",
-      "title": "500万人在线围观，Claude Code创建者的13条独家实战秘籍爆火",
-      "created": "2026-01-04 13:41",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010343&idx=2&sn=440edc0a537b0cf8820a967f54574cb7",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "0f503706f6fc94594fb63e154ff92cf943d7fc98",
-      "title": "AAAI 2026 | 小鹏联合北大，专为VLA模型定制视觉token剪枝方法，让端到端自动驾驶更高效",
-      "created": "2026-01-04 13:41",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010343&idx=3&sn=61d4c861ec0c95931e8985a140e90725",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "68940396c2260f3794ba95f5b857c1ccae883b8a",
       "title": "Quoting Jaana Dogan",
       "created": "2026-01-04 11:03",
@@ -296,33 +332,6 @@
       "category": "ai"
     },
     {
-      "id": "e84e02b1e7aa826bb5c35e7807e15d336de20d71",
-      "title": "4个月烧掉30亿Token，这位「菜鸟」程序员做出50多个产品，360万人围观",
-      "created": "2026-01-03 12:11",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010258&idx=1&sn=761843ddd675d6c023bcdefb481b2f1d",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "d69d45776861cad2853cc20dd01ac9d200ad0730",
-      "title": "LeCun在Meta还有论文：JEPA物理规划的「终极指南」",
-      "created": "2026-01-03 12:11",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010258&idx=2&sn=d08138d1fc92f5342680309da90b3522",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "14a84516709d0f57e741ba39b905e93a15961b11",
-      "title": "微信炼出扩散语言模型，实现vLLM部署AR模型3倍加速，低熵场景超10倍",
-      "created": "2026-01-03 12:11",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010258&idx=3&sn=e9135230088e0121d87bc4f5c80c6b13",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "67e902415b23970487e468e4635beb4cdc9aba26",
       "title": "2025 was an excellent year for this blog",
       "created": "2026-01-03 08:00",
@@ -383,15 +392,6 @@
       "link": "https://simonwillison.net/2026/Jan/2/december/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "a884403235de774a5d0bddb75f634ec255741b2f",
-      "title": "「辍学创业」的风再次席卷硅谷，但真正的变量从来不是学位",
-      "created": "2026-01-02 11:10",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010206&idx=1&sn=15f8af53c779e55a6006625efcd87715",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
