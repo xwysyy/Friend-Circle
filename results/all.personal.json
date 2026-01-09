@@ -3,19 +3,10 @@
     "friends_num": 31,
     "active_num": 30,
     "error_num": 1,
-    "article_num": 350,
-    "last_updated_time": "2026-01-09 20:36:09"
+    "article_num": 349,
+    "last_updated_time": "2026-01-09 22:20:17"
   },
   "article_data": [
-    {
-      "id": "3c1311beac7a6ef0385527e0a0db6ea971672981",
-      "title": "文章测试",
-      "created": "2026-01-09 19:51",
-      "link": "https://imqi1.com/note/982",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
     {
       "id": "d2d4c537b9958ebbfbeff2eb4a4e7e2f20dc2c3a",
       "title": "让炼丹更科学一些（五）：基于梯度精调学习率",
@@ -23,6 +14,15 @@
       "link": "https://kexue.fm/archives/11530",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "id": "a47bef9d3c4f9df92ea74a41dab00e8c2cae0bb2",
+      "title": "Introducing MCP CLI: A way to call MCP Servers Efficiently",
+      "created": "2026-01-09 08:00",
+      "link": "https://www.philschmid.de/mcp-cli",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -2300,15 +2300,6 @@
       "link": "https://www.less-bug.com/posts/learn-scala-in-one-day/",
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
-      "title": "Model Context Protocol (MCP) an overview",
-      "created": "2025-04-03 08:00",
-      "link": "https://www.philschmid.de/mcp-introduction",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
