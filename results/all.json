@@ -4,7 +4,7 @@
     "active_num": 30,
     "error_num": 1,
     "article_num": 456,
-    "last_updated_time": "2026-01-10 14:24:35"
+    "last_updated_time": "2026-01-10 16:20:51"
   },
   "article_data": [
     {
@@ -12,6 +12,42 @@
       "title": "Vibe Coding 方法论：不会编程的人如何用 AI 写出能跑的代码",
       "created": "2026-01-10 13:48",
       "link": "https://baoyu.io/blog/vibe-coding-ai-code-for-non-programmers",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "550c9de3213a793998e4acf78385d0b7eeefdf74",
+      "title": "因为AI编程，Tailwind CSS差点死了",
+      "created": "2026-01-10 12:04",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651011310&idx=1&sn=6b949d934d102dcb66cd31cfd9ed8760",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "06102d4164349f8c2aa6e10e496afd39bf953cfb",
+      "title": "打破学科壁垒！400篇参考文献重磅综述，统一调查「人脑×Agent」记忆系统",
+      "created": "2026-01-10 12:04",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651011310&idx=2&sn=39a473b1d642bae9ec69b0fecbec7474",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "71202644b86bcb379702a62413d2e5a08c19892b",
+      "title": "DeepSeek-OCR是「长文本理解」未来方向？中科院新基准VTCBench给出答案",
+      "created": "2026-01-10 12:04",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651011310&idx=3&sn=42cf1498a1040fe4e109774d87265e40",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "acaefd1ef48f0e649c0322a2c2627c38fa17fc45",
+      "title": "当翻译层消失，还剩下什么？",
+      "created": "2026-01-10 08:00",
+      "link": "https://baoyu.io/blog/2026/01/07/ai-pm-new-era",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
@@ -206,24 +242,6 @@
       "category": "ai"
     },
     {
-      "id": "bdc2b5ffcedd05637c5721fd018d24bec7368ab1",
-      "title": "大模型最难的AI Infra，用Vibe Coding搞定",
-      "created": "2026-01-07 13:14",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010746&idx=2&sn=c5a0c0df20f3e61166879c48775d5d58",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "70a958445d1eff7988dcc19c38961aa1064de7b6",
-      "title": "注意力机制大变革？Bengio团队找到了一种超越Transformer的硬件对齐方案",
-      "created": "2026-01-07 13:14",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010746&idx=3&sn=d31d0264c0caec7516695c7e2d107cbb",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "bd4194e9f6de11b46ec40988ec45cf785e17663f",
       "title": "动态上下文发现 (Dynamic Context Discovery)",
       "created": "2026-01-07 11:19",
@@ -266,15 +284,6 @@
       "link": "https://blog.bytebytego.com/p/how-ai-transformed-database-debugging",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "ab6f1446f5743e4cd61c8fe042c642e1e0c9e4d7",
-      "title": "刚刚，智元提出SOP，让VLA模型在真实世界实现可扩展的在线进化",
-      "created": "2026-01-06 17:35",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010717&idx=1&sn=026d30a9a7fb8d87e55d333a7eb8730d",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1038,15 +1047,6 @@
       "title": "预订本年度最有价值提示词 —— 生成既有质感，又能随意修改文字的完美 PPT",
       "created": "2025-12-21 11:33",
       "link": "https://baoyu.io/blog/most-valuable-prompts-for-high-quality-editable-ppts",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "48215c299cda776cac046c3f9944a16b3d17a04e",
-      "title": "The complete \"Editable NotebookLM Slides\" solution",
-      "created": "2025-12-21 10:12",
-      "link": "https://baoyu.io/blog/the-complete-editable-notebooklm-slides-solution",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
