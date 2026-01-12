@@ -3,19 +3,10 @@
     "friends_num": 31,
     "active_num": 30,
     "error_num": 1,
-    "article_num": 362,
-    "last_updated_time": "2026-01-12 12:46:01"
+    "article_num": 349,
+    "last_updated_time": "2026-01-12 14:30:24"
   },
   "article_data": [
-    {
-      "id": "f688fc7d14c417a6d7746a337cdd929360b4141f",
-      "title": "Mac如何将纯图片PDF转换成嵌入文字的PDF？让纯图PDF支持选中复制",
-      "created": "2026-01-12 12:26",
-      "link": "https://blog.zhheo.com/p/9vtjebeo.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
-      "category": "friend"
-    },
     {
       "id": "c96bf8881a5d20b220d0dbc94ade4f927cb80d7f",
       "title": "肖恩技术周刊（第 78 期）：Markup or Markdown！",
@@ -23,114 +14,6 @@
       "link": "https://weekly.shawnxie.top/content/2026/78.html",
       "author": "肖恩技术周刊",
       "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
-      "id": "9d1a08f23cf8a14f94f41265120f38b52a489b3d",
-      "title": "Don't fall into the anti-AI hype",
-      "created": "2026-01-12 07:58",
-      "link": "https://simonwillison.net/2026/Jan/11/dont-fall-into-the-anti-ai-hype/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "0760a755eefb38a0a931509ebd7ee6b091197709",
-      "title": "小红书视觉内容策划师提示词",
-      "created": "2026-01-12 07:39",
-      "link": "https://baoyu.io/blog/red-book-visual-content-prompts",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "d19ea43a0b0df5e3cbed3bd2ddc6c09dc51b7330",
-      "title": "My answers to the questions I posed about porting open source code with LLMs",
-      "created": "2026-01-12 06:59",
-      "link": "https://simonwillison.net/2026/Jan/11/answers/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "5c06b49c771b7b55594de54fec15a1cc008f1d23",
-      "title": "不做人形、不跳舞：他家的具身智能凭什么在100+城市卖出400万杯咖啡？",
-      "created": "2026-01-11 11:57",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651011465&idx=1&sn=1ebfdcac73d229c1d95c477746627b7d",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "902fa37ed5a13dab000a66ad7c44edf9e817c73e",
-      "title": "挑战GRPO，英伟达提出GDPO，专攻多奖励优化",
-      "created": "2026-01-11 11:57",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651011465&idx=2&sn=e5d481f8391a4dd6fc37df33243b52a0",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "c4bc870070f1b96b0031fa80bc7a02a6118883b4",
-      "title": "联邦学习不再安全？港大TPAMI新作：深挖梯度反转攻击的内幕",
-      "created": "2026-01-11 11:57",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651011465&idx=3&sn=ef87907a3fe9d148bae3751ff5a22d54",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "c2ba9f30cdac4b6649a3a0b9094ce613b9e763a0",
-      "title": "Quoting Linus Torvalds",
-      "created": "2026-01-11 10:29",
-      "link": "https://simonwillison.net/2026/Jan/11/linus-torvalds/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "3d82dfaa9558324d6bdd9ae0b14a05b0b3892714",
-      "title": "Agentic RAG 的架构演进：从上下文追踪 (Context Trace) 到全景上下文图谱 (Context Graphs)",
-      "created": "2026-01-11 09:58",
-      "link": "http://www.phodal.com/blog/context-trace-in-context-graphs/",
-      "author": "Phodal Huang",
-      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "ef754a0592803a90d7142cd266ceb76cb4d73966",
-      "title": "清华 AGI 峰会圆桌对话：笨笨的坚持，也许走到最后的就是我们",
-      "created": "2026-01-11 08:00",
-      "link": "https://baoyu.io/blog/2026/01/10/china-ai-roundtable",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "1dfeb0ffed0f4c66ff50c5dc0a6f74b1fbb77dc8",
-      "title": "A Software Library with No Code",
-      "created": "2026-01-11 07:41",
-      "link": "https://simonwillison.net/2026/Jan/10/a-software-library-with-no-code/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "651e994ba8331be4a124c7b081434f15c579ba86",
-      "title": "EP197: 12 Architectural Concepts Developers Should Know",
-      "created": "2026-01-11 00:30",
-      "link": "https://blog.bytebytego.com/p/ep197-12-architectural-concepts-developers",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "01f30f40542cdb2a3d9a672d86a57ff22cf8c091",
-      "title": "LLM | 正在尝试使用 LLaMA-Factory - MoonOut",
-      "created": "2026-01-10 17:22",
-      "link": "https://www.cnblogs.com/moonout/p/19455725",
-      "author": "Moon out",
-      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
       "category": "ai"
     },
     {
