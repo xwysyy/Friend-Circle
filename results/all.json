@@ -3,8 +3,8 @@
     "friends_num": 31,
     "active_num": 30,
     "error_num": 1,
-    "article_num": 455,
-    "last_updated_time": "2026-01-12 09:23:18"
+    "article_num": 456,
+    "last_updated_time": "2026-01-12 11:45:14"
   },
   "article_data": [
     {
@@ -77,6 +77,15 @@
       "link": "https://simonwillison.net/2026/Jan/11/linus-torvalds/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "3d82dfaa9558324d6bdd9ae0b14a05b0b3892714",
+      "title": "Agentic RAG 的架构演进：从上下文追踪 (Context Trace) 到全景上下文图谱 (Context Graphs)",
+      "created": "2026-01-11 09:58",
+      "link": "http://www.phodal.com/blog/context-trace-in-context-graphs/",
+      "author": "Phodal Huang",
+      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
       "category": "ai"
     },
     {
@@ -350,15 +359,6 @@
       "category": "ai"
     },
     {
-      "id": "6f1ba00e56431427ab23b2cb3712cd0b704edd84",
-      "title": "LeoTalk · Hacker News Daily · 2026.01.07",
-      "created": "2026-01-07 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/leotalk-hacker-news-daily-january-7-2026/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
-      "category": "ai"
-    },
-    {
       "id": "c9c32fcba89cd58164b3c51fcf620b3143f90b83",
       "title": "A field guide to sandboxes for AI",
       "created": "2026-01-07 06:38",
@@ -458,15 +458,6 @@
       "category": "ai"
     },
     {
-      "id": "71f3d9e7c77f6ac2ea854d99c471efab03589c55",
-      "title": "LeoTalk · Hacker News Daily · 2026.01.05",
-      "created": "2026-01-05 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/leotalk-hacker-news-daily-january-5-2026/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
-      "category": "ai"
-    },
-    {
       "id": "18f5336da390fc0a5342f926ae06fb5cfe033c02",
       "title": "The November 2025 inflection point",
       "created": "2026-01-05 07:21",
@@ -500,15 +491,6 @@
       "link": "https://simonwillison.net/2026/Jan/4/jaana-dogan/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "a8cd16215b161f632b0c64551b0a412fe79090ee",
-      "title": "LeoTalk · Hacker News Daily · 2026.01.04",
-      "created": "2026-01-04 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/leotalk-hacker-news-daily-january-4-2026/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -575,15 +557,6 @@
       "category": "ai"
     },
     {
-      "id": "53e578a90b53733bd388e6d21313f0d77e3c8092",
-      "title": "LeoTalk · Hacker News Daily · 2026.01.03",
-      "created": "2026-01-03 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/leotalk-hacker-news-daily-january-3-2026/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
-      "category": "ai"
-    },
-    {
       "id": "d337455117928997dd1d027ab89c04f174c35c17",
       "title": "Claude Code  之父 Boris 的 9 条实战技巧：原来高手的配置这么“朴实无华”",
       "created": "2026-01-03 06:21",
@@ -638,15 +611,6 @@
       "category": "ai"
     },
     {
-      "id": "2f0acecd2acdd5dabeccaa849b70838c104884c7",
-      "title": "LeoTalk · Hacker News Daily · 2026.01.02",
-      "created": "2026-01-02 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/leotalk-hacker-news-daily-january-2-2026/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
-      "category": "ai"
-    },
-    {
       "id": "099d484a4251b892f450223b22fff01216d8eba9",
       "title": "从零手写 RoPE 位置编码：原理、PyTorch 源码实现与可视化理解",
       "created": "2026-01-02 00:57",
@@ -671,15 +635,6 @@
       "link": "https://www.cnblogs.com/moonout/p/19430736",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
-      "id": "1612f5f420a069a3a7726fa3dd484f8b16216653",
-      "title": "LeoTalk · Hacker News Daily · 2026.01.01",
-      "created": "2026-01-01 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/leotalk-hacker-news-daily-january-1-2026/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -1511,6 +1466,24 @@
       "category": "ai"
     },
     {
+      "id": "dd39d51c442a270b26a07ae2e8444b8721369506",
+      "title": "LeoTalk AI周知 11: VLA到世界模型",
+      "created": "2025-12-01 08:00",
+      "link": "https://ifuryst.github.io/blog/2025/leotalk-ai-weekly-11-vla-to-world-model/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "fbeb6608735cf943939eb61f1ebc48e8dbdf2657",
+      "title": "大模型采样策略",
+      "created": "2025-11-30 08:00",
+      "link": "https://ifuryst.github.io/blog/2025/llm-sampling/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
       "id": "1fca56edd1745f9f55058bd70463fee95391f3d1",
       "title": "PbRL | 近两年论文阅读的不完全总结 - MoonOut",
       "created": "2025-11-29 15:04",
@@ -1565,6 +1538,15 @@
       "category": "ai"
     },
     {
+      "id": "46f9d8a734f93d69b9ca09798cf3554087cbbd75",
+      "title": "大模型上下文工程实践指南-第7章：智能体",
+      "created": "2025-11-26 08:00",
+      "link": "https://ifuryst.github.io/blog/2025/ce101-6-agent/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
       "id": "19ff0e1e80e7cb28b13a3f30ded1d92cd98cb52d",
       "title": "生成扩散模型漫谈（三十一）：预测数据而非噪声",
       "created": "2025-11-24 17:31",
@@ -1589,6 +1571,15 @@
       "link": "https://weekly.shawnxie.top/content/2025/71.html",
       "author": "肖恩技术周刊",
       "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "category": "ai"
+    },
+    {
+      "id": "49b719c322d39bdf700196797de4e54b786272d5",
+      "title": "LeoTalk AI周知 10: 基模&amp;专模",
+      "created": "2025-11-24 08:00",
+      "link": "https://ifuryst.github.io/blog/2025/leotalk-ai-weekly-10-base-model-n-specialized-mode/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -1700,6 +1691,15 @@
       "category": "ai"
     },
     {
+      "id": "b4d6876259fb6f514f4521ba0627bd8cbdb31580",
+      "title": "LeoTalk AI周知 9: 算法or工程",
+      "created": "2025-11-17 08:00",
+      "link": "https://ifuryst.github.io/blog/2025/leotalk-ai-weekly-9-algorithm-or-engineering/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
       "id": "c110723119151dc9b73ccbc74b99b00007336e87",
       "title": "GPU 微架构之旅 | 第五天：术业有专攻——那些“特种兵”单元",
       "created": "2025-11-16 23:13",
@@ -1805,6 +1805,15 @@
       "link": "http://www.phodal.com/blog/vibe-coding-for-autodev-server/",
       "author": "Phodal Huang",
       "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "e718c3b1b4a02738db68f5341f3e2ee426208c53",
+      "title": "LeoTalk AI周知 8: 注意力机制发展",
+      "created": "2025-11-11 08:00",
+      "link": "https://ifuryst.github.io/blog/2025/leotalk-ai-weekly-8-evolution-of-attention/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -3041,15 +3050,6 @@
       "category": "ai"
     },
     {
-      "id": "e44b80e269ce8ae583d551589376076c3f494821",
-      "title": "AutoDev Remote 编程智能体：你何必只让 AI 在白天分析需求、设计方案",
-      "created": "2025-06-13 22:08",
-      "link": "http://www.phodal.com/blog/autodev-remote-agent/",
-      "author": "Phodal Huang",
-      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
-      "category": "ai"
-    },
-    {
       "id": "93df000781b413529199865105d9d1a440760ae9",
       "title": "Cloudflare/Vercel项目推荐(5)",
       "created": "2025-06-12 21:12",
@@ -3716,28 +3716,10 @@
       "category": "ai"
     },
     {
-      "id": "a67bb8d2a6b423507df124720c24d43b990cf127",
-      "title": "ChromeDevTools/chrome-devtools-mcp",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "7fe5e07244967130a0b45de8fce74d0adda8844d",
       "title": "usememos/memos",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/usememos/memos",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "592aeaaca4e01ec49e212ca8784361048b4b7176",
-      "title": "HQarroum/docker-android",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/HQarroum/docker-android",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -3752,10 +3734,37 @@
       "category": "ai"
     },
     {
-      "id": "767356aa83e07755e33c3f2bb3db6b75df0630ae",
-      "title": "frankbria/ralph-claude-code",
+      "id": "5d4fbe8b90e55a0cbb84e3dcb150f9507db68a49",
+      "title": "OpenBB-finance/OpenBB",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/frankbria/ralph-claude-code",
+      "link": "https://github.com/OpenBB-finance/OpenBB",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
+      "title": "obra/superpowers",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/obra/superpowers",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "a5ec1ab21b87fe050af68798d94636b81d973918",
+      "title": "google/googletest",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/google/googletest",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "a67bb8d2a6b423507df124720c24d43b990cf127",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -3770,10 +3779,10 @@
       "category": "ai"
     },
     {
-      "id": "5d4fbe8b90e55a0cbb84e3dcb150f9507db68a49",
-      "title": "OpenBB-finance/OpenBB",
+      "id": "767356aa83e07755e33c3f2bb3db6b75df0630ae",
+      "title": "frankbria/ralph-claude-code",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/OpenBB-finance/OpenBB",
+      "link": "https://github.com/frankbria/ralph-claude-code",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
