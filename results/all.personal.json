@@ -3,10 +3,19 @@
     "friends_num": 31,
     "active_num": 30,
     "error_num": 1,
-    "article_num": 349,
-    "last_updated_time": "2026-01-13 06:15:40"
+    "article_num": 351,
+    "last_updated_time": "2026-01-13 09:16:34"
   },
   "article_data": [
+    {
+      "id": "b3f3bb973602bf08d268702bf92755f721623727",
+      "title": "Superhuman AI Exfiltrates Emails",
+      "created": "2026-01-13 06:24",
+      "link": "https://simonwillison.net/2026/Jan/12/superhuman-ai-exfiltrates-emails/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "47e394f8bb68a39d6d93d0802819567a34fb8fc0",
       "title": "First impressions of Claude Cowork, Anthropic's general agent",
@@ -35,12 +44,30 @@
       "category": "ai"
     },
     {
+      "id": "9b8cf81509f84954be152e0032c92d9c37ea90e8",
+      "title": "“软件工程的未来两年”",
+      "created": "2026-01-12 08:00",
+      "link": "https://baoyu.io/translations/2026/01/12/next-two-years-software-engineering",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "ea92df7782e827a9b1cd5e324f6f56930f31d5d2",
       "title": "Cursor Agent 最佳实践",
       "created": "2026-01-12 08:00",
       "link": "https://baoyu.io/translations/2026/01/12/cursor-agent-best-practices",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "f9886deaed42a0db01eb10e512d499a635bf5bfe",
+      "title": "TIL from taking Neon I at the Crucible",
+      "created": "2026-01-12 01:35",
+      "link": "https://simonwillison.net/2026/Jan/11/neon-i-at-the-crucible/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -498,15 +525,6 @@
       "title": "NotebookLM Slide Deck System Prompt",
       "created": "2025-11-21 06:03",
       "link": "https://baoyu.io/blog/notebooklm-slide-deck-system-prompt",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "ba1c046c8eb559db2e6166a6fd6fa1dbd34509ad",
-      "title": "Prompt to build a \"Retro Camera Web App\" by Gemini 3",
-      "created": "2025-11-20 11:11",
-      "link": "https://baoyu.io/blog/retro-camera-web-app-prompt",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
