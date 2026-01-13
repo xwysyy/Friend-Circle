@@ -3,10 +3,19 @@
     "friends_num": 31,
     "active_num": 30,
     "error_num": 1,
-    "article_num": 344,
-    "last_updated_time": "2026-01-14 00:26:29"
+    "article_num": 345,
+    "last_updated_time": "2026-01-14 02:26:35"
   },
   "article_data": [
+    {
+      "id": "5398ac76810189afb15a6492eb6807154663a108",
+      "title": "How Lyft Built an ML Platform That Serves Millions of Predictions Per Second",
+      "created": "2026-01-14 00:30",
+      "link": "https://blog.bytebytego.com/p/how-lyft-built-an-ml-platform-that",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
     {
       "id": "c96bf8881a5d20b220d0dbc94ade4f927cb80d7f",
       "title": "肖恩技术周刊（第 78 期）：Markup or Markdown！",
@@ -746,21 +755,21 @@
       "category": "friend"
     },
     {
-      "id": "da0ee4267bb75b40d39970749a97fbbe89f3678a",
-      "title": "肖恩技术周刊（第 68 期）：苍山洱海",
-      "created": "2025-11-03 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/68.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "ba342dd1c24409be79fe833f5ca0285831044882",
       "title": "Is it worrying that 95% of AI enterprise projects fail?",
       "created": "2025-11-03 08:00",
       "link": "https://seangoedecke.com/why-do-ai-enterprise-projects-fail/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "da0ee4267bb75b40d39970749a97fbbe89f3678a",
+      "title": "肖恩技术周刊（第 68 期）：苍山洱海",
+      "created": "2025-11-03 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/68.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
