@@ -3,10 +3,19 @@
     "friends_num": 31,
     "active_num": 30,
     "error_num": 1,
-    "article_num": 345,
-    "last_updated_time": "2026-01-14 06:17:52"
+    "article_num": 346,
+    "last_updated_time": "2026-01-14 09:22:35"
   },
   "article_data": [
+    {
+      "id": "f38740ef8ba648bc2c2722dcc69e059d6556a58a",
+      "title": "Anthropic invests $1.5 million in the Python Software Foundation and open source security",
+      "created": "2026-01-14 07:58",
+      "link": "https://simonwillison.net/2026/Jan/13/anthropic-invests-15-million-in-the-python-software-foundation-a/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "5398ac76810189afb15a6492eb6807154663a108",
       "title": "How Lyft Built an ML Platform That Serves Millions of Predictions Per Second",
