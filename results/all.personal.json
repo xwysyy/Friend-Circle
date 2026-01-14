@@ -3,26 +3,17 @@
     "friends_num": 31,
     "active_num": 30,
     "error_num": 1,
-    "article_num": 346,
-    "last_updated_time": "2026-01-14 09:22:35"
+    "article_num": 343,
+    "last_updated_time": "2026-01-14 11:43:36"
   },
   "article_data": [
     {
-      "id": "f38740ef8ba648bc2c2722dcc69e059d6556a58a",
-      "title": "Anthropic invests $1.5 million in the Python Software Foundation and open source security",
-      "created": "2026-01-14 07:58",
-      "link": "https://simonwillison.net/2026/Jan/13/anthropic-invests-15-million-in-the-python-software-foundation-a/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "5398ac76810189afb15a6492eb6807154663a108",
-      "title": "How Lyft Built an ML Platform That Serves Millions of Predictions Per Second",
-      "created": "2026-01-14 00:30",
-      "link": "https://blog.bytebytego.com/p/how-lyft-built-an-ml-platform-that",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "id": "c6554c24614b80acdb9d6941d13ebc70962becd4",
+      "title": "代码日趋廉价，软件依然昂贵",
+      "created": "2026-01-13 08:00",
+      "link": "https://baoyu.io/translations/2026/01/13/code-is-cheap-software-isnt",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -482,15 +473,6 @@
       "link": "https://www.philschmid.de/building-agents",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "d092552adca081646e5239d5065eea6dddd89868",
-      "title": "NotebookLM Slide Deck System Prompt",
-      "created": "2025-11-21 06:03",
-      "link": "https://baoyu.io/blog/notebooklm-slide-deck-system-prompt",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -2726,28 +2708,10 @@
       "category": "ai"
     },
     {
-      "id": "9f093b1fafebec97596b64bf82d600a99132a6d6",
-      "title": "bytedance/UI-TARS-desktop",
+      "id": "767356aa83e07755e33c3f2bb3db6b75df0630ae",
+      "title": "frankbria/ralph-claude-code",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/bytedance/UI-TARS-desktop",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "37bc0d925d729171c075ecac6176242573e07a6e",
-      "title": "steveyegge/beads",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/steveyegge/beads",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
-      "title": "obra/superpowers",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/obra/superpowers",
+      "link": "https://github.com/frankbria/ralph-claude-code",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2762,19 +2726,37 @@
       "category": "ai"
     },
     {
-      "id": "767356aa83e07755e33c3f2bb3db6b75df0630ae",
-      "title": "frankbria/ralph-claude-code",
+      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
+      "title": "obra/superpowers",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/frankbria/ralph-claude-code",
+      "link": "https://github.com/obra/superpowers",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "77bd829c1bca5f1300e38830464d53ea1a06996c",
-      "title": "BloopAI/vibe-kanban",
+      "id": "1347f788933722962c9fb9e55531bcab4d0901e9",
+      "title": "OpenBMB/ChatDev",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/BloopAI/vibe-kanban",
+      "link": "https://github.com/OpenBMB/ChatDev",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "9f093b1fafebec97596b64bf82d600a99132a6d6",
+      "title": "bytedance/UI-TARS-desktop",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/bytedance/UI-TARS-desktop",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "2ae23c1883878f221ff700aa41bc8597a82ab707",
+      "title": "Lissy93/web-check",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/Lissy93/web-check",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2784,15 +2766,6 @@
       "title": "ChromeDevTools/chrome-devtools-mcp",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "ea1fe240103329c65e93a7dd7f3d23dba74d91c0",
-      "title": "microsoft/PowerToys",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/microsoft/PowerToys",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
