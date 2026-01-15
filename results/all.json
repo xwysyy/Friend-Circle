@@ -4,9 +4,18 @@
     "active_num": 30,
     "error_num": 1,
     "article_num": 458,
-    "last_updated_time": "2026-01-15 22:20:39"
+    "last_updated_time": "2026-01-16 00:29:42"
   },
   "article_data": [
+    {
+      "id": "204b10321bd138350f25214b6313b502597517be",
+      "title": "The Design & Implementation of Sprites",
+      "created": "2026-01-16 00:08",
+      "link": "https://simonwillison.net/2026/Jan/15/the-design-implementation-of-sprites/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "841e7fa4a21fb2b9a69dae6df55bf70a316177ca",
       "title": "实测夸克「千问划词快捷指令」，这7个邪修Prompt，建议收藏",
@@ -332,6 +341,15 @@
       "category": "ai"
     },
     {
+      "id": "fb8f91f1579df5428f9abb0f4144b3c4dc3a0d0e",
+      "title": "DPO 算法原理与代码实现：让 LLM 对齐变得简单",
+      "created": "2026-01-10 23:07",
+      "link": "https://yuanchaofa.com/post/hands-on-dpo-direct-preference-optimization.html",
+      "author": "chao fa",
+      "avatar": "https://yuanchaofa.com/img/icon.webp",
+      "category": "ai"
+    },
+    {
       "id": "01f30f40542cdb2a3d9a672d86a57ff22cf8c091",
       "title": "LLM | 正在尝试使用 LLaMA-Factory - MoonOut",
       "created": "2026-01-10 17:22",
@@ -620,15 +638,6 @@
       "category": "ai"
     },
     {
-      "id": "a81d507d10b9de2a9dfc64c012ac9eae11fcc132",
-      "title": "Quoting Addy Osmani",
-      "created": "2026-01-05 00:40",
-      "link": "https://simonwillison.net/2026/Jan/4/addy-osmani/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
       "id": "0d0eb0961fa173b5ecb648cde34d401aef7264d0",
       "title": "AI 时代的代码审核：写两遍，反而更快",
       "created": "2026-01-04 05:24",
@@ -890,21 +899,21 @@
       "category": "ai"
     },
     {
-      "id": "6e8f82c70a310244f47e2b51d1263094aa3a6eb0",
-      "title": "王二下班之后",
-      "created": "2025-12-27 08:00",
-      "link": "https://shenxiangzhuang.github.io/blog/2025/12/27/wang_work/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "27bb33e4926cc0d7552cb49e91aa04be22d38095",
       "title": "You can't design software you don't work on",
       "created": "2025-12-27 08:00",
       "link": "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6e8f82c70a310244f47e2b51d1263094aa3a6eb0",
+      "title": "王二下班之后",
+      "created": "2025-12-27 08:00",
+      "link": "https://shenxiangzhuang.github.io/blog/2025/12/27/wang_work/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -3426,15 +3435,6 @@
       "author": "huccihuang",
       "avatar": "https://avatars.githubusercontent.com/u/37830922?s=400&u=e1064ca880baded1c670372f9fa0a1b0cffac885&v=4",
       "category": "lang"
-    },
-    {
-      "id": "80613f23d8dc36fa5198171fd109a1d6e89ec000",
-      "title": "2024，公开表达元年",
-      "created": "2024-12-29 05:00",
-      "link": "https://yuanchaofa.com/blog/2024-year-summary.html",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
-      "category": "ai"
     },
     {
       "id": "691e8271d01f72b3dd6d5dfce5e4f058157cc901",

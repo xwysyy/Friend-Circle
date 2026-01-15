@@ -3,10 +3,19 @@
     "friends_num": 31,
     "active_num": 30,
     "error_num": 1,
-    "article_num": 344,
-    "last_updated_time": "2026-01-15 22:20:48"
+    "article_num": 345,
+    "last_updated_time": "2026-01-16 00:29:52"
   },
   "article_data": [
+    {
+      "id": "204b10321bd138350f25214b6313b502597517be",
+      "title": "The Design & Implementation of Sprites",
+      "created": "2026-01-16 00:08",
+      "link": "https://simonwillison.net/2026/Jan/15/the-design-implementation-of-sprites/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "c96bf8881a5d20b220d0dbc94ade4f927cb80d7f",
       "title": "肖恩技术周刊（第 78 期）：Markup or Markdown！",
@@ -14,6 +23,15 @@
       "link": "https://weekly.shawnxie.top/content/2026/78.html",
       "author": "肖恩技术周刊",
       "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "category": "ai"
+    },
+    {
+      "id": "fb8f91f1579df5428f9abb0f4144b3c4dc3a0d0e",
+      "title": "DPO 算法原理与代码实现：让 LLM 对齐变得简单",
+      "created": "2026-01-10 23:07",
+      "link": "https://yuanchaofa.com/post/hands-on-dpo-direct-preference-optimization.html",
+      "author": "chao fa",
+      "avatar": "https://yuanchaofa.com/img/icon.webp",
       "category": "ai"
     },
     {
@@ -2400,15 +2418,6 @@
       "author": "huccihuang",
       "avatar": "https://avatars.githubusercontent.com/u/37830922?s=400&u=e1064ca880baded1c670372f9fa0a1b0cffac885&v=4",
       "category": "lang"
-    },
-    {
-      "id": "80613f23d8dc36fa5198171fd109a1d6e89ec000",
-      "title": "2024，公开表达元年",
-      "created": "2024-12-29 05:00",
-      "link": "https://yuanchaofa.com/blog/2024-year-summary.html",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
-      "category": "ai"
     },
     {
       "id": "691e8271d01f72b3dd6d5dfce5e4f058157cc901",
