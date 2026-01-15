@@ -3,10 +3,28 @@
     "friends_num": 31,
     "active_num": 30,
     "error_num": 1,
-    "article_num": 345,
-    "last_updated_time": "2026-01-15 06:18:16"
+    "article_num": 347,
+    "last_updated_time": "2026-01-15 09:18:21"
   },
   "article_data": [
+    {
+      "id": "50cf954807decd8c791ef65cdc14a843e3328d43",
+      "title": "Quoting Boaz Barak, Gabriel Wu, Jeremy Chen and Manas Joglekar",
+      "created": "2026-01-15 08:56",
+      "link": "https://simonwillison.net/2026/Jan/15/boaz-barak-gabriel-wu-jeremy-chen-and-manas-joglekar/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "f774269c541bc20060f1e01e581499244eec9712",
+      "title": "Claude Cowork Exfiltrates Files",
+      "created": "2026-01-15 06:15",
+      "link": "https://simonwillison.net/2026/Jan/14/claude-cowork-exfiltrates-files/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "0fc23aadd3d0883376e7ff085bd9aa1dcf5abf99",
       "title": "How Uber Serves over 150 Million Reads per Second from Integrated Cache",
