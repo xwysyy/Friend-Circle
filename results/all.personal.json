@@ -3,10 +3,19 @@
     "friends_num": 31,
     "active_num": 30,
     "error_num": 1,
-    "article_num": 343,
-    "last_updated_time": "2026-01-17 09:16:56"
+    "article_num": 341,
+    "last_updated_time": "2026-01-17 11:19:28"
   },
   "article_data": [
+    {
+      "id": "97187e7a071eb37daaff5dc124ee3ef25c5a9247",
+      "title": "Crypto grifters are recruiting open-source AI developers",
+      "created": "2026-01-17 08:00",
+      "link": "https://seangoedecke.com/gas-and-ralph/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "9502c41473e78626f681fceff44efdd1a3a4549e",
       "title": "Our approach to advertising and expanding access to ChatGPT",
@@ -1358,15 +1367,6 @@
       "category": "friend"
     },
     {
-      "id": "4934ecd5d8751460065197b4dd0e1493349448dd",
-      "title": "The whole point of OpenAI's Responses API is to help them hide reasoning traces",
-      "created": "2025-09-09 08:00",
-      "link": "https://seangoedecke.com/responses-api/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "cb4ccab235e9d72e6c1bf94e524b431a5a52cbe8",
       "title": "从 Langchain 到 Spring AI，我们究竟需要怎么样一个企业级 AI 开发框架？",
       "created": "2025-09-08 19:57",
@@ -2672,55 +2672,10 @@
       "category": "ai"
     },
     {
-      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
-      "title": "obra/superpowers",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/obra/superpowers",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "2fdd7b925789dbe4b55c7b78e31332c0a61d31ee",
-      "title": "NevaMind-AI/memU",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/NevaMind-AI/memU",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "a67bb8d2a6b423507df124720c24d43b990cf127",
-      "title": "ChromeDevTools/chrome-devtools-mcp",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "45c6933674e5269470c32c12cd83bf198ad7275e",
       "title": "home-assistant/home-assistant.io",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/home-assistant/home-assistant.io",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "9f093b1fafebec97596b64bf82d600a99132a6d6",
-      "title": "bytedance/UI-TARS-desktop",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/bytedance/UI-TARS-desktop",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "adbef724cb274560f99367511b2ecdc73c31c6df",
-      "title": "anomalyco/opencode",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/anomalyco/opencode",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2735,19 +2690,19 @@
       "category": "ai"
     },
     {
-      "id": "db1424328a0c9c7c1bd98054243bcb3840167297",
-      "title": "MiroMindAI/MiroThinker",
+      "id": "adbef724cb274560f99367511b2ecdc73c31c6df",
+      "title": "anomalyco/opencode",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/MiroMindAI/MiroThinker",
+      "link": "https://github.com/anomalyco/opencode",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "063fd11f48ef891580a8ca08632c9a65f9fe154d",
-      "title": "memvid/memvid",
+      "id": "9f093b1fafebec97596b64bf82d600a99132a6d6",
+      "title": "bytedance/UI-TARS-desktop",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/memvid/memvid",
+      "link": "https://github.com/bytedance/UI-TARS-desktop",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2762,10 +2717,37 @@
       "category": "ai"
     },
     {
+      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
+      "title": "obra/superpowers",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/obra/superpowers",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "db1424328a0c9c7c1bd98054243bcb3840167297",
+      "title": "MiroMindAI/MiroThinker",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/MiroMindAI/MiroThinker",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "b33be8909763c03145e5a32c1791f93e8897e5e3",
       "title": "hacksider/Deep-Live-Cam",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/hacksider/Deep-Live-Cam",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "2fdd7b925789dbe4b55c7b78e31332c0a61d31ee",
+      "title": "NevaMind-AI/memU",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/NevaMind-AI/memU",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
