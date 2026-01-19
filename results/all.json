@@ -4,7 +4,7 @@
     "active_num": 30,
     "error_num": 1,
     "article_num": 455,
-    "last_updated_time": "2026-01-19 06:15:53"
+    "last_updated_time": "2026-01-19 09:24:00"
   },
   "article_data": [
     {
@@ -14,6 +14,15 @@
       "link": "https://weekly.shawnxie.top/content/2026/79.html",
       "author": "肖恩技术周刊",
       "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "category": "ai"
+    },
+    {
+      "id": "8ae73746a3cb1ee839d060aaa95c44806f44055b",
+      "title": "FLUX.2-klein-4B Pure C Implementation",
+      "created": "2026-01-19 07:58",
+      "link": "https://simonwillison.net/2026/Jan/18/flux2-klein-4b/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -669,15 +678,6 @@
       "title": "Quoting Robin Sloan",
       "created": "2026-01-07 08:54",
       "link": "https://simonwillison.net/2026/Jan/7/robin-sloan/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "c9c32fcba89cd58164b3c51fcf620b3143f90b83",
-      "title": "A field guide to sandboxes for AI",
-      "created": "2026-01-07 06:38",
-      "link": "https://simonwillison.net/2026/Jan/6/a-field-guide-to-sandboxes-for-ai/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
