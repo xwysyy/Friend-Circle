@@ -4,9 +4,18 @@
     "active_num": 30,
     "error_num": 1,
     "article_num": 458,
-    "last_updated_time": "2026-01-20 18:23:12"
+    "last_updated_time": "2026-01-20 20:40:18"
   },
   "article_data": [
+    {
+      "id": "79f8d8ee1026a05a678c76c8810a534bbcba4b61",
+      "title": "为什么我们偏爱各向同性？基于最速下降的理解",
+      "created": "2026-01-20 19:44",
+      "link": "https://kexue.fm/archives/11549",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
     {
       "id": "5ee23ad7512216aaea851a5b2e600d18cb3bc5f3",
       "title": "LLM | 正在尝试使用 verl - MoonOut",
@@ -14,6 +23,15 @@
       "link": "https://www.cnblogs.com/moonout/p/19471728",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "6b1f5d9b708a6a3f971e4a027781aec54622358b",
+      "title": "I'm addicted to being useful",
+      "created": "2026-01-20 08:00",
+      "link": "https://seangoedecke.com/addicted-to-being-useful/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1808,15 +1826,6 @@
       "category": "ai"
     },
     {
-      "id": "8084dadab1958d9861194ffd45735001aae37430",
-      "title": "AdamW的Weight RMS的渐近估计（下）",
-      "created": "2025-11-17 16:56",
-      "link": "https://kexue.fm/archives/11404",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
       "id": "f51537383f9cd0817d7eebf1a1770e5ac4692349",
       "title": "AutoDev Code Review Agent：应对 10 倍代码量的 Agentic 代码审查",
       "created": "2025-11-17 12:19",
@@ -2289,15 +2298,6 @@
       "title": "What have we learned about building agentic AI tools?",
       "created": "2025-10-19 08:00",
       "link": "https://seangoedecke.com/ideas-in-agentic-ai-tooling/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "64d2c74aaa3510cbf688f8d750d21dcf97ce612e",
-      "title": "We are in the \"gentleman scientist\" era of AI research",
-      "created": "2025-10-18 08:00",
-      "link": "https://seangoedecke.com/ai-and-informal-science/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
