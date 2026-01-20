@@ -4,9 +4,18 @@
     "active_num": 30,
     "error_num": 1,
     "article_num": 458,
-    "last_updated_time": "2026-01-20 14:29:37"
+    "last_updated_time": "2026-01-20 16:26:26"
   },
   "article_data": [
+    {
+      "id": "5ee23ad7512216aaea851a5b2e600d18cb3bc5f3",
+      "title": "LLM | 正在尝试使用 verl - MoonOut",
+      "created": "2026-01-20 16:20",
+      "link": "https://www.cnblogs.com/moonout/p/19471728",
+      "author": "Moon out",
+      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
     {
       "id": "606ffadc9df2e8ea6fa03f64217d13dbfc9199c2",
       "title": "jordanhubbard/nanolang",
@@ -32,6 +41,33 @@
       "link": "http://www.phodal.com/blog/modernizing-deep-research/",
       "author": "Phodal Huang",
       "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "57d2aa92ae0e3dafb87d89a9bfdd3d9a22a042ff",
+      "title": "租了8张H100，他成功复现了DeepSeek的mHC，结果比官方报告更炸裂",
+      "created": "2026-01-19 16:51",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651012614&idx=1&sn=26ad09fb30846ce1dd7b16609b6c0480",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "15bcec62d81ca2fcb29f66c0488cce550922952d",
+      "title": "评审用不用AI，作者说了算？ICML 2026全新评审政策出炉",
+      "created": "2026-01-19 16:51",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651012614&idx=2&sn=55faff0780bedbfd783d86703f27e176",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "04551971d9a1bcad399644196a167e2b63cdb456",
+      "title": "机器人终于「懂」家务了！伯克利MomaGraph让机器人像人一样做家务",
+      "created": "2026-01-19 16:51",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651012614&idx=3&sn=fb5a9d2f3f0817b68abd40177cfa4801",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -242,24 +278,6 @@
       "category": "ai"
     },
     {
-      "id": "0643ccb779d7de2a9052d7d4a5036e023910b858",
-      "title": "失去三个联创后，Mira公司危机持续：又有两人要出走",
-      "created": "2026-01-16 13:07",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651012317&idx=2&sn=7694939daf27ca82c29ad7bfad24814b",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "0149ca5205e3dc32cb7b8862491869d59b18e3af",
-      "title": "不止于量化：最新综述用「时-空-构」三维视角解构KV Cache系统级优化",
-      "created": "2026-01-16 13:07",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651012317&idx=3&sn=e4e3ca24175a2494dd40244d6b2bd03f",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b1baa4298ae72b2db36f029138c8bdbc80a5a633",
       "title": "科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么",
       "created": "2026-01-16 08:13",
@@ -302,15 +320,6 @@
       "link": "https://simonwillison.net/2026/Jan/15/the-design-implementation-of-sprites/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "841e7fa4a21fb2b9a69dae6df55bf70a316177ca",
-      "title": "实测夸克「千问划词快捷指令」，这7个邪修Prompt，建议收藏",
-      "created": "2026-01-15 11:49",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651012094&idx=1&sn=88dcd9a32e04ef66230aaa0f6259477e",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -2616,15 +2625,6 @@
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
-    },
-    {
-      "id": "18420d50dc9f7abc156e732212c66f420d234c84",
-      "title": "论文速读记录 | 2025.09 - MoonOut",
-      "created": "2025-09-02 14:16",
-      "link": "https://www.cnblogs.com/moonout/p/19069922",
-      "author": "Moon out",
-      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
     },
     {
       "id": "1e4c53d9739f8ae23f73e1272a6347ef232d496c",
