@@ -4,7 +4,7 @@
     "active_num": 30,
     "error_num": 1,
     "article_num": 455,
-    "last_updated_time": "2026-01-21 14:29:39"
+    "last_updated_time": "2026-01-21 16:26:28"
   },
   "article_data": [
     {
@@ -41,6 +41,33 @@
       "link": "https://kexue.fm/archives/11549",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "id": "53cd0125030e2e5e696867398581983dfea447de",
+      "title": "击败GPT、Gemini，复旦×创智孵化创业团队「模思智能」，语音模型上新了",
+      "created": "2026-01-20 18:16",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651012836&idx=1&sn=1707a1f609fe1aec2f3b0235a18a0663",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "947f38759b48882dce63af64159f9630110ae3e2",
+      "title": "当黄仁勋将存储定义为「AI运行内存」，基础设施该如何实现物种进化？",
+      "created": "2026-01-20 18:16",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651012836&idx=2&sn=393a606eecd72731ad55cc8993a66e30",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b9f806d8aadb62989420bdd336dcd3fb84cacee4",
+      "title": "从平面几何出发：形式化验证如何驱动MLLM的推理能力跃迁",
+      "created": "2026-01-20 18:16",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651012836&idx=3&sn=32f3820eb2a364a60b4b7303700a1727",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -260,24 +287,6 @@
       "category": "ai"
     },
     {
-      "id": "238f9f85c0019d2e79bf2380904640e8be7bdbf0",
-      "title": "开源8300小时标注数据，新一代实时通用游戏AI Pixel2Play发布",
-      "created": "2026-01-17 11:07",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651012368&idx=2&sn=2a7735b70d717244f97aa0b4adc79aae",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "3c8e0d3a0bb174148a59f0aecf85923d465c8933",
-      "title": "大模型听懂语音却反而变笨？港中深与微软联合解决语音大模型降智问题",
-      "created": "2026-01-17 11:07",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651012368&idx=3&sn=34b2837f896552e43c41ecc287d07e37",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "97187e7a071eb37daaff5dc124ee3ef25c5a9247",
       "title": "Crypto grifters are recruiting open-source AI developers",
       "created": "2026-01-17 08:00",
@@ -311,15 +320,6 @@
       "link": "https://kexue.fm/archives/11540",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
-      "id": "9bf548f469130bf434dfe7d5da3332081bf6390e",
-      "title": "美团又上新模型，8个Thinker齐开工，能顶个诸葛亮？",
-      "created": "2026-01-16 13:07",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651012317&idx=1&sn=9acdff52eeaed87c6400bdbd96163513",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1583,6 +1583,15 @@
       "category": "ai"
     },
     {
+      "id": "fa52f8bcad0e686b09723ac20f3282936fe32c40",
+      "title": "DEB 和 RPM 有什么区别",
+      "created": "2025-12-03 00:00",
+      "link": "https://dusays.com/840/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
+    },
+    {
       "id": "c155f70bc5c5d005c2bf085c43cbfa24a2d7d539",
       "title": "论文速读记录 | 2025.12（1） - MoonOut",
       "created": "2025-12-02 23:13",
@@ -2796,15 +2805,6 @@
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
       "category": "ai"
-    },
-    {
-      "id": "281ec8284073c99e581cd67d09452c6d44e9b718",
-      "title": "Electerm 高效便捷的开源终端工具",
-      "created": "2025-08-05 00:00",
-      "link": "https://dusays.com/820/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
-      "category": "friend"
     },
     {
       "id": "7944eaf2f6e3ff99d4981e9647123013a9b43db1",
