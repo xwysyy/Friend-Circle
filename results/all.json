@@ -4,7 +4,7 @@
     "active_num": 30,
     "error_num": 1,
     "article_num": 455,
-    "last_updated_time": "2026-01-22 00:37:50"
+    "last_updated_time": "2026-01-22 02:36:40"
   },
   "article_data": [
     {
@@ -14,6 +14,24 @@
       "link": "https://blog.bytebytego.com/p/how-netflix-built-a-real-time-distributed",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "id": "c8e01ae3c09d5a89550c672531421596d9d607ce",
+      "title": "MCP is Not the Problem, It's your Server: Best Practices for Building MCP Servers",
+      "created": "2026-01-21 08:00",
+      "link": "https://www.philschmid.de/mcp-best-practices",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "49c6287801adfa4cb7d7db77149b9849afbc979f",
+      "title": "MCP 和 Skills 到底什么区别？一篇文章说清楚",
+      "created": "2026-01-21 08:00",
+      "link": "https://baoyu.io/blog/2026/01/20/mcp-vs-skills",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -170,15 +188,6 @@
       "category": "ai"
     },
     {
-      "id": "4cf974b5a336c3523f27d59f7db0403c1d2bc45b",
-      "title": "肖恩技术周刊（第 79 期）：AI结对编程",
-      "created": "2026-01-19 08:00",
-      "link": "https://weekly.shawnxie.top/content/2026/79.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "c231c5ab7f353bea8c84a35f48310786706ad3cd",
       "title": "Transparent PNG Stickers with Nano Banana Pro and Gemini interactions API",
       "created": "2026-01-19 08:00",
@@ -194,6 +203,15 @@
       "link": "https://baoyu.io/blog/2026/01/19/skills-vs-subagent",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "4cf974b5a336c3523f27d59f7db0403c1d2bc45b",
+      "title": "肖恩技术周刊（第 79 期）：AI结对编程",
+      "created": "2026-01-19 08:00",
+      "link": "https://weekly.shawnxie.top/content/2026/79.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -512,15 +530,6 @@
       "category": "friend"
     },
     {
-      "id": "c96bf8881a5d20b220d0dbc94ade4f927cb80d7f",
-      "title": "肖恩技术周刊（第 78 期）：Markup or Markdown！",
-      "created": "2026-01-12 08:00",
-      "link": "https://weekly.shawnxie.top/content/2026/78.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "9b8cf81509f84954be152e0032c92d9c37ea90e8",
       "title": "“软件工程的未来两年”",
       "created": "2026-01-12 08:00",
@@ -536,6 +545,15 @@
       "link": "https://baoyu.io/translations/2026/01/12/cursor-agent-best-practices",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "c96bf8881a5d20b220d0dbc94ade4f927cb80d7f",
+      "title": "肖恩技术周刊（第 78 期）：Markup or Markdown！",
+      "created": "2026-01-12 08:00",
+      "link": "https://weekly.shawnxie.top/content/2026/78.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -827,21 +845,21 @@
       "category": "ai"
     },
     {
-      "id": "ddecdacb24bd0f7eeb6152205e2cf9f5e1c9e6bd",
-      "title": "肖恩技术周刊（第 77 期）：稀缺特质",
-      "created": "2026-01-05 08:00",
-      "link": "https://weekly.shawnxie.top/content/2026/77.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "8d90519fb1690502dd7c59a88435336cab69145e",
       "title": "The importance of Agent Harness in 2026",
       "created": "2026-01-05 08:00",
       "link": "https://www.philschmid.de/agent-harness-2026",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "ddecdacb24bd0f7eeb6152205e2cf9f5e1c9e6bd",
+      "title": "肖恩技术周刊（第 77 期）：稀缺特质",
+      "created": "2026-01-05 08:00",
+      "link": "https://weekly.shawnxie.top/content/2026/77.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -899,15 +917,6 @@
       "category": "ai"
     },
     {
-      "id": "d337455117928997dd1d027ab89c04f174c35c17",
-      "title": "Claude Code  之父 Boris 的 9 条实战技巧：原来高手的配置这么“朴实无华”",
-      "created": "2026-01-03 06:21",
-      "link": "https://baoyu.io/blog/claude-code-boris-9-practical-tips-simple-config",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "6d11a3070f0560aac0d1f029472715b859b1e5c3",
       "title": "Contrastive Learning 对比学习 | InfoNCE loss 与互信息的数学关联 - MoonOut",
       "created": "2026-01-02 20:07",
@@ -962,21 +971,21 @@
       "category": "ai"
     },
     {
-      "id": "4194025a29a96001f1036f0c49743c08dc216f67",
-      "title": "2025年总结：Agent元年，寻找人类最后的护城河",
-      "created": "2025-12-31 08:00",
-      "link": "https://weekly.shawnxie.top/collection/2025.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "056e0d800d4694be8574dc5193b0bc1db7bd7043",
       "title": "8 Predictions for 2026. What comes next in AI?",
       "created": "2025-12-31 08:00",
       "link": "https://www.philschmid.de/2026-predictions",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "4194025a29a96001f1036f0c49743c08dc216f67",
+      "title": "2025年总结：Agent元年，寻找人类最后的护城河",
+      "created": "2025-12-31 08:00",
+      "link": "https://weekly.shawnxie.top/collection/2025.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -1034,21 +1043,21 @@
       "category": "ai"
     },
     {
-      "id": "dca9c06155fc07f703291b76a1ea3d8c9054ffdb",
-      "title": "肖恩技术周刊（第 76 期）：疯狂的白银",
-      "created": "2025-12-29 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/76.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "b9a24d96040d69721c996a7121f4b197f6aafd26",
       "title": "深入浅出了解生成模型-8：生成加速策略概述",
       "created": "2025-12-29 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/12/29/SDAcceralate.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "dca9c06155fc07f703291b76a1ea3d8c9054ffdb",
+      "title": "肖恩技术周刊（第 76 期）：疯狂的白银",
+      "created": "2025-12-29 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/76.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -1421,21 +1430,21 @@
       "category": "friend"
     },
     {
-      "id": "0352f0915f344dff6e2e620796d826af95ab9746",
-      "title": "肖恩技术周刊（第 74 期）：AI重塑未来",
-      "created": "2025-12-15 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/74.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "eb4aa41e1644d516841f85fc82b9556741ade2f0",
       "title": "LeoTalk AI周知 13: AI这一年",
       "created": "2025-12-15 08:00",
       "link": "https://ifuryst.github.io/blog/2025/leotalk-ai-weekly-13-year-of-ai/",
       "author": "ifuryst",
       "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "0352f0915f344dff6e2e620796d826af95ab9746",
+      "title": "肖恩技术周刊（第 74 期）：AI重塑未来",
+      "created": "2025-12-15 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/74.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -1619,21 +1628,21 @@
       "category": "ai"
     },
     {
-      "id": "8067bdad1fa389ea816b053c2cc94eb8a2f14175",
-      "title": "肖恩技术周刊（第 72 期）：有趣的C语言谜题",
-      "created": "2025-12-01 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/72.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "dd39d51c442a270b26a07ae2e8444b8721369506",
       "title": "LeoTalk AI周知 11: VLA到世界模型",
       "created": "2025-12-01 08:00",
       "link": "https://ifuryst.github.io/blog/2025/leotalk-ai-weekly-11-vla-to-world-model/",
       "author": "ifuryst",
       "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "8067bdad1fa389ea816b053c2cc94eb8a2f14175",
+      "title": "肖恩技术周刊（第 72 期）：有趣的C语言谜题",
+      "created": "2025-12-01 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/72.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -1736,21 +1745,21 @@
       "category": "ai"
     },
     {
-      "id": "d90e85d7d88f26bbb0d49d0bc6f3890e1af8a8c9",
-      "title": "肖恩技术周刊（第 71 期）：何以成事",
-      "created": "2025-11-24 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/71.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "49b719c322d39bdf700196797de4e54b786272d5",
       "title": "LeoTalk AI周知 10: 基模&amp;专模",
       "created": "2025-11-24 08:00",
       "link": "https://ifuryst.github.io/blog/2025/leotalk-ai-weekly-10-base-model-n-specialized-mode/",
       "author": "ifuryst",
       "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "d90e85d7d88f26bbb0d49d0bc6f3890e1af8a8c9",
+      "title": "肖恩技术周刊（第 71 期）：何以成事",
+      "created": "2025-11-24 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/71.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -1853,21 +1862,21 @@
       "category": "ai"
     },
     {
-      "id": "a17936c3af060dd4c9a3a88a062d10b625d4013c",
-      "title": "肖恩技术周刊（第 70 期）：流量劫持",
-      "created": "2025-11-17 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/70.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "b4d6876259fb6f514f4521ba0627bd8cbdb31580",
       "title": "LeoTalk AI周知 9: 算法or工程",
       "created": "2025-11-17 08:00",
       "link": "https://ifuryst.github.io/blog/2025/leotalk-ai-weekly-9-algorithm-or-engineering/",
       "author": "ifuryst",
       "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a17936c3af060dd4c9a3a88a062d10b625d4013c",
+      "title": "肖恩技术周刊（第 70 期）：流量劫持",
+      "created": "2025-11-17 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/70.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -2564,21 +2573,21 @@
       "category": "friend"
     },
     {
-      "id": "de58d5b4dddf441d83b23fdf9f9404ecd6af9ef0",
-      "title": "肖恩技术周刊（第 62 期）：不纯粹工程",
-      "created": "2025-09-15 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/62.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "8dc5e367b15cdedd43ba4455ab928d34de7df5e6",
       "title": "The Rise of Subagents",
       "created": "2025-09-15 08:00",
       "link": "https://www.philschmid.de/the-rise-of-subagents",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "de58d5b4dddf441d83b23fdf9f9404ecd6af9ef0",
+      "title": "肖恩技术周刊（第 62 期）：不纯粹工程",
+      "created": "2025-09-15 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/62.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -2993,15 +3002,6 @@
       "link": "https://www.big-yellow-j.top/posts/2025/07/01/torch_basic.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "519908ebd9cf39429c01e0ab1d6edbbf14105a8b",
-      "title": "The New Skill in AI is Not Prompting, It's Context Engineering",
-      "created": "2025-06-30 08:00",
-      "link": "https://www.philschmid.de/context-engineering",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {

@@ -3,17 +3,26 @@
     "friends_num": 31,
     "active_num": 30,
     "error_num": 1,
-    "article_num": 336,
-    "last_updated_time": "2026-01-22 00:38:37"
+    "article_num": 335,
+    "last_updated_time": "2026-01-22 02:36:50"
   },
   "article_data": [
     {
-      "id": "406047156e6996bdf40422d2c5b87decf35c7df4",
-      "title": "How Netflix Built a Real-Time Distributed Graph for Internet Scale",
-      "created": "2026-01-22 00:31",
-      "link": "https://blog.bytebytego.com/p/how-netflix-built-a-real-time-distributed",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "id": "c8e01ae3c09d5a89550c672531421596d9d607ce",
+      "title": "MCP is Not the Problem, It's your Server: Best Practices for Building MCP Servers",
+      "created": "2026-01-21 08:00",
+      "link": "https://www.philschmid.de/mcp-best-practices",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "49c6287801adfa4cb7d7db77149b9849afbc979f",
+      "title": "MCP 和 Skills 到底什么区别？一篇文章说清楚",
+      "created": "2026-01-21 08:00",
+      "link": "https://baoyu.io/blog/2026/01/20/mcp-vs-skills",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -435,15 +444,6 @@
       "title": "从第一性原理深度拆解 Claude Agent Skill",
       "created": "2025-11-26 01:25",
       "link": "https://baoyu.io/translations/claude-skills-deep-dive",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "8ddb36722316418d340558b9b7772ea8c8370b60",
-      "title": "在 Claude 开发者平台上引入高级工具使用能力",
-      "created": "2025-11-25 11:38",
-      "link": "https://baoyu.io/translations/anthropic-engineering-advanced-tool-use",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
@@ -2174,15 +2174,6 @@
       "link": "https://www.less-bug.com/posts/learn-scala-in-one-day/",
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
-      "title": "Model Context Protocol (MCP) an overview",
-      "created": "2025-04-03 08:00",
-      "link": "https://www.philschmid.de/mcp-introduction",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
