@@ -3,80 +3,17 @@
     "friends_num": 31,
     "active_num": 30,
     "error_num": 1,
-    "article_num": 337,
-    "last_updated_time": "2026-01-24 04:20:52"
+    "article_num": 330,
+    "last_updated_time": "2026-01-24 06:14:44"
   },
   "article_data": [
     {
-      "id": "c538e5823dbdf6f288c0abedec1e5b468179a8fc",
-      "title": "We are hiring at ByteByteGo",
-      "created": "2026-01-24 00:31",
-      "link": "https://blog.bytebytego.com/p/we-are-hiring-at-bytebytego",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "7144c6cd225e2489d925b313c7615c96f0dd9cd0",
-      "title": "Quoting Theia Vogel",
-      "created": "2026-01-23 17:13",
-      "link": "https://simonwillison.net/2026/Jan/23/theia-vogel/#atom-everything",
+      "id": "29a18338cbabb3706074aac5ef870d2914f9569c",
+      "title": "Wilson Lin on FastRender: a browser built by thousands of parallel agents",
+      "created": "2026-01-24 05:26",
+      "link": "https://simonwillison.net/2026/Jan/23/fastrender/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "2a994ac142dc38915bc2d9c596cb152c99a86e2c",
-      "title": "OpenAI：以后大家用AI赚的钱，我可能要抽成",
-      "created": "2026-01-23 16:26",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651013577&idx=1&sn=36d7bce9f141ffe8af118b85aba6af22",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "0f33491582c9d070952955b9583c9b39b2d05425",
-      "title": "陈天奇、贾扬清点赞：Vibe Coding版PyTorch，连论文都是AI写的",
-      "created": "2026-01-23 16:26",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651013577&idx=2&sn=ad8c898ae7d25d5e14954b715b84e359",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "af30eb22050a5ae9e6d7140e0a80c8165cd88ad8",
-      "title": "思维链太长拖慢推理？把它「画」进隐空间！新框架RoT探索大模型隐空间推理新范式",
-      "created": "2026-01-23 16:26",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651013577&idx=3&sn=459627c1bb1b4d62be375c5ed2f491a8",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "ce519d2ce9630d4ed1d61b1a1c8086b6b5a2a2df",
-      "title": "幻觉率不到3%，王小川把医生版的DeepSeek免费了",
-      "created": "2026-01-22 18:58",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651013413&idx=1&sn=a303757ecf3c3161ed1299dca77cb027",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "71e0198d23b7564c086954dab4429a886a76699e",
-      "title": "清华姚班校友刘壮团队再发力，无需归一化的Transformer性能进化",
-      "created": "2026-01-22 18:58",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651013413&idx=2&sn=c4dcd2a7132d19a5444dcc1caa89b87b",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "a43b74e6552276480f51d207db60a038c14810ac",
-      "title": "苹果入局AI Pin，或对标OpenAI，能否打破「电子垃圾」魔咒？",
-      "created": "2026-01-22 18:58",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651013413&idx=3&sn=a5f6a25705654aa0b906f077c4631a32",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
