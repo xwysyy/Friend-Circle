@@ -4,7 +4,7 @@
     "active_num": 30,
     "error_num": 1,
     "article_num": 335,
-    "last_updated_time": "2026-01-23 14:28:51"
+    "last_updated_time": "2026-01-23 16:24:17"
   },
   "article_data": [
     {
@@ -15,6 +15,15 @@
       "author": "阮一峰",
       "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
       "category": "friend"
+    },
+    {
+      "id": "f2164455a3124ebdba4549bf0166f632d2f83f5a",
+      "title": "别把整个 GitHub 装进 Skills，Skills 的正确用法",
+      "created": "2026-01-23 08:00",
+      "link": "https://baoyu.io/blog/2026/01/22/skills-usage-principles",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
     },
     {
       "id": "476145c6233b5bcd7cc790aae6aa8d99e3fc2e52",
@@ -437,15 +446,6 @@
       "link": "https://ifuryst.github.io/blog/2025/ce101-6-agent/",
       "author": "ifuryst",
       "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
-      "category": "ai"
-    },
-    {
-      "id": "dde429b2109ae0e519008a7fffe043bd35ec97e4",
-      "title": "从第一性原理深度拆解 Claude Agent Skill",
-      "created": "2025-11-26 01:25",
-      "link": "https://baoyu.io/translations/claude-skills-deep-dive",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {

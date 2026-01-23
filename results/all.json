@@ -4,7 +4,7 @@
     "active_num": 30,
     "error_num": 1,
     "article_num": 455,
-    "last_updated_time": "2026-01-23 14:28:42"
+    "last_updated_time": "2026-01-23 16:24:08"
   },
   "article_data": [
     {
@@ -15,6 +15,15 @@
       "author": "阮一峰",
       "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
       "category": "friend"
+    },
+    {
+      "id": "f2164455a3124ebdba4549bf0166f632d2f83f5a",
+      "title": "别把整个 GitHub 装进 Skills，Skills 的正确用法",
+      "created": "2026-01-23 08:00",
+      "link": "https://baoyu.io/blog/2026/01/22/skills-usage-principles",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
     },
     {
       "id": "476145c6233b5bcd7cc790aae6aa8d99e3fc2e52",
@@ -912,15 +921,6 @@
       "title": "AI 时代的代码审核：写两遍，反而更快",
       "created": "2026-01-04 05:24",
       "link": "https://baoyu.io/blog/ai-era-code-review-write-twice-faster",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e1904a37d224ad09d02d0054638f58c5f2524745",
-      "title": "Code Review in the AI Era: Why Writing It Twice Is Actually Faster",
-      "created": "2026-01-04 02:13",
-      "link": "https://baoyu.io/blog/code-review-ai-era-writing-twice-faster",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
