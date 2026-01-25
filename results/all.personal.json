@@ -3,10 +3,19 @@
     "friends_num": 31,
     "active_num": 30,
     "error_num": 1,
-    "article_num": 325,
-    "last_updated_time": "2026-01-25 06:16:08"
+    "article_num": 327,
+    "last_updated_time": "2026-01-25 09:27:51"
   },
   "article_data": [
+    {
+      "id": "ba1bea14fbdf7603d445deffbc81a51a13c5d65c",
+      "title": "Don't \"Trust the Process\"",
+      "created": "2026-01-25 07:31",
+      "link": "https://simonwillison.net/2026/Jan/24/dont-trust-the-process/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "fca1e6f078d06d52b3f82853309f0c6f2b2162f7",
       "title": "Quoting Jasmine Sun",
@@ -23,6 +32,15 @@
       "link": "https://sebastianraschka.com/blog/2026/categories-of-inference-time-scaling.html",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8f9f3a4d5f35f95c27a37f45cbd2061c583bb3e3",
+      "title": "Skill 不就是长一点的提示词吗？",
+      "created": "2026-01-24 08:00",
+      "link": "https://baoyu.io/blog/2026/01/24/skill-vs-prompt",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -107,10 +125,10 @@
       "category": "ai"
     },
     {
-      "id": "5bae998d1bb4ef1a29a462ec818d1cc3e6a7c4e7",
+      "id": "5eed861a02b995c31f85c9b18b6b403c3a837c21",
       "title": "The State Of LLMs 2025: Progress, Problems, and Predictions",
       "created": "2025-12-30 16:15",
-      "link": "https://sebastianraschka.com/blog/2025/state-of-llms-2025-copy.html",
+      "link": "https://sebastianraschka.com/blog/2025/state-of-llms-2025.html",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
