@@ -4,9 +4,36 @@
     "active_num": 30,
     "error_num": 1,
     "article_num": 451,
-    "last_updated_time": "2026-01-26 16:26:52"
+    "last_updated_time": "2026-01-26 18:21:53"
   },
   "article_data": [
+    {
+      "id": "6a33e8ff0796ba41fdc718281531877890b662d3",
+      "title": "5000万用户、5000万美金ARR，全球第一AI创作消费平台要做AI时代Roblox",
+      "created": "2026-01-26 12:05",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651013759&idx=1&sn=80a362939546400770b4400b4cbead45",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "4fe75a3ea6011bcd75844f7edd347b73cd25297d",
+      "title": "DeepSeek-R1推理智能从哪儿来？谷歌新研究：模型内心多个角色吵翻了",
+      "created": "2026-01-26 12:05",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651013759&idx=2&sn=2f59c359cea3774e68868f1b2f85a895",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "f8895a1a9836ebe96d422781a338a6bb27f06192",
+      "title": "关于多模态大模型Token压缩技术进展，看这一篇就够了",
+      "created": "2026-01-26 12:05",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651013759&idx=3&sn=b830dd2cadea00b2fd3f5ea8dc24b1d3",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "e91abc5abaae4e98b188329541fdfd81fedb9e21",
       "title": "DeltaNet的核心逆矩阵的元素总是在[-1, 1]内",
@@ -14,6 +41,15 @@
       "link": "https://kexue.fm/archives/11563",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "id": "9ca2fa0270f940ec652b1d8bb7d440d6c8cb2fd2",
+      "title": "You have to know how to drive the car",
+      "created": "2026-01-26 08:00",
+      "link": "https://seangoedecke.com/knowing-how-to-drive-the-car/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -206,24 +242,6 @@
       "category": "ai"
     },
     {
-      "id": "0f33491582c9d070952955b9583c9b39b2d05425",
-      "title": "陈天奇、贾扬清点赞：Vibe Coding版PyTorch，连论文都是AI写的",
-      "created": "2026-01-23 16:26",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651013577&idx=2&sn=ad8c898ae7d25d5e14954b715b84e359",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "af30eb22050a5ae9e6d7140e0a80c8165cd88ad8",
-      "title": "思维链太长拖慢推理？把它「画」进隐空间！新框架RoT探索大模型隐空间推理新范式",
-      "created": "2026-01-23 16:26",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651013577&idx=3&sn=459627c1bb1b4d62be375c5ed2f491a8",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "c3e2c0acc73fbf970f48138ae811ae91b6d2f732",
       "title": "科技爱好者周刊（第 382 期）：独立软件的黄昏",
       "created": "2026-01-23 08:13",
@@ -285,15 +303,6 @@
       "author": "阮一峰",
       "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
       "category": "friend"
-    },
-    {
-      "id": "ce519d2ce9630d4ed1d61b1a1c8086b6b5a2a2df",
-      "title": "幻觉率不到3%，王小川把医生版的DeepSeek免费了",
-      "created": "2026-01-22 18:58",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651013413&idx=1&sn=a303757ecf3c3161ed1299dca77cb027",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
     },
     {
       "id": "e7f84eb1ab3ae4490bed870e08305edcae53f839",
@@ -2328,15 +2337,6 @@
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
-    },
-    {
-      "id": "d42a30efcad3f1208191eda867a5d22844c45ccd",
-      "title": "Should LLMs just treat text content as an image?",
-      "created": "2025-10-21 08:00",
-      "link": "https://seangoedecke.com/text-tokens-as-image-tokens/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
     },
     {
       "id": "3e7d61e8d44a894fb08834bb11793c6a54dbe961",
