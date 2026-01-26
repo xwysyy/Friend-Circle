@@ -3,10 +3,19 @@
     "friends_num": 31,
     "active_num": 30,
     "error_num": 1,
-    "article_num": 453,
-    "last_updated_time": "2026-01-26 09:26:15"
+    "article_num": 451,
+    "last_updated_time": "2026-01-26 11:53:03"
   },
   "article_data": [
+    {
+      "id": "e91abc5abaae4e98b188329541fdfd81fedb9e21",
+      "title": "DeltaNet的核心逆矩阵的元素总是在[-1, 1]内",
+      "created": "2026-01-26 10:47",
+      "link": "https://kexue.fm/archives/11563",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
     {
       "id": "abf909c856ce0885020dc45b4a60f19c36472d5f",
       "title": "肖恩技术周刊（第 80 期）：AI编程的9条心得",
@@ -59,6 +68,15 @@
       "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651013663&idx=3&sn=b0c8a1df535406417e9ff0696060ffa4",
       "author": "机器之心",
       "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "81db7b1216dcd512989bf884c9814d52179171be",
+      "title": "Skills 不就是脚本套个壳吗？我十几年前就玩 AutoIt 了",
+      "created": "2026-01-25 08:00",
+      "link": "https://baoyu.io/blog/2026/01/25/script-vs-agent-skills",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -941,15 +959,6 @@
       "link": "https://kirigaya.cn/blog/article?seq=364",
       "author": "锦恢",
       "avatar": "https://kirigaya.cn/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "248babae112e699cf639c96667a8cf01ba23b575",
-      "title": "Google 团队一年都没做出来的项目 Claude Code 一小时就把代码写出来了",
-      "created": "2026-01-05 09:07",
-      "link": "https://baoyu.io/blog/claude-code-beats-google-team-on-year-long-project-in-hour",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -1878,15 +1887,6 @@
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
-    },
-    {
-      "id": "2c1dd79744f8fa24c786d378ae103bbbd058bfd5",
-      "title": "Muon优化器指南：快速上手与关键细节",
-      "created": "2025-11-19 23:08",
-      "link": "https://kexue.fm/archives/11416",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
     },
     {
       "id": "d51c9bf35b7b1f02caf752cbfa849cb410d22d1d",
@@ -3707,28 +3707,19 @@
       "category": "ai"
     },
     {
+      "id": "a0da4093e2ad1afad9f49efc7d9f871c9bcbd5ec",
+      "title": "OpenBMB/UltraRAG",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/OpenBMB/UltraRAG",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
       "title": "obra/superpowers",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/obra/superpowers",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "753a8c748326b1c1ab54de16087d3a371a63331c",
-      "title": "tobi/try",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/tobi/try",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "2732fee73e8306fda2c433ff02be970b033c06b7",
-      "title": "VectifyAI/PageIndex",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/VectifyAI/PageIndex",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -3743,19 +3734,10 @@
       "category": "ai"
     },
     {
-      "id": "3aaddaf2659e5139f47e4313037c180ff628c906",
-      "title": "microsoft/agent-lightning",
+      "id": "2732fee73e8306fda2c433ff02be970b033c06b7",
+      "title": "VectifyAI/PageIndex",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/microsoft/agent-lightning",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "b3f0f3bd7c26888df1a3c31f9930966329d839c6",
-      "title": "eigent-ai/eigent",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/eigent-ai/eigent",
+      "link": "https://github.com/VectifyAI/PageIndex",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
