@@ -3,8 +3,8 @@
     "friends_num": 31,
     "active_num": 30,
     "error_num": 1,
-    "article_num": 334,
-    "last_updated_time": "2026-01-30 14:42:23"
+    "article_num": 336,
+    "last_updated_time": "2026-01-30 16:32:31"
   },
   "article_data": [
     {
@@ -50,6 +50,33 @@
       "link": "https://blog.bytebytego.com/p/how-to-scale-an-api",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "id": "10ccde6bbf959c0f7aa1e9039305e9dc37d1df45",
+      "title": "刚刚，创智+模思发布开源版Sora2，电影级音视频同步生成，打破闭源技术垄断",
+      "created": "2026-01-29 18:23",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651014530&idx=1&sn=94aebcfcc33df15c5b59cde3d4d356cb",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b380e3485af0f025fcd48e367e60e218e599a9e4",
+      "title": "昆仑万维开源的SkyReels-V3，把马斯克请来带货了",
+      "created": "2026-01-29 18:23",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651014530&idx=2&sn=e41e629d37bbdff212ad9350518effd6",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "a45c62c9f817cc0ee41de172a316621b2e4154f4",
+      "title": "Karpathy盛赞，啥都没有的创业公司刚融了1.8亿美元，要用小数据造强智能",
+      "created": "2026-01-29 18:23",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651014530&idx=3&sn=9e793235c5cd9009f3c09bf7479a2586",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -102,15 +129,6 @@
       "title": "大模型哪里出问题、怎么修，这篇可解释性综述一次讲清",
       "created": "2026-01-27 12:00",
       "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651013833&idx=3&sn=c7c62fbe7666c0ffccaa99b4479f38ec",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "f8895a1a9836ebe96d422781a338a6bb27f06192",
-      "title": "关于多模态大模型Token压缩技术进展，看这一篇就够了",
-      "created": "2026-01-26 12:05",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651013759&idx=3&sn=b830dd2cadea00b2fd3f5ea8dc24b1d3",
       "author": "机器之心",
       "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
