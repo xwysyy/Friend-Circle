@@ -3,10 +3,28 @@
     "friends_num": 31,
     "active_num": 30,
     "error_num": 1,
-    "article_num": 332,
-    "last_updated_time": "2026-01-30 09:42:38"
+    "article_num": 334,
+    "last_updated_time": "2026-01-30 12:05:27"
   },
   "article_data": [
+    {
+      "id": "648d488ad76e286707d621e9d5ae8a52166a7894",
+      "title": "We gotta talk about AI as a programming tool for the arts",
+      "created": "2026-01-30 11:51",
+      "link": "https://simonwillison.net/2026/Jan/30/a-programming-tool-for-the-arts/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "7f1b6111c25b4108dd7662c67af6da7c95bb1407",
+      "title": "科技爱好者周刊（第 383 期）：你是第几级 AI 编程",
+      "created": "2026-01-30 08:10",
+      "link": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html",
+      "author": "阮一峰",
+      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
+      "category": "friend"
+    },
     {
       "id": "a4308a4c4810fb1815567b0ecb0f8b36f93c0c3e",
       "title": "Datasette 1.0a24",
@@ -2591,19 +2609,28 @@
       "category": "ai"
     },
     {
-      "id": "a0da4093e2ad1afad9f49efc7d9f871c9bcbd5ec",
-      "title": "OpenBMB/UltraRAG",
+      "id": "2732fee73e8306fda2c433ff02be970b033c06b7",
+      "title": "VectifyAI/PageIndex",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/OpenBMB/UltraRAG",
+      "link": "https://github.com/VectifyAI/PageIndex",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "93a5997275ed90e01af66f89a4c8bb21f690bea2",
-      "title": "hellodigua/ChatLab",
+      "id": "5c5ffe1f0934f0f9a47d3e93d1d635bac2fd40c2",
+      "title": "moltbot/moltbot",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/hellodigua/ChatLab",
+      "link": "https://github.com/moltbot/moltbot",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "10ba719313a0c83566e4fb1db426c34c44e8815e",
+      "title": "anthropics/skills",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/anthropics/skills",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2618,19 +2645,10 @@
       "category": "ai"
     },
     {
-      "id": "2732fee73e8306fda2c433ff02be970b033c06b7",
-      "title": "VectifyAI/PageIndex",
+      "id": "1bc8447d8b14b500cd4af28699d3789e4a97b5bf",
+      "title": "modelcontextprotocol/ext-apps",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/VectifyAI/PageIndex",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "bbbd179f8447ca121ca34360018c0679dfc4e9f2",
-      "title": "deepseek-ai/FlashMLA",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/deepseek-ai/FlashMLA",
+      "link": "https://github.com/modelcontextprotocol/ext-apps",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2645,15 +2663,6 @@
       "category": "ai"
     },
     {
-      "id": "becb0ab070527fe83c35084ef9a33bf620f5dd00",
-      "title": "block/goose",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/block/goose",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "465423fa5d11c7b41274397be2166f995faa2317",
       "title": "remotion-dev/remotion",
       "created": "2024-01-01 00:00",
@@ -2663,10 +2672,19 @@
       "category": "ai"
     },
     {
-      "id": "5c5ffe1f0934f0f9a47d3e93d1d635bac2fd40c2",
-      "title": "moltbot/moltbot",
+      "id": "a699cca176201a64275ed75c357bbe7dd30706b5",
+      "title": "asgeirtj/system_prompts_leaks",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/moltbot/moltbot",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "a0da4093e2ad1afad9f49efc7d9f871c9bcbd5ec",
+      "title": "OpenBMB/UltraRAG",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/OpenBMB/UltraRAG",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
