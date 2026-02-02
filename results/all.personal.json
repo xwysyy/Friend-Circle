@@ -4,7 +4,7 @@
     "active_num": 30,
     "error_num": 1,
     "article_num": 334,
-    "last_updated_time": "2026-02-02 20:50:41"
+    "last_updated_time": "2026-02-02 22:38:42"
   },
   "article_data": [
     {
@@ -35,12 +35,30 @@
       "category": "ai"
     },
     {
+      "id": "ff8b84bf0e72796dee17a949d3614ef4d0b72946",
+      "title": "Getting Started with Gemini Deep Research API",
+      "created": "2026-02-02 08:00",
+      "link": "https://www.philschmid.de/gemini-deep-research-getting-started",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "cdc0ee9b37ed3ffd304f04397a920a93ba88469d",
       "title": "TIL: Running OpenClaw in Docker",
       "created": "2026-02-02 07:59",
       "link": "https://simonwillison.net/2026/Feb/1/openclaw-in-docker/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "354aa5634d164973b9beee4a0238fc1569da4e8a",
+      "title": "The Agent Client Protocol Overview",
+      "created": "2026-02-01 08:00",
+      "link": "https://www.philschmid.de/acp-overview",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -2078,15 +2096,6 @@
       "category": "friend"
     },
     {
-      "id": "c2402852adf501654540e69510f23bcd532701fa",
-      "title": "OpenAI Codex CLI, how does it work?",
-      "created": "2025-04-17 08:00",
-      "link": "https://www.philschmid.de/openai-codex-cli",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "2972382a12e1b9b644ea4406d0b156cc2b77ea47",
       "title": "Critical Company Size",
       "created": "2025-04-13 07:39",
@@ -2111,15 +2120,6 @@
       "link": "https://www.less-bug.com/posts/learn-scala-in-one-day/",
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
-      "title": "Model Context Protocol (MCP) an overview",
-      "created": "2025-04-03 08:00",
-      "link": "https://www.philschmid.de/mcp-introduction",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
