@@ -3,89 +3,26 @@
     "friends_num": 31,
     "active_num": 30,
     "error_num": 1,
-    "article_num": 336,
-    "last_updated_time": "2026-02-03 02:38:08"
+    "article_num": 329,
+    "last_updated_time": "2026-02-03 09:48:32"
   },
   "article_data": [
     {
-      "id": "2d24249fc7ea4f27ef4f3d2ea2d20e0542f865e0",
-      "title": "A Social Network for A.I. Bots Only. No Humans Allowed.",
-      "created": "2026-02-03 00:42",
-      "link": "https://simonwillison.net/2026/Feb/2/no-humans-allowed/#atom-everything",
+      "id": "766bb1e2cea80b20c09d3b9e59a12509968c0ac1",
+      "title": "论文速读记录 | 2026.02 - MoonOut",
+      "created": "2026-02-03 08:50",
+      "link": "https://www.cnblogs.com/moonout/p/19567260",
+      "author": "Moon out",
+      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "6a4fe330309c5a22c18285ebbd744c03a2095757",
+      "title": "Introducing the Codex app",
+      "created": "2026-02-03 03:54",
+      "link": "https://simonwillison.net/2026/Feb/2/introducing-the-codex-app/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "42419436670366a6e4bd028e580257d54abe3eaa",
-      "title": "How Transformers Architecture Powers Modern LLMs",
-      "created": "2026-02-03 00:31",
-      "link": "https://blog.bytebytego.com/p/how-transformers-architecture-powers",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "91e899ab1f00f5536378b5e679204f775b081023",
-      "title": "18个月，中国Token消耗狂飙300倍！别乱烧钱了，清华系AI Infra帮你腰斩API成本",
-      "created": "2026-02-02 14:12",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651014886&idx=1&sn=096a9e29f196f9c11e1a2c794e613e9f",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "5c376268fdb90aee09c9a72dbeef11d8d8c218b2",
-      "title": "中途退学的艺术生，开发Web 3D项目，周下载量破400万",
-      "created": "2026-02-02 14:12",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651014886&idx=2&sn=c99e81a11cbe856c2e2a248974ecbd01",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "c5b16f11da5d0ac1922636d2749d3c19c3523828",
-      "title": "像开发软件一样造世界，Agent2World来了，把世界模型做成可运行的符号环境",
-      "created": "2026-02-02 14:12",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651014886&idx=3&sn=7764ffa49fe7e084acd3a3b29f273b87",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "ff8b84bf0e72796dee17a949d3614ef4d0b72946",
-      "title": "Getting Started with Gemini Deep Research API",
-      "created": "2026-02-02 08:00",
-      "link": "https://www.philschmid.de/gemini-deep-research-getting-started",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "cdc0ee9b37ed3ffd304f04397a920a93ba88469d",
-      "title": "TIL: Running OpenClaw in Docker",
-      "created": "2026-02-02 07:59",
-      "link": "https://simonwillison.net/2026/Feb/1/openclaw-in-docker/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "354aa5634d164973b9beee4a0238fc1569da4e8a",
-      "title": "The Agent Client Protocol Overview",
-      "created": "2026-02-01 08:00",
-      "link": "https://www.philschmid.de/acp-overview",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "dedffadd2428473b6bc9799c006c2965ebf84753",
-      "title": "How I Used Codex to \\\"Recover\\\" Lost Source Code in 5 Days",
-      "created": "2026-02-01 08:00",
-      "link": "https://baoyu.io/blog/2026/01/31/codex-recover-source-code",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -93,15 +30,6 @@
       "title": "栏目对话和访谈：Sebastian Raschka 和 Nathan Lambert 在 Lex Fridman 播客深度解读 AI 现状：中美竞争、模型对比、规模定律、AGI 时间线。",
       "created": "2026-02-01 08:00",
       "link": "https://baoyu.io/blog/state-of-ai-in-2026-lex-fridman-podcast",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "937a4004cd3f4dabb06949132feaec6e9190f5e4",
-      "title": "【栏目对话和访谈】ClawdBot 创始人 Peter：AI 是杠杆，不是替代品；编程语言不重要了，重要的是我的工程思维",
-      "created": "2026-02-01 08:00",
-      "link": "https://baoyu.io/blog/2026/02/01/peter-steinberger-interview",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
@@ -449,21 +377,21 @@
       "category": "ai"
     },
     {
-      "id": "dd39d51c442a270b26a07ae2e8444b8721369506",
-      "title": "LeoTalk AI周知 11: VLA到世界模型",
-      "created": "2025-12-01 08:00",
-      "link": "https://ifuryst.github.io/blog/2025/leotalk-ai-weekly-11-vla-to-world-model/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
-      "category": "ai"
-    },
-    {
       "id": "8067bdad1fa389ea816b053c2cc94eb8a2f14175",
       "title": "肖恩技术周刊（第 72 期）：有趣的C语言谜题",
       "created": "2025-12-01 08:00",
       "link": "https://weekly.shawnxie.top/content/2025/72.html",
       "author": "肖恩技术周刊",
       "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "category": "ai"
+    },
+    {
+      "id": "dd39d51c442a270b26a07ae2e8444b8721369506",
+      "title": "LeoTalk AI周知 11: VLA到世界模型",
+      "created": "2025-12-01 08:00",
+      "link": "https://ifuryst.github.io/blog/2025/leotalk-ai-weekly-11-vla-to-world-model/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -1169,15 +1097,6 @@
       "category": "ai"
     },
     {
-      "id": "2f00e8986e4cc85fcc3b7cdff366ffab7bec43ed",
-      "title": "RL | 速读 IJCAI 2025 的强化学习论文 - MoonOut",
-      "created": "2025-10-08 20:53",
-      "link": "https://www.cnblogs.com/moonout/p/19125375",
-      "author": "Moon out",
-      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
       "id": "1c9e4a3a2fc36cdaae750ad0db973881f0e8e285",
       "title": "使用TinyAuth实现任意应用登录认证",
       "created": "2025-10-07 16:20",
@@ -1340,21 +1259,21 @@
       "category": "friend"
     },
     {
-      "id": "8dc5e367b15cdedd43ba4455ab928d34de7df5e6",
-      "title": "The Rise of Subagents",
-      "created": "2025-09-15 08:00",
-      "link": "https://www.philschmid.de/the-rise-of-subagents",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "de58d5b4dddf441d83b23fdf9f9404ecd6af9ef0",
       "title": "肖恩技术周刊（第 62 期）：不纯粹工程",
       "created": "2025-09-15 08:00",
       "link": "https://weekly.shawnxie.top/content/2025/62.html",
       "author": "肖恩技术周刊",
       "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "category": "ai"
+    },
+    {
+      "id": "8dc5e367b15cdedd43ba4455ab928d34de7df5e6",
+      "title": "The Rise of Subagents",
+      "created": "2025-09-15 08:00",
+      "link": "https://www.philschmid.de/the-rise-of-subagents",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1619,21 +1538,21 @@
       "category": "ai"
     },
     {
-      "id": "7944eaf2f6e3ff99d4981e9647123013a9b43db1",
-      "title": "Memory in Agents, Make LLMs remember.",
-      "created": "2025-08-04 08:00",
-      "link": "https://www.philschmid.de/memory-in-agents",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "02f60cfcb20531d7f7000d2c3f3f4e6dad67323c",
       "title": "肖恩技术周刊（第 56 期）：坎宁安定律",
       "created": "2025-08-04 08:00",
       "link": "https://weekly.shawnxie.top/content/2025/56.html",
       "author": "肖恩技术周刊",
       "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "category": "ai"
+    },
+    {
+      "id": "7944eaf2f6e3ff99d4981e9647123013a9b43db1",
+      "title": "Memory in Agents, Make LLMs remember.",
+      "created": "2025-08-04 08:00",
+      "link": "https://www.philschmid.de/memory-in-agents",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -2114,6 +2033,15 @@
       "category": "friend"
     },
     {
+      "id": "c2402852adf501654540e69510f23bcd532701fa",
+      "title": "OpenAI Codex CLI, how does it work?",
+      "created": "2025-04-17 08:00",
+      "link": "https://www.philschmid.de/openai-codex-cli",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "2972382a12e1b9b644ea4406d0b156cc2b77ea47",
       "title": "Critical Company Size",
       "created": "2025-04-13 07:39",
@@ -2138,6 +2066,15 @@
       "link": "https://www.less-bug.com/posts/learn-scala-in-one-day/",
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
+      "title": "Model Context Protocol (MCP) an overview",
+      "created": "2025-04-03 08:00",
+      "link": "https://www.philschmid.de/mcp-introduction",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
