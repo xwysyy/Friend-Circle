@@ -4,7 +4,7 @@
     "active_num": 30,
     "error_num": 1,
     "article_num": 459,
-    "last_updated_time": "2026-02-03 18:35:01"
+    "last_updated_time": "2026-02-03 20:50:28"
   },
   "article_data": [
     {
@@ -59,6 +59,15 @@
       "link": "https://blog.bytebytego.com/p/how-transformers-architecture-powers",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "id": "167e2b02eb6f9d9dcab67481ce06d8f58cfe99ae",
+      "title": "Moltbook as MCP Stress Test: What 770K Agents Reveal About Protocol Design",
+      "created": "2026-02-02 18:00",
+      "link": "https://subhadipmitra.com/blog/2026/moltbook-mcp-stress-test/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
       "category": "ai"
     },
     {
@@ -185,6 +194,15 @@
       "link": "https://blog.bytebytego.com/p/ep200-http2-over-tcp-vs-http3-over",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "id": "8446110078fe01a76338bc9652fb6ac6d91600db",
+      "title": "Circuit Tracing for the Rest of Us: From Probes to Attribution Graphs and What It Means for Production Safety",
+      "created": "2026-01-31 18:00",
+      "link": "https://subhadipmitra.com/blog/2026/circuit-tracing-production/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
       "category": "ai"
     },
     {
@@ -746,6 +764,15 @@
       "category": "ai"
     },
     {
+      "id": "58140f5c3899c00352ee9990d579e3ff46e1f593",
+      "title": "RLVR Beyond Math and Code: The Verifier Problem Nobody Has Solved",
+      "created": "2026-01-18 18:00",
+      "link": "https://subhadipmitra.com/blog/2026/rlvr-beyond-math-code/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "category": "ai"
+    },
+    {
       "id": "81966ededbf7972a5571f959a97c9f989abd923f",
       "title": "Skills 究竟是短期红利还是长期壁垒？",
       "created": "2026-01-18 16:56",
@@ -1076,6 +1103,15 @@
       "link": "https://www.cnblogs.com/moonout/p/19449723",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "e7d171052dd6d5165b1ad51486775f6b64a88e53",
+      "title": "The Agent Protocol Stack: Why MCP + A2A + A2UI Is the TCP/IP Moment for Agentic AI",
+      "created": "2026-01-06 18:00",
+      "link": "https://subhadipmitra.com/blog/2026/agent-protocol-stack/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
       "category": "ai"
     },
     {
@@ -3284,15 +3320,6 @@
       "category": "ai"
     },
     {
-      "id": "ead377b71e97179b7448b93bc030186586aea7e4",
-      "title": "Making LLMs Faster: My Deep Dive into Speculative Decoding",
-      "created": "2025-03-20 09:02",
-      "link": "https://subhadipmitra.com/blog/2025/making-llm-faster/",
-      "author": "Subhadip Mitra",
-      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
-      "category": "ai"
-    },
-    {
       "id": "f20277d6a3fb4bc9084739644df0af1726d6de33",
       "title": "Orthogonal Linear Layers",
       "created": "2025-03-12 07:39",
@@ -3410,24 +3437,6 @@
       "category": "ai"
     },
     {
-      "id": "6662d38ebad15d1b1d23d426223bf1617f5431a5",
-      "title": "Engineering Autonomous Multi-Agent Systems - A Technical Deep Dive into Telecom Customer Service",
-      "created": "2025-01-05 19:23",
-      "link": "https://subhadipmitra.com/blog/2025/telecom-autonomous-multi-agent-genai-system/",
-      "author": "Subhadip Mitra",
-      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
-      "category": "ai"
-    },
-    {
-      "id": "d39cff32ec038f134d2f822f471fff47c28cc4d8",
-      "title": "Why I Built a Modern Java SMPP Library in 2025",
-      "created": "2025-01-03 18:00",
-      "link": "https://subhadipmitra.com/blog/2025/why-i-built-modern-java-smpp-library/",
-      "author": "Subhadip Mitra",
-      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
-      "category": "ai"
-    },
-    {
       "id": "0d274d809f52b113660250a4fd3897f08a12e7f2",
       "title": "toml：迄今最适合 Python 项目的配置语言",
       "created": "2024-12-30 08:00",
@@ -3435,15 +3444,6 @@
       "author": "huccihuang",
       "avatar": "https://avatars.githubusercontent.com/u/37830922?s=400&u=e1064ca880baded1c670372f9fa0a1b0cffac885&v=4",
       "category": "lang"
-    },
-    {
-      "id": "691e8271d01f72b3dd6d5dfce5e4f058157cc901",
-      "title": "Engineering Multi-Agent Systems - A Retail Banking Case Study",
-      "created": "2024-12-28 20:15",
-      "link": "https://subhadipmitra.com/blog/2024/retail-bank-multi-agent-system/",
-      "author": "Subhadip Mitra",
-      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
-      "category": "ai"
     },
     {
       "id": "584a6252fd655ed74f7478e84341c7b3ad2d8315",
