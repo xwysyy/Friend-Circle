@@ -3,10 +3,19 @@
     "friends_num": 31,
     "active_num": 30,
     "error_num": 1,
-    "article_num": 460,
-    "last_updated_time": "2026-02-03 09:48:23"
+    "article_num": 459,
+    "last_updated_time": "2026-02-03 12:11:26"
   },
   "article_data": [
+    {
+      "id": "b8525579c92651229d324c28f952e830badb6ad5",
+      "title": "Quoting Brandon Sanderson",
+      "created": "2026-02-03 10:31",
+      "link": "https://simonwillison.net/2026/Feb/3/brandon-sanderson/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "766bb1e2cea80b20c09d3b9e59a12509968c0ac1",
       "title": "论文速读记录 | 2026.02 - MoonOut",
@@ -545,15 +554,6 @@
       "link": "https://baoyu.io/blog/2026/01/24/skill-vs-prompt",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "29a18338cbabb3706074aac5ef870d2914f9569c",
-      "title": "Wilson Lin on FastRender: a browser built by thousands of parallel agents",
-      "created": "2026-01-24 05:26",
-      "link": "https://simonwillison.net/2026/Jan/23/fastrender/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -3707,10 +3707,10 @@
       "category": "ai"
     },
     {
-      "id": "2732fee73e8306fda2c433ff02be970b033c06b7",
-      "title": "VectifyAI/PageIndex",
+      "id": "a699cca176201a64275ed75c357bbe7dd30706b5",
+      "title": "asgeirtj/system_prompts_leaks",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/VectifyAI/PageIndex",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -3725,6 +3725,15 @@
       "category": "ai"
     },
     {
+      "id": "5d3cad98d5de5cc937305a1b625a5a2bf5d58b36",
+      "title": "Draculabo/AntigravityManager",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/Draculabo/AntigravityManager",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "2fdd7b925789dbe4b55c7b78e31332c0a61d31ee",
       "title": "NevaMind-AI/memU",
       "created": "2024-01-01 00:00",
@@ -3734,37 +3743,19 @@
       "category": "ai"
     },
     {
-      "id": "252d5419a2d5941884c38e7d684cb83c0a762525",
-      "title": "MoonshotAI/kimi-cli",
+      "id": "465423fa5d11c7b41274397be2166f995faa2317",
+      "title": "remotion-dev/remotion",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/MoonshotAI/kimi-cli",
+      "link": "https://github.com/remotion-dev/remotion",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "373b16b29a9b66d2b02e0f3ce112601742284b92",
-      "title": "Blaizzy/mlx-audio",
+      "id": "2732fee73e8306fda2c433ff02be970b033c06b7",
+      "title": "VectifyAI/PageIndex",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Blaizzy/mlx-audio",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "a699cca176201a64275ed75c357bbe7dd30706b5",
-      "title": "asgeirtj/system_prompts_leaks",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/asgeirtj/system_prompts_leaks",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "3f198d7d42818b4b92f85a22f3745f4b4d86591a",
-      "title": "steipete/Peekaboo",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/steipete/Peekaboo",
+      "link": "https://github.com/VectifyAI/PageIndex",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -3788,6 +3779,24 @@
       "category": "ai"
     },
     {
+      "id": "c6fd25b449cf6dbcf09aff410a9af8049200df98",
+      "title": "openclaw/openclaw",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/openclaw/openclaw",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "252d5419a2d5941884c38e7d684cb83c0a762525",
+      "title": "MoonshotAI/kimi-cli",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/MoonshotAI/kimi-cli",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "dc61fcee9612031ee5c46ea3b9cbe31ef7b13067",
       "title": "supermemoryai/supermemory",
       "created": "2024-01-01 00:00",
@@ -3797,28 +3806,10 @@
       "category": "ai"
     },
     {
-      "id": "465423fa5d11c7b41274397be2166f995faa2317",
-      "title": "remotion-dev/remotion",
+      "id": "3f198d7d42818b4b92f85a22f3745f4b4d86591a",
+      "title": "steipete/Peekaboo",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/remotion-dev/remotion",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "5d3cad98d5de5cc937305a1b625a5a2bf5d58b36",
-      "title": "Draculabo/AntigravityManager",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/Draculabo/AntigravityManager",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "c6fd25b449cf6dbcf09aff410a9af8049200df98",
-      "title": "openclaw/openclaw",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/openclaw/openclaw",
+      "link": "https://github.com/steipete/Peekaboo",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
