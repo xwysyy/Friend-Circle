@@ -3,26 +3,17 @@
     "friends_num": 31,
     "active_num": 30,
     "error_num": 1,
-    "article_num": 323,
-    "last_updated_time": "2026-02-05 09:44:36"
+    "article_num": 322,
+    "last_updated_time": "2026-02-05 12:10:42"
   },
   "article_data": [
     {
-      "id": "0cf09ddc1080c436d607c949bde6e1f0d6585752",
-      "title": "Spotlighting The World Factbook as We Bid a Fond Farewell",
-      "created": "2026-02-05 08:23",
-      "link": "https://simonwillison.net/2026/Feb/5/the-world-factbook/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "81c5e419951fe71ebbe01894816b6c89959c4ab7",
-      "title": "Voxtral transcribes at the speed of sound",
-      "created": "2026-02-05 06:42",
-      "link": "https://simonwillison.net/2026/Feb/4/voxtral-2/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "id": "492512db646a82029a0d1c316251f17becd558c6",
+      "title": "平台工程视角下的 AI 应用架构治理",
+      "created": "2026-02-05 11:39",
+      "link": "http://www.phodal.com/blog/platform-engineering-architecture-governance/",
+      "author": "Phodal Huang",
+      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
       "category": "ai"
     },
     {
@@ -1691,15 +1682,6 @@
       "category": "ai"
     },
     {
-      "id": "31fa4e20bc5ec8c57c738dcdfe59a820dd386842",
-      "title": "2025 年 AI 编程趋势：智能体 10 倍生产率放大下的“粪围”蔓延",
-      "created": "2025-07-04 15:40",
-      "link": "http://www.phodal.com/blog/2025-ai4se-coding-trends/",
-      "author": "Phodal Huang",
-      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
-      "category": "ai"
-    },
-    {
       "id": "859d41ddf2d517ea5cf219ba60f6b08e289b7c7c",
       "title": "Integrating Long-Term Memory with Gemini 2.5",
       "created": "2025-07-03 08:00",
@@ -2492,24 +2474,6 @@
       "category": "ai"
     },
     {
-      "id": "a699cca176201a64275ed75c357bbe7dd30706b5",
-      "title": "asgeirtj/system_prompts_leaks",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/asgeirtj/system_prompts_leaks",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "3f198d7d42818b4b92f85a22f3745f4b4d86591a",
-      "title": "steipete/Peekaboo",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/steipete/Peekaboo",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "2ce815b0cce27338af96d4d84fd5022689aa61b1",
       "title": "badlogic/pi-mono",
       "created": "2024-01-01 00:00",
@@ -2528,28 +2492,28 @@
       "category": "ai"
     },
     {
+      "id": "a699cca176201a64275ed75c357bbe7dd30706b5",
+      "title": "asgeirtj/system_prompts_leaks",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "4aff7db928cd1cdc3b593a1bad18e8319ad99c67",
+      "title": "openai/skills",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/openai/skills",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "252d5419a2d5941884c38e7d684cb83c0a762525",
       "title": "MoonshotAI/kimi-cli",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/MoonshotAI/kimi-cli",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "aeb3c7b38ab17ac14ae2f9b3c830a38b08eedc86",
-      "title": "microsoft/BitNet",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/microsoft/BitNet",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "d1b1ace6d7e38749e6c72cadca2f63fae5c3d4ad",
-      "title": "ThePrimeagen/99",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/ThePrimeagen/99",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2564,19 +2528,46 @@
       "category": "ai"
     },
     {
-      "id": "c6fd25b449cf6dbcf09aff410a9af8049200df98",
-      "title": "openclaw/openclaw",
+      "id": "2732fee73e8306fda2c433ff02be970b033c06b7",
+      "title": "VectifyAI/PageIndex",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/openclaw/openclaw",
+      "link": "https://github.com/VectifyAI/PageIndex",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "2732fee73e8306fda2c433ff02be970b033c06b7",
-      "title": "VectifyAI/PageIndex",
+      "id": "d1b1ace6d7e38749e6c72cadca2f63fae5c3d4ad",
+      "title": "ThePrimeagen/99",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/VectifyAI/PageIndex",
+      "link": "https://github.com/ThePrimeagen/99",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "aeb3c7b38ab17ac14ae2f9b3c830a38b08eedc86",
+      "title": "microsoft/BitNet",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/microsoft/BitNet",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "96df786024ffc5d32bb968606782c7afc842e13b",
+      "title": "pedramamini/Maestro",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/pedramamini/Maestro",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "c6fd25b449cf6dbcf09aff410a9af8049200df98",
+      "title": "openclaw/openclaw",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/openclaw/openclaw",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
