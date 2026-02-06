@@ -4,7 +4,7 @@
     "active_num": 29,
     "error_num": 2,
     "article_num": 441,
-    "last_updated_time": "2026-02-06 16:36:12"
+    "last_updated_time": "2026-02-06 18:34:36"
   },
   "article_data": [
     {
@@ -104,6 +104,15 @@
       "link": "https://seangoedecke.com/getting-the-main-thing-right/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2d22e0a925e095d76126eb61999f4506d13baca5",
+      "title": "深度解析：Claude Code /insights 命令的运作机制",
+      "created": "2026-02-05 08:00",
+      "link": "https://baoyu.io/translations/2026/02/05/claude-code-insights-command",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -503,6 +512,15 @@
       "category": "friend"
     },
     {
+      "id": "d08bca586a1a5d8e71838335eadc3d0acbb47ebe",
+      "title": "高峰不常有",
+      "created": "2026-01-29 08:00",
+      "link": "https://ifuryst.github.io/blog/2026/peaks-r-rare/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
       "id": "e35a577bb50e97ff008d5d1341b0cb96bf4c9a8c",
       "title": "当每个人都能指挥一支 AI 大军，什么能力最重要？",
       "created": "2026-01-29 08:00",
@@ -518,15 +536,6 @@
       "link": "https://baoyu.io/translations/2026/01/29/management-ai-superpower",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "d08bca586a1a5d8e71838335eadc3d0acbb47ebe",
-      "title": "高峰不常有",
-      "created": "2026-01-29 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/peaks-r-rare/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -674,21 +683,21 @@
       "category": "ai"
     },
     {
-      "id": "8f9f3a4d5f35f95c27a37f45cbd2061c583bb3e3",
-      "title": "Skill 不就是长一点的提示词吗？",
-      "created": "2026-01-24 08:00",
-      "link": "https://baoyu.io/blog/2026/01/24/skill-vs-prompt",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "dbe222ab7c089b0008e5b1ec505eb15f32ebe2fb",
       "title": "快节奏慢生活",
       "created": "2026-01-24 08:00",
       "link": "https://ifuryst.github.io/blog/2026/fast-pace-slow-life/",
       "author": "ifuryst",
       "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "8f9f3a4d5f35f95c27a37f45cbd2061c583bb3e3",
+      "title": "Skill 不就是长一点的提示词吗？",
+      "created": "2026-01-24 08:00",
+      "link": "https://baoyu.io/blog/2026/01/24/skill-vs-prompt",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -899,21 +908,21 @@
       "category": "ai"
     },
     {
-      "id": "4abb6c750af2a2932d827ea63c9b0a33cd8fbf8b",
-      "title": "“关于 AI Agent，你最想知道的 3 个问题——为什么我说”垂直 Agent“是个伪命题”",
-      "created": "2026-01-18 08:00",
-      "link": "https://baoyu.io/blog/2026/01/18/ai-agent-interview",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "4b3c6e77d84ede778de668b74e0b90a101746ea8",
       "title": "十年",
       "created": "2026-01-18 08:00",
       "link": "https://ifuryst.github.io/blog/2026/10-yrs/",
       "author": "ifuryst",
       "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "4abb6c750af2a2932d827ea63c9b0a33cd8fbf8b",
+      "title": "“关于 AI Agent，你最想知道的 3 个问题——为什么我说”垂直 Agent“是个伪命题”",
+      "created": "2026-01-18 08:00",
+      "link": "https://baoyu.io/blog/2026/01/18/ai-agent-interview",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -1013,15 +1022,6 @@
       "link": "https://www.philschmid.de/building-agents-interactions-api",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "4e84bc2c72df0da743505d81dcb8c88cdb6cd2bc",
-      "title": "Claude Code 的\"懒加载\"更新：AI 终于学会了\"随叫随到",
-      "created": "2026-01-14 08:00",
-      "link": "https://baoyu.io/blog/2026/01/14/claude-code-mcp-tool-search",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
