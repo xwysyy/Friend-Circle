@@ -3,10 +3,28 @@
     "friends_num": 31,
     "active_num": 29,
     "error_num": 2,
-    "article_num": 303,
-    "last_updated_time": "2026-02-07 06:18:24"
+    "article_num": 305,
+    "last_updated_time": "2026-02-07 09:41:18"
   },
   "article_data": [
+    {
+      "id": "a8e19aed5980c5e8dbaf48214a095c94b2b03cfe",
+      "title": "Quoting Tom Dale",
+      "created": "2026-02-07 07:41",
+      "link": "https://simonwillison.net/2026/Feb/6/tom-dale/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "db1ce42a01bc463201abfbad15411819462309a2",
+      "title": "Running Pydantic's Monty Rust sandboxed Python subset in WebAssembly",
+      "created": "2026-02-07 06:31",
+      "link": "https://simonwillison.net/2026/Feb/6/pydantic-monty/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "b16f6babbf841af41131bf2f55cc0c39d0041bae",
       "title": "Adam优化器的最优超参数是β1=β2 ？",

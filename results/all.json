@@ -4,9 +4,27 @@
     "active_num": 29,
     "error_num": 2,
     "article_num": 441,
-    "last_updated_time": "2026-02-07 06:18:16"
+    "last_updated_time": "2026-02-07 09:41:10"
   },
   "article_data": [
+    {
+      "id": "a8e19aed5980c5e8dbaf48214a095c94b2b03cfe",
+      "title": "Quoting Tom Dale",
+      "created": "2026-02-07 07:41",
+      "link": "https://simonwillison.net/2026/Feb/6/tom-dale/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "db1ce42a01bc463201abfbad15411819462309a2",
+      "title": "Running Pydantic's Monty Rust sandboxed Python subset in WebAssembly",
+      "created": "2026-02-07 06:31",
+      "link": "https://simonwillison.net/2026/Feb/6/pydantic-monty/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "a5627e89e13835401c3f11c91f058454af2d2450",
       "title": "An Update on Heroku",
@@ -503,15 +521,6 @@
       "category": "friend"
     },
     {
-      "id": "a4308a4c4810fb1815567b0ecb0f8b36f93c0c3e",
-      "title": "Datasette 1.0a24",
-      "created": "2026-01-30 01:21",
-      "link": "https://simonwillison.net/2026/Jan/29/datasette-10a24/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
       "id": "7750d2dff87d1e6da3aacd2dc027191219fabeaa",
       "title": "How to Scale An API",
       "created": "2026-01-30 00:30",
@@ -554,15 +563,6 @@
       "link": "https://baoyu.io/translations/2026/01/29/management-ai-superpower",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "7e3872bd25362c9220316e59902caad335c9e75c",
-      "title": "Adding dynamic features to an aggressively cached website",
-      "created": "2026-01-29 06:10",
-      "link": "https://simonwillison.net/2026/Jan/28/dynamic-features-static-site/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
