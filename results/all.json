@@ -1,10 +1,10 @@
 {
   "statistical_data": {
-    "friends_num": 31,
-    "active_num": 29,
+    "friends_num": 32,
+    "active_num": 30,
     "error_num": 2,
-    "article_num": 438,
-    "last_updated_time": "2026-02-08 18:21:27"
+    "article_num": 448,
+    "last_updated_time": "2026-02-08 19:07:42"
   },
   "article_data": [
     {
@@ -140,6 +140,15 @@
       "link": "https://blog.bytebytego.com/p/subscriber-exclusive-become-an-ai",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "id": "ef410731c9c6670de65efe90ae641629ba6beaef",
+      "title": "单图≠多图：多图理解时 VLM 为什么更容易“胡说”，以及一个两阶段(Map-Reduce)解法",
+      "created": "2026-02-06 19:38",
+      "link": "https://xnnehang.top/posts/default/vlm_multi_images_inference",
+      "author": "XnneHang's Blog",
+      "avatar": "https://xnnehang.top/favicon.ico",
       "category": "ai"
     },
     {
@@ -644,6 +653,24 @@
       "link": "https://blog.bytebytego.com/p/how-google-manages-trillions-of-authorizations",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "id": "778f53a68816ca116bafcede838a809493dd1d0c",
+      "title": "《放松时光：与你共享 lofi 故事》 给聪音接入 AI Chat",
+      "created": "2026-01-27 18:40",
+      "link": "https://xnnehang.top/posts/default/chill_ai_chat_mod",
+      "author": "XnneHang's Blog",
+      "avatar": "https://xnnehang.top/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "823b008d551cba1c03192f1566a1518b2cd20013",
+      "title": "Learn Alma：Tool Model 和 Chat Model 的分离，以及 Web Fetch 和 Web Search 的编排",
+      "created": "2026-01-27 09:25",
+      "link": "https://xnnehang.top/posts/default/learn_alma_part1",
+      "author": "XnneHang's Blog",
+      "avatar": "https://xnnehang.top/favicon.ico",
       "category": "ai"
     },
     {
@@ -1232,6 +1259,15 @@
       "category": "ai"
     },
     {
+      "id": "9295fd2ad05a244dc100b53d026d6b0b3f3edf7f",
+      "title": "Lost in the middle 后续与 RAG 记忆系统调研",
+      "created": "2026-01-03 10:29",
+      "link": "https://xnnehang.top/posts/default/Lost_in_the_Middle_plus",
+      "author": "XnneHang's Blog",
+      "avatar": "https://xnnehang.top/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "67e902415b23970487e468e4635beb4cdc9aba26",
       "title": "2025 was an excellent year for this blog",
       "created": "2026-01-03 08:00",
@@ -1346,6 +1382,15 @@
       "link": "http://www.phodal.com/blog/node-2025/",
       "author": "Phodal Huang",
       "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "ca9251b71c32c4c637d6f3b89f23bcf1d02767a9",
+      "title": "Termix - 一个很酷而且很方便的 Web-Based ssh 连接工具。",
+      "created": "2025-12-29 16:54",
+      "link": "https://xnnehang.top/posts/default/termix",
+      "author": "XnneHang's Blog",
+      "avatar": "https://xnnehang.top/favicon.ico",
       "category": "ai"
     },
     {
@@ -2024,6 +2069,15 @@
       "category": "ai"
     },
     {
+      "id": "b9601289a415cbc54176c0271bc32af6a76061a5",
+      "title": "我使用过的一些异地连接方式",
+      "created": "2025-11-17 14:59",
+      "link": "https://xnnehang.top/posts/default/remote_connection",
+      "author": "XnneHang's Blog",
+      "avatar": "https://xnnehang.top/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "f51537383f9cd0817d7eebf1a1770e5ac4692349",
       "title": "AutoDev Code Review Agent：应对 10 倍代码量的 Agentic 代码审查",
       "created": "2025-11-17 12:19",
@@ -2330,6 +2384,15 @@
       "category": "ai"
     },
     {
+      "id": "7d8cde93779fbd8b75be0a0706ab0c5b138db740",
+      "title": "Ubunutu-24.04 apt update 时 waiting for headers 0% 的解法",
+      "created": "2025-10-28 14:36",
+      "link": "https://xnnehang.top/posts/debug/waiting_for_headers_0_ubuntu24",
+      "author": "XnneHang's Blog",
+      "avatar": "https://xnnehang.top/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "8b175dfe366875fb5213ed1024e8e7d7fcae60dd",
       "title": "RAG 和 CE 是什么关系？我们真的需要 RAG 吗？",
       "created": "2025-10-28 03:35",
@@ -2348,12 +2411,30 @@
       "category": "friend"
     },
     {
+      "id": "1d749d0d7695c10f182c53220ed6a8aeacb350ac",
+      "title": "需要修复 image url 的博客",
+      "created": "2025-10-27 15:50",
+      "link": "https://xnnehang.top/posts/default/fix_img_url",
+      "author": "XnneHang's Blog",
+      "avatar": "https://xnnehang.top/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "84501c6039d0a23681b266a587c3a415dd068449",
       "title": "肖恩技术周刊（第 67 期）：1024程序员节",
       "created": "2025-10-27 08:00",
       "link": "https://weekly.shawnxie.top/content/2025/67.html",
       "author": "肖恩技术周刊",
       "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "category": "ai"
+    },
+    {
+      "id": "d12429b4f9a8553d225ed54e4c128d743be59425",
+      "title": "Lost in the middle - how it affect LLM agent system",
+      "created": "2025-10-26 19:11",
+      "link": "https://xnnehang.top/posts/explore/lost-in-the-middle",
+      "author": "XnneHang's Blog",
+      "avatar": "https://xnnehang.top/favicon.ico",
       "category": "ai"
     },
     {
@@ -2525,6 +2606,15 @@
       "link": "https://subhadipmitra.com/blog/2025/alignment-faking-ai-pretends-to-change-values/",
       "author": "Subhadip Mitra",
       "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "category": "ai"
+    },
+    {
+      "id": "56312d7f48079d023c5ae8f11ff60d92f43507bf",
+      "title": "记录一次折腾： win10 老主板会因为快速启动而无法正常开机",
+      "created": "2025-10-05 22:45",
+      "link": "https://xnnehang.top/posts/default/win10_installation",
+      "author": "XnneHang's Blog",
+      "avatar": "https://xnnehang.top/favicon.ico",
       "category": "ai"
     },
     {
