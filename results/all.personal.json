@@ -3,10 +3,19 @@
     "friends_num": 32,
     "active_num": 30,
     "error_num": 2,
-    "article_num": 299,
-    "last_updated_time": "2026-02-09 00:25:17"
+    "article_num": 300,
+    "last_updated_time": "2026-02-09 02:30:06"
   },
   "article_data": [
+    {
+      "id": "b74d6dad71e7bb967a5cd50edbfc6deb16b208d8",
+      "title": "Kākāpō mug by Karen James",
+      "created": "2026-02-09 01:25",
+      "link": "https://simonwillison.net/2026/Feb/8/kakapo-mug/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "b16f6babbf841af41131bf2f55cc0c39d0041bae",
       "title": "Adam优化器的最优超参数是β1=β2 ？",
@@ -728,21 +737,21 @@
       "category": "friend"
     },
     {
-      "id": "ba342dd1c24409be79fe833f5ca0285831044882",
-      "title": "Is it worrying that 95% of AI enterprise projects fail?",
-      "created": "2025-11-03 08:00",
-      "link": "https://seangoedecke.com/why-do-ai-enterprise-projects-fail/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "da0ee4267bb75b40d39970749a97fbbe89f3678a",
       "title": "肖恩技术周刊（第 68 期）：苍山洱海",
       "created": "2025-11-03 08:00",
       "link": "https://weekly.shawnxie.top/content/2025/68.html",
       "author": "肖恩技术周刊",
       "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "category": "ai"
+    },
+    {
+      "id": "ba342dd1c24409be79fe833f5ca0285831044882",
+      "title": "Is it worrying that 95% of AI enterprise projects fail?",
+      "created": "2025-11-03 08:00",
+      "link": "https://seangoedecke.com/why-do-ai-enterprise-projects-fail/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
