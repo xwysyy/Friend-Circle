@@ -3,10 +3,37 @@
     "friends_num": 31,
     "active_num": 29,
     "error_num": 2,
-    "article_num": 305,
-    "last_updated_time": "2026-02-08 06:20:49"
+    "article_num": 306,
+    "last_updated_time": "2026-02-08 10:07:44"
   },
   "article_data": [
+    {
+      "id": "afd2ac87ab40343f82b3f71f3b476dd944798136",
+      "title": "Large tech companies don't need heroes",
+      "created": "2026-02-08 08:00",
+      "link": "https://seangoedecke.com/heroism/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "4487dc24a7c0b8b1c5c11d840c86ab1b2ff1e87a",
+      "title": "Vouch",
+      "created": "2026-02-08 07:57",
+      "link": "https://simonwillison.net/2026/Feb/7/vouch/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "2df4d4f84eadac0aa3be3e0ed9a14deec6668d94",
+      "title": "Claude: Speed up responses with fast mode",
+      "created": "2026-02-08 07:10",
+      "link": "https://simonwillison.net/2026/Feb/7/claude-fast-mode/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "7471a5faf00e89db2735bbcbd5b75d0679ce5a12",
       "title": "Quoting David Crawshaw",
@@ -764,21 +791,21 @@
       "category": "friend"
     },
     {
-      "id": "da0ee4267bb75b40d39970749a97fbbe89f3678a",
-      "title": "肖恩技术周刊（第 68 期）：苍山洱海",
-      "created": "2025-11-03 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/68.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "ba342dd1c24409be79fe833f5ca0285831044882",
       "title": "Is it worrying that 95% of AI enterprise projects fail?",
       "created": "2025-11-03 08:00",
       "link": "https://seangoedecke.com/why-do-ai-enterprise-projects-fail/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "da0ee4267bb75b40d39970749a97fbbe89f3678a",
+      "title": "肖恩技术周刊（第 68 期）：苍山洱海",
+      "created": "2025-11-03 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/68.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -1097,21 +1124,21 @@
       "category": "friend"
     },
     {
-      "id": "85f2df675255b6d5ec869f08c62b9ec598494662",
-      "title": "Alignment Faking: When AI Pretends to Change - (Part 3/4)",
-      "created": "2025-10-07 08:00",
-      "link": "https://subhadipmitra.com/blog/2025/alignment-faking-ai-pretends-to-change-values/",
-      "author": "Subhadip Mitra",
-      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
-      "category": "ai"
-    },
-    {
       "id": "9bc2596df06c8c79a5e676b8fdbac757cab5c7d5",
       "title": "GPT-5-Codex is a better AI researcher than me",
       "created": "2025-10-07 08:00",
       "link": "https://seangoedecke.com/ai-research-with-codex/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "85f2df675255b6d5ec869f08c62b9ec598494662",
+      "title": "Alignment Faking: When AI Pretends to Change - (Part 3/4)",
+      "created": "2025-10-07 08:00",
+      "link": "https://subhadipmitra.com/blog/2025/alignment-faking-ai-pretends-to-change-values/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
       "category": "ai"
     },
     {
@@ -1194,15 +1221,6 @@
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
-    },
-    {
-      "id": "872e7d6051680841efb6027c65198f4892c3398e",
-      "title": "AI coding agents rely too much on fallbacks",
-      "created": "2025-09-27 08:00",
-      "link": "https://seangoedecke.com/agents-and-fallbacks/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
     },
     {
       "id": "c5b5bbf71e2d7ef5c78efcee1a461bdd7b597bf9",
@@ -2312,46 +2330,19 @@
       "category": "ai"
     },
     {
+      "id": "4aff7db928cd1cdc3b593a1bad18e8319ad99c67",
+      "title": "openai/skills",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/openai/skills",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "b8da10635efbda0c4c165e7fe1eeef9cfbfe64a1",
       "title": "thedotmack/claude-mem",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/thedotmack/claude-mem",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "d1b1ace6d7e38749e6c72cadca2f63fae5c3d4ad",
-      "title": "ThePrimeagen/99",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/ThePrimeagen/99",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "252d5419a2d5941884c38e7d684cb83c0a762525",
-      "title": "MoonshotAI/kimi-cli",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/MoonshotAI/kimi-cli",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "2ce815b0cce27338af96d4d84fd5022689aa61b1",
-      "title": "badlogic/pi-mono",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/badlogic/pi-mono",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "2732fee73e8306fda2c433ff02be970b033c06b7",
-      "title": "VectifyAI/PageIndex",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/VectifyAI/PageIndex",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2366,19 +2357,19 @@
       "category": "ai"
     },
     {
-      "id": "3aaddaf2659e5139f47e4313037c180ff628c906",
-      "title": "microsoft/agent-lightning",
+      "id": "2ce815b0cce27338af96d4d84fd5022689aa61b1",
+      "title": "badlogic/pi-mono",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/microsoft/agent-lightning",
+      "link": "https://github.com/badlogic/pi-mono",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "4aff7db928cd1cdc3b593a1bad18e8319ad99c67",
-      "title": "openai/skills",
+      "id": "d1b1ace6d7e38749e6c72cadca2f63fae5c3d4ad",
+      "title": "ThePrimeagen/99",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/openai/skills",
+      "link": "https://github.com/ThePrimeagen/99",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2393,19 +2384,19 @@
       "category": "ai"
     },
     {
-      "id": "c6fd25b449cf6dbcf09aff410a9af8049200df98",
-      "title": "openclaw/openclaw",
+      "id": "1347f788933722962c9fb9e55531bcab4d0901e9",
+      "title": "OpenBMB/ChatDev",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/openclaw/openclaw",
+      "link": "https://github.com/OpenBMB/ChatDev",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "2fdd7b925789dbe4b55c7b78e31332c0a61d31ee",
-      "title": "NevaMind-AI/memU",
+      "id": "571de4f65e3420b7b1b1c00e4e993f8fffd6466a",
+      "title": "j178/prek",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/NevaMind-AI/memU",
+      "link": "https://github.com/j178/prek",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2420,10 +2411,28 @@
       "category": "ai"
     },
     {
-      "id": "aeb3c7b38ab17ac14ae2f9b3c830a38b08eedc86",
-      "title": "microsoft/BitNet",
+      "id": "c6fd25b449cf6dbcf09aff410a9af8049200df98",
+      "title": "openclaw/openclaw",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/microsoft/BitNet",
+      "link": "https://github.com/openclaw/openclaw",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "1a01afe6b15e252e51cafbc5b74a8c1016d07957",
+      "title": "KeygraphHQ/shannon",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/KeygraphHQ/shannon",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "2732fee73e8306fda2c433ff02be970b033c06b7",
+      "title": "VectifyAI/PageIndex",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/VectifyAI/PageIndex",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
