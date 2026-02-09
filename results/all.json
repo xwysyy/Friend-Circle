@@ -4,7 +4,7 @@
     "active_num": 32,
     "error_num": 2,
     "article_num": 500,
-    "last_updated_time": "2026-02-09 16:44:39"
+    "last_updated_time": "2026-02-09 18:53:05"
   },
   "article_data": [
     {
@@ -26,12 +26,75 @@
       "category": "ai"
     },
     {
+      "id": "04b9d47dfd4b73dae543b0126bca98522c962511",
+      "title": "童年的滚球兽「走进」现实？华为天才少年创业，全球首个虚实融合的实时交互视频模型来了",
+      "created": "2026-02-09 09:16",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651016172&idx=1&sn=ba86881c1213117489b6b5d8ddfa2778",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "73272117d83b242a7312b705472a199c64c2b174",
+      "title": "英伟达世界模型再进化，一个模型驱动所有机器人！机器人的GPT时刻真正到来",
+      "created": "2026-02-09 09:16",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651016172&idx=2&sn=faf9feb8f73897e4396039ad1f21bde3",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "0d3393de2876ac1714b6aa09d888f201b30a26fe",
+      "title": "先解行为，再训Agent：CMU开源首份Agentic Search日志数据，把Agent拆开给你看",
+      "created": "2026-02-09 09:16",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651016172&idx=3&sn=39404c16b766f404d8268a05ae66df30",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "b74d6dad71e7bb967a5cd50edbfc6deb16b208d8",
       "title": "Kākāpō mug by Karen James",
       "created": "2026-02-09 01:25",
       "link": "https://simonwillison.net/2026/Feb/8/kakapo-mug/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "6af995e1c4003a0dce8a640baf965776d0469c11",
+      "title": "生成式科学智能的新标杆：IntelliFold 2新近发布并开源，主要指标实现全面领先",
+      "created": "2026-02-08 18:34",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651016169&idx=1&sn=fe25e1f3bae156bdfa85337d9ef82a06",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "ba9dd7a446239919234ee435088bcc91fc807cbc",
+      "title": "模型「漂移」新范式，何恺明新作让生成模型无须迭代推理",
+      "created": "2026-02-08 18:34",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651016169&idx=2&sn=bbe24b6f73c4e2dda4e540e2b7c983c4",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b30df0b0d559fc3bcaafe6a24163957595f36b1c",
+      "title": "登顶Hugging Face论文热榜，LLM重写数据准备的游戏规则",
+      "created": "2026-02-08 18:34",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651016169&idx=3&sn=5144a0f4da4a4fc870c8fbaad8b5aa51",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "1b44252a8e4a12a86e28c79d65323ef313d7e612",
+      "title": "扩散语言模型深度思考",
+      "created": "2026-02-08 18:34",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651016169&idx=4&sn=8e84abc84ddb8eb01d50965c4ce87a5e",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -188,33 +251,6 @@
       "category": "ai"
     },
     {
-      "id": "23be10f1dccc4ee7a7e70f5ca6e1964a1169befa",
-      "title": "OpenClaw狂揽16万star，是时候聊聊Agent Tools的AB面了",
-      "created": "2026-02-06 11:55",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651015762&idx=1&sn=d42ea324186978e88d23946c8ddfdba6",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "9c681c122d591b235441fd28940c9c893e37f49b",
-      "title": "AI卖广告，吵到了超级碗：全球网友围观奥特曼破防",
-      "created": "2026-02-06 11:55",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651015762&idx=2&sn=8f7474df070c883b3515594a60f62be5",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "f6860e74128535e288058e5f564dbf9cd9371ae2",
-      "title": "AgentDoG：为AI智能体戴上「诊断项圈」",
-      "created": "2026-02-06 11:55",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651015762&idx=3&sn=1a9ca33a2e68c319a16e4d074d64e001",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "17b385859bd987fa2741a53534c59a853b0e2c7a",
       "title": "Quoting Karel D'Oosterlinck",
       "created": "2026-02-06 08:42",
@@ -266,33 +302,6 @@
       "link": "https://blog.bytebytego.com/p/top-authentication-techniques-to",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "ca130c829684ce2c51e4bbb7ca11bee95bc98fbb",
-      "title": "智能必须基于世界模型？我们和蚂蚁灵波团队聊了聊",
-      "created": "2026-02-05 12:32",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651015544&idx=1&sn=6cf63094131bf3752559cc41921eb14c",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "588839f169f1e2838e350cb1e7a2b7c02d96b828",
-      "title": "谷歌做了个论文专用版nano banana！顶会级Figure直出",
-      "created": "2026-02-05 12:32",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651015544&idx=2&sn=e4fd03e97bc7356e2a442c90021dbed3",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "79d4786b6cdb89237148cb233c09bd0fa5f22285",
-      "title": "ICLR 2026 | 这道题是否需要用图思考？模型来告诉你！自适应思考模式切换助力通用视觉推理提升",
-      "created": "2026-02-05 12:32",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651015544&idx=3&sn=9dc01133077f122da429f00f3dc8ccb0",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -374,15 +383,6 @@
       "link": "https://simonwillison.net/2026/Feb/4/distributing-go-binaries/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "90d624a74926c7e1843e2a0e5309acda8900facb",
-      "title": "刚刚，面壁小钢炮开源进阶版「Her」，9B模型居然有了「活人感」",
-      "created": "2026-02-04 19:18",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651015432&idx=1&sn=576495e50991dd0c6b78d6f900d5a350",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
