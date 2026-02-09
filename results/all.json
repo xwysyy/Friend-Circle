@@ -1,10 +1,10 @@
 {
   "statistical_data": {
-    "friends_num": 36,
-    "active_num": 31,
-    "error_num": 5,
-    "article_num": 480,
-    "last_updated_time": "2026-02-09 13:17:58"
+    "friends_num": 35,
+    "active_num": 32,
+    "error_num": 3,
+    "article_num": 500,
+    "last_updated_time": "2026-02-09 13:41:25"
   },
   "article_data": [
     {
@@ -242,6 +242,15 @@
       "category": "ai"
     },
     {
+      "id": "f54671b0bef59c2787792963957f9ebb3b839610",
+      "title": "Introducing SyGra Studio",
+      "created": "2026-02-06 00:52",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "35f31699fbec5034bcb5be898cd514347812188c",
       "title": "Top Authentication Techniques to Build Secure Applications",
       "created": "2026-02-06 00:30",
@@ -341,6 +350,15 @@
       "category": "ai"
     },
     {
+      "id": "53ee9a9e540a4af837179e2c10c8af5b3834e0f7",
+      "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model",
+      "created": "2026-02-04 23:00",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "9f08db439198bd8434d72392d6bfba85fecdd10d",
       "title": "Distributing Go binaries like sqlite-scanner through PyPI using go-to-wheel",
       "created": "2026-02-04 22:59",
@@ -377,6 +395,15 @@
       "category": "friend"
     },
     {
+      "id": "427732ac3009d308c667d3f86aa1b9051935a646",
+      "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
+      "created": "2026-02-04 08:00",
+      "link": "https://huggingface.co/blog/community-evals",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "ef5f679e513102eb6de8805cdf39bdb24b7759d3",
       "title": "Introducing Deno Sandbox",
       "created": "2026-02-04 06:44",
@@ -386,12 +413,39 @@
       "category": "ai"
     },
     {
+      "id": "2e3c21398d9ca5336b56158aad950aa3ce71b4c6",
+      "title": "H Company's new Holo2 model takes the lead in UI Localization",
+      "created": "2026-02-04 01:40",
+      "link": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "a58f58b84b378f364335dc48f61f0bcc643c421f",
       "title": "How Grab Built a Vision LLM to Scan Images",
       "created": "2026-02-04 00:30",
       "link": "https://blog.bytebytego.com/p/how-grab-built-a-vision-llm-to-scan",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "id": "4ef281278407b4321b4d13c1f615a4bd9d8e19e6",
+      "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+      "created": "2026-02-03 23:03",
+      "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e8ffb2c626a5f54bd3822d4390ef76f1ad6e2060",
+      "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
+      "created": "2026-02-03 19:25",
+      "link": "https://huggingface.co/blog/Photoroom/prx-part2",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -602,6 +656,15 @@
       "category": "friend"
     },
     {
+      "id": "ee90ea4906457c0895e85333dbe070ef07a680d5",
+      "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
+      "created": "2026-01-29 08:00",
+      "link": "https://huggingface.co/blog/daggr",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "d08bca586a1a5d8e71838335eadc3d0acbb47ebe",
       "title": "高峰不常有",
       "created": "2026-01-29 08:00",
@@ -656,6 +719,15 @@
       "category": "ai"
     },
     {
+      "id": "47a8fa05d40e15d99489e7adec5081e8807a1312",
+      "title": "We Got Claude to Build CUDA Kernels and teach open models!",
+      "created": "2026-01-28 08:00",
+      "link": "https://huggingface.co/blog/upskill",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "b58af27be5f0edc33b1fc9ae907608fecade95ed",
       "title": "深入浅出了解生成模型-9：扩散模型微调框架ai-toolkit介绍",
       "created": "2026-01-28 08:00",
@@ -692,12 +764,39 @@
       "category": "ai"
     },
     {
+      "id": "c44613a2ec7f03aff1b49ca1375a420922b6cc8f",
+      "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+      "created": "2026-01-27 23:01",
+      "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "778f53a68816ca116bafcede838a809493dd1d0c",
       "title": "《放松时光：与你共享 lofi 故事》 给聪音接入 AI Chat",
       "created": "2026-01-27 18:40",
       "link": "https://xnnehang.top/posts/default/chill_ai_chat_mod",
       "author": "XnneHang's Blog",
       "avatar": "https://xnnehang.top/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "5ba81dd8abe4645bbfc0efc668b312efd54ffb56",
+      "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+      "created": "2026-01-27 18:26",
+      "link": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "9268bf078797cbc132a2e23119ff879fce82ca36",
+      "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
+      "created": "2026-01-27 09:53",
+      "link": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -890,6 +989,15 @@
       "category": "ai"
     },
     {
+      "id": "b3e55251abd82e5f635a3121438e906a7fe70505",
+      "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+      "created": "2026-01-21 14:25",
+      "link": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "c8e01ae3c09d5a89550c672531421596d9d607ce",
       "title": "MCP is Not the Problem, It's your Server: Best Practices for Building MCP Servers",
       "created": "2026-01-21 08:00",
@@ -917,6 +1025,15 @@
       "category": "ai"
     },
     {
+      "id": "4c66d465692b0cab74c0d1ebb208fc07730b9967",
+      "title": "One Year Since the “DeepSeek Moment”",
+      "created": "2026-01-20 23:02",
+      "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "79f8d8ee1026a05a678c76c8810a534bbcba4b61",
       "title": "为什么我们偏爱各向同性？基于最速下降的理解",
       "created": "2026-01-20 19:44",
@@ -932,6 +1049,24 @@
       "link": "https://www.cnblogs.com/moonout/p/19471728",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "d6ae64ab3b5d77bb0b930512f4fc3844bf66a7ba",
+      "title": "Differential Transformer V2",
+      "created": "2026-01-20 11:20",
+      "link": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "787dc2960702c5c05885b39a6f9a8618dc28cd88",
+      "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+      "created": "2026-01-20 08:00",
+      "link": "https://huggingface.co/blog/waypoint-1",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1085,6 +1220,15 @@
       "link": "https://blog.bytebytego.com/p/must-know-message-broker-patterns-4c4",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "id": "0d54849bb01b77553c4d4cb1a4c4bf2d87ca39e7",
+      "title": "Open Responses: What you need to know",
+      "created": "2026-01-15 08:00",
+      "link": "https://huggingface.co/blog/open-responses",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1247,6 +1391,33 @@
       "link": "https://www.cnblogs.com/moonout/p/19448151",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "46cb5e7929c06a146f44f5e001b095d06e9d5c2f",
+      "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
+      "created": "2026-01-06 06:56",
+      "link": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "dc25f01c9ead49d898bb87d4a5fe3c20697c1df6",
+      "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
+      "created": "2026-01-05 17:16",
+      "link": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "a1e1d46195a5f0474eeab4dad8b595e121342b17",
+      "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
+      "created": "2026-01-05 08:00",
+      "link": "https://huggingface.co/blog/nvidia-reachy-mini",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1466,21 +1637,21 @@
       "category": "ai"
     },
     {
-      "id": "27bb33e4926cc0d7552cb49e91aa04be22d38095",
-      "title": "You can't design software you don't work on",
-      "created": "2025-12-27 08:00",
-      "link": "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "4627fcf1fb4a115d4335704aeecf402d9dc1a6f2",
       "title": "王二下班之后",
       "created": "2025-12-27 08:00",
       "link": "https://mathewshen.me/blog/2025/wang-work/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "27bb33e4926cc0d7552cb49e91aa04be22d38095",
+      "title": "You can't design software you don't work on",
+      "created": "2025-12-27 08:00",
+      "link": "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1562,6 +1733,15 @@
       "link": "https://seangoedecke.com/nobody-knows-how-software-products-work/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "548801362ea5a87dd37df3bbb3e190cf1b7fa622",
+      "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
+      "created": "2025-12-23 22:07",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
