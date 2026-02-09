@@ -4,9 +4,27 @@
     "active_num": 32,
     "error_num": 2,
     "article_num": 500,
-    "last_updated_time": "2026-02-09 22:47:37"
+    "last_updated_time": "2026-02-10 04:34:36"
   },
   "article_data": [
+    {
+      "id": "b9a711c6fdbb203b5741ee2a43baf0b7eb496d38",
+      "title": "AI Doesn’t Reduce Work—It Intensifies It",
+      "created": "2026-02-10 00:43",
+      "link": "https://simonwillison.net/2026/Feb/9/ai-intensifies-work/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "9a4c6443a75fe85193c69243807ae1aee50797d3",
+      "title": "How Yelp Built “Yelp Assistant”",
+      "created": "2026-02-10 00:31",
+      "link": "https://blog.bytebytego.com/p/how-yelp-built-yelp-assistant",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
     {
       "id": "237eaa6d7046c53bca2f845875b2cf2b3109562c",
       "title": "tmp-test渲染",
@@ -59,6 +77,15 @@
       "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651016172&idx=3&sn=39404c16b766f404d8268a05ae66df30",
       "author": "机器之心",
       "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "3f12cf518fa582cc5308a8948a2936f2834f5178",
+      "title": "Transformers.js v4 Preview: Now Available on NPM!",
+      "created": "2026-02-09 08:00",
+      "link": "https://huggingface.co/blog/transformersjs-v4",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -525,15 +552,6 @@
       "title": "Introducing the Codex app",
       "created": "2026-02-03 03:54",
       "link": "https://simonwillison.net/2026/Feb/2/introducing-the-codex-app/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "2d24249fc7ea4f27ef4f3d2ea2d20e0542f865e0",
-      "title": "A Social Network for A.I. Bots Only. No Humans Allowed.",
-      "created": "2026-02-03 00:42",
-      "link": "https://simonwillison.net/2026/Feb/2/no-humans-allowed/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
@@ -1232,15 +1250,6 @@
       "category": "friend"
     },
     {
-      "id": "1a31cfea636727d5dbaec49c25cc196b4dad7e24",
-      "title": "A Guide to Database Sharding",
-      "created": "2026-01-16 00:31",
-      "link": "https://blog.bytebytego.com/p/must-know-message-broker-patterns-4c4",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
       "id": "0d54849bb01b77553c4d4cb1a4c4bf2d87ca39e7",
       "title": "Open Responses: What you need to know",
       "created": "2026-01-15 08:00",
@@ -1742,15 +1751,6 @@
       "link": "https://seangoedecke.com/nobody-knows-how-software-products-work/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "548801362ea5a87dd37df3bbb3e190cf1b7fa622",
-      "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
-      "created": "2025-12-23 22:07",
-      "link": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
