@@ -1,12 +1,21 @@
 {
   "statistical_data": {
-    "friends_num": 32,
-    "active_num": 30,
-    "error_num": 2,
-    "article_num": 448,
-    "last_updated_time": "2026-02-09 09:51:16"
+    "friends_num": 37,
+    "active_num": 31,
+    "error_num": 6,
+    "article_num": 470,
+    "last_updated_time": "2026-02-09 11:19:02"
   },
   "article_data": [
+    {
+      "id": "70623a7213c485a06209658a4fed643d0e112326",
+      "title": "A2A vs ACP 协议对比分析",
+      "created": "2026-02-09 11:02",
+      "link": "http://www.phodal.com/blog/a2a-vs-acp/",
+      "author": "Phodal Huang",
+      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
+      "category": "ai"
+    },
     {
       "id": "b74d6dad71e7bb967a5cd50edbfc6deb16b208d8",
       "title": "Kākāpō mug by Karen James",
@@ -32,6 +41,15 @@
       "link": "https://seangoedecke.com/heroism/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "a93df218e487ce132b42ef34890eab7068e47940",
+      "title": "既然 AI 越来越聪明，那么学习提示词不是浪费时间吗？",
+      "created": "2026-02-08 08:00",
+      "link": "https://baoyu.io/blog/2026/02/08/prompt-engineering-matters",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -161,6 +179,24 @@
       "category": "ai"
     },
     {
+      "id": "8f4bb7dd8ed5aaa3c633d2b1ff2853c31651af25",
+      "title": "Making AI work for everyone, everywhere: our approach to localization",
+      "created": "2026-02-06 18:00",
+      "link": "https://openai.com/index/our-approach-to-localization",
+      "author": "OpenAI",
+      "avatar": "https://openai.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b26f5d773f50ac57962b88ee057bf69383a830c1",
+      "title": "Korea privacy policy",
+      "created": "2026-02-06 18:00",
+      "link": "https://openai.com/policies/kr-privacy-policy",
+      "author": "OpenAI",
+      "avatar": "https://openai.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "23be10f1dccc4ee7a7e70f5ca6e1964a1169befa",
       "title": "OpenClaw狂揽16万star，是时候聊聊Agent Tools的AB面了",
       "created": "2026-02-06 11:55",
@@ -233,6 +269,33 @@
       "category": "ai"
     },
     {
+      "id": "df0b4d474a022be62f66df3d60ef2bce1af50bf7",
+      "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+      "created": "2026-02-05 19:00",
+      "link": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+      "author": "OpenAI",
+      "avatar": "https://openai.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "4a49a2171babb1e44369c3831e89ca728feb6ddf",
+      "title": "Introducing Trusted Access for Cyber",
+      "created": "2026-02-05 18:00",
+      "link": "https://openai.com/index/trusted-access-for-cyber",
+      "author": "OpenAI",
+      "avatar": "https://openai.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "537f97d9df022e3a9685a7bfa20ba264f94b5a68",
+      "title": "Introducing OpenAI Frontier",
+      "created": "2026-02-05 14:00",
+      "link": "https://openai.com/index/introducing-openai-frontier",
+      "author": "OpenAI",
+      "avatar": "https://openai.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "ca130c829684ce2c51e4bbb7ca11bee95bc98fbb",
       "title": "智能必须基于世界模型？我们和蚂蚁灵波团队聊了聊",
       "created": "2026-02-05 12:32",
@@ -275,6 +338,33 @@
       "link": "https://simonwillison.net/2026/Feb/5/the-world-factbook/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "01db201107e3b86644e44335fe3b8b2971e163d7",
+      "title": "Navigating health questions with ChatGPT",
+      "created": "2026-02-05 08:00",
+      "link": "https://openai.com/index/navigating-health-questions",
+      "author": "OpenAI",
+      "avatar": "https://openai.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8a0c8c7ac88d6956e7002e27d2a5e797f2accbd4",
+      "title": "GPT-5.3-Codex System Card",
+      "created": "2026-02-05 08:00",
+      "link": "https://openai.com/index/gpt-5-3-codex-system-card",
+      "author": "OpenAI",
+      "avatar": "https://openai.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "1f7427a9e036922c6457415c7ab0ace7ad4b5391",
+      "title": "Introducing GPT-5.3-Codex",
+      "created": "2026-02-05 08:00",
+      "link": "https://openai.com/index/introducing-gpt-5-3-codex",
+      "author": "OpenAI",
+      "avatar": "https://openai.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -332,6 +422,15 @@
       "category": "ai"
     },
     {
+      "id": "a45c7ee6fc086348fc1ab926caf4927279add933",
+      "title": "Unlocking the Codex harness: how we built the App Server",
+      "created": "2026-02-04 21:00",
+      "link": "https://openai.com/index/unlocking-the-codex-harness",
+      "author": "OpenAI",
+      "avatar": "https://openai.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "90d624a74926c7e1843e2a0e5309acda8900facb",
       "title": "刚刚，面壁小钢炮开源进阶版「Her」，9B模型居然有了「活人感」",
       "created": "2026-02-04 19:18",
@@ -357,6 +456,15 @@
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
       "category": "friend"
+    },
+    {
+      "id": "2e8458dbf71dbf518f7a1245db4c6d563dd863fd",
+      "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+      "created": "2026-02-04 08:00",
+      "link": "https://openai.com/index/vfl-wolfsburg",
+      "author": "OpenAI",
+      "avatar": "https://openai.com/favicon.ico",
+      "category": "ai"
     },
     {
       "id": "ef5f679e513102eb6de8805cdf39bdb24b7759d3",
@@ -401,6 +509,15 @@
       "link": "https://www.cnblogs.com/moonout/p/19567260",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "1d2f67546cfdfedbc448a82ea5a420eb76c351f2",
+      "title": "The Sora feed philosophy",
+      "created": "2026-02-03 08:00",
+      "link": "https://openai.com/index/sora-feed-philosophy",
+      "author": "OpenAI",
+      "avatar": "https://openai.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -455,6 +572,24 @@
       "link": "https://subhadipmitra.com/blog/2026/moltbook-mcp-stress-test/",
       "author": "Subhadip Mitra",
       "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "category": "ai"
+    },
+    {
+      "id": "bea71e9121e9771588d30a0098c36e308b166aeb",
+      "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+      "created": "2026-02-02 14:00",
+      "link": "https://openai.com/index/snowflake-partnership",
+      "author": "OpenAI",
+      "avatar": "https://openai.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "15315cc38e8625f65c99751a35a2c666842c83a8",
+      "title": "Introducing the Codex app",
+      "created": "2026-02-02 08:00",
+      "link": "https://openai.com/index/introducing-the-codex-app",
+      "author": "OpenAI",
+      "avatar": "https://openai.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -566,6 +701,15 @@
       "category": "ai"
     },
     {
+      "id": "efcfc2c531995d14e05543660fee7a8642ab6ca7",
+      "title": "Inside OpenAI’s in-house data agent",
+      "created": "2026-01-29 18:00",
+      "link": "https://openai.com/index/inside-our-in-house-data-agent",
+      "author": "OpenAI",
+      "avatar": "https://openai.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "1db47b1ddf6153bf0fcd844f97f52a5bc0db05aa",
       "title": "Kimi 的一体化，Manus 的分层",
       "created": "2026-01-29 16:02",
@@ -573,6 +717,24 @@
       "author": "阮一峰",
       "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
       "category": "friend"
+    },
+    {
+      "id": "a856111bf1044d532f03cbd6726926ca4b83dc3f",
+      "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
+      "created": "2026-01-29 08:00",
+      "link": "https://openai.com/index/taisei",
+      "author": "OpenAI",
+      "avatar": "https://openai.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "f582e053a20ed4530900c514191ae1fd10067882",
+      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "created": "2026-01-29 08:00",
+      "link": "https://openai.com/index/retiring-gpt-4o-and-older-models",
+      "author": "OpenAI",
+      "avatar": "https://openai.com/favicon.ico",
+      "category": "ai"
     },
     {
       "id": "d08bca586a1a5d8e71838335eadc3d0acbb47ebe",
@@ -620,6 +782,33 @@
       "category": "ai"
     },
     {
+      "id": "075fc545e694cb4cb389ca5c3d8bb3e89c5892b9",
+      "title": "The next chapter for AI in the EU",
+      "created": "2026-01-28 09:00",
+      "link": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+      "author": "OpenAI",
+      "avatar": "https://openai.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "cf58b7400fc9862ac7584b491b16b58a6b9f3c71",
+      "title": "EMEA Youth & Wellbeing Grant",
+      "created": "2026-01-28 09:00",
+      "link": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+      "author": "OpenAI",
+      "avatar": "https://openai.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "63508e9ab1881d12039ec1be8093dae79307fed9",
+      "title": "Keeping your data safe when an AI agent clicks a link",
+      "created": "2026-01-28 08:00",
+      "link": "https://openai.com/index/ai-agent-link-safety",
+      "author": "OpenAI",
+      "avatar": "https://openai.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "b58af27be5f0edc33b1fc9ae907608fecade95ed",
       "title": "深入浅出了解生成模型-9：扩散模型微调框架ai-toolkit介绍",
       "created": "2026-01-28 08:00",
@@ -662,6 +851,15 @@
       "link": "https://xnnehang.top/posts/default/chill_ai_chat_mod",
       "author": "XnneHang's Blog",
       "avatar": "https://xnnehang.top/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "53560453084e268811827d3d01dc6c583c155b48",
+      "title": "PVH reimagines the future of fashion with OpenAI",
+      "created": "2026-01-27 14:00",
+      "link": "https://openai.com/index/pvh-future-of-fashion",
+      "author": "OpenAI",
+      "avatar": "https://openai.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1032,15 +1230,6 @@
       "author": "阮一峰",
       "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
       "category": "friend"
-    },
-    {
-      "id": "9f7a5e4ee2ab5a8c0a9835f0376259cfb57f2773",
-      "title": "AI 会取代你的工作吗？Anthropic 用 200 万对话告诉你答案",
-      "created": "2026-01-16 08:00",
-      "link": "https://baoyu.io/blog/2026/01/16/anthropic-economic-index-primitives",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
     },
     {
       "id": "1a31cfea636727d5dbaec49c25cc196b4dad7e24",
@@ -2897,15 +3086,6 @@
       "category": "friend"
     },
     {
-      "id": "eb85c62c678c1d31cfcc11c1662e2e393334cbbd",
-      "title": "AI × 旧系统：Vibe Coding 构建 AI 迁移工具，实现端到端智能迁移",
-      "created": "2025-08-07 20:38",
-      "link": "http://www.phodal.com/blog/ai4modernization/",
-      "author": "Phodal Huang",
-      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
-      "category": "ai"
-    },
-    {
       "id": "885fdb04bdfd80068ceff70d392b5c6e992eb017",
       "title": "GPU 微架构之旅 | 第一天：初识神力——为什么 GPU 那么快？",
       "created": "2025-08-06 18:54",
@@ -3608,15 +3788,6 @@
       "category": "ai"
     },
     {
-      "id": "4aff7db928cd1cdc3b593a1bad18e8319ad99c67",
-      "title": "openai/skills",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/openai/skills",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "b8da10635efbda0c4c165e7fe1eeef9cfbfe64a1",
       "title": "thedotmack/claude-mem",
       "created": "2024-01-01 00:00",
@@ -3626,10 +3797,19 @@
       "category": "ai"
     },
     {
-      "id": "221b3f216a71272dff35581a4da17e4a9d81a3a6",
-      "title": "karpathy/nanochat",
+      "id": "1347f788933722962c9fb9e55531bcab4d0901e9",
+      "title": "OpenBMB/ChatDev",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/karpathy/nanochat",
+      "link": "https://github.com/OpenBMB/ChatDev",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "9a611325804b320d95673d76d625101f88a72004",
+      "title": "disler/claude-code-hooks-mastery",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/disler/claude-code-hooks-mastery",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -3653,37 +3833,10 @@
       "category": "ai"
     },
     {
-      "id": "9a611325804b320d95673d76d625101f88a72004",
-      "title": "disler/claude-code-hooks-mastery",
+      "id": "1a01afe6b15e252e51cafbc5b74a8c1016d07957",
+      "title": "KeygraphHQ/shannon",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/disler/claude-code-hooks-mastery",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "1347f788933722962c9fb9e55531bcab4d0901e9",
-      "title": "OpenBMB/ChatDev",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/OpenBMB/ChatDev",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "571de4f65e3420b7b1b1c00e4e993f8fffd6466a",
-      "title": "j178/prek",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/j178/prek",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "96df786024ffc5d32bb968606782c7afc842e13b",
-      "title": "pedramamini/Maestro",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/pedramamini/Maestro",
+      "link": "https://github.com/KeygraphHQ/shannon",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -3698,10 +3851,28 @@
       "category": "ai"
     },
     {
-      "id": "1a01afe6b15e252e51cafbc5b74a8c1016d07957",
-      "title": "KeygraphHQ/shannon",
+      "id": "0ded3dd59a8160ae9c3372ca2b4c7b8faaf4b1db",
+      "title": "microsoft/playwright-cli",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/KeygraphHQ/shannon",
+      "link": "https://github.com/microsoft/playwright-cli",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "4aff7db928cd1cdc3b593a1bad18e8319ad99c67",
+      "title": "openai/skills",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/openai/skills",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "221b3f216a71272dff35581a4da17e4a9d81a3a6",
+      "title": "karpathy/nanochat",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/karpathy/nanochat",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -3711,6 +3882,33 @@
       "title": "VectifyAI/PageIndex",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/VectifyAI/PageIndex",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "571de4f65e3420b7b1b1c00e4e993f8fffd6466a",
+      "title": "j178/prek",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/j178/prek",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "d339c484e350e464ebee4d375984172e39bf1951",
+      "title": "tobi/qmd",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/tobi/qmd",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "96df786024ffc5d32bb968606782c7afc842e13b",
+      "title": "pedramamini/Maestro",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/pedramamini/Maestro",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
