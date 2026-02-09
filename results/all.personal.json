@@ -3,37 +3,10 @@
     "friends_num": 34,
     "active_num": 32,
     "error_num": 2,
-    "article_num": 355,
-    "last_updated_time": "2026-02-10 04:35:19"
+    "article_num": 353,
+    "last_updated_time": "2026-02-10 06:31:50"
   },
   "article_data": [
-    {
-      "id": "b9a711c6fdbb203b5741ee2a43baf0b7eb496d38",
-      "title": "AI Doesn’t Reduce Work—It Intensifies It",
-      "created": "2026-02-10 00:43",
-      "link": "https://simonwillison.net/2026/Feb/9/ai-intensifies-work/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "9a4c6443a75fe85193c69243807ae1aee50797d3",
-      "title": "How Yelp Built “Yelp Assistant”",
-      "created": "2026-02-10 00:31",
-      "link": "https://blog.bytebytego.com/p/how-yelp-built-yelp-assistant",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "3f12cf518fa582cc5308a8948a2936f2834f5178",
-      "title": "Transformers.js v4 Preview: Now Available on NPM!",
-      "created": "2026-02-09 08:00",
-      "link": "https://huggingface.co/blog/transformersjs-v4",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
     {
       "id": "f54671b0bef59c2787792963957f9ebb3b839610",
       "title": "Introducing SyGra Studio",
@@ -807,6 +780,15 @@
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
+    },
+    {
+      "id": "68660ff47168e0f24375dc02b69ef7d3a8284d27",
+      "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
+      "created": "2025-11-20 08:00",
+      "link": "https://huggingface.co/blog/anylanguagemodel",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
     },
     {
       "id": "d51c9bf35b7b1f02caf752cbfa849cb410d22d1d",
