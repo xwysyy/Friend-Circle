@@ -1,26 +1,197 @@
 {
   "statistical_data": {
     "friends_num": 35,
-    "active_num": 32,
-    "error_num": 3,
-    "article_num": 354,
-    "last_updated_time": "2026-02-09 13:41:41"
+    "active_num": 33,
+    "error_num": 2,
+    "article_num": 374,
+    "last_updated_time": "2026-02-09 14:44:44"
   },
   "article_data": [
+    {
+      "id": "e07a11961588b71808b7837368e616a45da87a0c",
+      "title": "Genome Med. | 新计算工具METER同步实现ctDNA甲基化的灵敏检测、精确定量及肿瘤亚型分型",
+      "created": "2026-02-09 11:50",
+      "link": "https://hub.baai.ac.cn/view/52439",
+      "author": "智源社区",
+      "avatar": "https://hub.baai.ac.cn/_nuxt/img/logo.a2943de.svg",
+      "category": "ai"
+    },
+    {
+      "id": "0bd8f10faed64240bf15ed98e6d71333a660766c",
+      "title": "48小时万亿蒸发，高盛用Claude「杀死」人类会计！亲手埋葬软件帝国",
+      "created": "2026-02-09 11:50",
+      "link": "https://hub.baai.ac.cn/view/52438",
+      "author": "智源社区",
+      "avatar": "https://hub.baai.ac.cn/_nuxt/img/logo.a2943de.svg",
+      "category": "ai"
+    },
+    {
+      "id": "b2707d91553958cdf5d32d5954813916d9064c77",
+      "title": "微醺的马斯克聊嗨了：盛赞中国、预言天上的AI",
+      "created": "2026-02-09 01:00",
+      "link": "https://hub.baai.ac.cn/view/52436",
+      "author": "智源社区",
+      "avatar": "https://hub.baai.ac.cn/_nuxt/img/logo.a2943de.svg",
+      "category": "ai"
+    },
+    {
+      "id": "a794d17cb77f6bdbda592b576c4fb71b391f3aca",
+      "title": "可灵3.0加入AI拜年战场！人在工位搓好莱坞大片，分镜逻辑封神",
+      "created": "2026-02-09 01:00",
+      "link": "https://hub.baai.ac.cn/view/52435",
+      "author": "智源社区",
+      "avatar": "https://hub.baai.ac.cn/_nuxt/img/logo.a2943de.svg",
+      "category": "ai"
+    },
+    {
+      "id": "0f63bee63425f08fc600d1b17140569ae41e7586",
+      "title": "延迟下降20×，token减少4.4×！突破多智能体「共识」瓶颈",
+      "created": "2026-02-09 01:00",
+      "link": "https://hub.baai.ac.cn/view/52434",
+      "author": "智源社区",
+      "avatar": "https://hub.baai.ac.cn/_nuxt/img/logo.a2943de.svg",
+      "category": "ai"
+    },
+    {
+      "id": "2799a2c8e1534e833a245716985a8e8416ee3077",
+      "title": "华科校友程璐斩获美国NSF科研奖！用可信AI助力AI医疗奇点",
+      "created": "2026-02-09 01:00",
+      "link": "https://hub.baai.ac.cn/view/52433",
+      "author": "智源社区",
+      "avatar": "https://hub.baai.ac.cn/_nuxt/img/logo.a2943de.svg",
+      "category": "ai"
+    },
+    {
+      "id": "d8613341986e7d57483a269f4466996a7fae8551",
+      "title": "3D生成「ImageNet」来了！腾讯混元开源HY3D-Bench",
+      "created": "2026-02-09 00:50",
+      "link": "https://hub.baai.ac.cn/view/52432",
+      "author": "智源社区",
+      "avatar": "https://hub.baai.ac.cn/_nuxt/img/logo.a2943de.svg",
+      "category": "ai"
+    },
+    {
+      "id": "0dd8f596c3db355d3ef763fc3fe3b337cd939c3c",
+      "title": "有的AI在算命，有的AI在救命",
+      "created": "2026-02-09 00:50",
+      "link": "https://hub.baai.ac.cn/view/52431",
+      "author": "智源社区",
+      "avatar": "https://hub.baai.ac.cn/_nuxt/img/logo.a2943de.svg",
+      "category": "ai"
+    },
+    {
+      "id": "ce84c5fc9dc69ec41f708c61b111dd4a81bec94f",
+      "title": "程序员绝命！Claude Code疯狂渗透GitHub，26年底将提交20%",
+      "created": "2026-02-09 00:40",
+      "link": "https://hub.baai.ac.cn/view/52430",
+      "author": "智源社区",
+      "avatar": "https://hub.baai.ac.cn/_nuxt/img/logo.a2943de.svg",
+      "category": "ai"
+    },
+    {
+      "id": "ada8c4fc908e9d6218cf6b2eb3439dc6498de516",
+      "title": "Nat. Biotechnol. | CRISmers+GRAPE-LM RNA适配体进化新范式",
+      "created": "2026-02-09 00:40",
+      "link": "https://hub.baai.ac.cn/view/52429",
+      "author": "智源社区",
+      "avatar": "https://hub.baai.ac.cn/_nuxt/img/logo.a2943de.svg",
+      "category": "ai"
+    },
+    {
+      "id": "7a2077fafdcaa633ba267fa53fb28aad0714b500",
+      "title": "小米给KV Cache减负80%！MiMo团队推出混合稀疏注意力架构",
+      "created": "2026-02-09 00:40",
+      "link": "https://hub.baai.ac.cn/view/52428",
+      "author": "智源社区",
+      "avatar": "https://hub.baai.ac.cn/_nuxt/img/logo.a2943de.svg",
+      "category": "ai"
+    },
+    {
+      "id": "8b69a4f5f3ae70591ea13293f1e3e11c3f9d9360",
+      "title": "王慧文杀入OpenClaw赛道，再发英雄帖：「需要融资的欢迎联系我」",
+      "created": "2026-02-09 00:30",
+      "link": "https://hub.baai.ac.cn/view/52427",
+      "author": "智源社区",
+      "avatar": "https://hub.baai.ac.cn/_nuxt/img/logo.a2943de.svg",
+      "category": "ai"
+    },
+    {
+      "id": "8676fc479084029d328cbedeff93d3542f77ea1d",
+      "title": "重磅！基于微流控与人工智能的侵袭性白血病药物敏感性预测平台问世",
+      "created": "2026-02-08 12:50",
+      "link": "https://hub.baai.ac.cn/view/52426",
+      "author": "智源社区",
+      "avatar": "https://hub.baai.ac.cn/_nuxt/img/logo.a2943de.svg",
+      "category": "ai"
+    },
+    {
+      "id": "5b5ec151c0101addf3f3d6c28aa2ed9bf1c171ae",
+      "title": "Nature认定的论文综述神器来了",
+      "created": "2026-02-08 12:50",
+      "link": "https://hub.baai.ac.cn/view/52425",
+      "author": "智源社区",
+      "avatar": "https://hub.baai.ac.cn/_nuxt/img/logo.a2943de.svg",
+      "category": "ai"
+    },
+    {
+      "id": "47832d7de508a784022321b27e8eb6377995b954",
+      "title": "算力竞赛分叉：马斯克太空炼丹，中国3万AI卡同时点亮！",
+      "created": "2026-02-08 12:50",
+      "link": "https://hub.baai.ac.cn/view/52424",
+      "author": "智源社区",
+      "avatar": "https://hub.baai.ac.cn/_nuxt/img/logo.a2943de.svg",
+      "category": "ai"
+    },
+    {
+      "id": "6676ecbdbbe374f10d681b5ea8bec1d034e75c30",
+      "title": "地表最强编程王者PK！Opus 4.6双榜单封神， Codex 5.3速度满分",
+      "created": "2026-02-08 11:00",
+      "link": "https://hub.baai.ac.cn/view/52423",
+      "author": "智源社区",
+      "avatar": "https://hub.baai.ac.cn/_nuxt/img/logo.a2943de.svg",
+      "category": "ai"
+    },
+    {
+      "id": "a501d9360c81c35e175111de2f8f61fe9bbd52c8",
+      "title": "清华研究生开源大一统世界模型：性能超越硅谷标杆40%！",
+      "created": "2026-02-08 11:00",
+      "link": "https://hub.baai.ac.cn/view/52422",
+      "author": "智源社区",
+      "avatar": "https://hub.baai.ac.cn/_nuxt/img/logo.a2943de.svg",
+      "category": "ai"
+    },
+    {
+      "id": "57259ca5b58d38498640413a5551e1d737482398",
+      "title": "全国最大国产AI算力池来了：部署超3万卡，上千款应用接入",
+      "created": "2026-02-08 11:00",
+      "link": "https://hub.baai.ac.cn/view/52421",
+      "author": "智源社区",
+      "avatar": "https://hub.baai.ac.cn/_nuxt/img/logo.a2943de.svg",
+      "category": "ai"
+    },
+    {
+      "id": "cf754cebd8e8c2f5300bf911650204ba50c63239",
+      "title": "重磅！图灵奖得主Yoshua Bengio领衔发布，《2026 国际人工智能安全报告》都有哪些看点？",
+      "created": "2026-02-08 11:00",
+      "link": "https://hub.baai.ac.cn/view/52420",
+      "author": "智源社区",
+      "avatar": "https://hub.baai.ac.cn/_nuxt/img/logo.a2943de.svg",
+      "category": "ai"
+    },
+    {
+      "id": "d82def6e3fd12b9fd84420da29a4bd0efc794efc",
+      "title": "老黄鸽了游戏卡！30年来首次咕咕，内存优先让路AI",
+      "created": "2026-02-08 10:50",
+      "link": "https://hub.baai.ac.cn/view/52419",
+      "author": "智源社区",
+      "avatar": "https://hub.baai.ac.cn/_nuxt/img/logo.a2943de.svg",
+      "category": "ai"
+    },
     {
       "id": "f54671b0bef59c2787792963957f9ebb3b839610",
       "title": "Introducing SyGra Studio",
       "created": "2026-02-06 00:52",
       "link": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "53ee9a9e540a4af837179e2c10c8af5b3834e0f7",
-      "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model",
-      "created": "2026-02-04 23:00",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
@@ -32,33 +203,6 @@
       "link": "https://kexue.fm/archives/11593",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
-      "id": "427732ac3009d308c667d3f86aa1b9051935a646",
-      "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
-      "created": "2026-02-04 08:00",
-      "link": "https://huggingface.co/blog/community-evals",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "2e3c21398d9ca5336b56158aad950aa3ce71b4c6",
-      "title": "H Company's new Holo2 model takes the lead in UI Localization",
-      "created": "2026-02-04 01:40",
-      "link": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "4ef281278407b4321b4d13c1f615a4bd9d8e19e6",
-      "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
-      "created": "2026-02-03 23:03",
-      "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -107,15 +251,6 @@
       "category": "ai"
     },
     {
-      "id": "ee90ea4906457c0895e85333dbe070ef07a680d5",
-      "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
-      "created": "2026-01-29 08:00",
-      "link": "https://huggingface.co/blog/daggr",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "d548b65312aeffec82bfb1ca140680b1cec17426",
       "title": "Qwen3-ASR & Qwen3-ForcedAligner现已开源：够稳定，能流式，多语言！",
       "created": "2026-01-29 00:00",
@@ -125,39 +260,12 @@
       "category": "ai"
     },
     {
-      "id": "47a8fa05d40e15d99489e7adec5081e8807a1312",
-      "title": "We Got Claude to Build CUDA Kernels and teach open models!",
-      "created": "2026-01-28 08:00",
-      "link": "https://huggingface.co/blog/upskill",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b58af27be5f0edc33b1fc9ae907608fecade95ed",
       "title": "深入浅出了解生成模型-9：扩散模型微调框架ai-toolkit介绍",
       "created": "2026-01-28 08:00",
       "link": "https://www.big-yellow-j.top/posts/2026/01/28/Ai-toolkit-Training.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "c44613a2ec7f03aff1b49ca1375a420922b6cc8f",
-      "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
-      "created": "2026-01-27 23:01",
-      "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "5ba81dd8abe4645bbfc0efc668b312efd54ffb56",
-      "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
-      "created": "2026-01-27 18:26",
-      "link": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -206,24 +314,6 @@
       "category": "ai"
     },
     {
-      "id": "b3e55251abd82e5f635a3121438e906a7fe70505",
-      "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
-      "created": "2026-01-21 14:25",
-      "link": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "4c66d465692b0cab74c0d1ebb208fc07730b9967",
-      "title": "One Year Since the “DeepSeek Moment”",
-      "created": "2026-01-20 23:02",
-      "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "79f8d8ee1026a05a678c76c8810a534bbcba4b61",
       "title": "为什么我们偏爱各向同性？基于最速下降的理解",
       "created": "2026-01-20 19:44",
@@ -242,39 +332,12 @@
       "category": "ai"
     },
     {
-      "id": "d6ae64ab3b5d77bb0b930512f4fc3844bf66a7ba",
-      "title": "Differential Transformer V2",
-      "created": "2026-01-20 11:20",
-      "link": "https://huggingface.co/blog/microsoft/diff-attn-v2",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "787dc2960702c5c05885b39a6f9a8618dc28cd88",
-      "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
-      "created": "2026-01-20 08:00",
-      "link": "https://huggingface.co/blog/waypoint-1",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "11c8f4217166140dbea26a08b7d6eeaf872ed6ad",
       "title": "让炼丹更科学一些（六）：自上而下的精妙构造",
       "created": "2026-01-16 15:03",
       "link": "https://kexue.fm/archives/11540",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
-      "id": "0d54849bb01b77553c4d4cb1a4c4bf2d87ca39e7",
-      "title": "Open Responses: What you need to know",
-      "created": "2026-01-15 08:00",
-      "link": "https://huggingface.co/blog/open-responses",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -320,33 +383,6 @@
       "link": "https://qwen.ai/research/qwen3-vl-embedding",
       "author": "Qwen",
       "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
-      "category": "ai"
-    },
-    {
-      "id": "46cb5e7929c06a146f44f5e001b095d06e9d5c2f",
-      "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
-      "created": "2026-01-06 06:56",
-      "link": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "dc25f01c9ead49d898bb87d4a5fe3c20697c1df6",
-      "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
-      "created": "2026-01-05 17:16",
-      "link": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "a1e1d46195a5f0474eeab4dad8b595e121342b17",
-      "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
-      "created": "2026-01-05 08:00",
-      "link": "https://huggingface.co/blog/nvidia-reachy-mini",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -401,15 +437,6 @@
       "link": "https://www.big-yellow-j.top/posts/2025/12/29/SDAcceralate.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "4627fcf1fb4a115d4335704aeecf402d9dc1a6f2",
-      "title": "王二下班之后",
-      "created": "2025-12-27 08:00",
-      "link": "https://mathewshen.me/blog/2025/wang-work/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -512,12 +539,39 @@
       "category": "ai"
     },
     {
+      "id": "c0bb8359279a60eb410f0f45a72ed34fb071a8c6",
+      "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
+      "created": "2025-12-18 08:00",
+      "link": "https://huggingface.co/blog/tokenizers",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "c3700f1b4c8ba858d80bee7a82ec9aefde0cc9e3",
+      "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
+      "created": "2025-12-17 21:22",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "8c1058db752fe6e03888ddd2d0cbf33072f1526a",
       "title": "让炼丹更科学一些（三）：SGD的终点损失收敛",
       "created": "2025-12-16 10:25",
       "link": "https://kexue.fm/archives/11480",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "id": "138245bd387679087b9961b5cc0a308b9af4c6ea",
+      "title": "CUGA on Hugging Face: Democratizing Configurable AI Agents",
+      "created": "2025-12-16 00:01",
+      "link": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -554,6 +608,24 @@
       "link": "https://kexue.fm/archives/11469",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "id": "9705d2b429db7b4e4219fa9784a5b0c90921f7f9",
+      "title": "New in llama.cpp: Model Management",
+      "created": "2025-12-11 23:47",
+      "link": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "deef9fa560dafb5301495db6935c42ac92563799",
+      "title": "Codex is Open Sourcing AI models",
+      "created": "2025-12-11 08:00",
+      "link": "https://huggingface.co/blog/hf-skills-training-codex",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -611,6 +683,15 @@
       "category": "ai"
     },
     {
+      "id": "aaf892cefae56b0a495b99ad3e37203495eedafa",
+      "title": "Introducing swift-huggingface: The Complete Swift Client for Hugging Face",
+      "created": "2025-12-05 08:00",
+      "link": "https://huggingface.co/blog/swift-huggingface",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "704f453807d8c4865ae6dd8d8852a4d5fe7a3c35",
       "title": "SAPO：一种稳定且高性能的大语言模型强化学习方法",
       "created": "2025-12-05 04:00",
@@ -626,6 +707,24 @@
       "link": "https://qwen.ai/research/qwen3-tts-1128",
       "author": "Qwen",
       "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
+      "category": "ai"
+    },
+    {
+      "id": "95c5026079ff65c65b8cce615290b35b8856a2e9",
+      "title": "DeepMath: A lightweight math reasoning Agent with smolagents",
+      "created": "2025-12-04 08:00",
+      "link": "https://huggingface.co/blog/intel-deepmath",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "032cc0dde5a0fa4da1df0377d84bcd298438f69b",
+      "title": "We Got Claude to Fine-Tune an Open Source LLM",
+      "created": "2025-12-04 08:00",
+      "link": "https://huggingface.co/blog/hf-skills-training",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -662,6 +761,15 @@
       "link": "https://www.cnblogs.com/moonout/p/19299654",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "4c55da769fa849f2508cf2afe84b27c1a3eaff41",
+      "title": "Transformers v5: Simple model definitions powering the AI ecosystem",
+      "created": "2025-12-01 08:00",
+      "link": "https://huggingface.co/blog/transformers-v5",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -728,12 +836,39 @@
       "category": "ai"
     },
     {
-      "id": "d90e85d7d88f26bbb0d49d0bc6f3890e1af8a8c9",
-      "title": "肖恩技术周刊（第 71 期）：何以成事",
-      "created": "2025-11-24 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/71.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "id": "af79d84392bd8fa4c6673c1a1ce1d73dc28920a6",
+      "title": "Diffusers welcomes FLUX-2",
+      "created": "2025-11-25 08:00",
+      "link": "https://huggingface.co/blog/flux-2",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "efcaf252dca14bdd8bb8e73c23457d5e2cf16bc4",
+      "title": "Continuous batching from first principles",
+      "created": "2025-11-25 08:00",
+      "link": "https://huggingface.co/blog/continuous_batching",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "5e9a93dfd3544e399e140572e3a76ee6ed59f7df",
+      "title": "Building Deep Research: How we Achieved State of the Art",
+      "created": "2025-11-25 01:40",
+      "link": "https://huggingface.co/blog/Tavily/tavily-deep-research",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7737f2d2ba90ff5b2e74f564c1e87f4c79672b58",
+      "title": "OVHcloud on Hugging Face Inference Providers 🔥",
+      "created": "2025-11-25 00:08",
+      "link": "https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -743,6 +878,15 @@
       "link": "https://mathewshen.me/blog/2025/google-scholar-new-features/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "d90e85d7d88f26bbb0d49d0bc6f3890e1af8a8c9",
+      "title": "肖恩技术周刊（第 71 期）：何以成事",
+      "created": "2025-11-24 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/71.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -782,6 +926,24 @@
       "category": "ai"
     },
     {
+      "id": "a8f00e846fc7b1e59fede3b753325adb96e32ece",
+      "title": "20x Faster TRL Fine-tuning with RapidFire AI",
+      "created": "2025-11-21 08:00",
+      "link": "https://huggingface.co/blog/rapidfireai",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6f5a71e2f8f081d4ac4bb3f50fa2c27379cca039",
+      "title": "Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks",
+      "created": "2025-11-21 08:00",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "63676835555028bafe612ad6e0fdcbe2b5340d79",
       "title": "Practical Guide on how to build an Agent from scratch with Gemini 3",
       "created": "2025-11-21 08:00",
@@ -798,6 +960,15 @@
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
+    },
+    {
+      "id": "68660ff47168e0f24375dc02b69ef7d3a8284d27",
+      "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
+      "created": "2025-11-20 08:00",
+      "link": "https://huggingface.co/blog/anylanguagemodel",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
     },
     {
       "id": "d51c9bf35b7b1f02caf752cbfa849cb410d22d1d",
@@ -2732,6 +2903,15 @@
       "link": "https://lilianweng.github.io/posts/2024-04-12-diffusion-video/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "e1ea58a7d21418f46f18cdc0c4719121fb8c5b0c",
+      "title": "终身学习:2023",
+      "created": "2024-02-07 08:00",
+      "link": "https://mathewshen.me/blog/2024/lifelong-2023/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
