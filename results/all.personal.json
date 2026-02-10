@@ -1,12 +1,21 @@
 {
   "statistical_data": {
     "friends_num": 34,
-    "active_num": 32,
-    "error_num": 2,
-    "article_num": 357,
-    "last_updated_time": "2026-02-11 00:58:54"
+    "active_num": 33,
+    "error_num": 1,
+    "article_num": 364,
+    "last_updated_time": "2026-02-11 02:59:42"
   },
   "article_data": [
+    {
+      "id": "2df4241e1227acf3d8b2df4fb1a6bc1ebf4a53dc",
+      "title": "Introducing Showboat and Rodney, so agents can demo what they’ve built",
+      "created": "2026-02-11 01:45",
+      "link": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "23b1851335829b1fbfd7bb0817cd37ab4617f283",
       "title": "How LinkedIn Built a Next-Gen Service Discovery for 1000s of Services",
@@ -602,6 +611,15 @@
       "category": "ai"
     },
     {
+      "id": "165dcd64a30f76844ba198af0103a38ddd22b894",
+      "title": "你的 AI Coding 不听话？写了 prompt 还是不听话？不妨试试用基于反馈的 mcp server 来改掉这个坏毛病！",
+      "created": "2025-12-02 04:47",
+      "link": "https://kirigaya.cn/blog/article?seq=360",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
       "id": "8067bdad1fa389ea816b053c2cc94eb8a2f14175",
       "title": "肖恩技术周刊（第 72 期）：有趣的C语言谜题",
       "created": "2025-12-01 08:00",
@@ -980,6 +998,15 @@
       "category": "ai"
     },
     {
+      "id": "f7af065ae3521d815c8f70c866fbeb487cb6f359",
+      "title": "咖啡配方——小黄油拿铁制作方法",
+      "created": "2025-11-09 02:02",
+      "link": "https://kirigaya.cn/blog/article?seq=359",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
       "id": "2e82af4ed8a432c4e557182c81e3b357cb2dd456",
       "title": "二手手机值得买吗？数码爱好者的省钱换机经验",
       "created": "2025-11-09 00:00",
@@ -995,6 +1022,15 @@
       "link": "https://www.philschmid.de/gemini-file-search-javascript",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2cb2959928a56208dd3b0812c5a7a979e7e27d25",
+      "title": "WSL2 下安装 Docker",
+      "created": "2025-11-06 01:28",
+      "link": "https://kirigaya.cn/blog/article?seq=358",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
       "category": "ai"
     },
     {
@@ -1097,6 +1133,15 @@
       "category": "friend"
     },
     {
+      "id": "93ebecbd9596ad6baf91a1b98345efa436b1c17e",
+      "title": "为什么我需要设计回流系统？openmcp reflux 用量化指标帮你让你更加了解你的 Agent 系统与 MCP",
+      "created": "2025-10-31 06:32",
+      "link": "https://kirigaya.cn/blog/article?seq=357",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
       "id": "c39c797397a05e0d0e4a5d4b5b70979817e399d6",
       "title": "Skill Discovery | RGSD：基于高质量参考轨迹，预训练 skill space - MoonOut",
       "created": "2025-10-31 00:50",
@@ -1130,6 +1175,15 @@
       "link": "https://sebastianraschka.com/blog/2025/dgx-impressions.html",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8b175dfe366875fb5213ed1024e8e7d7fcae60dd",
+      "title": "RAG 和 CE 是什么关系？我们真的需要 RAG 吗？",
+      "created": "2025-10-28 03:35",
+      "link": "https://kirigaya.cn/blog/article?seq=356",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
       "category": "ai"
     },
     {
@@ -1176,6 +1230,15 @@
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
+    },
+    {
+      "id": "43517586ca661284021649e2602a1a0a7b38f8fd",
+      "title": "🪛 OpenMCP 重磅推出调用链可视化 & 季度小结",
+      "created": "2025-10-22 07:56",
+      "link": "https://kirigaya.cn/blog/article?seq=355",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
     },
     {
       "id": "381551d55aaf21382702068d14e9c83c86efd4cf",

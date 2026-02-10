@@ -1,12 +1,21 @@
 {
   "statistical_data": {
     "friends_num": 34,
-    "active_num": 32,
-    "error_num": 2,
-    "article_num": 503,
-    "last_updated_time": "2026-02-11 00:58:41"
+    "active_num": 33,
+    "error_num": 1,
+    "article_num": 513,
+    "last_updated_time": "2026-02-11 02:59:32"
   },
   "article_data": [
+    {
+      "id": "2df4241e1227acf3d8b2df4fb1a6bc1ebf4a53dc",
+      "title": "Introducing Showboat and Rodney, so agents can demo what they’ve built",
+      "created": "2026-02-11 01:45",
+      "link": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "23b1851335829b1fbfd7bb0817cd37ab4617f283",
       "title": "How LinkedIn Built a Next-Gen Service Discovery for 1000s of Services",
@@ -534,15 +543,6 @@
       "title": "January sponsors-only newsletter is out",
       "created": "2026-02-03 14:36",
       "link": "https://simonwillison.net/2026/Feb/3/january/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "b8525579c92651229d324c28f952e830badb6ad5",
-      "title": "Quoting Brandon Sanderson",
-      "created": "2026-02-03 10:31",
-      "link": "https://simonwillison.net/2026/Feb/3/brandon-sanderson/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
@@ -1214,6 +1214,15 @@
       "category": "ai"
     },
     {
+      "id": "c5f75383d663d8b7d49070a42e62b288a473267b",
+      "title": "支付宝的支付工具 alipay sdk 教程指南",
+      "created": "2026-01-18 08:14",
+      "link": "https://kirigaya.cn/blog/article?seq=361",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
       "id": "4b3c6e77d84ede778de668b74e0b90a101746ea8",
       "title": "十年",
       "created": "2026-01-18 08:00",
@@ -1436,6 +1445,15 @@
       "link": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "264b54863b1efe2ce363cd44855f8505ace723c4",
+      "title": "Langchain 的 agent test 技术博客翻译",
+      "created": "2026-01-05 23:44",
+      "link": "https://kirigaya.cn/blog/article?seq=364",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
       "category": "ai"
     },
     {
@@ -1925,6 +1943,15 @@
       "category": "friend"
     },
     {
+      "id": "0da09e332716808db0f03676ae84a3829f644775",
+      "title": "让你的数据库也变得“可响应”，Supabase Realtime 功能介绍",
+      "created": "2025-12-18 12:11",
+      "link": "https://kirigaya.cn/blog/article?seq=363",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
       "id": "58267e785a963246a5337df44e41a0ae3d56e9fb",
       "title": "AutoDev 3.0 → Xiuper：咻！全平台、全流程智能体编程平台",
       "created": "2025-12-16 22:18",
@@ -2069,6 +2096,15 @@
       "category": "ai"
     },
     {
+      "id": "cc38c6f2dd82f3407d61de6042a8b24f734a6fea",
+      "title": "健身方法论：1-RM 综合估算公式与 Lr 负重估算算法",
+      "created": "2025-12-08 21:40",
+      "link": "https://kirigaya.cn/blog/article?seq=362",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
       "id": "2d93d46358590aa4bf908610e443acbe9f073aa8",
       "title": "From Random Forests to RLVR: A Short History of ML/AI Hello Worlds",
       "created": "2025-12-08 08:20",
@@ -2165,6 +2201,15 @@
       "link": "https://www.cnblogs.com/moonout/p/19299654",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "165dcd64a30f76844ba198af0103a38ddd22b894",
+      "title": "你的 AI Coding 不听话？写了 prompt 还是不听话？不妨试试用基于反馈的 mcp server 来改掉这个坏毛病！",
+      "created": "2025-12-02 04:47",
+      "link": "https://kirigaya.cn/blog/article?seq=360",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
       "category": "ai"
     },
     {
@@ -2537,6 +2582,15 @@
       "category": "ai"
     },
     {
+      "id": "f7af065ae3521d815c8f70c866fbeb487cb6f359",
+      "title": "咖啡配方——小黄油拿铁制作方法",
+      "created": "2025-11-09 02:02",
+      "link": "https://kirigaya.cn/blog/article?seq=359",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
       "id": "2e82af4ed8a432c4e557182c81e3b357cb2dd456",
       "title": "二手手机值得买吗？数码爱好者的省钱换机经验",
       "created": "2025-11-09 00:00",
@@ -2552,6 +2606,15 @@
       "link": "https://www.philschmid.de/gemini-file-search-javascript",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2cb2959928a56208dd3b0812c5a7a979e7e27d25",
+      "title": "WSL2 下安装 Docker",
+      "created": "2025-11-06 01:28",
+      "link": "https://kirigaya.cn/blog/article?seq=358",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
       "category": "ai"
     },
     {
@@ -2645,6 +2708,15 @@
       "category": "friend"
     },
     {
+      "id": "93ebecbd9596ad6baf91a1b98345efa436b1c17e",
+      "title": "为什么我需要设计回流系统？openmcp reflux 用量化指标帮你让你更加了解你的 Agent 系统与 MCP",
+      "created": "2025-10-31 06:32",
+      "link": "https://kirigaya.cn/blog/article?seq=357",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
       "id": "c39c797397a05e0d0e4a5d4b5b70979817e399d6",
       "title": "Skill Discovery | RGSD：基于高质量参考轨迹，预训练 skill space - MoonOut",
       "created": "2025-10-31 00:50",
@@ -2678,6 +2750,15 @@
       "link": "https://xnnehang.top/posts/debug/waiting_for_headers_0_ubuntu24",
       "author": "XnneHang's Blog",
       "avatar": "https://xnnehang.top/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8b175dfe366875fb5213ed1024e8e7d7fcae60dd",
+      "title": "RAG 和 CE 是什么关系？我们真的需要 RAG 吗？",
+      "created": "2025-10-28 03:35",
+      "link": "https://kirigaya.cn/blog/article?seq=356",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
       "category": "ai"
     },
     {
@@ -2733,6 +2814,15 @@
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
+    },
+    {
+      "id": "43517586ca661284021649e2602a1a0a7b38f8fd",
+      "title": "🪛 OpenMCP 重磅推出调用链可视化 & 季度小结",
+      "created": "2025-10-22 07:56",
+      "link": "https://kirigaya.cn/blog/article?seq=355",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
     },
     {
       "id": "381551d55aaf21382702068d14e9c83c86efd4cf",
