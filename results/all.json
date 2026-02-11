@@ -4,9 +4,18 @@
     "active_num": 33,
     "error_num": 1,
     "article_num": 511,
-    "last_updated_time": "2026-02-12 04:34:01"
+    "last_updated_time": "2026-02-12 06:25:18"
   },
   "article_data": [
+    {
+      "id": "51401c9129f2ed0c56a7a3990ad875b98c79953d",
+      "title": "Quoting Andrew Deck for Niemen Lab",
+      "created": "2026-02-12 04:59",
+      "link": "https://simonwillison.net/2026/Feb/11/manosphere-report/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "a824ab3e950c831b00eec3c96d92d16e9bf43d94",
       "title": "Skills in OpenAI API",
@@ -77,6 +86,15 @@
       "link": "https://seangoedecke.com/screwing-up/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "f7a73ae82cc0349339c463ed104c29b60afcb8eb",
+      "title": "PC 软件为手机重做了一遍，现在轮到 Agent 了",
+      "created": "2026-02-11 08:00",
+      "link": "https://baoyu.io/blog/2026/02/11/ai-agent-software-remake",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -476,15 +494,6 @@
       "category": "ai"
     },
     {
-      "id": "81c5e419951fe71ebbe01894816b6c89959c4ab7",
-      "title": "Voxtral transcribes at the speed of sound",
-      "created": "2026-02-05 06:42",
-      "link": "https://simonwillison.net/2026/Feb/4/voxtral-2/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
       "id": "7d83e0e5274cc434c02db25083a0434dc3905f40",
       "title": "A Guide to Effective Prompt Engineering",
       "created": "2026-02-05 00:32",
@@ -746,6 +755,15 @@
       "category": "ai"
     },
     {
+      "id": "d08bca586a1a5d8e71838335eadc3d0acbb47ebe",
+      "title": "高峰不常有",
+      "created": "2026-01-29 08:00",
+      "link": "https://ifuryst.github.io/blog/2026/peaks-r-rare/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
       "id": "e35a577bb50e97ff008d5d1341b0cb96bf4c9a8c",
       "title": "当每个人都能指挥一支 AI 大军，什么能力最重要？",
       "created": "2026-01-29 08:00",
@@ -761,15 +779,6 @@
       "link": "https://baoyu.io/translations/2026/01/29/management-ai-superpower",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "d08bca586a1a5d8e71838335eadc3d0acbb47ebe",
-      "title": "高峰不常有",
-      "created": "2026-01-29 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/peaks-r-rare/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -971,21 +980,21 @@
       "category": "ai"
     },
     {
-      "id": "8f9f3a4d5f35f95c27a37f45cbd2061c583bb3e3",
-      "title": "Skill 不就是长一点的提示词吗？",
-      "created": "2026-01-24 08:00",
-      "link": "https://baoyu.io/blog/2026/01/24/skill-vs-prompt",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "dbe222ab7c089b0008e5b1ec505eb15f32ebe2fb",
       "title": "快节奏慢生活",
       "created": "2026-01-24 08:00",
       "link": "https://ifuryst.github.io/blog/2026/fast-pace-slow-life/",
       "author": "ifuryst",
       "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "8f9f3a4d5f35f95c27a37f45cbd2061c583bb3e3",
+      "title": "Skill 不就是长一点的提示词吗？",
+      "created": "2026-01-24 08:00",
+      "link": "https://baoyu.io/blog/2026/01/24/skill-vs-prompt",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -1220,15 +1229,6 @@
       "link": "https://subhadipmitra.com/blog/2026/rlvr-beyond-math-code/",
       "author": "Subhadip Mitra",
       "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
-      "category": "ai"
-    },
-    {
-      "id": "81966ededbf7972a5571f959a97c9f989abd923f",
-      "title": "Skills 究竟是短期红利还是长期壁垒？",
-      "created": "2026-01-18 16:56",
-      "link": "https://baoyu.io/blog/skills-short-term-vs-long-term-advantage",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -1475,21 +1475,21 @@
       "category": "ai"
     },
     {
-      "id": "ddecdacb24bd0f7eeb6152205e2cf9f5e1c9e6bd",
-      "title": "肖恩技术周刊（第 77 期）：稀缺特质",
-      "created": "2026-01-05 08:00",
-      "link": "https://weekly.shawnxie.top/content/2026/77.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "a1e1d46195a5f0474eeab4dad8b595e121342b17",
       "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
       "created": "2026-01-05 08:00",
       "link": "https://huggingface.co/blog/nvidia-reachy-mini",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "ddecdacb24bd0f7eeb6152205e2cf9f5e1c9e6bd",
+      "title": "肖恩技术周刊（第 77 期）：稀缺特质",
+      "created": "2026-01-05 08:00",
+      "link": "https://weekly.shawnxie.top/content/2026/77.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
