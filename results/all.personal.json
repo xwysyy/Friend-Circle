@@ -3,10 +3,28 @@
     "friends_num": 34,
     "active_num": 33,
     "error_num": 1,
-    "article_num": 360,
-    "last_updated_time": "2026-02-12 02:56:41"
+    "article_num": 362,
+    "last_updated_time": "2026-02-12 04:34:09"
   },
   "article_data": [
+    {
+      "id": "a824ab3e950c831b00eec3c96d92d16e9bf43d94",
+      "title": "Skills in OpenAI API",
+      "created": "2026-02-12 03:19",
+      "link": "https://simonwillison.net/2026/Feb/11/skills-in-openai-api/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "7d98fb102987e21240c86bc0e5f4f455c501d598",
+      "title": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "created": "2026-02-12 02:56",
+      "link": "https://simonwillison.net/2026/Feb/11/glm-5/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "aea087779760a5c03a145a0a238c697e6f2d23f6",
       "title": "cysqlite - a new sqlite driver",
@@ -1412,21 +1430,21 @@
       "category": "friend"
     },
     {
-      "id": "85f2df675255b6d5ec869f08c62b9ec598494662",
-      "title": "Alignment Faking: When AI Pretends to Change - (Part 3/4)",
-      "created": "2025-10-07 08:00",
-      "link": "https://subhadipmitra.com/blog/2025/alignment-faking-ai-pretends-to-change-values/",
-      "author": "Subhadip Mitra",
-      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
-      "category": "ai"
-    },
-    {
       "id": "9bc2596df06c8c79a5e676b8fdbac757cab5c7d5",
       "title": "GPT-5-Codex is a better AI researcher than me",
       "created": "2025-10-07 08:00",
       "link": "https://seangoedecke.com/ai-research-with-codex/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "85f2df675255b6d5ec869f08c62b9ec598494662",
+      "title": "Alignment Faking: When AI Pretends to Change - (Part 3/4)",
+      "created": "2025-10-07 08:00",
+      "link": "https://subhadipmitra.com/blog/2025/alignment-faking-ai-pretends-to-change-values/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
       "category": "ai"
     },
     {

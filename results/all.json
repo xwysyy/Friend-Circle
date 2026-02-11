@@ -4,9 +4,27 @@
     "active_num": 33,
     "error_num": 1,
     "article_num": 511,
-    "last_updated_time": "2026-02-12 02:56:32"
+    "last_updated_time": "2026-02-12 04:34:01"
   },
   "article_data": [
+    {
+      "id": "a824ab3e950c831b00eec3c96d92d16e9bf43d94",
+      "title": "Skills in OpenAI API",
+      "created": "2026-02-12 03:19",
+      "link": "https://simonwillison.net/2026/Feb/11/skills-in-openai-api/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "7d98fb102987e21240c86bc0e5f4f455c501d598",
+      "title": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "created": "2026-02-12 02:56",
+      "link": "https://simonwillison.net/2026/Feb/11/glm-5/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "aea087779760a5c03a145a0a238c697e6f2d23f6",
       "title": "cysqlite - a new sqlite driver",
@@ -485,15 +503,6 @@
       "category": "ai"
     },
     {
-      "id": "9f08db439198bd8434d72392d6bfba85fecdd10d",
-      "title": "Distributing Go binaries like sqlite-scanner through PyPI using go-to-wheel",
-      "created": "2026-02-04 22:59",
-      "link": "https://simonwillison.net/2026/Feb/4/distributing-go-binaries/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
       "id": "b16f6babbf841af41131bf2f55cc0c39d0041bae",
       "title": "Adam优化器的最优超参数是β1=β2 ？",
       "created": "2026-02-04 15:47",
@@ -518,15 +527,6 @@
       "link": "https://huggingface.co/blog/community-evals",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "ef5f679e513102eb6de8805cdf39bdb24b7759d3",
-      "title": "Introducing Deno Sandbox",
-      "created": "2026-02-04 06:44",
-      "link": "https://simonwillison.net/2026/Feb/3/introducing-deno-sandbox/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -746,15 +746,6 @@
       "category": "ai"
     },
     {
-      "id": "d08bca586a1a5d8e71838335eadc3d0acbb47ebe",
-      "title": "高峰不常有",
-      "created": "2026-01-29 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/peaks-r-rare/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
-      "category": "ai"
-    },
-    {
       "id": "e35a577bb50e97ff008d5d1341b0cb96bf4c9a8c",
       "title": "当每个人都能指挥一支 AI 大军，什么能力最重要？",
       "created": "2026-01-29 08:00",
@@ -770,6 +761,15 @@
       "link": "https://baoyu.io/translations/2026/01/29/management-ai-superpower",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "d08bca586a1a5d8e71838335eadc3d0acbb47ebe",
+      "title": "高峰不常有",
+      "created": "2026-01-29 08:00",
+      "link": "https://ifuryst.github.io/blog/2026/peaks-r-rare/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -971,21 +971,21 @@
       "category": "ai"
     },
     {
-      "id": "dbe222ab7c089b0008e5b1ec505eb15f32ebe2fb",
-      "title": "快节奏慢生活",
-      "created": "2026-01-24 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/fast-pace-slow-life/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
-      "category": "ai"
-    },
-    {
       "id": "8f9f3a4d5f35f95c27a37f45cbd2061c583bb3e3",
       "title": "Skill 不就是长一点的提示词吗？",
       "created": "2026-01-24 08:00",
       "link": "https://baoyu.io/blog/2026/01/24/skill-vs-prompt",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "dbe222ab7c089b0008e5b1ec505eb15f32ebe2fb",
+      "title": "快节奏慢生活",
+      "created": "2026-01-24 08:00",
+      "link": "https://ifuryst.github.io/blog/2026/fast-pace-slow-life/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -1475,21 +1475,21 @@
       "category": "ai"
     },
     {
-      "id": "a1e1d46195a5f0474eeab4dad8b595e121342b17",
-      "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
-      "created": "2026-01-05 08:00",
-      "link": "https://huggingface.co/blog/nvidia-reachy-mini",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "ddecdacb24bd0f7eeb6152205e2cf9f5e1c9e6bd",
       "title": "肖恩技术周刊（第 77 期）：稀缺特质",
       "created": "2026-01-05 08:00",
       "link": "https://weekly.shawnxie.top/content/2026/77.html",
       "author": "肖恩技术周刊",
       "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "category": "ai"
+    },
+    {
+      "id": "a1e1d46195a5f0474eeab4dad8b595e121342b17",
+      "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
+      "created": "2026-01-05 08:00",
+      "link": "https://huggingface.co/blog/nvidia-reachy-mini",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
