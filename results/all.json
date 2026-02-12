@@ -3,10 +3,19 @@
     "friends_num": 34,
     "active_num": 33,
     "error_num": 1,
-    "article_num": 511,
-    "last_updated_time": "2026-02-12 09:50:38"
+    "article_num": 510,
+    "last_updated_time": "2026-02-12 12:21:26"
   },
   "article_data": [
+    {
+      "id": "85cb3d47d551473986fca693453ee7d02920691f",
+      "title": "把世界固定住，陪伴才会发生——多场景的悖论、记忆污染与人设一致性——对角色陪伴本质的思考",
+      "created": "2026-02-12 10:13",
+      "link": "https://xnnehang.top/posts/default/memory_agent_part1",
+      "author": "XnneHang's Blog",
+      "avatar": "https://xnnehang.top/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "51401c9129f2ed0c56a7a3990ad875b98c79953d",
       "title": "Quoting Andrew Deck for Niemen Lab",
@@ -86,6 +95,15 @@
       "link": "https://seangoedecke.com/screwing-up/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "1cf4c8abc20b6e7d4340c81f62462313ed6c17af",
+      "title": "xAI 全员大会实录：递归自我改进、5000 万视频/天、月球上的质量驱动器",
+      "created": "2026-02-11 08:00",
+      "link": "https://baoyu.io/blog/2026-02-11/xai-all-hands-meeting",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -1211,15 +1229,6 @@
       "link": "https://www.philschmid.de/generate-stickers",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "c56ecb4840132e047917283a3f2c82e9e76a8613",
-      "title": "SubAgent 与 Skills：AI Agent 的两种扩展方式",
-      "created": "2026-01-19 08:00",
-      "link": "https://baoyu.io/blog/2026/01/19/skills-vs-subagent",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -2789,15 +2798,6 @@
       "category": "ai"
     },
     {
-      "id": "d12429b4f9a8553d225ed54e4c128d743be59425",
-      "title": "Lost in the middle - how it affect LLM agent system",
-      "created": "2025-10-26 19:11",
-      "link": "https://xnnehang.top/posts/explore/lost-in-the-middle",
-      "author": "XnneHang's Blog",
-      "avatar": "https://xnnehang.top/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "14ebb5026221acb32e8b864f099ee4a264212ad0",
       "title": "Final Cut Pro 音频降噪、人声增强插件，优化视频中的人声表现",
       "created": "2025-10-24 17:53",
@@ -4148,10 +4148,10 @@
       "category": "ai"
     },
     {
-      "id": "318e4c96184b9fdbd116640195176c8b32f3a321",
-      "title": "virattt/dexter",
+      "id": "7bd1555c299489fc578f7f9ce541c4fdeff034a4",
+      "title": "hsliuping/TradingAgents-CN",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/virattt/dexter",
+      "link": "https://github.com/hsliuping/TradingAgents-CN",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -4161,96 +4161,6 @@
       "title": "KeygraphHQ/shannon",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/KeygraphHQ/shannon",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "d339c484e350e464ebee4d375984172e39bf1951",
-      "title": "tobi/qmd",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/tobi/qmd",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "1347f788933722962c9fb9e55531bcab4d0901e9",
-      "title": "OpenBMB/ChatDev",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/OpenBMB/ChatDev",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "9a611325804b320d95673d76d625101f88a72004",
-      "title": "disler/claude-code-hooks-mastery",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/disler/claude-code-hooks-mastery",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "ad79e9f25f84534c88ba90bd2357f9a885bc769a",
-      "title": "bytedance/UI-TARS",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/bytedance/UI-TARS",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "2fdd7b925789dbe4b55c7b78e31332c0a61d31ee",
-      "title": "NevaMind-AI/memU",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/NevaMind-AI/memU",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "f75e778072cbba582080bb6958f0551380cf4281",
-      "title": "microsoft/RD-Agent",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/microsoft/RD-Agent",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "7cc42753ef1830037ca506255e9885149490a0dc",
-      "title": "Canner/WrenAI",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/Canner/WrenAI",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "b638f5c7060d7c8d7239a4174ca4198d44971a84",
-      "title": "github/gh-aw",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/github/gh-aw",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "4aff7db928cd1cdc3b593a1bad18e8319ad99c67",
-      "title": "openai/skills",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/openai/skills",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "9f093b1fafebec97596b64bf82d600a99132a6d6",
-      "title": "bytedance/UI-TARS-desktop",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/bytedance/UI-TARS-desktop",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -4274,10 +4184,91 @@
       "category": "ai"
     },
     {
-      "id": "d1b1ace6d7e38749e6c72cadca2f63fae5c3d4ad",
-      "title": "ThePrimeagen/99",
+      "id": "9a611325804b320d95673d76d625101f88a72004",
+      "title": "disler/claude-code-hooks-mastery",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/ThePrimeagen/99",
+      "link": "https://github.com/disler/claude-code-hooks-mastery",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "d339c484e350e464ebee4d375984172e39bf1951",
+      "title": "tobi/qmd",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/tobi/qmd",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "b638f5c7060d7c8d7239a4174ca4198d44971a84",
+      "title": "github/gh-aw",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/github/gh-aw",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "4aff7db928cd1cdc3b593a1bad18e8319ad99c67",
+      "title": "openai/skills",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/openai/skills",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "318e4c96184b9fdbd116640195176c8b32f3a321",
+      "title": "virattt/dexter",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/virattt/dexter",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "3bc32fdc778d8c275a51ebcf7c566d6d74a915d0",
+      "title": "google/langextract",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/google/langextract",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "9f093b1fafebec97596b64bf82d600a99132a6d6",
+      "title": "bytedance/UI-TARS-desktop",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/bytedance/UI-TARS-desktop",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "ad79e9f25f84534c88ba90bd2357f9a885bc769a",
+      "title": "bytedance/UI-TARS",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/bytedance/UI-TARS",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "f75e778072cbba582080bb6958f0551380cf4281",
+      "title": "microsoft/RD-Agent",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/microsoft/RD-Agent",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "e4b73a660ae892e31690cfbc6c8fed4bb831e7e0",
+      "title": "Jeffallan/claude-skills",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/Jeffallan/claude-skills",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
