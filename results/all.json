@@ -4,9 +4,81 @@
     "active_num": 33,
     "error_num": 1,
     "article_num": 510,
-    "last_updated_time": "2026-02-12 18:40:02"
+    "last_updated_time": "2026-02-13 08:22:57"
   },
   "article_data": [
+    {
+      "id": "f18777cfa1e7e7bfe44d9f7ffa31cb9cd2b5c53f",
+      "title": "Introducing GPT‑5.3‑Codex‑Spark",
+      "created": "2026-02-13 05:16",
+      "link": "https://simonwillison.net/2026/Feb/12/codex-spark/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "dea29e47b7a1384ad6a787969762835d6cab3c6c",
+      "title": "Quoting Anthropic",
+      "created": "2026-02-13 04:22",
+      "link": "https://simonwillison.net/2026/Feb/12/anthropic/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "8e9ab01a9e082791af4a01ca46abc8088205fdb4",
+      "title": "Covering electricity price increases from our data centers",
+      "created": "2026-02-13 04:01",
+      "link": "https://simonwillison.net/2026/Feb/12/covering-electricity-price-increases/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "c9dfc06c5fbe73cdefd8001514bc5b5af28e0894",
+      "title": "科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？",
+      "created": "2026-02-13 02:34",
+      "link": "http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html",
+      "author": "阮一峰",
+      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
+      "category": "friend"
+    },
+    {
+      "id": "824d804dfe8256cc3f511628ec4cfdcfcecc4cc9",
+      "title": "Gemini 3 Deep Think",
+      "created": "2026-02-13 02:12",
+      "link": "https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "d45e5bc58c6630b9a1d73a8cbc0fe8a9fa663459",
+      "title": "An AI Agent Published a Hit Piece on Me",
+      "created": "2026-02-13 01:45",
+      "link": "https://simonwillison.net/2026/Feb/12/an-ai-agent-published-a-hit-piece-on-me/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "75a36c3b1fb0de705b1bd7022363ffe72f504652",
+      "title": "Supervisor, not overseer",
+      "created": "2026-02-13 00:47",
+      "link": "https://simonwillison.net/2026/Feb/12/supervisor/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "f3590ebbd5b5f437b0ee43c89eec9d57d545abaa",
+      "title": "Must-Know Software Architecture Patterns",
+      "created": "2026-02-13 00:30",
+      "link": "https://blog.bytebytego.com/p/must-know-software-architecture-patterns",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
     {
       "id": "0f5a6ddd1f1f573042a7bfe9bd2667ed0426054b",
       "title": "小红书，再造一个更有「声」命力的社区",
@@ -51,6 +123,33 @@
       "author": "阮一峰",
       "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
       "category": "friend"
+    },
+    {
+      "id": "4ca3f118d865c51a4e9f833bf3d476a7defa8024",
+      "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
+      "created": "2026-02-12 08:00",
+      "link": "https://huggingface.co/blog/openenv-turing",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "3e19534168bba3c42b77df4bebefcf3afb30c26d",
+      "title": "OpenAI 智能体工程指南：10 条实战技巧和 3 种构建模式",
+      "created": "2026-02-12 08:00",
+      "link": "https://baoyu.io/blog/2026-02-12/skills-shell-tips",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "dfcf8dbe7e7b47ca7779c887f6e2e82621b0d622",
+      "title": "我们真的变成巫师了：OpenAI API 负责人谈 AI 如何重塑软件工程",
+      "created": "2026-02-12 08:00",
+      "link": "https://baoyu.io/blog/2026-02-12/sherwin-wu-ai-software-engineering",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
     },
     {
       "id": "51401c9129f2ed0c56a7a3990ad875b98c79953d",
@@ -386,24 +485,6 @@
       "category": "ai"
     },
     {
-      "id": "db1ce42a01bc463201abfbad15411819462309a2",
-      "title": "Running Pydantic's Monty Rust sandboxed Python subset in WebAssembly",
-      "created": "2026-02-07 06:31",
-      "link": "https://simonwillison.net/2026/Feb/6/pydantic-monty/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "a5627e89e13835401c3f11c91f058454af2d2450",
-      "title": "An Update on Heroku",
-      "created": "2026-02-07 02:44",
-      "link": "https://simonwillison.net/2026/Feb/6/an-update-on-heroku/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
       "id": "23e057fa281c97c13f33a85e66f78724a72c5daa",
       "title": "[Subscriber Exclusive] Become an AI Engineer - Cohort 4",
       "created": "2026-02-07 00:31",
@@ -422,15 +503,6 @@
       "category": "ai"
     },
     {
-      "id": "17b385859bd987fa2741a53534c59a853b0e2c7a",
-      "title": "Quoting Karel D'Oosterlinck",
-      "created": "2026-02-06 08:42",
-      "link": "https://simonwillison.net/2026/Feb/6/karel-doosterlinck/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
       "id": "fefe54280853de881985a8baea7791d615810946",
       "title": "科技爱好者周刊（第 384 期）：为什么软件股下跌",
       "created": "2026-02-06 08:14",
@@ -438,24 +510,6 @@
       "author": "阮一峰",
       "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
       "category": "friend"
-    },
-    {
-      "id": "d76fa0728ba843756b520cd758e18bb79cbafff3",
-      "title": "Mitchell Hashimoto: My AI Adoption Journey",
-      "created": "2026-02-06 07:39",
-      "link": "https://simonwillison.net/2026/Feb/5/ai-adoption-journey/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "3dc663ab12785db2ce49c15ee20480ed2617f342",
-      "title": "Opus 4.6 and Codex 5.3",
-      "created": "2026-02-06 04:29",
-      "link": "https://simonwillison.net/2026/Feb/5/two-new-models/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
     },
     {
       "id": "f54671b0bef59c2787792963957f9ebb3b839610",
@@ -482,15 +536,6 @@
       "link": "http://www.phodal.com/blog/platform-engineering-architecture-governance/",
       "author": "Phodal Huang",
       "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "0cf09ddc1080c436d607c949bde6e1f0d6585752",
-      "title": "Spotlighting The World Factbook as We Bid a Fond Farewell",
-      "created": "2026-02-05 08:23",
-      "link": "https://simonwillison.net/2026/Feb/5/the-world-factbook/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -782,15 +827,6 @@
       "category": "ai"
     },
     {
-      "id": "d08bca586a1a5d8e71838335eadc3d0acbb47ebe",
-      "title": "高峰不常有",
-      "created": "2026-01-29 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/peaks-r-rare/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
-      "category": "ai"
-    },
-    {
       "id": "e35a577bb50e97ff008d5d1341b0cb96bf4c9a8c",
       "title": "当每个人都能指挥一支 AI 大军，什么能力最重要？",
       "created": "2026-01-29 08:00",
@@ -806,6 +842,15 @@
       "link": "https://baoyu.io/translations/2026/01/29/management-ai-superpower",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "d08bca586a1a5d8e71838335eadc3d0acbb47ebe",
+      "title": "高峰不常有",
+      "created": "2026-01-29 08:00",
+      "link": "https://ifuryst.github.io/blog/2026/peaks-r-rare/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -1007,21 +1052,21 @@
       "category": "ai"
     },
     {
-      "id": "dbe222ab7c089b0008e5b1ec505eb15f32ebe2fb",
-      "title": "快节奏慢生活",
-      "created": "2026-01-24 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/fast-pace-slow-life/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
-      "category": "ai"
-    },
-    {
       "id": "8f9f3a4d5f35f95c27a37f45cbd2061c583bb3e3",
       "title": "Skill 不就是长一点的提示词吗？",
       "created": "2026-01-24 08:00",
       "link": "https://baoyu.io/blog/2026/01/24/skill-vs-prompt",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "dbe222ab7c089b0008e5b1ec505eb15f32ebe2fb",
+      "title": "快节奏慢生活",
+      "created": "2026-01-24 08:00",
+      "link": "https://ifuryst.github.io/blog/2026/fast-pace-slow-life/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -1043,15 +1088,6 @@
       "category": "friend"
     },
     {
-      "id": "f2164455a3124ebdba4549bf0166f632d2f83f5a",
-      "title": "别把整个 GitHub 装进 Skills，Skills 的正确用法",
-      "created": "2026-01-23 08:00",
-      "link": "https://baoyu.io/blog/2026/01/22/skills-usage-principles",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "feffaf2a8f55586d58b6d75ae3dbe35bd1b92126",
       "title": "The Must-Know Fundamentals of Distributed Systems",
       "created": "2026-01-23 00:31",
@@ -1059,15 +1095,6 @@
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
-    },
-    {
-      "id": "211167450240e3a3714fd2c496a3bb88b2355240",
-      "title": "AI native Workspace 也许是智能体的下一阶段",
-      "created": "2026-01-22 19:46",
-      "link": "http://www.ruanyifeng.com/blog/2026/01/ai-native-workspace.html",
-      "author": "阮一峰",
-      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
-      "category": "friend"
     },
     {
       "id": "e7f84eb1ab3ae4490bed870e08305edcae53f839",
@@ -1121,15 +1148,6 @@
       "link": "https://www.philschmid.de/mcp-best-practices",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "49c6287801adfa4cb7d7db77149b9849afbc979f",
-      "title": "MCP 和 Skills 到底什么区别？一篇文章说清楚",
-      "created": "2026-01-21 08:00",
-      "link": "https://baoyu.io/blog/2026/01/20/mcp-vs-skills",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -1193,15 +1211,6 @@
       "link": "https://seangoedecke.com/addicted-to-being-useful/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "2e6eb4b4ce45ce29ed83c979611b624cd58e263d",
-      "title": "Why AI Needs GPUs and TPUs: The Hardware Behind LLMs",
-      "created": "2026-01-20 00:30",
-      "link": "https://blog.bytebytego.com/p/why-ai-needs-gpus-and-tpus-the-hardware",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
@@ -1479,15 +1488,6 @@
       "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
       "created": "2026-01-05 17:16",
       "link": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "a1e1d46195a5f0474eeab4dad8b595e121342b17",
-      "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
-      "created": "2026-01-05 08:00",
-      "link": "https://huggingface.co/blog/nvidia-reachy-mini",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
