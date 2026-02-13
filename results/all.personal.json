@@ -1,48 +1,12 @@
 {
   "statistical_data": {
     "friends_num": 34,
-    "active_num": 32,
-    "error_num": 2,
-    "article_num": 341,
-    "last_updated_time": "2026-02-13 18:36:34"
+    "active_num": 33,
+    "error_num": 1,
+    "article_num": 357,
+    "last_updated_time": "2026-02-13 20:49:15"
   },
   "article_data": [
-    {
-      "id": "6f0ae67874fd8a2d6069253f227c72a886e03a11",
-      "title": "LLM | 常用的数学数据集：MATH、GSM8K、AIME24 等 - MoonOut",
-      "created": "2026-02-13 13:13",
-      "link": "https://www.cnblogs.com/moonout/p/19611573",
-      "author": "Moon out",
-      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
-      "id": "794b9988b34c93d15237e111cbddfe41a9e4a1c8",
-      "title": "GLM-5封神，智谱市值五天翻倍，中国AI火力全开了",
-      "created": "2026-02-13 13:06",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651016856&idx=1&sn=aad3dbd1415d58cb70d9c9ac0535a1aa",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "7a8fb45f64c5e5b87590d8949a774434a94562ff",
-      "title": "视觉强≠能干活！清北普林斯顿等开源WorldArena，世界模型评测被颠覆",
-      "created": "2026-02-13 13:06",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651016856&idx=2&sn=9613e49139f0374059f1e04c79d9614a",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "fed15fbc4aa47fc37f7940146c6be978159cdbb4",
-      "title": "开源多模态推理「破壁」时刻：MMFineReason助力4B逆袭30B",
-      "created": "2026-02-13 13:06",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651016856&idx=3&sn=f518aba917e70e50301993fa33ec0cba",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
     {
       "id": "a46a3cbbf0caab0463200de8a7375802ac8e8211",
       "title": "LLM | REINFORCE++：好像是近期的 LLM RL 新方法 - MoonOut",
@@ -98,6 +62,15 @@
       "category": "ai"
     },
     {
+      "id": "7b4aafc7616641c5019ccccea0b9123484237975",
+      "title": "State of AI 2026 with Sebastian Raschka, Nathan Lambert, and Lex Fridman",
+      "created": "2026-02-01 14:20",
+      "link": "https://sebastianraschka.com/blog/2026/state-of-ai-interview.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "cbd2672eb9cebe1b25527b8d68b3d241f1622388",
       "title": "栏目对话和访谈：Sebastian Raschka 和 Nathan Lambert 在 Lex Fridman 播客深度解读 AI 现状：中美竞争、模型对比、规模定律、AGI 时间线。",
       "created": "2026-02-01 08:00",
@@ -149,6 +122,15 @@
       "link": "https://qwen.ai/blog?id=qwen3-max-thinking",
       "author": "Qwen",
       "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
+      "category": "ai"
+    },
+    {
+      "id": "be8358c2a9ad52025b13b015102541f4f6ff41e8",
+      "title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
+      "created": "2026-01-24 16:15",
+      "link": "https://sebastianraschka.com/blog/2026/categories-of-inference-time-scaling.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -257,6 +239,24 @@
       "link": "https://qwen.ai/blog?id=qwen-image-2512",
       "author": "Qwen",
       "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
+      "category": "ai"
+    },
+    {
+      "id": "5eed861a02b995c31f85c9b18b6b403c3a837c21",
+      "title": "The State Of LLMs 2025: Progress, Problems, and Predictions",
+      "created": "2025-12-30 16:15",
+      "link": "https://sebastianraschka.com/blog/2025/state-of-llms-2025.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "c597bcdce0539af6fc9d9577ea9f0d7728ab0461",
+      "title": "LLM Research Papers: The 2025 List (July to December)",
+      "created": "2025-12-30 16:00",
+      "link": "https://sebastianraschka.com/blog/2025/llm-research-papers-2025-part2.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -476,6 +476,15 @@
       "category": "ai"
     },
     {
+      "id": "2d93d46358590aa4bf908610e443acbe9f073aa8",
+      "title": "From Random Forests to RLVR: A Short History of ML/AI Hello Worlds",
+      "created": "2025-12-08 08:20",
+      "link": "https://sebastianraschka.com/blog/2025/hello-world-ai.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "dfa9b451a3652134f4945842c4132bc1dd1eaae7",
       "title": "肖恩技术周刊（第 73 期）：何意味？",
       "created": "2025-12-08 08:00",
@@ -554,6 +563,15 @@
       "link": "https://www.philschmid.de/context-engineering-part-2",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "0545b247b0fca29c6df54054b19db4a366629650",
+      "title": "From DeepSeek V3 to V3.2: Architecture, Sparse Attention, and RL Updates",
+      "created": "2025-12-03 08:06",
+      "link": "https://sebastianraschka.com/blog/2025/technical-deepseek.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -917,6 +935,15 @@
       "category": "ai"
     },
     {
+      "id": "698fc9a8a750c43722af57ce6d3a1180c6807b9c",
+      "title": "Recommendations for Getting the Most Out of a Technical Book",
+      "created": "2025-11-12 08:08",
+      "link": "https://sebastianraschka.com/blog/2025/reading-books.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "756ff88271aa2e6397f5751b142a0aab809112a2",
       "title": "Vibe Coding 何必只在桌面 IDE，编码智能体协同的思考与设计",
       "created": "2025-11-11 11:57",
@@ -1007,6 +1034,15 @@
       "category": "friend"
     },
     {
+      "id": "6e92047bb007da00983cc90a9364b05ea21bc5b2",
+      "title": "Beyond Standard LLMs",
+      "created": "2025-11-04 08:08",
+      "link": "https://sebastianraschka.com/blog/2025/beyond-standard-llms.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "329e02264d657b4fce73e946595d82aeab6129e3",
       "title": "4000公里首摔，真是当头一棒",
       "created": "2025-11-03 09:34",
@@ -1094,6 +1130,15 @@
       "link": "https://www.philschmid.de/n8n-cloud-run-gemini",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "4798db2ea0320f7cd6daebe89a59eb37fbe60881",
+      "title": "DGX Spark and Mac Mini for Local PyTorch Development",
+      "created": "2025-10-29 08:06",
+      "link": "https://sebastianraschka.com/blog/2025/dgx-impressions.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1340,6 +1385,15 @@
       "category": "friend"
     },
     {
+      "id": "85f2df675255b6d5ec869f08c62b9ec598494662",
+      "title": "Alignment Faking: When AI Pretends to Change - (Part 3/4)",
+      "created": "2025-10-07 08:00",
+      "link": "https://subhadipmitra.com/blog/2025/alignment-faking-ai-pretends-to-change-values/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "category": "ai"
+    },
+    {
       "id": "9bc2596df06c8c79a5e676b8fdbac757cab5c7d5",
       "title": "GPT-5-Codex is a better AI researcher than me",
       "created": "2025-10-07 08:00",
@@ -1349,12 +1403,12 @@
       "category": "ai"
     },
     {
-      "id": "85f2df675255b6d5ec869f08c62b9ec598494662",
-      "title": "Alignment Faking: When AI Pretends to Change - (Part 3/4)",
-      "created": "2025-10-07 08:00",
-      "link": "https://subhadipmitra.com/blog/2025/alignment-faking-ai-pretends-to-change-values/",
-      "author": "Subhadip Mitra",
-      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "id": "89647ba2c3533ab6657871f18e236781304389ed",
+      "title": "Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)",
+      "created": "2025-10-05 08:06",
+      "link": "https://sebastianraschka.com/blog/2025/llm-evaluation-4-approaches.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1574,6 +1628,15 @@
       "category": "ai"
     },
     {
+      "id": "e8fb65ed003da438100ab631f8fd219a91edfc2c",
+      "title": "Understanding and Implementing Qwen3 From Scratch",
+      "created": "2025-09-06 16:00",
+      "link": "https://sebastianraschka.com/blog/2025/qwen3-from-scratch.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "8869e67e3fef7951f3c0ed87f6f81aa0c6a57a4c",
       "title": "AI 的黄金时代",
       "created": "2025-09-06 08:00",
@@ -1736,6 +1799,15 @@
       "category": "ai"
     },
     {
+      "id": "9e6d5fdb4b797000190839f1a56c4af13114c5da",
+      "title": "From GPT-2 to gpt-oss: Analyzing the Architectural Advances",
+      "created": "2025-08-09 19:00",
+      "link": "https://sebastianraschka.com/blog/2025/from-gpt-2-to-gpt-oss.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "5048550f33744700daaaf1689a68c95888634541",
       "title": "循一缕风，入山偷得夏日凉",
       "created": "2025-08-08 13:50",
@@ -1814,6 +1886,15 @@
       "link": "https://www.philschmid.de/code-sandbox-mcp",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "9b83c424a7388adf89bc0e7fe88aecbed05e5ba1",
+      "title": "The Big LLM Architecture Comparison",
+      "created": "2025-07-19 14:00",
+      "link": "https://sebastianraschka.com/blog/2025/the-big-llm-architecture-comparison.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1916,6 +1997,15 @@
       "category": "friend"
     },
     {
+      "id": "145c37031e6c7a43ed4e1655b2d556d5bf0cb8a7",
+      "title": "LLM Research Papers: The 2025 List (January to June)",
+      "created": "2025-07-01 14:06",
+      "link": "https://sebastianraschka.com/blog/2025/llm-research-papers-the-2025-list-january-to-june.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "cdd76750432fa113610fa866d027af89c7c21074",
       "title": "pytorch使用-1：pytorch中基础概念",
       "created": "2025-07-01 08:00",
@@ -1985,6 +2075,15 @@
       "link": "https://www.philschmid.de/single-vs-multi-agents",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "d9915aa2bcdbcf5375be3a45e104cdef3aab3516",
+      "title": "Understanding and Coding the KV Cache in LLMs from Scratch",
+      "created": "2025-06-17 16:00",
+      "link": "https://sebastianraschka.com/blog/2025/coding-the-kv-cache-in-llms.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -2087,6 +2186,15 @@
       "category": "ai"
     },
     {
+      "id": "4794eaba6a0e784a1f7a047270589f0dbf1a120a",
+      "title": "Coding LLMs from the Ground Up: A Complete Course",
+      "created": "2025-05-10 08:00",
+      "link": "https://sebastianraschka.com/blog/2025/coding-llms-from-the-ground-up-a-complete-course.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "bef259b6b5a36dd90475d9ddd5672d7ec200b004",
       "title": "“PC 指向下一条要执行的指令”真的对吗？",
       "created": "2025-05-09 22:51",
@@ -2186,6 +2294,15 @@
       "category": "ai"
     },
     {
+      "id": "4511d0ebce0cfd62574c7e756649f666e0d9e293",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://sebastianraschka.com/blog/2025/the-state-of-reinforcement-learning-for-llm-reasoning.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "994ce6ada1e3d360ee18e9bb335e678de36ad6d0",
       "title": "美化你的RSS订阅地址",
       "created": "2025-04-18 20:47",
@@ -2240,6 +2357,15 @@
       "category": "ai"
     },
     {
+      "id": "9d9f27acfc979bdb551badc8d6eb7a5b064a0231",
+      "title": "First Look at Reasoning From Scratch: Chapter 1",
+      "created": "2025-03-29 14:03",
+      "link": "https://sebastianraschka.com/blog/2025/first-look-at-reasoning-from-scratch.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "a3173c4fa5b8941dac451cf5971bb66cf2a9a972",
       "title": "简单聊一聊 Redis 的锁",
       "created": "2025-03-23 08:00",
@@ -2264,6 +2390,15 @@
       "link": "https://philliphaeusler.com/posts/orthogonal_linear_layers/",
       "author": "Phillip Haeusler",
       "avatar": "https://philliphaeusler.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "555d1ed3017c1dd8f63afda0380dee19747121b8",
+      "title": "Inference-Time Compute Scaling Methods to Improve Reasoning Models",
+      "created": "2025-03-08 14:03",
+      "link": "https://sebastianraschka.com/blog/2025/state-of-llm-reasoning-and-inference-scaling.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -2318,6 +2453,15 @@
       "link": "https://philliphaeusler.com/posts/why_should_australia_be_rich/",
       "author": "Phillip Haeusler",
       "avatar": "https://philliphaeusler.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "03ace23a1b218085bc37325e6f64f8c9bada851a",
+      "title": "Understanding Reasoning LLMs",
+      "created": "2025-02-05 14:03",
+      "link": "https://sebastianraschka.com/blog/2025/understanding-reasoning-llms.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
