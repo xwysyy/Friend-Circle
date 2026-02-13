@@ -4,7 +4,7 @@
     "active_num": 33,
     "error_num": 1,
     "article_num": 510,
-    "last_updated_time": "2026-02-13 20:49:05"
+    "last_updated_time": "2026-02-13 22:37:54"
   },
   "article_data": [
     {
@@ -50,6 +50,15 @@
       "link": "https://www.cnblogs.com/moonout/p/19611485",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "835809aa0dbebbb9771f36317088d878e2ec22ad",
+      "title": "Custom Kernels for All from Codex and Claude",
+      "created": "2026-02-13 08:00",
+      "link": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1499,15 +1508,6 @@
       "link": "https://kirigaya.cn/blog/article?seq=364",
       "author": "锦恢",
       "avatar": "https://kirigaya.cn/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "dc25f01c9ead49d898bb87d4a5fe3c20697c1df6",
-      "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
-      "created": "2026-01-05 17:16",
-      "link": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
