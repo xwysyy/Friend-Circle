@@ -4,7 +4,7 @@
     "active_num": 33,
     "error_num": 1,
     "article_num": 510,
-    "last_updated_time": "2026-02-13 22:37:54"
+    "last_updated_time": "2026-02-14 00:39:39"
   },
   "article_data": [
     {
@@ -59,6 +59,15 @@
       "link": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "748820cd95f0b5ec380802a0797f0c29fed8d917",
+      "title": "Multimodal Function Calling with Gemini 3 and Interactions API",
+      "created": "2026-02-13 08:00",
+      "link": "https://www.philschmid.de/interactions-multimodal-fc",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -917,15 +926,6 @@
       "category": "ai"
     },
     {
-      "id": "b58af27be5f0edc33b1fc9ae907608fecade95ed",
-      "title": "深入浅出了解生成模型-9：扩散模型微调框架ai-toolkit介绍",
-      "created": "2026-01-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/01/28/Ai-toolkit-Training.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "0b1e6d82c7816f958ae514c0bd6cd5fe474fbe27",
       "title": "燃尽、重启、爆火：Clawdbot 创始人的 35 分钟访谈实录",
       "created": "2026-01-28 08:00",
@@ -941,6 +941,15 @@
       "link": "https://baoyu.io/blog/2026/01/27/sam-altman-developer-townhall-gpt5",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b58af27be5f0edc33b1fc9ae907608fecade95ed",
+      "title": "深入浅出了解生成模型-9：扩散模型微调框架ai-toolkit介绍",
+      "created": "2026-01-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/01/28/Ai-toolkit-Training.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -1736,21 +1745,21 @@
       "category": "ai"
     },
     {
-      "id": "b862cd6209e171582dfddff2fa7c56ba247f57a4",
-      "title": "模型推理框架——vllm原理及整体框架",
-      "created": "2025-12-27 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/12/27/vllm-1.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "29a9e0b54d724362a8754e0d07d8cfa211c4d7d0",
       "title": "无题",
       "created": "2025-12-27 08:00",
       "link": "https://ifuryst.github.io/blog/2025/untitled/",
       "author": "ifuryst",
       "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "b862cd6209e171582dfddff2fa7c56ba247f57a4",
+      "title": "模型推理框架——vllm原理及整体框架",
+      "created": "2025-12-27 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/12/27/vllm-1.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -3335,15 +3344,6 @@
       "link": "https://www.less-bug.com/posts/gpu-microarchitecture-journey-preface-hey-do-you-want-to-disassemble-a-gpu-with-your-own-hands/",
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "7944eaf2f6e3ff99d4981e9647123013a9b43db1",
-      "title": "Memory in Agents, Make LLMs remember.",
-      "created": "2025-08-04 08:00",
-      "link": "https://www.philschmid.de/memory-in-agents",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {

@@ -4,7 +4,7 @@
     "active_num": 33,
     "error_num": 1,
     "article_num": 357,
-    "last_updated_time": "2026-02-13 22:38:04"
+    "last_updated_time": "2026-02-14 00:39:52"
   },
   "article_data": [
     {
@@ -23,6 +23,15 @@
       "link": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "748820cd95f0b5ec380802a0797f0c29fed8d917",
+      "title": "Multimodal Function Calling with Gemini 3 and Interactions API",
+      "created": "2026-02-13 08:00",
+      "link": "https://www.philschmid.de/interactions-multimodal-fc",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -2345,15 +2354,6 @@
       "link": "https://www.less-bug.com/posts/learn-scala-in-one-day/",
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
-      "title": "Model Context Protocol (MCP) an overview",
-      "created": "2025-04-03 08:00",
-      "link": "https://www.philschmid.de/mcp-introduction",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
