@@ -15,6 +15,7 @@ handler = TimedRotatingFileHandler(
     backupCount=30,
     encoding="utf-8",
 )
+handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s - %(message)s'))
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
