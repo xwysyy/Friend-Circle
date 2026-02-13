@@ -4,7 +4,7 @@
     "active_num": 33,
     "error_num": 1,
     "article_num": 357,
-    "last_updated_time": "2026-02-14 00:39:52"
+    "last_updated_time": "2026-02-14 02:40:35"
   },
   "article_data": [
     {
@@ -14,24 +14,6 @@
       "link": "https://www.cnblogs.com/moonout/p/19611485",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
-      "id": "835809aa0dbebbb9771f36317088d878e2ec22ad",
-      "title": "Custom Kernels for All from Codex and Claude",
-      "created": "2026-02-13 08:00",
-      "link": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "748820cd95f0b5ec380802a0797f0c29fed8d917",
-      "title": "Multimodal Function Calling with Gemini 3 and Interactions API",
-      "created": "2026-02-13 08:00",
-      "link": "https://www.philschmid.de/interactions-multimodal-fc",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -816,6 +798,15 @@
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
+    },
+    {
+      "id": "68660ff47168e0f24375dc02b69ef7d3a8284d27",
+      "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
+      "created": "2025-11-20 08:00",
+      "link": "https://huggingface.co/blog/anylanguagemodel",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
     },
     {
       "id": "d51c9bf35b7b1f02caf752cbfa849cb410d22d1d",
@@ -2354,6 +2345,15 @@
       "link": "https://www.less-bug.com/posts/learn-scala-in-one-day/",
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
+      "title": "Model Context Protocol (MCP) an overview",
+      "created": "2025-04-03 08:00",
+      "link": "https://www.philschmid.de/mcp-introduction",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
