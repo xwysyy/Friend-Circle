@@ -4,9 +4,18 @@
     "active_num": 33,
     "error_num": 1,
     "article_num": 358,
-    "last_updated_time": "2026-02-13 09:53:03"
+    "last_updated_time": "2026-02-13 12:17:33"
   },
   "article_data": [
+    {
+      "id": "a46a3cbbf0caab0463200de8a7375802ac8e8211",
+      "title": "LLM | REINFORCE++：好像是近期的 LLM RL 新方法 - MoonOut",
+      "created": "2026-02-13 11:51",
+      "link": "https://www.cnblogs.com/moonout/p/19611485",
+      "author": "Moon out",
+      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
     {
       "id": "f54671b0bef59c2787792963957f9ebb3b839610",
       "title": "Introducing SyGra Studio",
@@ -1112,15 +1121,6 @@
       "link": "https://kirigaya.cn/blog/article?seq=357",
       "author": "锦恢",
       "avatar": "https://kirigaya.cn/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "c39c797397a05e0d0e4a5d4b5b70979817e399d6",
-      "title": "Skill Discovery | RGSD：基于高质量参考轨迹，预训练 skill space - MoonOut",
-      "created": "2025-10-31 00:50",
-      "link": "https://www.cnblogs.com/moonout/p/19178418",
-      "author": "Moon out",
-      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
       "category": "ai"
     },
     {
@@ -2780,19 +2780,10 @@
       "category": "ai"
     },
     {
-      "id": "7bd1555c299489fc578f7f9ce541c4fdeff034a4",
-      "title": "hsliuping/TradingAgents-CN",
+      "id": "e4b73a660ae892e31690cfbc6c8fed4bb831e7e0",
+      "title": "Jeffallan/claude-skills",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/hsliuping/TradingAgents-CN",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "1a01afe6b15e252e51cafbc5b74a8c1016d07957",
-      "title": "KeygraphHQ/shannon",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/KeygraphHQ/shannon",
+      "link": "https://github.com/Jeffallan/claude-skills",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2807,24 +2798,6 @@
       "category": "ai"
     },
     {
-      "id": "b8da10635efbda0c4c165e7fe1eeef9cfbfe64a1",
-      "title": "thedotmack/claude-mem",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/thedotmack/claude-mem",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "9a611325804b320d95673d76d625101f88a72004",
-      "title": "disler/claude-code-hooks-mastery",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/disler/claude-code-hooks-mastery",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "d339c484e350e464ebee4d375984172e39bf1951",
       "title": "tobi/qmd",
       "created": "2024-01-01 00:00",
@@ -2834,10 +2807,10 @@
       "category": "ai"
     },
     {
-      "id": "b638f5c7060d7c8d7239a4174ca4198d44971a84",
-      "title": "github/gh-aw",
+      "id": "7bd1555c299489fc578f7f9ce541c4fdeff034a4",
+      "title": "hsliuping/TradingAgents-CN",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/github/gh-aw",
+      "link": "https://github.com/hsliuping/TradingAgents-CN",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2852,10 +2825,46 @@
       "category": "ai"
     },
     {
+      "id": "1a01afe6b15e252e51cafbc5b74a8c1016d07957",
+      "title": "KeygraphHQ/shannon",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/KeygraphHQ/shannon",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "318e4c96184b9fdbd116640195176c8b32f3a321",
       "title": "virattt/dexter",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/virattt/dexter",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "9a611325804b320d95673d76d625101f88a72004",
+      "title": "disler/claude-code-hooks-mastery",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/disler/claude-code-hooks-mastery",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "b8da10635efbda0c4c165e7fe1eeef9cfbfe64a1",
+      "title": "thedotmack/claude-mem",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "64be882b584a31222940dd6050a84d853189b616",
+      "title": "chenyme/grok2api",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/chenyme/grok2api",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2870,37 +2879,28 @@
       "category": "ai"
     },
     {
-      "id": "9f093b1fafebec97596b64bf82d600a99132a6d6",
-      "title": "bytedance/UI-TARS-desktop",
+      "id": "de2a117c79f913c74daeac71e105372024b69166",
+      "title": "public-apis/public-apis",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/bytedance/UI-TARS-desktop",
+      "link": "https://github.com/public-apis/public-apis",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "ad79e9f25f84534c88ba90bd2357f9a885bc769a",
-      "title": "bytedance/UI-TARS",
+      "id": "3ee3cc6dee003c095c43f528c89e0dc3381c74a4",
+      "title": "linshenkx/prompt-optimizer",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/bytedance/UI-TARS",
+      "link": "https://github.com/linshenkx/prompt-optimizer",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "f75e778072cbba582080bb6958f0551380cf4281",
-      "title": "microsoft/RD-Agent",
+      "id": "95ef99bc0dbb2f38ec69a800bbdc9525f8acf8d9",
+      "title": "EveryInc/compound-engineering-plugin",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/microsoft/RD-Agent",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "e4b73a660ae892e31690cfbc6c8fed4bb831e7e0",
-      "title": "Jeffallan/claude-skills",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/Jeffallan/claude-skills",
+      "link": "https://github.com/EveryInc/compound-engineering-plugin",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
