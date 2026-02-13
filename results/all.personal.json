@@ -3,109 +3,10 @@
     "friends_num": 34,
     "active_num": 33,
     "error_num": 1,
-    "article_num": 368,
-    "last_updated_time": "2026-02-13 08:24:03"
+    "article_num": 358,
+    "last_updated_time": "2026-02-13 09:53:03"
   },
   "article_data": [
-    {
-      "id": "f18777cfa1e7e7bfe44d9f7ffa31cb9cd2b5c53f",
-      "title": "Introducing GPT‑5.3‑Codex‑Spark",
-      "created": "2026-02-13 05:16",
-      "link": "https://simonwillison.net/2026/Feb/12/codex-spark/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "dea29e47b7a1384ad6a787969762835d6cab3c6c",
-      "title": "Quoting Anthropic",
-      "created": "2026-02-13 04:22",
-      "link": "https://simonwillison.net/2026/Feb/12/anthropic/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "8e9ab01a9e082791af4a01ca46abc8088205fdb4",
-      "title": "Covering electricity price increases from our data centers",
-      "created": "2026-02-13 04:01",
-      "link": "https://simonwillison.net/2026/Feb/12/covering-electricity-price-increases/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "c9dfc06c5fbe73cdefd8001514bc5b5af28e0894",
-      "title": "科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？",
-      "created": "2026-02-13 02:34",
-      "link": "http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html",
-      "author": "阮一峰",
-      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
-      "category": "friend"
-    },
-    {
-      "id": "824d804dfe8256cc3f511628ec4cfdcfcecc4cc9",
-      "title": "Gemini 3 Deep Think",
-      "created": "2026-02-13 02:12",
-      "link": "https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "d45e5bc58c6630b9a1d73a8cbc0fe8a9fa663459",
-      "title": "An AI Agent Published a Hit Piece on Me",
-      "created": "2026-02-13 01:45",
-      "link": "https://simonwillison.net/2026/Feb/12/an-ai-agent-published-a-hit-piece-on-me/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "75a36c3b1fb0de705b1bd7022363ffe72f504652",
-      "title": "Supervisor, not overseer",
-      "created": "2026-02-13 00:47",
-      "link": "https://simonwillison.net/2026/Feb/12/supervisor/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "f3590ebbd5b5f437b0ee43c89eec9d57d545abaa",
-      "title": "Must-Know Software Architecture Patterns",
-      "created": "2026-02-13 00:30",
-      "link": "https://blog.bytebytego.com/p/must-know-software-architecture-patterns",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "4ca3f118d865c51a4e9f833bf3d476a7defa8024",
-      "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
-      "created": "2026-02-12 08:00",
-      "link": "https://huggingface.co/blog/openenv-turing",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "3e19534168bba3c42b77df4bebefcf3afb30c26d",
-      "title": "OpenAI 智能体工程指南：10 条实战技巧和 3 种构建模式",
-      "created": "2026-02-12 08:00",
-      "link": "https://baoyu.io/blog/2026-02-12/skills-shell-tips",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "dfcf8dbe7e7b47ca7779c887f6e2e82621b0d622",
-      "title": "我们真的变成巫师了：OpenAI API 负责人谈 AI 如何重塑软件工程",
-      "created": "2026-02-12 08:00",
-      "link": "https://baoyu.io/blog/2026-02-12/sherwin-wu-ai-software-engineering",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
     {
       "id": "f54671b0bef59c2787792963957f9ebb3b839610",
       "title": "Introducing SyGra Studio",
@@ -888,6 +789,15 @@
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
+    },
+    {
+      "id": "68660ff47168e0f24375dc02b69ef7d3a8284d27",
+      "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
+      "created": "2025-11-20 08:00",
+      "link": "https://huggingface.co/blog/anylanguagemodel",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
     },
     {
       "id": "d51c9bf35b7b1f02caf752cbfa849cb410d22d1d",
