@@ -4,9 +4,27 @@
     "active_num": 33,
     "error_num": 1,
     "article_num": 510,
-    "last_updated_time": "2026-02-14 06:28:05"
+    "last_updated_time": "2026-02-14 09:43:18"
   },
   "article_data": [
+    {
+      "id": "7a8cd16258484c5dacfc1c2c9e4da651d7eaeeaa",
+      "title": "Anthropic's public benefit mission",
+      "created": "2026-02-14 07:59",
+      "link": "https://simonwillison.net/2026/Feb/13/anthropic-public-benefit-mission/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "cde5bfd66f2949dd33a0b8c4c3534ee874344dce",
+      "title": "The evolution of OpenAI's mission statement",
+      "created": "2026-02-14 07:38",
+      "link": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "6f0ae67874fd8a2d6069253f227c72a886e03a11",
       "title": "LLM | 常用的数学数据集：MATH、GSM8K、AIME24 等 - MoonOut",
@@ -494,30 +512,12 @@
       "category": "ai"
     },
     {
-      "id": "5b1d69d3411c6b9c5c9970f56076d2065d499879",
-      "title": "How StrongDM's AI team build serious software without even looking at the code",
-      "created": "2026-02-07 23:40",
-      "link": "https://simonwillison.net/2026/Feb/7/software-factory/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
       "id": "8760287f5f743c081a16c5e52405423a0ad15980",
       "title": "【访谈对话】造过 Codex 的人，为什么每天用 Claude Code",
       "created": "2026-02-07 08:00",
       "link": "https://baoyu.io/blog/2026/02/07/segment-creator-interview",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "a8e19aed5980c5e8dbaf48214a095c94b2b03cfe",
-      "title": "Quoting Tom Dale",
-      "created": "2026-02-07 07:41",
-      "link": "https://simonwillison.net/2026/Feb/6/tom-dale/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -863,15 +863,6 @@
       "category": "ai"
     },
     {
-      "id": "d08bca586a1a5d8e71838335eadc3d0acbb47ebe",
-      "title": "高峰不常有",
-      "created": "2026-01-29 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/peaks-r-rare/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
-      "category": "ai"
-    },
-    {
       "id": "e35a577bb50e97ff008d5d1341b0cb96bf4c9a8c",
       "title": "当每个人都能指挥一支 AI 大军，什么能力最重要？",
       "created": "2026-01-29 08:00",
@@ -887,6 +878,15 @@
       "link": "https://baoyu.io/translations/2026/01/29/management-ai-superpower",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "d08bca586a1a5d8e71838335eadc3d0acbb47ebe",
+      "title": "高峰不常有",
+      "created": "2026-01-29 08:00",
+      "link": "https://ifuryst.github.io/blog/2026/peaks-r-rare/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -1088,21 +1088,21 @@
       "category": "ai"
     },
     {
-      "id": "dbe222ab7c089b0008e5b1ec505eb15f32ebe2fb",
-      "title": "快节奏慢生活",
-      "created": "2026-01-24 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/fast-pace-slow-life/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
-      "category": "ai"
-    },
-    {
       "id": "8f9f3a4d5f35f95c27a37f45cbd2061c583bb3e3",
       "title": "Skill 不就是长一点的提示词吗？",
       "created": "2026-01-24 08:00",
       "link": "https://baoyu.io/blog/2026/01/24/skill-vs-prompt",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "dbe222ab7c089b0008e5b1ec505eb15f32ebe2fb",
+      "title": "快节奏慢生活",
+      "created": "2026-01-24 08:00",
+      "link": "https://ifuryst.github.io/blog/2026/fast-pace-slow-life/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
