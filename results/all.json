@@ -4,9 +4,18 @@
     "active_num": 33,
     "error_num": 1,
     "article_num": 512,
-    "last_updated_time": "2026-02-15 00:22:39"
+    "last_updated_time": "2026-02-15 02:28:03"
   },
   "article_data": [
+    {
+      "id": "d0b44bc5327ef5530a3c0e5c3940410b62eb15e4",
+      "title": "EP202: MCP vs RAG vs AI Agents",
+      "created": "2026-02-15 00:30",
+      "link": "https://blog.bytebytego.com/p/ep202-mcp-vs-rag-vs-ai-agents",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
     {
       "id": "a7ac1dccdd5433f70d798333e290abbdfa2c5580",
       "title": "字节全家桶 Seed 2.0 + TRAE 玩转 Skill",
@@ -116,21 +125,21 @@
       "category": "ai"
     },
     {
-      "id": "748820cd95f0b5ec380802a0797f0c29fed8d917",
-      "title": "Multimodal Function Calling with Gemini 3 and Interactions API",
-      "created": "2026-02-13 08:00",
-      "link": "https://www.philschmid.de/interactions-multimodal-fc",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "835809aa0dbebbb9771f36317088d878e2ec22ad",
       "title": "Custom Kernels for All from Codex and Claude",
       "created": "2026-02-13 08:00",
       "link": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "748820cd95f0b5ec380802a0797f0c29fed8d917",
+      "title": "Multimodal Function Calling with Gemini 3 and Interactions API",
+      "created": "2026-02-13 08:00",
+      "link": "https://www.philschmid.de/interactions-multimodal-fc",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -935,21 +944,21 @@
       "category": "ai"
     },
     {
-      "id": "b58af27be5f0edc33b1fc9ae907608fecade95ed",
-      "title": "深入浅出了解生成模型-9：扩散模型微调框架ai-toolkit介绍",
-      "created": "2026-01-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/01/28/Ai-toolkit-Training.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "47a8fa05d40e15d99489e7adec5081e8807a1312",
       "title": "We Got Claude to Build CUDA Kernels and teach open models!",
       "created": "2026-01-28 08:00",
       "link": "https://huggingface.co/blog/upskill",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b58af27be5f0edc33b1fc9ae907608fecade95ed",
+      "title": "深入浅出了解生成模型-9：扩散模型微调框架ai-toolkit介绍",
+      "created": "2026-01-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/01/28/Ai-toolkit-Training.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -1187,15 +1196,6 @@
       "category": "ai"
     },
     {
-      "id": "0045975c2244cc3acd393b511c997448cec29a03",
-      "title": "How Pinterest Built An Async Compute Platform for Billions of Task Executions",
-      "created": "2026-01-21 00:31",
-      "link": "https://blog.bytebytego.com/p/how-pinterest-built-an-async-compute",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
       "id": "4c66d465692b0cab74c0d1ebb208fc07730b9967",
       "title": "One Year Since the “DeepSeek Moment”",
       "created": "2026-01-20 23:02",
@@ -1232,21 +1232,21 @@
       "category": "ai"
     },
     {
-      "id": "6b1f5d9b708a6a3f971e4a027781aec54622358b",
-      "title": "I'm addicted to being useful",
-      "created": "2026-01-20 08:00",
-      "link": "https://seangoedecke.com/addicted-to-being-useful/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "787dc2960702c5c05885b39a6f9a8618dc28cd88",
       "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
       "created": "2026-01-20 08:00",
       "link": "https://huggingface.co/blog/waypoint-1",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6b1f5d9b708a6a3f971e4a027781aec54622358b",
+      "title": "I'm addicted to being useful",
+      "created": "2026-01-20 08:00",
+      "link": "https://seangoedecke.com/addicted-to-being-useful/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
