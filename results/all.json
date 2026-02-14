@@ -4,9 +4,18 @@
     "active_num": 33,
     "error_num": 1,
     "article_num": 512,
-    "last_updated_time": "2026-02-14 22:22:11"
+    "last_updated_time": "2026-02-15 00:22:39"
   },
   "article_data": [
+    {
+      "id": "a7ac1dccdd5433f70d798333e290abbdfa2c5580",
+      "title": "字节全家桶 Seed 2.0 + TRAE 玩转 Skill",
+      "created": "2026-02-14 19:51",
+      "link": "http://www.ruanyifeng.com/blog/2026/02/seed-2.0.html",
+      "author": "阮一峰",
+      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
+      "category": "friend"
+    },
     {
       "id": "5193a3fa95ef63776e7e0d619ddadba9c8c2a06e",
       "title": "Agent、图像、视频全是大版本升级：春晚还没开，豆包AI就火了",
@@ -107,21 +116,21 @@
       "category": "ai"
     },
     {
-      "id": "835809aa0dbebbb9771f36317088d878e2ec22ad",
-      "title": "Custom Kernels for All from Codex and Claude",
-      "created": "2026-02-13 08:00",
-      "link": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "748820cd95f0b5ec380802a0797f0c29fed8d917",
       "title": "Multimodal Function Calling with Gemini 3 and Interactions API",
       "created": "2026-02-13 08:00",
       "link": "https://www.philschmid.de/interactions-multimodal-fc",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "835809aa0dbebbb9771f36317088d878e2ec22ad",
+      "title": "Custom Kernels for All from Codex and Claude",
+      "created": "2026-02-13 08:00",
+      "link": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -926,21 +935,21 @@
       "category": "ai"
     },
     {
-      "id": "47a8fa05d40e15d99489e7adec5081e8807a1312",
-      "title": "We Got Claude to Build CUDA Kernels and teach open models!",
-      "created": "2026-01-28 08:00",
-      "link": "https://huggingface.co/blog/upskill",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b58af27be5f0edc33b1fc9ae907608fecade95ed",
       "title": "深入浅出了解生成模型-9：扩散模型微调框架ai-toolkit介绍",
       "created": "2026-01-28 08:00",
       "link": "https://www.big-yellow-j.top/posts/2026/01/28/Ai-toolkit-Training.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "47a8fa05d40e15d99489e7adec5081e8807a1312",
+      "title": "We Got Claude to Build CUDA Kernels and teach open models!",
+      "created": "2026-01-28 08:00",
+      "link": "https://huggingface.co/blog/upskill",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1115,15 +1124,6 @@
       "category": "ai"
     },
     {
-      "id": "c3e2c0acc73fbf970f48138ae811ae91b6d2f732",
-      "title": "科技爱好者周刊（第 382 期）：独立软件的黄昏",
-      "created": "2026-01-23 08:13",
-      "link": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html",
-      "author": "阮一峰",
-      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
-      "category": "friend"
-    },
-    {
       "id": "feffaf2a8f55586d58b6d75ae3dbe35bd1b92126",
       "title": "The Must-Know Fundamentals of Distributed Systems",
       "created": "2026-01-23 00:31",
@@ -1232,21 +1232,21 @@
       "category": "ai"
     },
     {
-      "id": "787dc2960702c5c05885b39a6f9a8618dc28cd88",
-      "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
-      "created": "2026-01-20 08:00",
-      "link": "https://huggingface.co/blog/waypoint-1",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "6b1f5d9b708a6a3f971e4a027781aec54622358b",
       "title": "I'm addicted to being useful",
       "created": "2026-01-20 08:00",
       "link": "https://seangoedecke.com/addicted-to-being-useful/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "787dc2960702c5c05885b39a6f9a8618dc28cd88",
+      "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+      "created": "2026-01-20 08:00",
+      "link": "https://huggingface.co/blog/waypoint-1",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
