@@ -4,9 +4,27 @@
     "active_num": 33,
     "error_num": 1,
     "article_num": 511,
-    "last_updated_time": "2026-02-16 04:20:37"
+    "last_updated_time": "2026-02-16 06:19:26"
   },
   "article_data": [
+    {
+      "id": "5a159f46971609f83153a310029b8bfd87982749",
+      "title": "Em dash",
+      "created": "2026-02-16 05:40",
+      "link": "https://simonwillison.net/2026/Feb/15/em-dashes/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "e6da11184e0b19ca715311c31f5ed0a13a595562",
+      "title": "Deep Blue",
+      "created": "2026-02-16 05:06",
+      "link": "https://simonwillison.net/2026/Feb/15/deep-blue/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "22df864afd803cde97858591548a4d4a576255c4",
       "title": "Gwtar: a static efficient single-file HTML format",
@@ -104,6 +122,15 @@
       "link": "https://seangoedecke.com/fast-llm-inference/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "116c9ad40a079a7ec2513302f1f74114dae25067",
+      "title": "快不等于好：Anthropic 和 OpenAI 的快速模式藏着什么",
+      "created": "2026-02-15 08:00",
+      "link": "https://baoyu.io/blog/2026-02-15/fast-mode-vs-codex-spark",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -440,15 +467,6 @@
       "category": "ai"
     },
     {
-      "id": "aea087779760a5c03a145a0a238c697e6f2d23f6",
-      "title": "cysqlite - a new sqlite driver",
-      "created": "2026-02-12 01:34",
-      "link": "https://simonwillison.net/2026/Feb/11/cysqlite/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
       "id": "9eb35ca941dfd2b4a8a967457e9e7820def8f1fc",
       "title": "The Architecture Behind Atlas: OpenAI’s New ChatGPT-based Browser",
       "created": "2026-02-12 00:30",
@@ -482,15 +500,6 @@
       "link": "https://baoyu.io/blog/2026/02/11/ai-agent-software-remake",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "2df4241e1227acf3d8b2df4fb1a6bc1ebf4a53dc",
-      "title": "Introducing Showboat and Rodney, so agents can demo what they’ve built",
-      "created": "2026-02-11 01:45",
-      "link": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -957,15 +966,6 @@
       "title": "当每个人都能指挥一支 AI 大军，什么能力最重要？",
       "created": "2026-01-29 08:00",
       "link": "https://baoyu.io/blog/2026/01/29/management-ai-superpower",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e5e75092b2841ea461c9ce96ef85e5af916742ce",
-      "title": "管理：AI 时代的超能力",
-      "created": "2026-01-29 08:00",
-      "link": "https://baoyu.io/translations/2026/01/29/management-ai-superpower",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
