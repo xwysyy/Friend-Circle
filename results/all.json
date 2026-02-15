@@ -4,9 +4,27 @@
     "active_num": 33,
     "error_num": 1,
     "article_num": 512,
-    "last_updated_time": "2026-02-15 06:18:22"
+    "last_updated_time": "2026-02-15 09:52:21"
   },
   "article_data": [
+    {
+      "id": "f3c98e92299c3044e22166fde6bba83d9503e4fb",
+      "title": "Two different tricks for fast LLM inference",
+      "created": "2026-02-15 08:00",
+      "link": "https://seangoedecke.com/fast-llm-inference/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "c42061fb525f80ad4167a3e02ddb66e68a2077d9",
+      "title": "Quoting Boris Cherny",
+      "created": "2026-02-15 07:59",
+      "link": "https://simonwillison.net/2026/Feb/14/boris/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "d0b44bc5327ef5530a3c0e5c3940410b62eb15e4",
       "title": "EP202: MCP vs RAG vs AI Agents",
@@ -534,15 +552,6 @@
       "title": "Vouch",
       "created": "2026-02-08 07:57",
       "link": "https://simonwillison.net/2026/Feb/7/vouch/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "2df4d4f84eadac0aa3be3e0ed9a14deec6668d94",
-      "title": "Claude: Speed up responses with fast mode",
-      "created": "2026-02-08 07:10",
-      "link": "https://simonwillison.net/2026/Feb/7/claude-fast-mode/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
@@ -2552,15 +2561,6 @@
       "link": "http://www.phodal.com/blog/ai-code-review-2025/",
       "author": "Phodal Huang",
       "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "243c9a6398770dd91ccfe05b765ec18cc0eb84a7",
-      "title": "Writing for AIs is a good way to reach more humans",
-      "created": "2025-11-14 08:00",
-      "link": "https://seangoedecke.com/writing-for-ais/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
