@@ -3,10 +3,19 @@
     "friends_num": 34,
     "active_num": 33,
     "error_num": 1,
-    "article_num": 357,
-    "last_updated_time": "2026-02-16 22:38:35"
+    "article_num": 358,
+    "last_updated_time": "2026-02-17 00:37:48"
   },
   "article_data": [
+    {
+      "id": "3dca1a16b31eff5f441447e3ff198fbb466c3301",
+      "title": "How OpenAI Scaled to 800 Million Users With Postgres",
+      "created": "2026-02-17 00:30",
+      "link": "https://blog.bytebytego.com/p/how-openai-scaled-to-800-million",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
     {
       "id": "f8820bd1e00185c2e8ff2d88a7f7cf980e922d2d",
       "title": "MuP之上：2. 线性层与最速下降",
@@ -1385,21 +1394,21 @@
       "category": "friend"
     },
     {
-      "id": "85f2df675255b6d5ec869f08c62b9ec598494662",
-      "title": "Alignment Faking: When AI Pretends to Change - (Part 3/4)",
-      "created": "2025-10-07 08:00",
-      "link": "https://subhadipmitra.com/blog/2025/alignment-faking-ai-pretends-to-change-values/",
-      "author": "Subhadip Mitra",
-      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
-      "category": "ai"
-    },
-    {
       "id": "9bc2596df06c8c79a5e676b8fdbac757cab5c7d5",
       "title": "GPT-5-Codex is a better AI researcher than me",
       "created": "2025-10-07 08:00",
       "link": "https://seangoedecke.com/ai-research-with-codex/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "85f2df675255b6d5ec869f08c62b9ec598494662",
+      "title": "Alignment Faking: When AI Pretends to Change - (Part 3/4)",
+      "created": "2025-10-07 08:00",
+      "link": "https://subhadipmitra.com/blog/2025/alignment-faking-ai-pretends-to-change-values/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
       "category": "ai"
     },
     {
