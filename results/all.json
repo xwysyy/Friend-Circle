@@ -4,7 +4,7 @@
     "active_num": 33,
     "error_num": 1,
     "article_num": 511,
-    "last_updated_time": "2026-02-18 00:52:11"
+    "last_updated_time": "2026-02-18 02:51:58"
   },
   "article_data": [
     {
@@ -126,11 +126,20 @@
     },
     {
       "id": "384030fdf4578c8e1c083c1ca8c8bd14a3e66530",
-      "title": "Can We Close the Loop in 2026??",
+      "title": "Can We Close the Loop in 2026?",
       "created": "2026-02-17 08:00",
       "link": "https://www.philschmid.de/closing-the-loop",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2907b67a4a15a8abfe53c7d27e5533897a0f4e50",
+      "title": "Jeff Dean 深度访谈：一页纸备忘录促成 Gemini 的诞生，Google AI 的反击与 10,000 Token 的未来",
+      "created": "2026-02-17 08:00",
+      "link": "https://baoyu.io/blog/2026-02-17/jeff-dean-latent-space",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -1025,15 +1034,6 @@
       "category": "ai"
     },
     {
-      "id": "e35a577bb50e97ff008d5d1341b0cb96bf4c9a8c",
-      "title": "当每个人都能指挥一支 AI 大军，什么能力最重要？",
-      "created": "2026-01-29 08:00",
-      "link": "https://baoyu.io/blog/2026/01/29/management-ai-superpower",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "6d4d594b717bc40cdf4d62835d65b4fb2567e196",
       "title": "How to Write High-Performance Code",
       "created": "2026-01-29 00:30",
@@ -1799,21 +1799,21 @@
       "category": "ai"
     },
     {
-      "id": "4627fcf1fb4a115d4335704aeecf402d9dc1a6f2",
-      "title": "王二下班之后",
-      "created": "2025-12-27 08:00",
-      "link": "https://mathewshen.me/blog/2025/wang-work/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "27bb33e4926cc0d7552cb49e91aa04be22d38095",
       "title": "You can't design software you don't work on",
       "created": "2025-12-27 08:00",
       "link": "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "4627fcf1fb4a115d4335704aeecf402d9dc1a6f2",
+      "title": "王二下班之后",
+      "created": "2025-12-27 08:00",
+      "link": "https://mathewshen.me/blog/2025/wang-work/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
