@@ -4,7 +4,7 @@
     "active_num": 33,
     "error_num": 1,
     "article_num": 358,
-    "last_updated_time": "2026-02-17 09:47:05"
+    "last_updated_time": "2026-02-17 12:15:31"
   },
   "article_data": [
     {
@@ -14,6 +14,15 @@
       "link": "https://simonwillison.net/2026/Feb/17/chartroom-and-datasette-showboat/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "283f8f35757dad82c325c0208a27e7d91aae6242",
+      "title": "LLM-generated skills work, if you generate them afterwards",
+      "created": "2026-02-17 08:00",
+      "link": "https://seangoedecke.com/generate-skills-afterwards/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1394,15 +1403,6 @@
       "category": "friend"
     },
     {
-      "id": "9bc2596df06c8c79a5e676b8fdbac757cab5c7d5",
-      "title": "GPT-5-Codex is a better AI researcher than me",
-      "created": "2025-10-07 08:00",
-      "link": "https://seangoedecke.com/ai-research-with-codex/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "85f2df675255b6d5ec869f08c62b9ec598494662",
       "title": "Alignment Faking: When AI Pretends to Change - (Part 3/4)",
       "created": "2025-10-07 08:00",
@@ -2771,46 +2771,10 @@
       "category": "ai"
     },
     {
-      "id": "1a01afe6b15e252e51cafbc5b74a8c1016d07957",
-      "title": "KeygraphHQ/shannon",
+      "id": "d09c96ee80dfa30081443ee000dc0666b33acb50",
+      "title": "tambo-ai/tambo",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/KeygraphHQ/shannon",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "b8da10635efbda0c4c165e7fe1eeef9cfbfe64a1",
-      "title": "thedotmack/claude-mem",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/thedotmack/claude-mem",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "7bd1555c299489fc578f7f9ce541c4fdeff034a4",
-      "title": "hsliuping/TradingAgents-CN",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/hsliuping/TradingAgents-CN",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "51ef4b6896c1cf6e9bcda24325ac8ca90021988e",
-      "title": "microsoft/litebox",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/microsoft/litebox",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "b409dc7b8493b72378e884c89cdd651343e64c0f",
-      "title": "Shubhamsaboo/awesome-llm-apps",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "link": "https://github.com/tambo-ai/tambo",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2825,19 +2789,10 @@
       "category": "ai"
     },
     {
-      "id": "3bc32fdc778d8c275a51ebcf7c566d6d74a915d0",
-      "title": "google/langextract",
+      "id": "2ce815b0cce27338af96d4d84fd5022689aa61b1",
+      "title": "badlogic/pi-mono",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/google/langextract",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "9fb0c8367c326909c13c7c2e3cdd167c3a56d1da",
-      "title": "danielmiessler/Personal_AI_Infrastructure",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "link": "https://github.com/badlogic/pi-mono",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2852,10 +2807,55 @@
       "category": "ai"
     },
     {
-      "id": "2ce815b0cce27338af96d4d84fd5022689aa61b1",
-      "title": "badlogic/pi-mono",
+      "id": "e4b73a660ae892e31690cfbc6c8fed4bb831e7e0",
+      "title": "Jeffallan/claude-skills",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/badlogic/pi-mono",
+      "link": "https://github.com/Jeffallan/claude-skills",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "3b06c325127626ff15e820e665332741e708c366",
+      "title": "carlvellotti/claude-code-pm-course",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/carlvellotti/claude-code-pm-course",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "9fb0c8367c326909c13c7c2e3cdd167c3a56d1da",
+      "title": "danielmiessler/Personal_AI_Infrastructure",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "1a01afe6b15e252e51cafbc5b74a8c1016d07957",
+      "title": "KeygraphHQ/shannon",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/KeygraphHQ/shannon",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "7bd1555c299489fc578f7f9ce541c4fdeff034a4",
+      "title": "hsliuping/TradingAgents-CN",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/hsliuping/TradingAgents-CN",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "662008c0ba5c58fea2ddd6af03df686b6a1ec7cb",
+      "title": "steipete/gogcli",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/steipete/gogcli",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2865,6 +2865,15 @@
       "title": "gitbutlerapp/gitbutler",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/gitbutlerapp/gitbutler",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "3bc32fdc778d8c275a51ebcf7c566d6d74a915d0",
+      "title": "google/langextract",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/google/langextract",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2883,15 +2892,6 @@
       "title": "virattt/dexter",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/virattt/dexter",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "e4b73a660ae892e31690cfbc6c8fed4bb831e7e0",
-      "title": "Jeffallan/claude-skills",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/Jeffallan/claude-skills",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
