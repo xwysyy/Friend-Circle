@@ -3,10 +3,19 @@
     "friends_num": 34,
     "active_num": 33,
     "error_num": 1,
-    "article_num": 353,
-    "last_updated_time": "2026-02-18 14:56:58"
+    "article_num": 354,
+    "last_updated_time": "2026-02-18 16:39:12"
   },
   "article_data": [
+    {
+      "id": "428d6b0dd5e9ac6d605286cbef711aa49e7986ff",
+      "title": "用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更",
+      "created": "2026-02-18 08:00",
+      "link": "https://baoyu.io/blog/2026-02-13/claude-code-auto-commit",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "22dc11af63ecbb2f999de756c239237476c5e1b9",
       "title": "LLM | 完全面向算法的 VeRL 代码阅读笔记 - MoonOut",

@@ -4,9 +4,18 @@
     "active_num": 33,
     "error_num": 1,
     "article_num": 508,
-    "last_updated_time": "2026-02-18 14:56:49"
+    "last_updated_time": "2026-02-18 16:39:03"
   },
   "article_data": [
+    {
+      "id": "428d6b0dd5e9ac6d605286cbef711aa49e7986ff",
+      "title": "用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更",
+      "created": "2026-02-18 08:00",
+      "link": "https://baoyu.io/blog/2026-02-13/claude-code-auto-commit",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "2bff6cf52d0ab8e1972993676ed240571deeaeb9",
       "title": "Introducing Claude Sonnet 4.6",
@@ -941,15 +950,6 @@
       "link": "https://www.philschmid.de/acp-overview",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "dedffadd2428473b6bc9799c006c2965ebf84753",
-      "title": "How I Used Codex to \\\"Recover\\\" Lost Source Code in 5 Days",
-      "created": "2026-02-01 08:00",
-      "link": "https://baoyu.io/blog/2026/01/31/codex-recover-source-code",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
