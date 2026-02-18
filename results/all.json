@@ -4,9 +4,36 @@
     "active_num": 33,
     "error_num": 1,
     "article_num": 511,
-    "last_updated_time": "2026-02-18 06:26:13"
+    "last_updated_time": "2026-02-18 09:49:54"
   },
   "article_data": [
+    {
+      "id": "2bff6cf52d0ab8e1972993676ed240571deeaeb9",
+      "title": "Introducing Claude Sonnet 4.6",
+      "created": "2026-02-18 07:58",
+      "link": "https://simonwillison.net/2026/Feb/17/claude-sonnet-46/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "5207df288bdf4dac920bba7536d53af62f23cc56",
+      "title": "NVIDIA Nemotron 2 Nano 9B Japanese: 日本のソブリンAIを支える最先端小規模言語モデル",
+      "created": "2026-02-18 07:28",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-nano-9b-v2-japanese-ja",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "768d3d780431eb21bb9434dc1149a00d0199c810",
+      "title": "Rodney v0.4.0",
+      "created": "2026-02-18 07:02",
+      "link": "https://simonwillison.net/2026/Feb/17/rodney/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "1c92ea48a4eda4ed27beb0821844c1c96e62a917",
       "title": "How Cloudflare Eliminates Cold Starts for Serverless Workers",
@@ -131,6 +158,15 @@
       "link": "https://www.philschmid.de/closing-the-loop",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "314eee4875894a9824b02839361ea4e2870f272f",
+      "title": "高中辍学生靠 ChatGPT 自学成才成了 OpenAI 的研究科学家",
+      "created": "2026-02-17 08:00",
+      "link": "https://baoyu.io/blog/2026-02-17/gabriel-petersson-openai-dropout",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -413,15 +449,6 @@
       "category": "ai"
     },
     {
-      "id": "cde5bfd66f2949dd33a0b8c4c3534ee874344dce",
-      "title": "The evolution of OpenAI's mission statement",
-      "created": "2026-02-14 07:38",
-      "link": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
       "id": "6f0ae67874fd8a2d6069253f227c72a886e03a11",
       "title": "LLM | 常用的数学数据集：MATH、GSM8K、AIME24 等 - MoonOut",
       "created": "2026-02-13 13:13",
@@ -473,15 +500,6 @@
       "link": "https://baoyu.io/blog/2026-02-13/musk-coding-dead",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "f18777cfa1e7e7bfe44d9f7ffa31cb9cd2b5c53f",
-      "title": "Introducing GPT‑5.3‑Codex‑Spark",
-      "created": "2026-02-13 05:16",
-      "link": "https://simonwillison.net/2026/Feb/12/codex-spark/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -782,15 +800,6 @@
       "category": "ai"
     },
     {
-      "id": "53ee9a9e540a4af837179e2c10c8af5b3834e0f7",
-      "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model",
-      "created": "2026-02-04 23:00",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b16f6babbf841af41131bf2f55cc0c39d0041bae",
       "title": "Adam优化器的最优超参数是β1=β2 ？",
       "created": "2026-02-04 15:47",
@@ -939,15 +948,6 @@
       "title": "How I Used Codex to \\\"Recover\\\" Lost Source Code in 5 Days",
       "created": "2026-02-01 08:00",
       "link": "https://baoyu.io/blog/2026/01/31/codex-recover-source-code",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "cbd2672eb9cebe1b25527b8d68b3d241f1622388",
-      "title": "栏目对话和访谈：Sebastian Raschka 和 Nathan Lambert 在 Lex Fridman 播客深度解读 AI 现状：中美竞争、模型对比、规模定律、AGI 时间线。",
-      "created": "2026-02-01 08:00",
-      "link": "https://baoyu.io/blog/state-of-ai-in-2026-lex-fridman-podcast",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"

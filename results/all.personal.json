@@ -3,10 +3,37 @@
     "friends_num": 34,
     "active_num": 33,
     "error_num": 1,
-    "article_num": 362,
-    "last_updated_time": "2026-02-18 06:26:23"
+    "article_num": 365,
+    "last_updated_time": "2026-02-18 09:50:03"
   },
   "article_data": [
+    {
+      "id": "2bff6cf52d0ab8e1972993676ed240571deeaeb9",
+      "title": "Introducing Claude Sonnet 4.6",
+      "created": "2026-02-18 07:58",
+      "link": "https://simonwillison.net/2026/Feb/17/claude-sonnet-46/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "5207df288bdf4dac920bba7536d53af62f23cc56",
+      "title": "NVIDIA Nemotron 2 Nano 9B Japanese: 日本のソブリンAIを支える最先端小規模言語モデル",
+      "created": "2026-02-18 07:28",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-nano-9b-v2-japanese-ja",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "768d3d780431eb21bb9434dc1149a00d0199c810",
+      "title": "Rodney v0.4.0",
+      "created": "2026-02-18 07:02",
+      "link": "https://simonwillison.net/2026/Feb/17/rodney/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "1c92ea48a4eda4ed27beb0821844c1c96e62a917",
       "title": "How Cloudflare Eliminates Cold Starts for Serverless Workers",
@@ -68,6 +95,15 @@
       "link": "https://www.philschmid.de/closing-the-loop",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "314eee4875894a9824b02839361ea4e2870f272f",
+      "title": "高中辍学生靠 ChatGPT 自学成才成了 OpenAI 的研究科学家",
+      "created": "2026-02-17 08:00",
+      "link": "https://baoyu.io/blog/2026-02-17/gabriel-petersson-openai-dropout",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -861,15 +897,6 @@
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
-    },
-    {
-      "id": "68660ff47168e0f24375dc02b69ef7d3a8284d27",
-      "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
-      "created": "2025-11-20 08:00",
-      "link": "https://huggingface.co/blog/anylanguagemodel",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
     },
     {
       "id": "d51c9bf35b7b1f02caf752cbfa849cb410d22d1d",
