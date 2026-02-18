@@ -3,17 +3,44 @@
     "friends_num": 34,
     "active_num": 33,
     "error_num": 1,
-    "article_num": 343,
-    "last_updated_time": "2026-02-18 22:40:43"
+    "article_num": 344,
+    "last_updated_time": "2026-02-19 00:58:28"
   },
   "article_data": [
     {
-      "id": "7f7e4d0f20cab6d25e61c05ffd998aa4802c8c82",
-      "title": "OpenAI’s Confessions Paper Has a Blind Spot. Here’s What Fills It.",
-      "created": "2026-02-18 18:00",
-      "link": "https://subhadipmitra.com/blog/2026/openai-confessions-blind-spot/",
-      "author": "Subhadip Mitra",
-      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "id": "66a0ce882694031ffa641f720c6ab5b974335160",
+      "title": "Quoting Martin Fowler",
+      "created": "2026-02-19 00:50",
+      "link": "https://simonwillison.net/2026/Feb/18/martin-fowler/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "67456e95d89ffa4edc77663de726c828fff87ea5",
+      "title": "The First 10-Year Evolution of Stripe’s Payments API",
+      "created": "2026-02-19 00:31",
+      "link": "https://blog.bytebytego.com/p/the-first-10-year-evolution-of-stripes",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "id": "a48598059a697bdeb732df993055d23207e5e50e",
+      "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
+      "created": "2026-02-19 00:15",
+      "link": "https://huggingface.co/blog/ibm-research/itbenchandmast",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "501a434af8dc61c04af1d5d1c57073f523de3181",
+      "title": "随记 | 20260218 · 关于踏出舒适圈的思考 - MoonOut",
+      "created": "2026-02-19 00:07",
+      "link": "https://www.cnblogs.com/moonout/p/19623418",
+      "author": "Moon out",
+      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
       "category": "ai"
     },
     {
@@ -59,6 +86,15 @@
       "link": "https://www.cnblogs.com/moonout/p/19611485",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "1a342c9eb2b2c5fe50f036a990bdd071b7c86423",
+      "title": "Activation Steering in 2026: A Practitioner’s Field Guide",
+      "created": "2026-02-12 18:00",
+      "link": "https://subhadipmitra.com/blog/2026/activation-steering-field-guide/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
       "category": "ai"
     },
     {
@@ -620,15 +656,6 @@
       "category": "friend"
     },
     {
-      "id": "c155f70bc5c5d005c2bf085c43cbfa24a2d7d539",
-      "title": "论文速读记录 | 2025.12（1） - MoonOut",
-      "created": "2025-12-02 23:13",
-      "link": "https://www.cnblogs.com/moonout/p/19299654",
-      "author": "Moon out",
-      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
       "id": "165dcd64a30f76844ba198af0103a38ddd22b894",
       "title": "你的 AI Coding 不听话？写了 prompt 还是不听话？不妨试试用基于反馈的 mcp server 来改掉这个坏毛病！",
       "created": "2025-12-02 04:47",
@@ -807,24 +834,6 @@
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
-    },
-    {
-      "id": "68660ff47168e0f24375dc02b69ef7d3a8284d27",
-      "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
-      "created": "2025-11-20 08:00",
-      "link": "https://huggingface.co/blog/anylanguagemodel",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "d51c9bf35b7b1f02caf752cbfa849cb410d22d1d",
-      "title": "The MCP Maturity Model: Evaluating Your Multi-Agent Context Strategy",
-      "created": "2025-11-19 08:00",
-      "link": "https://subhadipmitra.com/blog/2025/mcp-maturity-model/",
-      "author": "Subhadip Mitra",
-      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
-      "category": "ai"
     },
     {
       "id": "f1d2de91d7701f1942fae3d79dbac2c94c16eb6b",
