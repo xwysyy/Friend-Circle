@@ -3,11 +3,24 @@ from app.core import collect_from_config, fetch_ignore_ids, load_config
 import json
 import logging
 import os
+from logging.handlers import TimedRotatingFileHandler
 
 RESULTS_DIR = os.path.join(os.path.dirname(__file__), "results")
 os.makedirs(RESULTS_DIR, exist_ok=True)
 log_file = os.path.join(RESULTS_DIR, "grab.log")
-logging.basicConfig(filename=log_file, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+handler = TimedRotatingFileHandler(
+    log_file,
+    when="D",
+    interval=1,
+    backupCount=30,
+    encoding="utf-8",
+)
+handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s - %(message)s'))
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[handler],
+)
 
 config = load_config(os.path.join("config", "conf.yaml"))
 if config["spider_settings"]["enable"]:
