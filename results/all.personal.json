@@ -3,152 +3,35 @@
     "friends_num": 34,
     "active_num": 33,
     "error_num": 1,
-    "article_num": 353,
-    "last_updated_time": "2026-02-20 00:45:38"
+    "article_num": 344,
+    "last_updated_time": "2026-02-20 02:44:16"
   },
   "article_data": [
     {
-      "id": "921e5a859005bc54efdb8f140e35ab6a629014eb",
-      "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
-      "created": "2026-02-20 08:00",
-      "link": "https://huggingface.co/blog/unsloth-jobs",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "7b948c6eae866a352537ea9c088abdb08fb11a88",
-      "title": "Eventual Consistency: The Key Trade-Off Behind Modern Databases",
-      "created": "2026-02-20 00:30",
-      "link": "https://blog.bytebytego.com/p/eventual-consistency-the-key-trade",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "7904925c0a8a67bf7014accc50047980e6481b76",
-      "title": "「データ不足」の壁を越える：合成ペルソナが日本のAI開発を加速",
-      "created": "2026-02-19 23:32",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "df04e80c0265e08671369bcbd68aaba2678d23c9",
-      "title": "Experimenting with sponsorship for my blog and newsletter",
-      "created": "2026-02-19 13:44",
-      "link": "https://simonwillison.net/2026/Feb/19/sponsorship/#atom-everything",
+      "id": "af9fc7617e4b31e9b65748c8d109bc5dd9d55b41",
+      "title": "Gemini 3.1 Pro",
+      "created": "2026-02-20 01:58",
+      "link": "https://simonwillison.net/2026/Feb/19/gemini-31-pro/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
-      "id": "ddb83e0becac193d77c539ba27277fea1e99f42e",
-      "title": "SWE-bench February 2026 leaderboard update",
-      "created": "2026-02-19 12:48",
-      "link": "https://simonwillison.net/2026/Feb/19/swe-bench/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "id": "7f7e4d0f20cab6d25e61c05ffd998aa4802c8c82",
+      "title": "OpenAI’s Confessions Paper Has a Blind Spot. Here’s What Fills It.",
+      "created": "2026-02-18 18:00",
+      "link": "https://subhadipmitra.com/blog/2026/openai-confessions-blind-spot/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
       "category": "ai"
     },
     {
-      "id": "a4ec03f78395375b28c85b6d676a248a4eeb81e2",
-      "title": "LadybirdBrowser/ladybird: Abandon Swift adoption",
-      "created": "2026-02-19 09:25",
-      "link": "https://simonwillison.net/2026/Feb/19/ladybird/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "d171278411e296dfcd296a67c167f5d9fdf92639",
-      "title": "Typing without having to type",
-      "created": "2026-02-19 02:56",
-      "link": "https://simonwillison.net/2026/Feb/18/typing/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "ad9e2e4c89ba0ad7bec62c2b582a70001950df47",
-      "title": "The A.I. Disruption We’ve Been Waiting for Has Arrived",
-      "created": "2026-02-19 01:07",
-      "link": "https://simonwillison.net/2026/Feb/18/the-ai-disruption/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "66a0ce882694031ffa641f720c6ab5b974335160",
-      "title": "Quoting Martin Fowler",
-      "created": "2026-02-19 00:50",
-      "link": "https://simonwillison.net/2026/Feb/18/martin-fowler/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "67456e95d89ffa4edc77663de726c828fff87ea5",
-      "title": "The First 10-Year Evolution of Stripe’s Payments API",
-      "created": "2026-02-19 00:31",
-      "link": "https://blog.bytebytego.com/p/the-first-10-year-evolution-of-stripes",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "a48598059a697bdeb732df993055d23207e5e50e",
-      "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
-      "created": "2026-02-19 00:15",
-      "link": "https://huggingface.co/blog/ibm-research/itbenchandmast",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "f3c02b51f726aed83d8a02039d2dceb85d032b90",
-      "title": "米兰冬奥村，这群外国人都围着阿里云AI干啥呢？",
-      "created": "2026-02-18 20:49",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017513&idx=1&sn=2c4e2f54c997a5d7a08c6742842dc78d",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "0a895e2ad4c3edbef0e703441a46feec64d32fde",
-      "title": "Claude最强Sonnet模型4.6来了，百万token上下文",
-      "created": "2026-02-18 20:49",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017513&idx=2&sn=781e04048d4f59a46572accfa0603ee8",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "29bd3486ca7c65a767d7ac58ba8ec924f6ddbcc8",
-      "title": "霸榜SOTA，蚂蚁开源UI-Venus-1.5，GUI智能体办事时代加速到来",
-      "created": "2026-02-18 20:49",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017513&idx=3&sn=f5647116384b4933284a7d8078344b1c",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "a52eb8c8f68b2a888ebd89f57249bbbcc41e09ad",
-      "title": "ICLR 2026 | 阿里高德发布SpatialGenEval，揭秘谁才是真正的文生图大师",
-      "created": "2026-02-18 20:49",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017513&idx=4&sn=f8e14ffb09f125378fa50ace83766db1",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "a10c31319962675c5df2dd490085067aa96a5b61",
-      "title": "One-Shot Any Web App with Gradio's gr.HTML",
+      "id": "428d6b0dd5e9ac6d605286cbef711aa49e7986ff",
+      "title": "用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更",
       "created": "2026-02-18 08:00",
-      "link": "https://huggingface.co/blog/gradio-html-one-shot-apps",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
+      "link": "https://baoyu.io/blog/2026-02-13/claude-code-auto-commit",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -872,6 +755,15 @@
       "category": "ai"
     },
     {
+      "id": "7737f2d2ba90ff5b2e74f564c1e87f4c79672b58",
+      "title": "OVHcloud on Hugging Face Inference Providers 🔥",
+      "created": "2025-11-25 00:08",
+      "link": "https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "d90e85d7d88f26bbb0d49d0bc6f3890e1af8a8c9",
       "title": "肖恩技术周刊（第 71 期）：何以成事",
       "created": "2025-11-24 08:00",
@@ -908,6 +800,24 @@
       "category": "ai"
     },
     {
+      "id": "a8f00e846fc7b1e59fede3b753325adb96e32ece",
+      "title": "20x Faster TRL Fine-tuning with RapidFire AI",
+      "created": "2025-11-21 08:00",
+      "link": "https://huggingface.co/blog/rapidfireai",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6f5a71e2f8f081d4ac4bb3f50fa2c27379cca039",
+      "title": "Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks",
+      "created": "2025-11-21 08:00",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "63676835555028bafe612ad6e0fdcbe2b5340d79",
       "title": "Practical Guide on how to build an Agent from scratch with Gemini 3",
       "created": "2025-11-21 08:00",
@@ -924,6 +834,15 @@
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
+    },
+    {
+      "id": "68660ff47168e0f24375dc02b69ef7d3a8284d27",
+      "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
+      "created": "2025-11-20 08:00",
+      "link": "https://huggingface.co/blog/anylanguagemodel",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
     },
     {
       "id": "f1d2de91d7701f1942fae3d79dbac2c94c16eb6b",
