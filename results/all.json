@@ -4,9 +4,36 @@
     "active_num": 33,
     "error_num": 1,
     "article_num": 497,
-    "last_updated_time": "2026-02-19 22:42:46"
+    "last_updated_time": "2026-02-20 00:45:28"
   },
   "article_data": [
+    {
+      "id": "921e5a859005bc54efdb8f140e35ab6a629014eb",
+      "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+      "created": "2026-02-20 08:00",
+      "link": "https://huggingface.co/blog/unsloth-jobs",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b948c6eae866a352537ea9c088abdb08fb11a88",
+      "title": "Eventual Consistency: The Key Trade-Off Behind Modern Databases",
+      "created": "2026-02-20 00:30",
+      "link": "https://blog.bytebytego.com/p/eventual-consistency-the-key-trade",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "id": "7904925c0a8a67bf7014accc50047980e6481b76",
+      "title": "「データ不足」の壁を越える：合成ペルソナが日本のAI開発を加速",
+      "created": "2026-02-19 23:32",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "df04e80c0265e08671369bcbd68aaba2678d23c9",
       "title": "Experimenting with sponsorship for my blog and newsletter",
@@ -149,15 +176,6 @@
       "link": "https://simonwillison.net/2026/Feb/17/claude-sonnet-46/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "5207df288bdf4dac920bba7536d53af62f23cc56",
-      "title": "NVIDIA Nemotron 2 Nano 9B Japanese: 日本のソブリンAIを支える最先端小規模言語モデル",
-      "created": "2026-02-18 07:28",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-nano-9b-v2-japanese-ja",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1223,15 +1241,6 @@
       "category": "ai"
     },
     {
-      "id": "63a5a37c48b5875750a345b8a3b41cc08b9e4203",
-      "title": "EP199: Behind the Scenes: What Happens When You Enter Google.com",
-      "created": "2026-01-25 00:30",
-      "link": "https://blog.bytebytego.com/p/ep199-behind-the-scenes-what-happens",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
       "id": "be8358c2a9ad52025b13b015102541f4f6ff41e8",
       "title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
       "created": "2026-01-24 16:15",
@@ -1335,15 +1344,6 @@
       "title": "Differential Transformer V2",
       "created": "2026-01-20 11:20",
       "link": "https://huggingface.co/blog/microsoft/diff-attn-v2",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "787dc2960702c5c05885b39a6f9a8618dc28cd88",
-      "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
-      "created": "2026-01-20 08:00",
-      "link": "https://huggingface.co/blog/waypoint-1",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"

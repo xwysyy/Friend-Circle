@@ -3,10 +3,37 @@
     "friends_num": 34,
     "active_num": 33,
     "error_num": 1,
-    "article_num": 352,
-    "last_updated_time": "2026-02-19 22:42:58"
+    "article_num": 353,
+    "last_updated_time": "2026-02-20 00:45:38"
   },
   "article_data": [
+    {
+      "id": "921e5a859005bc54efdb8f140e35ab6a629014eb",
+      "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+      "created": "2026-02-20 08:00",
+      "link": "https://huggingface.co/blog/unsloth-jobs",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b948c6eae866a352537ea9c088abdb08fb11a88",
+      "title": "Eventual Consistency: The Key Trade-Off Behind Modern Databases",
+      "created": "2026-02-20 00:30",
+      "link": "https://blog.bytebytego.com/p/eventual-consistency-the-key-trade",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "id": "7904925c0a8a67bf7014accc50047980e6481b76",
+      "title": "「データ不足」の壁を越える：合成ペルソナが日本のAI開発を加速",
+      "created": "2026-02-19 23:32",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "df04e80c0265e08671369bcbd68aaba2678d23c9",
       "title": "Experimenting with sponsorship for my blog and newsletter",
@@ -845,15 +872,6 @@
       "category": "ai"
     },
     {
-      "id": "7737f2d2ba90ff5b2e74f564c1e87f4c79672b58",
-      "title": "OVHcloud on Hugging Face Inference Providers 🔥",
-      "created": "2025-11-25 00:08",
-      "link": "https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "d90e85d7d88f26bbb0d49d0bc6f3890e1af8a8c9",
       "title": "肖恩技术周刊（第 71 期）：何以成事",
       "created": "2025-11-24 08:00",
@@ -887,15 +905,6 @@
       "link": "https://seangoedecke.com/are-new-models-good/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "a8f00e846fc7b1e59fede3b753325adb96e32ece",
-      "title": "20x Faster TRL Fine-tuning with RapidFire AI",
-      "created": "2025-11-21 08:00",
-      "link": "https://huggingface.co/blog/rapidfireai",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
