@@ -4,7 +4,7 @@
     "active_num": 34,
     "error_num": 1,
     "article_num": 517,
-    "last_updated_time": "2026-02-21 00:32:37"
+    "last_updated_time": "2026-02-21 02:39:19"
   },
   "article_data": [
     {
@@ -14,6 +14,24 @@
       "link": "https://yukinoshitasherry.github.io/2022~2026%E8%AF%97%E6%AD%8C%E9%9A%8F%E7%AC%94%E6%90%AC%E8%BF%90/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "0ef9e70fe0ab04445f99a56fc6687bebe9ee5b8e",
+      "title": "ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+      "created": "2026-02-21 01:12",
+      "link": "https://simonwillison.net/2026/Feb/20/ggmlai-joins-hugging-face/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "a0c1b4b7d232a776617f1835125e89f70472b160",
+      "title": "LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 4",
+      "created": "2026-02-21 00:31",
+      "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
@@ -453,15 +471,6 @@
       "title": "Em dash",
       "created": "2026-02-16 05:40",
       "link": "https://simonwillison.net/2026/Feb/15/em-dashes/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "e6da11184e0b19ca715311c31f5ed0a13a595562",
-      "title": "Deep Blue",
-      "created": "2026-02-16 05:06",
-      "link": "https://simonwillison.net/2026/Feb/15/deep-blue/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
@@ -1223,15 +1232,6 @@
       "category": "ai"
     },
     {
-      "id": "814c7b7ff11ae8f9b259eb5931faadb4d2e83498",
-      "title": "How Cursor Shipped its Coding Agent to Production",
-      "created": "2026-01-27 00:30",
-      "link": "https://blog.bytebytego.com/p/how-cursor-shipped-its-coding-agent",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
       "id": "e91abc5abaae4e98b188329541fdfd81fedb9e21",
       "title": "DeltaNet的核心逆矩阵的元素总是在[-1, 1]内",
       "created": "2026-01-26 10:47",
@@ -1916,21 +1916,21 @@
       "category": "ai"
     },
     {
-      "id": "4627fcf1fb4a115d4335704aeecf402d9dc1a6f2",
-      "title": "王二下班之后",
-      "created": "2025-12-27 08:00",
-      "link": "https://mathewshen.me/blog/2025/wang-work/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "27bb33e4926cc0d7552cb49e91aa04be22d38095",
       "title": "You can't design software you don't work on",
       "created": "2025-12-27 08:00",
       "link": "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "4627fcf1fb4a115d4335704aeecf402d9dc1a6f2",
+      "title": "王二下班之后",
+      "created": "2025-12-27 08:00",
+      "link": "https://mathewshen.me/blog/2025/wang-work/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
