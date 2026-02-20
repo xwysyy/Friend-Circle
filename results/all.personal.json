@@ -3,10 +3,19 @@
     "friends_num": 35,
     "active_num": 34,
     "error_num": 1,
-    "article_num": 358,
-    "last_updated_time": "2026-02-21 04:25:49"
+    "article_num": 359,
+    "last_updated_time": "2026-02-21 06:20:40"
   },
   "article_data": [
+    {
+      "id": "c598c48675ec7e43d1eb1902137cca375d8baa41",
+      "title": "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
+      "created": "2026-02-21 06:10",
+      "link": "https://simonwillison.net/2026/Feb/20/taalas/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "0ef9e70fe0ab04445f99a56fc6687bebe9ee5b8e",
       "title": "ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
