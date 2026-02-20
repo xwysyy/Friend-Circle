@@ -4,7 +4,7 @@
     "active_num": 34,
     "error_num": 1,
     "article_num": 355,
-    "last_updated_time": "2026-02-20 20:49:15"
+    "last_updated_time": "2026-02-20 22:37:06"
   },
   "article_data": [
     {
@@ -14,6 +14,24 @@
       "link": "https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "ca4b92433d4bdcc0f15f8d6c296302de3806fb42",
+      "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+      "created": "2026-02-20 08:00",
+      "link": "https://huggingface.co/blog/ggml-joins-hf",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "a6418b25d679ca65f34ae87a88acdba8fd1ccaec",
+      "title": "模型训练分析-1：Loss以及Grad Norm分析",
+      "created": "2026-02-20 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/02/20/ModelTraining.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -933,15 +951,6 @@
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
-    },
-    {
-      "id": "68660ff47168e0f24375dc02b69ef7d3a8284d27",
-      "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
-      "created": "2025-11-20 08:00",
-      "link": "https://huggingface.co/blog/anylanguagemodel",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
     },
     {
       "id": "f1d2de91d7701f1942fae3d79dbac2c94c16eb6b",
@@ -2184,15 +2193,6 @@
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico",
       "category": "friend"
-    },
-    {
-      "id": "25cbe3edf731fc48c2187a25a32820c6e1c90589",
-      "title": "深入浅出了解生成模型-3：Diffusion模型原理以及代码",
-      "created": "2025-05-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/05/19/DiffusionModel.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
     },
     {
       "id": "4794eaba6a0e784a1f7a047270589f0dbf1a120a",
