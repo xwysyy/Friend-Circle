@@ -4,7 +4,7 @@
     "active_num": 35,
     "error_num": 1,
     "article_num": 368,
-    "last_updated_time": "2026-02-21 23:00:10"
+    "last_updated_time": "2026-02-22 00:22:34"
   },
   "article_data": [
     {
@@ -50,15 +50,6 @@
       "link": "https://www.cnblogs.com/moonout/p/19611485",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
-      "id": "f54671b0bef59c2787792963957f9ebb3b839610",
-      "title": "Introducing SyGra Studio",
-      "created": "2026-02-06 00:52",
-      "link": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -269,19 +260,19 @@
       "category": "ai"
     },
     {
-      "id": "3b471576c20b1223ee665aedd34483dfa922ca58",
-      "title": "矩阵微分热身",
+      "id": "64a885263404a75b6fda56d21ec2d331d683cc60",
+      "title": "梯度速降",
       "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E7%83%AD%E8%BA%AB/",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E6%A2%AF%E5%BA%A6%E9%80%9F%E9%99%8D/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "64a885263404a75b6fda56d21ec2d331d683cc60",
-      "title": "梯度速降",
+      "id": "3b471576c20b1223ee665aedd34483dfa922ca58",
+      "title": "矩阵微分热身",
       "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E6%A2%AF%E5%BA%A6%E9%80%9F%E9%99%8D/",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E7%83%AD%E8%BA%AB/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -1002,6 +993,15 @@
       "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
       "created": "2025-11-20 08:00",
       "link": "https://huggingface.co/blog/anylanguagemodel",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b57f8af84396793217f0d06a8b18af9337c26700",
+      "title": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models",
+      "created": "2025-11-19 13:19",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/apriel-h1",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
