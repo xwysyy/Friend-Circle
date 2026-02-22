@@ -4,9 +4,27 @@
     "active_num": 35,
     "error_num": 1,
     "article_num": 366,
-    "last_updated_time": "2026-02-22 18:20:13"
+    "last_updated_time": "2026-02-22 20:39:11"
   },
   "article_data": [
+    {
+      "id": "deb2f55a0b0093cec6c80d0ec5bbd55c56e32720",
+      "title": "Agent 系统中的 Prompt Caching 设计（下）：上下文管理与子代理架构",
+      "created": "2026-02-22 23:06",
+      "link": "https://yuanchaofa.com/post/agent-context-management-and-sub-agents",
+      "author": "chao fa",
+      "avatar": "https://yuanchaofa.com/img/icon.webp",
+      "category": "ai"
+    },
+    {
+      "id": "8e9132192291ea013631554ad37b2115de23b0a8",
+      "title": "Agent 系统中的 Prompt Caching 设计（上）：Cache 破坏、Prompt 布局与工具管理",
+      "created": "2026-02-22 18:16",
+      "link": "https://yuanchaofa.com/post/prompt-cache-design-for-llm-agents",
+      "author": "chao fa",
+      "avatar": "https://yuanchaofa.com/img/icon.webp",
+      "category": "ai"
+    },
     {
       "id": "b0410585c8b1df49bda7d57c1bb3ea3fe1b3dc86",
       "title": "MoE环游记：6、最优分配促均衡",
@@ -14,6 +32,15 @@
       "link": "https://kexue.fm/archives/11619",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "id": "2475d29817bf9dd5cf7b11d3df961c12d20d2723",
+      "title": "理解 KV Cache 与 Prompt Caching：LLM 推理加速的核心机制",
+      "created": "2026-02-21 18:00",
+      "link": "https://yuanchaofa.com/post/understanding-kv-cache-and-prompt-cache-basics",
+      "author": "chao fa",
+      "avatar": "https://yuanchaofa.com/img/icon.webp",
       "category": "ai"
     },
     {
@@ -215,10 +242,10 @@
       "category": "ai"
     },
     {
-      "id": "fb8f91f1579df5428f9abb0f4144b3c4dc3a0d0e",
+      "id": "15f337cd3386f8b42b2095783099d48607a4c7e1",
       "title": "DPO 算法原理与代码实现：让 LLM 对齐变得简单",
       "created": "2026-01-10 23:07",
-      "link": "https://yuanchaofa.com/post/hands-on-dpo-direct-preference-optimization.html",
+      "link": "https://yuanchaofa.com/post/hands-on-dpo-direct-preference-optimization",
       "author": "chao fa",
       "avatar": "https://yuanchaofa.com/img/icon.webp",
       "category": "ai"
@@ -260,15 +287,6 @@
       "category": "ai"
     },
     {
-      "id": "3b471576c20b1223ee665aedd34483dfa922ca58",
-      "title": "矩阵微分热身",
-      "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E7%83%AD%E8%BA%AB/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
       "id": "64a885263404a75b6fda56d21ec2d331d683cc60",
       "title": "梯度速降",
       "created": "2026-01-05 08:00",
@@ -282,6 +300,15 @@
       "title": "矩阵微分乘法法则速记",
       "created": "2026-01-05 08:00",
       "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "3b471576c20b1223ee665aedd34483dfa922ca58",
+      "title": "矩阵微分热身",
+      "created": "2026-01-05 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E7%83%AD%E8%BA%AB/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -320,6 +347,15 @@
       "link": "https://yukinoshitasherry.github.io/2512rollout/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "c52c712ee6bbe3376f4f30ac418afb52a2fef8ca",
+      "title": "从零手写 RoPE 位置编码：原理、PyTorch 源码实现与可视化理解",
+      "created": "2026-01-02 00:57",
+      "link": "https://yuanchaofa.com/post/hands-on-rope-position-embedding",
+      "author": "chao fa",
+      "avatar": "https://yuanchaofa.com/img/icon.webp",
       "category": "ai"
     },
     {
@@ -674,6 +710,15 @@
       "category": "ai"
     },
     {
+      "id": "ec2376296bef419ffef40a36631f85341f0e553b",
+      "title": "Keep Looking, Don't Settle：重听乔布斯演讲（25-11-月度小结）",
+      "created": "2025-12-07 06:52",
+      "link": "https://yuanchaofa.com/blog/2025-11-month-summary",
+      "author": "chao fa",
+      "avatar": "https://yuanchaofa.com/img/icon.webp",
+      "category": "ai"
+    },
+    {
       "id": "aaf892cefae56b0a495b99ad3e37203495eedafa",
       "title": "Introducing swift-huggingface: The Complete Swift Client for Hugging Face",
       "created": "2025-12-05 08:00",
@@ -701,19 +746,19 @@
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -1142,6 +1187,15 @@
       "category": "ai"
     },
     {
+      "id": "d135ed6878fc27105047aa6c0669c6f8a902f822",
+      "title": "Kimi-K2 和 Kimi-K2-Thinking 深度解读：从预训练优化到 Agentic 能力训练的完整流程（含MuonClip优化、Agentic 数据合成等）",
+      "created": "2025-11-10 01:26",
+      "link": "https://yuanchaofa.com/post/kimi-k2-and-kimi-k2-thinking-notes",
+      "author": "chao fa",
+      "avatar": "https://yuanchaofa.com/img/icon.webp",
+      "category": "ai"
+    },
+    {
       "id": "ed54d4fec83f663bffea451009d3dc1838b6a310",
       "title": "To get better at technical writing, lower your expectations",
       "created": "2025-11-09 08:00",
@@ -1256,6 +1310,15 @@
       "link": "https://seangoedecke.com/why-do-ai-enterprise-projects-fail/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "74af0760baaf3090b3fc34ef40db8912cd73114d",
+      "title": "影视飓风TIM成功背后：一个程序员对自媒体商业化的深度复盘（25年10月月度小结）",
+      "created": "2025-11-03 04:52",
+      "link": "https://yuanchaofa.com/blog/2025-10-month-summary",
+      "author": "chao fa",
+      "avatar": "https://yuanchaofa.com/img/icon.webp",
       "category": "ai"
     },
     {
@@ -1574,6 +1637,15 @@
       "category": "ai"
     },
     {
+      "id": "da6f03589199560be0439bad29bee831af129e79",
+      "title": "2025-09-合法赚钱就是高尚的（月度小结）",
+      "created": "2025-10-05 06:18",
+      "link": "https://yuanchaofa.com/blog/2025-09-month-summary",
+      "author": "chao fa",
+      "avatar": "https://yuanchaofa.com/img/icon.webp",
+      "category": "ai"
+    },
+    {
       "id": "1618658121fb1913329188ce708f19a23dc489a4",
       "title": "NodePass 开源的隧道工具重新定义内网穿透",
       "created": "2025-10-04 00:00",
@@ -1581,6 +1653,15 @@
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
+    },
+    {
+      "id": "3d99f00e5ae2ac65319731f8be870aade2c121b2",
+      "title": "RAG 进化之路：传统 RAG 到工具与强化学习双轮驱动的 Agentic RAG",
+      "created": "2025-10-03 19:53",
+      "link": "https://yuanchaofa.com/post/from-native-rag-to-agentic-rag",
+      "author": "chao fa",
+      "avatar": "https://yuanchaofa.com/img/icon.webp",
+      "category": "ai"
     },
     {
       "id": "30d1c72002238ed59cdb6c303d949c0f8bb46f5b",
@@ -2573,24 +2654,6 @@
       "category": "ai"
     },
     {
-      "id": "01863ddc1576c8d1bde892bae0398c734de8acf6",
-      "title": "LLM MOE的进化之路，从普通简化 MOE，到 sparse moe，再到 deepseek 使用的 share_expert sparse moe",
-      "created": "2025-01-28 03:30",
-      "link": "https://yuanchaofa.com/llms-zero-to-hero/the-way-of-moe-model-evolution.html",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
-      "category": "ai"
-    },
-    {
-      "id": "8d013cffcf4623df7920c1d38553a07767a241bd",
-      "title": "LLM activate function激活函数的进化之路，从 ReLU，GELU 到 SwiGLU(swishGLU)",
-      "created": "2025-01-28 02:58",
-      "link": "https://yuanchaofa.com/llms-zero-to-hero/activate-function-from-relu-gelu-to-swishglu.html",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
-      "category": "ai"
-    },
-    {
       "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
       "title": "Oh-Numpy & Oh-Pytorch",
       "created": "2025-01-23 08:00",
@@ -2607,15 +2670,6 @@
       "author": "huccihuang",
       "avatar": "https://avatars.githubusercontent.com/u/37830922?s=400&u=e1064ca880baded1c670372f9fa0a1b0cffac885&v=4",
       "category": "lang"
-    },
-    {
-      "id": "80613f23d8dc36fa5198171fd109a1d6e89ec000",
-      "title": "2024，公开表达元年",
-      "created": "2024-12-29 05:00",
-      "link": "https://yuanchaofa.com/blog/2024-year-summary.html",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
-      "category": "ai"
     },
     {
       "id": "24d7521e90604dbe93d0043e2ab357f2c866b7f5",
@@ -2699,15 +2753,6 @@
       "category": "ai"
     },
     {
-      "id": "1229d4dbea00f44361ae569854b4931737bb4a75",
-      "title": "手写大模型组件之Group Query Attention，从 MHA，MQA 到 GQA",
-      "created": "2024-12-09 06:00",
-      "link": "https://yuanchaofa.com/hands-on-code/hands-on-group-query-attention-and-multi-query-attention.html",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
-      "category": "ai"
-    },
-    {
       "id": "eb18485588b0ae518cd743a96d284f3cfd56b667",
       "title": "zhplot: 让 Python 中文做图变得简单",
       "created": "2024-12-08 08:00",
@@ -2753,15 +2798,6 @@
       "category": "ai"
     },
     {
-      "id": "d00e2324e8768beecba1db4b6991a3e9773f996a",
-      "title": "LoRA 原理和 PyTorch 代码实现",
-      "created": "2024-11-10 05:56",
-      "link": "https://yuanchaofa.com/hands-on-code/hands-on-lora.html",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
-      "category": "ai"
-    },
-    {
       "id": "118780140db873f2469b51adf5c70b9baac564b6",
       "title": "物理光学笔记",
       "created": "2024-10-30 19:22",
@@ -2786,24 +2822,6 @@
       "link": "https://mathewshen.me/blog/2024/ds/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
-      "id": "364945f2c5733b6a657edd374e7274a54a5c7759",
-      "title": "手写 transformer decoder（CausalLM）",
-      "created": "2024-08-18 21:00",
-      "link": "https://yuanchaofa.com/hands-on-code/hands-on-causallm-decoder.html",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
-      "category": "ai"
-    },
-    {
-      "id": "d5cd2dafc2205d8096899db5d2ccb04b8a03a9ad",
-      "title": "手写 Self-Attention 的四重境界，从 self-attention 到 multi-head self-attention",
-      "created": "2024-08-18 20:00",
-      "link": "https://yuanchaofa.com/hands-on-code/from-self-attention-to-multi-head-self-attention.html",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
       "category": "ai"
     },
     {
@@ -3203,15 +3221,6 @@
       "category": "ai"
     },
     {
-      "id": "5c5c50784d224dcd21f559920090bdf4dfb335a4",
-      "title": "2021，乌云与曙光",
-      "created": "2022-01-01 04:20",
-      "link": "https://yuanchaofa.com/blog/2021-year-summary.html",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
-      "category": "ai"
-    },
-    {
       "id": "76583c4985bd3cc0973aef36d4f7890e57ed1bf2",
       "title": "Learning with not Enough Data Part 1: Semi-Supervised Learning",
       "created": "2021-12-05 08:00",
@@ -3263,15 +3272,6 @@
       "link": "https://lilianweng.github.io/posts/2021-01-02-controllable-text-generation/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
-      "category": "ai"
-    },
-    {
-      "id": "a68c103b238a82f98c9ac524658220e0f62a4195",
-      "title": "2020年过去了，我不怀念它",
-      "created": "2021-01-01 04:20",
-      "link": "https://yuanchaofa.com/blog/2020-year-summary.html",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
       "category": "ai"
     },
     {
