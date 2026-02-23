@@ -3,10 +3,19 @@
     "friends_num": 36,
     "active_num": 34,
     "error_num": 2,
-    "article_num": 358,
-    "last_updated_time": "2026-02-23 14:56:27"
+    "article_num": 355,
+    "last_updated_time": "2026-02-23 20:44:40"
   },
   "article_data": [
+    {
+      "id": "7ebecdc16257b26fb5e5fc6d04aeb7c0024f46f4",
+      "title": "2025，浪潮与拧巴",
+      "created": "2026-02-24 00:07",
+      "link": "https://yuanchaofa.com/blog/2025-year-summary",
+      "author": "chao fa",
+      "avatar": "https://yuanchaofa.com/img/icon.webp",
+      "category": "ai"
+    },
     {
       "id": "3c001659533e56e8956cf062d0802c67fcf6d391",
       "title": "MoE环游记：7、动态激活极简解",
@@ -17,12 +26,12 @@
       "category": "ai"
     },
     {
-      "id": "cad37d404e8c15e14af6deb4214fb3b6476aa9cc",
-      "title": "Insider amnesia",
+      "id": "385625ec7d882f02a7b74bdb3c8ac1a192506645",
+      "title": "深入浅出了解生成模型-10：Flow Matching基本原理",
       "created": "2026-02-23 08:00",
-      "link": "https://seangoedecke.com/insider-amnesia/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "link": "https://www.big-yellow-j.top/posts/2026/02/23/FlowMatching.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -32,24 +41,6 @@
       "link": "https://kexue.fm/archives/11619",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
-      "id": "58b015bd62cf3387979cfbeec06239a9c9e05c0a",
-      "title": "OpenAI Codex 产品负责人：代码不再由人类编写，但我们会有更多构建者（Builder）",
-      "created": "2026-02-22 08:00",
-      "link": "https://baoyu.io/blog/2026-02-22/openai-codex-embiricos-interview",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e3b4d5373384c19e0b9df455ef77d2a492e763d0",
-      "title": "Red/green TDD",
-      "created": "2026-02-19 12:11",
-      "link": "https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -1511,15 +1502,6 @@
       "category": "friend"
     },
     {
-      "id": "3d99f00e5ae2ac65319731f8be870aade2c121b2",
-      "title": "RAG 进化之路：传统 RAG 到工具与强化学习双轮驱动的 Agentic RAG",
-      "created": "2025-10-03 19:53",
-      "link": "https://yuanchaofa.com/post/from-native-rag-to-agentic-rag",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
-      "category": "ai"
-    },
-    {
       "id": "30d1c72002238ed59cdb6c303d949c0f8bb46f5b",
       "title": "不同姿势部署Anheyu-App应用",
       "created": "2025-09-30 23:59",
@@ -1817,19 +1799,19 @@
       "category": "ai"
     },
     {
-      "id": "0f193e6543c6fb4d795e46a6aa801b81f3208321",
-      "title": "速通现代RL算法",
+      "id": "fef9369af9690f391c94f4ddbfebafd91a706a82",
+      "title": "速通RL基础",
       "created": "2025-08-24 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E9%80%9F%E9%80%9A%E7%8E%B0%E4%BB%A3rl%E7%AE%97%E6%B3%95/",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E9%80%9F%E9%80%9Arl%E5%9F%BA%E7%A1%80/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "fef9369af9690f391c94f4ddbfebafd91a706a82",
-      "title": "速通RL基础",
+      "id": "0f193e6543c6fb4d795e46a6aa801b81f3208321",
+      "title": "速通现代RL算法",
       "created": "2025-08-24 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E9%80%9F%E9%80%9Arl%E5%9F%BA%E7%A1%80/",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E9%80%9F%E9%80%9A%E7%8E%B0%E4%BB%A3rl%E7%AE%97%E6%B3%95/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -2319,15 +2301,6 @@
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico",
       "category": "friend"
-    },
-    {
-      "id": "25cbe3edf731fc48c2187a25a32820c6e1c90589",
-      "title": "深入浅出了解生成模型-3：Diffusion模型原理以及代码",
-      "created": "2025-05-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/05/19/DiffusionModel.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
     },
     {
       "id": "4794eaba6a0e784a1f7a047270589f0dbf1a120a",

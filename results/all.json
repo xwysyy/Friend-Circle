@@ -4,7 +4,7 @@
     "active_num": 34,
     "error_num": 2,
     "article_num": 525,
-    "last_updated_time": "2026-02-23 14:56:17"
+    "last_updated_time": "2026-02-23 20:44:27"
   },
   "article_data": [
     {
@@ -14,6 +14,24 @@
       "link": "https://yukinoshitasherry.github.io/2022~2026%E8%AF%97%E6%AD%8C%E9%9A%8F%E7%AC%94%E6%90%AC%E8%BF%90/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "7ebecdc16257b26fb5e5fc6d04aeb7c0024f46f4",
+      "title": "2025，浪潮与拧巴",
+      "created": "2026-02-24 00:07",
+      "link": "https://yuanchaofa.com/blog/2025-year-summary",
+      "author": "chao fa",
+      "avatar": "https://yuanchaofa.com/img/icon.webp",
+      "category": "ai"
+    },
+    {
+      "id": "e3b4d5373384c19e0b9df455ef77d2a492e763d0",
+      "title": "Red/green TDD",
+      "created": "2026-02-23 15:12",
+      "link": "https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -32,6 +50,15 @@
       "link": "https://seangoedecke.com/insider-amnesia/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "385625ec7d882f02a7b74bdb3c8ac1a192506645",
+      "title": "深入浅出了解生成模型-10：Flow Matching基本原理",
+      "created": "2026-02-23 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/02/23/FlowMatching.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -282,15 +309,6 @@
       "title": "SWE-bench February 2026 leaderboard update",
       "created": "2026-02-19 12:48",
       "link": "https://simonwillison.net/2026/Feb/19/swe-bench/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "e3b4d5373384c19e0b9df455ef77d2a492e763d0",
-      "title": "Red/green TDD",
-      "created": "2026-02-19 12:11",
-      "link": "https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
@@ -1646,15 +1664,6 @@
       "category": "ai"
     },
     {
-      "id": "804fa59122219d2d96cf56ce39edeb9cad3bf507",
-      "title": "矩阵微分乘法法则速记",
-      "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
       "id": "3b471576c20b1223ee665aedd34483dfa922ca58",
       "title": "矩阵微分热身",
       "created": "2026-01-05 08:00",
@@ -1668,6 +1677,15 @@
       "title": "梯度速降",
       "created": "2026-01-05 08:00",
       "link": "https://blog.tomorrowdawn.cc/posts/%E6%A2%AF%E5%BA%A6%E9%80%9F%E9%99%8D/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "804fa59122219d2d96cf56ce39edeb9cad3bf507",
+      "title": "矩阵微分乘法法则速记",
+      "created": "2026-01-05 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -3356,15 +3374,6 @@
       "category": "friend"
     },
     {
-      "id": "3d99f00e5ae2ac65319731f8be870aade2c121b2",
-      "title": "RAG 进化之路：传统 RAG 到工具与强化学习双轮驱动的 Agentic RAG",
-      "created": "2025-10-03 19:53",
-      "link": "https://yuanchaofa.com/post/from-native-rag-to-agentic-rag",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
-      "category": "ai"
-    },
-    {
       "id": "30d1c72002238ed59cdb6c303d949c0f8bb46f5b",
       "title": "不同姿势部署Anheyu-App应用",
       "created": "2025-09-30 23:59",
@@ -3864,15 +3873,6 @@
       "title": "图像消除论文-1：PixelHacker、PowerPanint、Attentive Eraser",
       "created": "2025-06-11 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/06/11/ImageEraser1.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "34b1decaf33efbee95cde718abbb1483c71447f2",
-      "title": "深度学习学习率优化方法——pytorch中各类warm up策略",
-      "created": "2025-06-05 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/06/05/WarmUP-Torch.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
