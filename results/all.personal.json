@@ -3,10 +3,28 @@
     "friends_num": 36,
     "active_num": 34,
     "error_num": 2,
-    "article_num": 364,
-    "last_updated_time": "2026-02-23 06:19:20"
+    "article_num": 366,
+    "last_updated_time": "2026-02-23 09:49:22"
   },
   "article_data": [
+    {
+      "id": "0a5591173096d754ace64f4f81d46dbf5df3ff77",
+      "title": "The Claude C Compiler: What It Reveals About the Future of Software",
+      "created": "2026-02-23 07:58",
+      "link": "https://simonwillison.net/2026/Feb/22/ccc/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "d7f5115f77312e816bee5cba0ce5f7b795957d2d",
+      "title": "London Stock Exchange: Raspberry Pi Holdings plc",
+      "created": "2026-02-23 07:54",
+      "link": "https://simonwillison.net/2026/Feb/22/raspberry-pi-openclaw/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "0a7556e63c21840e78df2eee2bcab27246c2ec71",
       "title": "How I think about Codex",
@@ -269,15 +287,6 @@
       "category": "ai"
     },
     {
-      "id": "804fa59122219d2d96cf56ce39edeb9cad3bf507",
-      "title": "矩阵微分乘法法则速记",
-      "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
       "id": "64a885263404a75b6fda56d21ec2d331d683cc60",
       "title": "梯度速降",
       "created": "2026-01-05 08:00",
@@ -291,6 +300,15 @@
       "title": "矩阵微分热身",
       "created": "2026-01-05 08:00",
       "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E7%83%AD%E8%BA%AB/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "804fa59122219d2d96cf56ce39edeb9cad3bf507",
+      "title": "矩阵微分乘法法则速记",
+      "created": "2026-01-05 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -809,21 +827,21 @@
       "category": "ai"
     },
     {
-      "id": "4c55da769fa849f2508cf2afe84b27c1a3eaff41",
-      "title": "Transformers v5: Simple model definitions powering the AI ecosystem",
-      "created": "2025-12-01 08:00",
-      "link": "https://huggingface.co/blog/transformers-v5",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "8067bdad1fa389ea816b053c2cc94eb8a2f14175",
       "title": "肖恩技术周刊（第 72 期）：有趣的C语言谜题",
       "created": "2025-12-01 08:00",
       "link": "https://weekly.shawnxie.top/content/2025/72.html",
       "author": "肖恩技术周刊",
       "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "category": "ai"
+    },
+    {
+      "id": "4c55da769fa849f2508cf2afe84b27c1a3eaff41",
+      "title": "Transformers v5: Simple model definitions powering the AI ecosystem",
+      "created": "2025-12-01 08:00",
+      "link": "https://huggingface.co/blog/transformers-v5",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1214,19 +1232,19 @@
       "category": "ai"
     },
     {
-      "id": "c389a4203305e254a63dafd528b811fd77a74499",
-      "title": "SpecForge Marks",
+      "id": "c0cfd951583b0ddec4e6dbb8dbc9c95dcc6bd593",
+      "title": "ELBO与VAE与EM",
       "created": "2025-11-06 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/specforge-marks/",
+      "link": "https://blog.tomorrowdawn.cc/posts/elbo%E4%B8%8Evae%E4%B8%8Eem/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "c0cfd951583b0ddec4e6dbb8dbc9c95dcc6bd593",
-      "title": "ELBO与VAE与EM",
+      "id": "c389a4203305e254a63dafd528b811fd77a74499",
+      "title": "SpecForge Marks",
       "created": "2025-11-06 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/elbo%E4%B8%8Evae%E4%B8%8Eem/",
+      "link": "https://blog.tomorrowdawn.cc/posts/specforge-marks/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
