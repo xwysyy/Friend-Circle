@@ -4,9 +4,18 @@
     "active_num": 34,
     "error_num": 2,
     "article_num": 361,
-    "last_updated_time": "2026-02-24 02:53:52"
+    "last_updated_time": "2026-02-24 09:22:21"
   },
   "article_data": [
+    {
+      "id": "328ac70aed76788dbf6102d13722ea7596d612ab",
+      "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
+      "created": "2026-02-24 08:00",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "472499337b95e7126e9814dfdcc9545c5ce02fe6",
       "title": "Ladybird adopts Rust, with help from AI",
@@ -77,6 +86,15 @@
       "link": "https://kexue.fm/archives/11626",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "id": "8b158f03551126f24fcbd0d590f67124565ecd1f",
+      "title": "What's so hard about continuous learning?",
+      "created": "2026-02-23 08:00",
+      "link": "https://seangoedecke.com/continuous-learning/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -674,21 +692,21 @@
       "category": "ai"
     },
     {
-      "id": "8067bdad1fa389ea816b053c2cc94eb8a2f14175",
-      "title": "肖恩技术周刊（第 72 期）：有趣的C语言谜题",
-      "created": "2025-12-01 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/72.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "4c55da769fa849f2508cf2afe84b27c1a3eaff41",
       "title": "Transformers v5: Simple model definitions powering the AI ecosystem",
       "created": "2025-12-01 08:00",
       "link": "https://huggingface.co/blog/transformers-v5",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8067bdad1fa389ea816b053c2cc94eb8a2f14175",
+      "title": "肖恩技术周刊（第 72 期）：有趣的C语言谜题",
+      "created": "2025-12-01 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/72.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -908,21 +926,21 @@
       "category": "ai"
     },
     {
-      "id": "a17936c3af060dd4c9a3a88a062d10b625d4013c",
-      "title": "肖恩技术周刊（第 70 期）：流量劫持",
-      "created": "2025-11-17 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/70.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "71096343174dad9e086ca6e729f29174a1d96a55",
       "title": "Easily Build and Share ROCm Kernels with Hugging Face",
       "created": "2025-11-17 08:00",
       "link": "https://huggingface.co/blog/build-rocm-kernels",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "a17936c3af060dd4c9a3a88a062d10b625d4013c",
+      "title": "肖恩技术周刊（第 70 期）：流量劫持",
+      "created": "2025-11-17 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/70.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -1268,15 +1286,6 @@
       "category": "ai"
     },
     {
-      "id": "f768b875b2c3e7e9bc8f31382bfd25e2a556f115",
-      "title": "On the Shifting Global Compute Landscape",
-      "created": "2025-10-29 21:56",
-      "link": "https://huggingface.co/blog/huggingface/shifting-compute-landscape",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "4798db2ea0320f7cd6daebe89a59eb37fbe60881",
       "title": "DGX Spark and Mac Mini for Local PyTorch Development",
       "created": "2025-10-29 08:06",
@@ -1407,15 +1416,6 @@
       "title": "What have we learned about building agentic AI tools?",
       "created": "2025-10-19 08:00",
       "link": "https://seangoedecke.com/ideas-in-agentic-ai-tooling/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "64d2c74aaa3510cbf688f8d750d21dcf97ce612e",
-      "title": "We are in the \"gentleman scientist\" era of AI research",
-      "created": "2025-10-18 08:00",
-      "link": "https://seangoedecke.com/ai-and-informal-science/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"

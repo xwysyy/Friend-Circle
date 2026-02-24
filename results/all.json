@@ -4,7 +4,7 @@
     "active_num": 34,
     "error_num": 2,
     "article_num": 525,
-    "last_updated_time": "2026-02-24 02:53:41"
+    "last_updated_time": "2026-02-24 09:22:10"
   },
   "article_data": [
     {
@@ -14,6 +14,15 @@
       "link": "https://yukinoshitasherry.github.io/2022~2026%E8%AF%97%E6%AD%8C%E9%9A%8F%E7%AC%94%E6%90%AC%E8%BF%90/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "328ac70aed76788dbf6102d13722ea7596d612ab",
+      "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
+      "created": "2026-02-24 08:00",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -111,6 +120,15 @@
       "title": "Insider amnesia",
       "created": "2026-02-23 08:00",
       "link": "https://seangoedecke.com/insider-amnesia/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8b158f03551126f24fcbd0d590f67124565ecd1f",
+      "title": "What's so hard about continuous learning?",
+      "created": "2026-02-23 08:00",
+      "link": "https://seangoedecke.com/continuous-learning/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
@@ -347,15 +365,6 @@
       "link": "https://blog.bytebytego.com/p/eventual-consistency-the-key-trade",
       "author": "ByteByteGo",
       "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "7904925c0a8a67bf7014accc50047980e6481b76",
-      "title": "「データ不足」の壁を越える：合成ペルソナが日本のAI開発を加速",
-      "created": "2026-02-19 23:32",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1664,15 +1673,6 @@
       "category": "ai"
     },
     {
-      "id": "62c7a6997464ba9ec3203e59b814c0efd2bef855",
-      "title": "The Dictator's Handbook and the politics of technical competence",
-      "created": "2026-01-05 08:00",
-      "link": "https://seangoedecke.com/the-dictators-handbook/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "8a239488dce84fdcea1c82b4038f4627d68337e2",
       "title": "分母布局下的矩阵微分速通",
       "created": "2026-01-05 08:00",
@@ -1682,19 +1682,19 @@
       "category": "ai"
     },
     {
-      "id": "804fa59122219d2d96cf56ce39edeb9cad3bf507",
-      "title": "矩阵微分乘法法则速记",
+      "id": "3b471576c20b1223ee665aedd34483dfa922ca58",
+      "title": "矩阵微分热身",
       "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E7%83%AD%E8%BA%AB/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "3b471576c20b1223ee665aedd34483dfa922ca58",
-      "title": "矩阵微分热身",
+      "id": "804fa59122219d2d96cf56ce39edeb9cad3bf507",
+      "title": "矩阵微分乘法法则速记",
       "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E7%83%AD%E8%BA%AB/",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -1715,6 +1715,15 @@
       "link": "https://blog.tomorrowdawn.cc/posts/adam%E4%B8%AD%E7%9A%84%E5%81%8F%E5%B7%AE%E4%BF%AE%E6%AD%A3%E8%B5%B7%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "62c7a6997464ba9ec3203e59b814c0efd2bef855",
+      "title": "The Dictator's Handbook and the politics of technical competence",
+      "created": "2026-01-05 08:00",
+      "link": "https://seangoedecke.com/the-dictators-handbook/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1997,6 +2006,15 @@
       "category": "ai"
     },
     {
+      "id": "a6ad5b0a8920fa4399bb7d0de3ac2f5055ee26ca",
+      "title": "具体一点，再具体一点",
+      "created": "2025-12-27 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E5%85%B7%E4%BD%93%E4%B8%80%E7%82%B9-%E5%86%8D%E5%85%B7%E4%BD%93%E4%B8%80%E7%82%B9/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
       "id": "27bb33e4926cc0d7552cb49e91aa04be22d38095",
       "title": "You can't design software you don't work on",
       "created": "2025-12-27 08:00",
@@ -2012,15 +2030,6 @@
       "link": "https://mathewshen.me/blog/2025/wang-work/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
-      "id": "a6ad5b0a8920fa4399bb7d0de3ac2f5055ee26ca",
-      "title": "具体一点，再具体一点",
-      "created": "2025-12-27 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E5%85%B7%E4%BD%93%E4%B8%80%E7%82%B9-%E5%86%8D%E5%85%B7%E4%BD%93%E4%B8%80%E7%82%B9/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
@@ -2696,15 +2705,6 @@
       "link": "http://www.phodal.com/blog/autodev-multi-agents-code-review/",
       "author": "Phodal Huang",
       "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "424d424edc5a6f4661fae66c0d7a69153a16c0b3",
-      "title": "Becoming unblockable",
-      "created": "2025-11-26 08:00",
-      "link": "https://seangoedecke.com/unblockable/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
