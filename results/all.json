@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 36,
-    "active_num": 34,
-    "error_num": 2,
-    "article_num": 527,
-    "last_updated_time": "2026-02-24 14:51:41"
+    "active_num": 35,
+    "error_num": 1,
+    "article_num": 537,
+    "last_updated_time": "2026-02-24 20:45:13"
   },
   "article_data": [
     {
@@ -17,6 +17,15 @@
       "category": "ai"
     },
     {
+      "id": "a86bf6e8aa8f8b61c7628b125eac89893b4574b4",
+      "title": "First run the tests",
+      "created": "2026-02-24 20:30",
+      "link": "https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
       "id": "437669c441c1dacff708c32c90db5d8e0345e463",
       "title": "从 AutoDev 到 Routa：开放生态下的新一代多 Agent 编排实践",
       "created": "2026-02-24 13:22",
@@ -26,12 +35,48 @@
       "category": "ai"
     },
     {
+      "id": "dde149b1555f0a50bce11a1660dc51077224186e",
+      "title": "228小时狂飙100篇论文、烧光114亿Token：FARS杀疯了",
+      "created": "2026-02-24 12:09",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017907&idx=1&sn=eb311627df884c3457d68de88e2eed40",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "19ee9ac73ae122e6e8c095a51fb789e943abe2ff",
+      "title": "千寻智能完成近20亿融资，顶级资本天团联合押注，估值强势破百亿",
+      "created": "2026-02-24 12:09",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017907&idx=2&sn=8e9e83dc43ca597c90b93647e15d2caa",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "1f854768070c1115a665e877034130b7fe559557",
+      "title": "DeepMind：智能体越多越乱，Agent天花板出现了？",
+      "created": "2026-02-24 12:09",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017907&idx=3&sn=991adfaa9f4f6a5e3109623514c73a08",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "328ac70aed76788dbf6102d13722ea7596d612ab",
       "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
       "created": "2026-02-24 08:00",
       "link": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "076353ae66089a0583b451e024013fc9cf4d9c27",
+      "title": "同样的模型，为什么 Cursor 跑不过 Claude Code？",
+      "created": "2026-02-24 08:00",
+      "link": "https://baoyu.io/blog/2026-02-23/claude-code-vs-cursor",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -116,6 +161,24 @@
       "category": "ai"
     },
     {
+      "id": "026a25625e1eb0784925a12ed71d8d15f1391f59",
+      "title": "热度第一、Tokens周调用破3T，MiniMax这个春节杀疯了",
+      "created": "2026-02-23 12:03",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017781&idx=1&sn=e9c066c4ba71effd810b3532fa216543",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "d141e492c7f47df0a5e6a7c25cbccc522b98d111",
+      "title": "Terminal-Bench解决率暴涨20%！华为CLI-Gym：环境交互类任务首个公开的数据Scaling方案",
+      "created": "2026-02-23 12:03",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017781&idx=2&sn=f81b5079679e384a7845ebbb55a2ae80",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "3c001659533e56e8956cf062d0802c67fcf6d391",
       "title": "MoE环游记：7、动态激活极简解",
       "created": "2026-02-23 10:31",
@@ -197,6 +260,24 @@
       "category": "friend"
     },
     {
+      "id": "7f2a1f787ab38f998784f16060d0bee6702c8f6b",
+      "title": "后训练大牛Lambert：AI招聘市场正经历「乱纪元」",
+      "created": "2026-02-22 18:51",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017680&idx=1&sn=bf1457297cc435477bda66b334e0581c",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "270882f659c082cf14110396fc13aceebbf5a268",
+      "title": "ICLR 2026｜把LLM Embedding Model算力瓶颈，从Query侧彻底移走，LightRetriever来了",
+      "created": "2026-02-22 18:51",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017680&idx=2&sn=a5736249c782d101c5969e0246b8b2db",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "8e9132192291ea013631554ad37b2115de23b0a8",
       "title": "Agent 系统中的 Prompt Caching 设计（上）：Cache 破坏、Prompt 布局与工具管理",
       "created": "2026-02-22 18:16",
@@ -248,6 +329,24 @@
       "link": "https://yuanchaofa.com/post/understanding-kv-cache-and-prompt-cache-basics",
       "author": "chao fa",
       "avatar": "https://yuanchaofa.com/img/icon.webp",
+      "category": "ai"
+    },
+    {
+      "id": "52e1fea6d0d134e76febbe4b5b8a74720766e956",
+      "title": "不卷视频卷「造人」？Pika推出AI Selves，让你亲手「养大」数字分身",
+      "created": "2026-02-21 12:02",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017614&idx=1&sn=b5b36b27df20a84da25b19e271a0098b",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "aa4ec301ba95944f2d6a55b60f466058cb08cf75",
+      "title": "ICLR 2026 | 北航开源Code2Bench：双扩展动态评测，代码大模型告别躺平刷分",
+      "created": "2026-02-21 12:02",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017614&idx=2&sn=8602e67453542f42e8c45f6c2926fa3d",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -359,6 +458,15 @@
       "category": "ai"
     },
     {
+      "id": "55a033c8d5eac70590f092d35c73092269a63033",
+      "title": "谷歌夺回王座：Gemini 3.1 Pro来了！姚顺宇：后面还有更好的",
+      "created": "2026-02-20 07:40",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017580&idx=1&sn=80dfe3ce110efe9444763617e52655db",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "af9fc7617e4b31e9b65748c8d109bc5dd9d55b41",
       "title": "Gemini 3.1 Pro",
       "created": "2026-02-20 01:58",
@@ -381,15 +489,6 @@
       "title": "Experimenting with sponsorship for my blog and newsletter",
       "created": "2026-02-19 13:44",
       "link": "https://simonwillison.net/2026/Feb/19/sponsorship/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "ddb83e0becac193d77c539ba27277fea1e99f42e",
-      "title": "SWE-bench February 2026 leaderboard update",
-      "created": "2026-02-19 12:48",
-      "link": "https://simonwillison.net/2026/Feb/19/swe-bench/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
@@ -878,15 +977,6 @@
       "link": "https://seangoedecke.com/heroism/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "a93df218e487ce132b42ef34890eab7068e47940",
-      "title": "既然 AI 越来越聪明，那么学习提示词不是浪费时间吗？",
-      "created": "2026-02-08 08:00",
-      "link": "https://baoyu.io/blog/2026/02/08/prompt-engineering-matters",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -2024,21 +2114,21 @@
       "category": "ai"
     },
     {
-      "id": "27bb33e4926cc0d7552cb49e91aa04be22d38095",
-      "title": "You can't design software you don't work on",
-      "created": "2025-12-27 08:00",
-      "link": "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "4627fcf1fb4a115d4335704aeecf402d9dc1a6f2",
       "title": "王二下班之后",
       "created": "2025-12-27 08:00",
       "link": "https://mathewshen.me/blog/2025/wang-work/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "27bb33e4926cc0d7552cb49e91aa04be22d38095",
+      "title": "You can't design software you don't work on",
+      "created": "2025-12-27 08:00",
+      "link": "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
