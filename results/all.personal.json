@@ -3,33 +3,24 @@
     "friends_num": 36,
     "active_num": 35,
     "error_num": 1,
-    "article_num": 356,
-    "last_updated_time": "2026-02-25 02:52:28"
+    "article_num": 353,
+    "last_updated_time": "2026-02-25 11:38:01"
   },
   "article_data": [
     {
-      "id": "05f08140e39bb702cd72f0dd75e10327c2c9b50f",
-      "title": "笔记本和树莓派直接进行连接的问题",
-      "created": "2026-02-25 10:17",
-      "link": "https://kirigaya.cn/blog/article?seq=365",
-      "author": "锦恢",
-      "avatar": "https://kirigaya.cn/favicon.png",
+      "id": "45b93b4c8c9dbd58a9af017631532407caa08a33",
+      "title": "Quoting Kellan Elliott-McCrea",
+      "created": "2026-02-25 11:30",
+      "link": "https://simonwillison.net/2026/Feb/25/kellan-elliott-mccrea/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
-      "id": "faa0e044828dad1e1587abd97b7d5b7f3cc00606",
-      "title": "How Uber Reinvented Access Control for Microservices",
-      "created": "2026-02-25 00:30",
-      "link": "https://blog.bytebytego.com/p/how-uber-reinvented-access-control",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "8e83c79f89c26e8b0d135936280e62fb816ee428",
-      "title": "go-size-analyzer",
-      "created": "2026-02-25 00:10",
-      "link": "https://simonwillison.net/2026/Feb/24/go-size-analyzer/#atom-everything",
+      "id": "07679dab3724e9d3089ec133d142e6db5f48729e",
+      "title": "Linear walkthroughs",
+      "created": "2026-02-25 09:07",
+      "link": "https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
@@ -557,6 +548,24 @@
       "category": "ai"
     },
     {
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
+      "created": "2025-12-04 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
+      "created": "2025-12-04 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
       "id": "95c5026079ff65c65b8cce615290b35b8856a2e9",
       "title": "DeepMath: A lightweight math reasoning Agent with smolagents",
       "created": "2025-12-04 08:00",
@@ -572,24 +581,6 @@
       "link": "https://huggingface.co/blog/hf-skills-training",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
-      "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
-      "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
@@ -782,6 +773,15 @@
       "category": "ai"
     },
     {
+      "id": "da3702e4c3c57694bfc2314acb2c05b39e793aa6",
+      "title": "我使用AI的个人心得",
+      "created": "2025-11-21 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E6%88%91%E4%BD%BF%E7%94%A8ai%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%BF%83%E5%BE%97/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
       "id": "a8f00e846fc7b1e59fede3b753325adb96e32ece",
       "title": "20x Faster TRL Fine-tuning with RapidFire AI",
       "created": "2025-11-21 08:00",
@@ -797,15 +797,6 @@
       "link": "https://huggingface.co/blog/open-asr-leaderboard",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "da3702e4c3c57694bfc2314acb2c05b39e793aa6",
-      "title": "我使用AI的个人心得",
-      "created": "2025-11-21 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E6%88%91%E4%BD%BF%E7%94%A8ai%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%BF%83%E5%BE%97/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
@@ -863,6 +854,15 @@
       "category": "ai"
     },
     {
+      "id": "1eccf9bcd14078ac029e6522a6b36059d34a9407",
+      "title": "你的团队需要同步配置人和资源",
+      "created": "2025-11-17 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E4%BD%A0%E7%9A%84%E5%9B%A2%E9%98%9F%E9%9C%80%E8%A6%81%E5%90%8C%E6%AD%A5%E9%85%8D%E7%BD%AE%E4%BA%BA%E5%92%8C%E8%B5%84%E6%BA%90/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
       "id": "71096343174dad9e086ca6e729f29174a1d96a55",
       "title": "Easily Build and Share ROCm Kernels with Hugging Face",
       "created": "2025-11-17 08:00",
@@ -878,15 +878,6 @@
       "link": "https://weekly.shawnxie.top/content/2025/70.html",
       "author": "肖恩技术周刊",
       "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
-      "id": "1eccf9bcd14078ac029e6522a6b36059d34a9407",
-      "title": "你的团队需要同步配置人和资源",
-      "created": "2025-11-17 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E4%BD%A0%E7%9A%84%E5%9B%A2%E9%98%9F%E9%9C%80%E8%A6%81%E5%90%8C%E6%AD%A5%E9%85%8D%E7%BD%AE%E4%BA%BA%E5%92%8C%E8%B5%84%E6%BA%90/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
@@ -1070,19 +1061,19 @@
       "category": "ai"
     },
     {
-      "id": "c389a4203305e254a63dafd528b811fd77a74499",
-      "title": "SpecForge Marks",
+      "id": "c0cfd951583b0ddec4e6dbb8dbc9c95dcc6bd593",
+      "title": "ELBO与VAE与EM",
       "created": "2025-11-06 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/specforge-marks/",
+      "link": "https://blog.tomorrowdawn.cc/posts/elbo%E4%B8%8Evae%E4%B8%8Eem/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "c0cfd951583b0ddec4e6dbb8dbc9c95dcc6bd593",
-      "title": "ELBO与VAE与EM",
+      "id": "c389a4203305e254a63dafd528b811fd77a74499",
+      "title": "SpecForge Marks",
       "created": "2025-11-06 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/elbo%E4%B8%8Evae%E4%B8%8Eem/",
+      "link": "https://blog.tomorrowdawn.cc/posts/specforge-marks/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -1268,21 +1259,21 @@
       "category": "friend"
     },
     {
-      "id": "84501c6039d0a23681b266a587c3a415dd068449",
-      "title": "肖恩技术周刊（第 67 期）：1024程序员节",
-      "created": "2025-10-27 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/67.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "7570158bfd506c05195842f52f2e5677a1c6ff90",
       "title": "大模型采样：p (x) 样本 ≠ 所需样本",
       "created": "2025-10-27 08:00",
       "link": "https://blog.tomorrowdawn.cc/posts/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%87%87%E6%A0%B7-p-x-%E6%A0%B7%E6%9C%AC-%E6%89%80%E9%9C%80%E6%A0%B7%E6%9C%AC/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "84501c6039d0a23681b266a587c3a415dd068449",
+      "title": "肖恩技术周刊（第 67 期）：1024程序员节",
+      "created": "2025-10-27 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/67.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -1790,15 +1781,6 @@
       "category": "ai"
     },
     {
-      "id": "e2d97994337f31b6430de33ff3f556aa74e7a4be",
-      "title": "肖恩技术周刊（第 59 期）：OpenAI进化之路",
-      "created": "2025-08-24 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/59.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "0f193e6543c6fb4d795e46a6aa801b81f3208321",
       "title": "速通现代RL算法",
       "created": "2025-08-24 08:00",
@@ -1814,6 +1796,15 @@
       "link": "https://blog.tomorrowdawn.cc/posts/%E9%80%9F%E9%80%9Arl%E5%9F%BA%E7%A1%80/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "e2d97994337f31b6430de33ff3f556aa74e7a4be",
+      "title": "肖恩技术周刊（第 59 期）：OpenAI进化之路",
+      "created": "2025-08-24 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/59.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -2807,24 +2798,6 @@
       "category": "ai"
     },
     {
-      "id": "28dd3b77bf23ab2bd42aea3ebaf40c19cc8bbff2",
-      "title": "google-research/timesfm",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/google-research/timesfm",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "154fbef78131eecfc3a43c713cde33a89a07433f",
-      "title": "p-e-w/heretic",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/p-e-w/heretic",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "b5932ec20120c54a97aaddf4e56153ee326f1347",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "created": "2024-01-01 00:00",
@@ -2843,28 +2816,10 @@
       "category": "ai"
     },
     {
-      "id": "4e27fe4f18daac1ac5897e515e24ca7aea811d9f",
-      "title": "huggingface/skills",
+      "id": "14e87557d45a8f61a3e49d7539b10362657e927d",
+      "title": "mihail911/modern-software-dev-assignments",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/huggingface/skills",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "662008c0ba5c58fea2ddd6af03df686b6a1ec7cb",
-      "title": "steipete/gogcli",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/steipete/gogcli",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "e2be3363623027ac5e66b4a76a3f8817d397c4a5",
-      "title": "rowboatlabs/rowboat",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/rowboatlabs/rowboat",
+      "link": "https://github.com/mihail911/modern-software-dev-assignments",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -2879,19 +2834,37 @@
       "category": "ai"
     },
     {
-      "id": "7162551e7c22676f29260c5e1a8bb8fa3b89f207",
-      "title": "Stremio/stremio-web",
+      "id": "6807ae24c99ab3825bf85650df048710f92a331d",
+      "title": "alibaba/zvec",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Stremio/stremio-web",
+      "link": "https://github.com/alibaba/zvec",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "6807ae24c99ab3825bf85650df048710f92a331d",
-      "title": "alibaba/zvec",
+      "id": "4e27fe4f18daac1ac5897e515e24ca7aea811d9f",
+      "title": "huggingface/skills",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/alibaba/zvec",
+      "link": "https://github.com/huggingface/skills",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "154fbef78131eecfc3a43c713cde33a89a07433f",
+      "title": "p-e-w/heretic",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/p-e-w/heretic",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "28dd3b77bf23ab2bd42aea3ebaf40c19cc8bbff2",
+      "title": "google-research/timesfm",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/google-research/timesfm",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"

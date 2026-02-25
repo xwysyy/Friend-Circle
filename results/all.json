@@ -3,8 +3,8 @@
     "friends_num": 36,
     "active_num": 35,
     "error_num": 1,
-    "article_num": 537,
-    "last_updated_time": "2026-02-25 02:52:07"
+    "article_num": 535,
+    "last_updated_time": "2026-02-25 11:37:51"
   },
   "article_data": [
     {
@@ -17,12 +17,30 @@
       "category": "ai"
     },
     {
+      "id": "45b93b4c8c9dbd58a9af017631532407caa08a33",
+      "title": "Quoting Kellan Elliott-McCrea",
+      "created": "2026-02-25 11:30",
+      "link": "https://simonwillison.net/2026/Feb/25/kellan-elliott-mccrea/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
       "id": "05f08140e39bb702cd72f0dd75e10327c2c9b50f",
       "title": "笔记本和树莓派直接进行连接的问题",
       "created": "2026-02-25 10:17",
       "link": "https://kirigaya.cn/blog/article?seq=365",
       "author": "锦恢",
       "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "07679dab3724e9d3089ec133d142e6db5f48729e",
+      "title": "Linear walkthroughs",
+      "created": "2026-02-25 09:07",
+      "link": "https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -476,30 +494,12 @@
       "category": "ai"
     },
     {
-      "id": "9be8370f4cc036115c925f1e812e3cfcd96fe351",
-      "title": "Recovering lost code",
-      "created": "2026-02-20 07:48",
-      "link": "https://simonwillison.net/2026/Feb/19/recovering-lost-code/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
       "id": "55a033c8d5eac70590f092d35c73092269a63033",
       "title": "谷歌夺回王座：Gemini 3.1 Pro来了！姚顺宇：后面还有更好的",
       "created": "2026-02-20 07:40",
       "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017580&idx=1&sn=80dfe3ce110efe9444763617e52655db",
       "author": "机器之心",
       "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "af9fc7617e4b31e9b65748c8d109bc5dd9d55b41",
-      "title": "Gemini 3.1 Pro",
-      "created": "2026-02-20 01:58",
-      "link": "https://simonwillison.net/2026/Feb/19/gemini-31-pro/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -3104,19 +3104,19 @@
       "category": "ai"
     },
     {
-      "id": "c389a4203305e254a63dafd528b811fd77a74499",
-      "title": "SpecForge Marks",
+      "id": "c0cfd951583b0ddec4e6dbb8dbc9c95dcc6bd593",
+      "title": "ELBO与VAE与EM",
       "created": "2025-11-06 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/specforge-marks/",
+      "link": "https://blog.tomorrowdawn.cc/posts/elbo%E4%B8%8Evae%E4%B8%8Eem/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "c0cfd951583b0ddec4e6dbb8dbc9c95dcc6bd593",
-      "title": "ELBO与VAE与EM",
+      "id": "c389a4203305e254a63dafd528b811fd77a74499",
+      "title": "SpecForge Marks",
       "created": "2025-11-06 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/elbo%E4%B8%8Evae%E4%B8%8Eem/",
+      "link": "https://blog.tomorrowdawn.cc/posts/specforge-marks/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -4436,24 +4436,6 @@
       "category": "ai"
     },
     {
-      "id": "28dd3b77bf23ab2bd42aea3ebaf40c19cc8bbff2",
-      "title": "google-research/timesfm",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/google-research/timesfm",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "154fbef78131eecfc3a43c713cde33a89a07433f",
-      "title": "p-e-w/heretic",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/p-e-w/heretic",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "b5932ec20120c54a97aaddf4e56153ee326f1347",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "created": "2024-01-01 00:00",
@@ -4472,28 +4454,10 @@
       "category": "ai"
     },
     {
-      "id": "4e27fe4f18daac1ac5897e515e24ca7aea811d9f",
-      "title": "huggingface/skills",
+      "id": "14e87557d45a8f61a3e49d7539b10362657e927d",
+      "title": "mihail911/modern-software-dev-assignments",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/huggingface/skills",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "662008c0ba5c58fea2ddd6af03df686b6a1ec7cb",
-      "title": "steipete/gogcli",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/steipete/gogcli",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "e2be3363623027ac5e66b4a76a3f8817d397c4a5",
-      "title": "rowboatlabs/rowboat",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/rowboatlabs/rowboat",
+      "link": "https://github.com/mihail911/modern-software-dev-assignments",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -4508,19 +4472,37 @@
       "category": "ai"
     },
     {
-      "id": "7162551e7c22676f29260c5e1a8bb8fa3b89f207",
-      "title": "Stremio/stremio-web",
+      "id": "6807ae24c99ab3825bf85650df048710f92a331d",
+      "title": "alibaba/zvec",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Stremio/stremio-web",
+      "link": "https://github.com/alibaba/zvec",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "6807ae24c99ab3825bf85650df048710f92a331d",
-      "title": "alibaba/zvec",
+      "id": "4e27fe4f18daac1ac5897e515e24ca7aea811d9f",
+      "title": "huggingface/skills",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/alibaba/zvec",
+      "link": "https://github.com/huggingface/skills",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "154fbef78131eecfc3a43c713cde33a89a07433f",
+      "title": "p-e-w/heretic",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/p-e-w/heretic",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "28dd3b77bf23ab2bd42aea3ebaf40c19cc8bbff2",
+      "title": "google-research/timesfm",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/google-research/timesfm",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
