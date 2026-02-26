@@ -1,23 +1,26 @@
 # Repository Guidelines
 
 ## Project Structure & Module Organization
-- `app/`: Code package
-  - `core.py`: Core scraping + config loader.
+- `main.go`: Go entry point.
+- `scraper/`: Go scraping package
+  - `types.go`: Shared data types (Article, Result, Config, etc.).
+  - `config.go`: YAML/JSON config loading + ignore list fetching.
+  - `fetcher.go`: HTTP client (HTTP/2, retry, connection pooling) + concurrent processing.
+  - `feed.go`: RSS/Atom feed parsing via `gofeed` + time normalization.
+  - `rewriter.go`: Link rewriting (prefix + regex).
 - `config/`: Config and friend list
   - `conf.yaml`: Spider settings (`json_url`, `article_count`, `enable`).
-  - `friend.json`: Friend list (data source for feeds).
+  - `*.json`: Friend lists (each file = a category).
 - `results/`: Runtime outputs (generated)
-  - `all.json`, `errors.json`, `grab.log`
-- `run.py`: One-off fetch/regeneration of JSON outputs.
-- `requirements.txt`: Python dependencies.
+  - `all.json`, `errors.json`, `all.personal.json`, `errors.personal.json`, `grab.log`
 
 ## Build and Development Commands
-- Install deps (uv): `uv pip install -r requirements.txt`.
-- One-off fetch: `uv run python run.py` (respects `config/conf.yaml`).
+- Build: `go build .`
+- One-off fetch: `go run .` (respects `config/conf.yaml`).
 
 ## Coding Style & Naming Conventions
-- Follow PEP 8; 4-space indentation; snake_case for functions/variables; lower_snake_case modules.
-- Add docstrings and type hints where reasonable. Use `logging` (writes to `grab.log`) over prints.
+- Go: Follow standard Go conventions; use `gofmt`; exported names PascalCase, unexported camelCase.
+- Use `log` package (writes to `results/grab.log`) for logging.
 
 ## Testing Guidelines
 - Tests have been removed from this repository.
@@ -32,5 +35,5 @@
 
 ## Security & Configuration Tips
 - Keep secrets out of `config/conf.yaml`; use reachable `json_url` and realistic `article_count`.
-- Respect timeouts; reuse `requests.Session`.
+- Respect timeouts; reuse `http.Client` (connection pooling via Transport).
 - Don’t commit large run artifacts; `results/` is generated and should be gitignored.
