@@ -1,7 +1,7 @@
 # Repository Guidelines
 
 ## Project Structure & Module Organization
-- `main.go`: Go entry point (replaces `run.py`).
+- `main.go`: Go entry point.
 - `scraper/`: Go scraping package
   - `types.go`: Shared data types (Article, Result, Config, etc.).
   - `config.go`: YAML/JSON config loading + ignore list fetching.
@@ -13,7 +13,6 @@
   - `*.json`: Friend lists (each file = a category).
 - `results/`: Runtime outputs (generated)
   - `all.json`, `errors.json`, `all.personal.json`, `errors.personal.json`, `grab.log`
-- `app/core.py`, `run.py`: Legacy Python code (kept for reference).
 
 ## Build and Development Commands
 - Build: `go build .`
