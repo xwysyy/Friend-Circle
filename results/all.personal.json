@@ -3,44 +3,17 @@
     "friends_num": 36,
     "active_num": 35,
     "error_num": 1,
-    "article_num": 216,
-    "last_updated_time": "2026-02-26 19:21:08"
+    "article_num": 212,
+    "last_updated_time": "2026-02-26 20:45:10"
   },
   "article_data": [
     {
-      "id": "57e3f75f49155bfb3091efa5e92ab65fd9a7a37c",
-      "title": "击败谷歌、英伟达！清华陈建宇×斯坦福Chelsea团队世界模型Ctrl-World具身能力登顶全球",
-      "created": "2026-02-26 14:36",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018183&idx=1&sn=d562c55c627429307182d208fde291af",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b4a0e4965316e214d7fa31e8d41d85a3ffb8aaf9",
-      "title": "超越IMO金牌？谷歌创超难FirstProof数学挑战新纪录",
-      "created": "2026-02-26 14:36",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018183&idx=2&sn=b38c7596598bff360ff11b40aee23088",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "367f9464105015628846f1aec00ee0ccb9d64cb9",
-      "title": "Google API Keys Weren't Secrets. But then Gemini Changed the Rules.",
-      "created": "2026-02-26 12:28",
-      "link": "https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "24ef15d3c1bf7260a1af28f23bba635bee9decd0",
-      "title": "Quoting Benedict Evans",
-      "created": "2026-02-26 11:44",
-      "link": "https://simonwillison.net/2026/Feb/26/benedict-evans/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "id": "e44d72287f6142b276a728b74bbd126033c8e2e2",
+      "title": "Mixture of Experts (MoEs) in Transformers",
+      "created": "2026-02-26 08:00",
+      "link": "https://huggingface.co/blog/moe-transformers",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -449,15 +422,6 @@
       "category": "ai"
     },
     {
-      "id": "469948b29fb591288519a5ec6ebddf8306c7fb2f",
-      "title": "TimeScope: How Long Can Your Video Large Multimodal Model Go?",
-      "created": "2025-07-23 08:00",
-      "link": "https://huggingface.co/blog/timescope-video-lmm-benchmark",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "62bf7f5904574a3f140e643adaeb4a7c9c7046d3",
       "title": "Qwen3-Coder: 在世界中自主编程",
       "created": "2025-07-22 21:00",
@@ -521,21 +485,21 @@
       "category": "ai"
     },
     {
-      "id": "4491f7d2bcbc01b0aa9a1774bee2a9f8f76f2e3f",
-      "title": "肖恩技术周刊（第 51 期）：为何浏览器请求头User-Agent均以Mozilla开头？",
-      "created": "2025-06-30 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/51.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "519908ebd9cf39429c01e0ab1d6edbbf14105a8b",
       "title": "The New Skill in AI is Not Prompting, It's Context Engineering",
       "created": "2025-06-30 08:00",
       "link": "https://www.philschmid.de/context-engineering",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "4491f7d2bcbc01b0aa9a1774bee2a9f8f76f2e3f",
+      "title": "肖恩技术周刊（第 51 期）：为何浏览器请求头User-Agent均以Mozilla开头？",
+      "created": "2025-06-30 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/51.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
