@@ -61,26 +61,25 @@ func ParseFeed(
 
 	fp := gofeed.NewParser()
 	feed, err := fp.ParseString(string(resp.Body))
-	if err != nil || len(feed.Items) == 0 {
+	if err != nil {
 		// Retry with alternate headers (mimics Python's alt_headers retry)
 		log.Printf("Feed 初次解析失败，准备重试：%s", url)
 		time.Sleep(600 * time.Millisecond)
 
 		resp2, err2 := FetchWithRetry(ctx, client, url, true)
 		if err2 != nil {
-			if err != nil {
-				return nil, fmt.Errorf("解析失败: %w; 重试也失败: %v", err, err2)
-			}
-			return nil, err2
+			return nil, fmt.Errorf("解析失败: %w; 重试也失败: %v", err, err2)
 		}
 
 		feed, err = fp.ParseString(string(resp2.Body))
 		if err != nil {
 			return nil, fmt.Errorf("Feed 解析失败: %w", err)
 		}
-		if len(feed.Items) == 0 {
-			return nil, fmt.Errorf("Feed 解析后无文章条目")
-		}
+	}
+
+	if len(feed.Items) == 0 {
+		log.Printf("Feed 解析成功但无文章条目：%s", url)
+		return nil, nil
 	}
 
 	var articles []Article

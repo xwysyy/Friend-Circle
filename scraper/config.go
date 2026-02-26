@@ -153,7 +153,12 @@ func FetchIgnoreIDs(source string, client *http.Client) map[string]struct{} {
 			log.Printf("获取忽略列表失败：%s；HTTP %d", source, resp.StatusCode)
 			return ids
 		}
-		data, _ = io.ReadAll(resp.Body)
+		var readErr error
+		data, readErr = io.ReadAll(resp.Body)
+		if readErr != nil {
+			log.Printf("读取忽略列表响应体失败：%s；错误：%v", source, readErr)
+			return ids
+		}
 	} else {
 		var err error
 		data, err = os.ReadFile(source)
