@@ -3,10 +3,82 @@
     "friends_num": 37,
     "active_num": 36,
     "error_num": 1,
-    "article_num": 233,
-    "last_updated_time": "2026-03-01 14:37:05"
+    "article_num": 241,
+    "last_updated_time": "2026-03-01 20:30:48"
   },
   "article_data": [
+    {
+      "id": "3b9c3646f5d9aa7256714bf7c66c4e5afc7194bb",
+      "title": "Quoting claude.com/import-memory",
+      "created": "2026-03-01 19:21",
+      "link": "https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "42f81a3af31fa5b170b749ceaf417b4ddaab49b9",
+      "title": "一个Agent，发出了「人生」第一条朋友圈",
+      "created": "2026-03-01 11:31",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018653&idx=1&sn=5d8578072edd5a01bd4f4fbfb20aadb8",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "5afd4ea9e3e1af962c99c837220a20ff6da52b95",
+      "title": "GPT之父Alec Radford新作：给大模型做「脑部手术」，危险知识重学成本暴增7000倍",
+      "created": "2026-03-01 11:31",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018653&idx=2&sn=33a28826338d8643839bcfca2c8636e3",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "c90647d2655b5dfee26aa1b2127f18d0ff5f6b66",
+      "title": "支持远程操控和通用GUI操作，开源版桌面虚拟同事Open Cowork来了！",
+      "created": "2026-03-01 11:31",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018653&idx=3&sn=76dfe0bb2832efadbd7d245d34f5afe8",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "f7a269341602e67957437db6ef27865a956f20d3",
+      "title": "再携手！清华陈建宇×斯坦福Chelsea团队发布VLAW，世界模型×VLA协同进化",
+      "created": "2026-02-28 12:16",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018571&idx=1&sn=7744f840f7d5b86753c02873d0d004d3",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "bfe5dde724d300fb8c32a48b8814fa1bd4c1088c",
+      "title": "ICLR 2026｜FOCUS 关键帧提取：长视频理解能力提升11.9%，只需采样<2% 帧",
+      "created": "2026-02-28 12:16",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018571&idx=2&sn=6a6be34a81c4b23a1750b0dd01f94e33",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "09fc1ea4f13f233d0a652330ae07e3daac56646f",
+      "title": "用AI替代人类，Block裁员四成，股价大涨近25%，超4700万人围观",
+      "created": "2026-02-27 22:13",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018518&idx=1&sn=48a4bbdb47a76a8a0ff0ac07d881e444",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "3eef906f8e0bba5895ac5f62830501ee8da6e002",
+      "title": "比比皆是的下一个创新点：从Prompt Learning进化到SIPDO的闭环自进化",
+      "created": "2026-02-27 22:13",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018518&idx=2&sn=9b1f02344dae9b86a417702023b0d82a",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "385625ec7d882f02a7b74bdb3c8ac1a192506645",
       "title": "深入浅出了解生成模型-10：Flow Matching基本原理",
@@ -323,21 +395,21 @@
       "category": "ai"
     },
     {
-      "id": "3e22e4ec3bab95064b93c7b50950e7a0d65391c9",
-      "title": "如果你的VSCode Jupyter是个笨蛋找不到环境……",
-      "created": "2025-08-07 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E5%A6%82%E6%9E%9C%E4%BD%A0%E7%9A%84vscode-jupyter%E6%98%AF%E4%B8%AA%E7%AC%A8%E8%9B%8B%E6%89%BE%E4%B8%8D%E5%88%B0%E7%8E%AF%E5%A2%83/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
       "id": "6fca2708dd46c2edb7a69303acd0f8a8d185c9d9",
       "title": "Vision Language Model Alignment in TRL ⚡️",
       "created": "2025-08-07 08:00",
       "link": "https://huggingface.co/blog/trl-vlm-alignment",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "3e22e4ec3bab95064b93c7b50950e7a0d65391c9",
+      "title": "如果你的VSCode Jupyter是个笨蛋找不到环境……",
+      "created": "2025-08-07 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E5%A6%82%E6%9E%9C%E4%BD%A0%E7%9A%84vscode-jupyter%E6%98%AF%E4%B8%AA%E7%AC%A8%E8%9B%8B%E6%89%BE%E4%B8%8D%E5%88%B0%E7%8E%AF%E5%A2%83/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
@@ -458,21 +530,21 @@
       "category": "ai"
     },
     {
-      "id": "ef4f06b2f68186d20e09c7fc45635b2210e66569",
-      "title": "[VLMWalk-1] OpenWebUI配置",
-      "created": "2025-07-18 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/vlmwalk-1-openwebui%E9%85%8D%E7%BD%AE/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
       "id": "db32404a201439d4dee653c4cb21f2f5969bbda1",
       "title": "Arc Virtual Cell Challenge: A Primer",
       "created": "2025-07-18 08:00",
       "link": "https://huggingface.co/blog/virtual-cell-challenge",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "ef4f06b2f68186d20e09c7fc45635b2210e66569",
+      "title": "[VLMWalk-1] OpenWebUI配置",
+      "created": "2025-07-18 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/vlmwalk-1-openwebui%E9%85%8D%E7%BD%AE/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
@@ -665,21 +737,21 @@
       "category": "ai"
     },
     {
-      "id": "1e9d0c3988dcb92a31de9a661ecf891968aa9c2f",
-      "title": "勇气的奥秘——从赢走向赢",
-      "created": "2025-06-11 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E5%8B%87%E6%B0%94%E7%9A%84%E5%A5%A5%E7%A7%98-%E4%BB%8E%E8%B5%A2%E8%B5%B0%E5%90%91%E8%B5%A2/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
       "id": "90c14f95511a221a65f2fea452321f4ffe5bcc62",
       "title": "图像消除论文-1：PixelHacker、PowerPanint、Attentive Eraser",
       "created": "2025-06-11 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/06/11/ImageEraser1.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "1e9d0c3988dcb92a31de9a661ecf891968aa9c2f",
+      "title": "勇气的奥秘——从赢走向赢",
+      "created": "2025-06-11 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E5%8B%87%E6%B0%94%E7%9A%84%E5%A5%A5%E7%A7%98-%E4%BB%8E%E8%B5%A2%E8%B5%B0%E5%90%91%E8%B5%A2/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
