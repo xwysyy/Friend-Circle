@@ -3,17 +3,53 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 251,
-    "last_updated_time": "2026-03-02 16:53:58"
+    "article_num": 233,
+    "last_updated_time": "2026-03-02 21:12:10"
   },
   "article_data": [
     {
-      "id": "bca9a0d6d1bf5fb233377dee0be85e3b71e36de7",
-      "title": "Agent Team 实践与架构设计：在约束下构建可演进的一个人开发团队",
-      "created": "2026-03-02 16:22",
-      "link": "http://www.phodal.com/blog/build-agent-team/",
-      "author": "Phodal Huang",
-      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
+      "id": "4227edff01d4092f1654f20eda3ecae7725726c7",
+      "title": "MuP之上：3. 特殊情况特殊处理",
+      "created": "2026-03-02 18:59",
+      "link": "https://kexue.fm/archives/11647",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "id": "d5760d66547f39ff82db2d95af7b09d7df1c7069",
+      "title": "范式跃迁：LLM + EC重构算法设计范式，华为&港城大夺冠CVRP国际顶级赛事",
+      "created": "2026-03-02 15:42",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018881&idx=1&sn=b1a610953f1cb57a931918ee0a1d5254",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "ea30a1bdaf11b46996cefadfdf7c6106bd781920",
+      "title": "科学家的超级合伙人来也！星河启智「大圣」让高能动性AI「入局」真实科研",
+      "created": "2026-03-02 15:42",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018881&idx=2&sn=0a94b60a8c8eae612571452d02fab268",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "4d10eff9baf643c3bc011829d0e3cf9f4363338b",
+      "title": "ICDE 2026 | 从匹配困境到推理突破：阿里REG4Rec 激活生成式推荐的个性化潜力",
+      "created": "2026-03-02 15:42",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018881&idx=3&sn=a49c461de62e904ccb4daf654c358c64",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "57cad5cd5f3218ef5a5a5f5bb2efe96eb1904323",
+      "title": "强化学习算法-2：熵坍缩以及奖励坍缩问题机制分析及解决措施",
+      "created": "2026-03-01 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/03/01/RLHF-2.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -71,24 +107,6 @@
       "category": "ai"
     },
     {
-      "id": "f4828462aec264c570d15df9104ba3ff44ff43db",
-      "title": "Clawdbot 如何记住一切",
-      "created": "2026-01-26 08:00",
-      "link": "https://lumina.shawnxie.top/article/how-clawdbot-remembers-everything-4c2b3ef5",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "94cd256ae8572e563b9eace9249fd35fea3c305a",
-      "title": "一文读懂 Skills｜从概念到实操的完整指南",
-      "created": "2026-01-22 08:00",
-      "link": "https://lumina.shawnxie.top/article/yi-wen-du-dong-skills-cong-gai-nian-dao-shi-cao-bab787cd",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
       "id": "79f8d8ee1026a05a678c76c8810a534bbcba4b61",
       "title": "为什么我们偏爱各向同性？基于最速下降的理解",
       "created": "2026-01-20 19:44",
@@ -116,42 +134,6 @@
       "category": "ai"
     },
     {
-      "id": "78a8b86ce53eddcbf35b44dfe5f5e6dde7e96856",
-      "title": "我的 AI 工具日常使用与工作流是怎样的？",
-      "created": "2026-01-15 08:00",
-      "link": "https://lumina.shawnxie.top/article/wo-de-ai-gong-ju-ri-chang-shi-yong-yu-gong-zuo-0b921af2",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "43d810afcc67a4cc921fee7f61a6cb2eb785f7ce",
-      "title": "如何为AI智能体编写一份好的规则说明书",
-      "created": "2026-01-13 08:00",
-      "link": "https://lumina.shawnxie.top/article/how-to-write-a-good-spec-for-ai-agents-c8ff3475",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "4c137d8b9860346f77295c7280fa94a00b8dee40",
-      "title": "用第一性原理拆解 Agentic Coding：从理论到实操",
-      "created": "2026-01-12 08:00",
-      "link": "https://lumina.shawnxie.top/article/yong-di-yi-xing-yuan-li-chai-jie-agentic-coding-6618dbbc",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "1cc66b70cbf4ad8d24851cb5134fae78cd2ae666",
-      "title": "在软件领域，代码为应用程序提供说明。在AI领域，是轨迹。",
-      "created": "2026-01-10 08:00",
-      "link": "https://lumina.shawnxie.top/article/in-software-the-code-documents-the-app-in-ai-the-7f7809ae",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
       "id": "d2d4c537b9958ebbfbeff2eb4a4e7e2f20dc2c3a",
       "title": "让炼丹更科学一些（五）：基于梯度精调学习率",
       "created": "2026-01-09 10:56",
@@ -161,111 +143,12 @@
       "category": "ai"
     },
     {
-      "id": "bc478b956d73866920cad5cb3d493141cf93ec62",
-      "title": "使用 Agent 编码的最佳实践",
-      "created": "2026-01-09 08:00",
-      "link": "https://lumina.shawnxie.top/article/shi-yong-agent-bian-ma-de-zui-jia-shi-jian-7bbf3364",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "cf09a9ba1b8f8e022cbe76839f62472fd30e434e",
-      "title": "Z.ai 2025：推动通往AGI的道路",
-      "created": "2026-01-08 08:00",
-      "link": "https://lumina.shawnxie.top/article/brand-3c7a6d88",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "1e5cac9b1398608983418d4713909bd6d59260ee",
-      "title": "动态上下文发现",
-      "created": "2026-01-06 08:00",
-      "link": "https://lumina.shawnxie.top/article/dong-tai-shang-xia-wen-fa-xian-cf83cf67",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "71eb6a969b9d7a2e7d1bac091b19f044ff4f8071",
-      "title": "《辛普森一家》中的雷尔夫·威格姆是目前人工智能领域最火的名字",
-      "created": "2026-01-06 08:00",
-      "link": "https://lumina.shawnxie.top/article/how-ralph-wiggum-went-from-the-simpsons-to-the-120b2a23",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "f161dd02957fb31c899c6812308982c50624a68b",
-      "title": "2026年的编程智能体工作流",
-      "created": "2026-01-04 08:00",
-      "link": "https://lumina.shawnxie.top/article/my-llm-coding-workflow-going-into-2026-e5363601",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
       "id": "c0a073b7c644f2009554544a0c6f52785c1203f7",
       "title": "自主 Agent / 上下文工程资料索引",
       "created": "2026-01-04 00:00",
       "link": "https://ninehills.tech/articles/150.html",
       "author": "九原山博客",
       "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
-      "category": "ai"
-    },
-    {
-      "id": "1c82406d33ee252533d0bda4dcff0eea7c499cba",
-      "title": "在谷歌工作14年吸取的21个教训",
-      "created": "2026-01-03 08:00",
-      "link": "https://lumina.shawnxie.top/article/21-lessons-from-14-years-at-google-a97e355b",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "2368ff81072fec7d52e6f66a8b382f040f570c23",
-      "title": "Claude Code  之父 Boris 的 9 条实战技巧：原来高手的配置这么“朴实无华”",
-      "created": "2026-01-02 08:00",
-      "link": "https://lumina.shawnxie.top/article/claude-code-zhi-fu-boris-de-9-tiao-shi-zhan-ji-272df302",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "e73e29fb3bc4bcbcbeeb6020d63a24026c7682b7",
-      "title": "欢迎来到煤气镇",
-      "created": "2026-01-01 08:00",
-      "link": "https://lumina.shawnxie.top/article/welcome-to-gas-town-67e8fc09",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "0dc7f6dce0758a078edc73adcfa3ee4914d290bf",
-      "title": "回顾LLM领域2025发生的一切",
-      "created": "2025-12-31 08:00",
-      "link": "https://lumina.shawnxie.top/article/2025-the-year-in-llms-dce0464e",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "4494040d10bf5a2df106a8f986e2d0702bd73145",
-      "title": "Manus 谈 AI Agent 之道：做对一千件小事，比做对三件大事更重要",
-      "created": "2025-12-31 08:00",
-      "link": "https://lumina.shawnxie.top/article/manus-tan-ai-agent-zhi-dao-zuo-dui-yi-qian-jian-44571094",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "2f4f6a44fd577a37353c09428ba304369f6bb18c",
-      "title": "AI 时代，我的知识管理系统（2025 版）",
-      "created": "2025-12-29 08:00",
-      "link": "https://lumina.shawnxie.top/article/ai-shi-dai-wo-de-zhi-shi-guan-li-xi-tong-2025-ban-124c6851",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -287,15 +170,6 @@
       "category": "ai"
     },
     {
-      "id": "552a716e64ef1561e3d9bb90f946b5525666e0e0",
-      "title": "让炼丹更科学一些（四）：新恒等式，新学习率",
-      "created": "2025-12-26 10:38",
-      "link": "https://kexue.fm/archives/11494",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
       "id": "204136a9df1cd57109d79269cb254017a7491d05",
       "title": "Tinker RL 测试（含代码库）",
       "created": "2025-12-25 00:00",
@@ -305,39 +179,12 @@
       "category": "ai"
     },
     {
-      "id": "9e8f2c5f06c270bfff617e95ab43686cc4a8bddb",
-      "title": "蒸汽、钢铁与无限思维",
-      "created": "2025-12-23 08:00",
-      "link": "https://lumina.shawnxie.top/article/individuals-from-bicycles-to-cars-d1f0ffa1",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "6d38c33d99ee4693c6a18a14285bd68eea40e011",
-      "title": "充满氛围的一年",
-      "created": "2025-12-22 08:00",
-      "link": "https://lumina.shawnxie.top/article/a-year-of-vibes-347855f7",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
       "id": "04d86ac5fc8cf6362972c26a5e414892435ac4d7",
       "title": "明明配了SSH却无法推送私有仓库，原来是密钥版本太新了",
       "created": "2025-12-20 23:31",
       "link": "https://www.less-bug.com/posts/although-ssh-is-configured-the-private-repository-cannot-be-pushed-it-turns-out-that-the-key-version-is-too-new/",
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "0cb72131e1e39e7ccd2c76a68a7672a3ca419ca2",
-      "title": "2025 年大语言模型年度回顾",
-      "created": "2025-12-20 08:00",
-      "link": "https://lumina.shawnxie.top/article/2025-llm-year-in-review-beab468a",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -1049,15 +896,6 @@
       "link": "https://www.less-bug.com/posts/learn-and-practice-of-axi4-bus-protocol/",
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
-      "title": "Qwen多模态系列论文",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
