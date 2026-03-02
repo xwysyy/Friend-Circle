@@ -1,12 +1,48 @@
 {
   "statistical_data": {
     "friends_num": 38,
-    "active_num": 37,
-    "error_num": 1,
-    "article_num": 233,
-    "last_updated_time": "2026-03-02 21:12:10"
+    "active_num": 36,
+    "error_num": 2,
+    "article_num": 237,
+    "last_updated_time": "2026-03-03 00:58:23"
   },
   "article_data": [
+    {
+      "id": "4f03d92dee465f3801fed97833ddb1bfa7a46aca",
+      "title": "GIF optimization tool using WebAssembly and Gifsicle",
+      "created": "2026-03-03 00:35",
+      "link": "https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "86ee2985555aaa59f4590cfa4d920daa02fcab72",
+      "title": "The Architecture Behind Open-Source LLMs",
+      "created": "2026-03-03 00:30",
+      "link": "https://blog.bytebytego.com/p/the-architecture-behind-open-source",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "id": "c78e21236d984eef89cd9b9ae7c1d530c79a40aa",
+      "title": "February sponsors-only newsletter",
+      "created": "2026-03-02 22:53",
+      "link": "https://simonwillison.net/2026/Mar/2/february-newsletter/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "32a3eab6301a23cc9493b9680337edd3588fc562",
+      "title": "LLM 算法岗 | 字节面试常问的 leetcode 算法题汇总，附 leetcode 链接 - MoonOut",
+      "created": "2026-03-02 21:47",
+      "link": "https://www.cnblogs.com/moonout/p/19660803",
+      "author": "Moon out",
+      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
     {
       "id": "4227edff01d4092f1654f20eda3ecae7725726c7",
       "title": "MuP之上：3. 特殊情况特殊处理",
@@ -638,21 +674,21 @@
       "category": "ai"
     },
     {
-      "id": "d43bf54b3aa4767f932e8e17d2d47a9041f1e156",
-      "title": "Rust ♥️ Python: Rust 做底层实现的高效 Python 库",
-      "created": "2025-06-25 08:00",
-      "link": "https://mathewshen.me/blog/2025/rust-and-python/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "0807256cd10e40e0041c93c71d614f1164e6c618",
       "title": "深入浅出了解生成模型-5：diffuser/accelerate库学习及其数据合成",
       "created": "2025-06-25 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/06/25/accelerate-diffusers.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "d43bf54b3aa4767f932e8e17d2d47a9041f1e156",
+      "title": "Rust ♥️ Python: Rust 做底层实现的高效 Python 库",
+      "created": "2025-06-25 08:00",
+      "link": "https://mathewshen.me/blog/2025/rust-and-python/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -818,21 +854,21 @@
       "category": "ai"
     },
     {
-      "id": "cf8dcebb3638b1e6dcbadf11c6c68145e386217d",
-      "title": "ToyRL: 从零实现深度强化学习算法",
-      "created": "2025-05-08 08:00",
-      "link": "https://mathewshen.me/blog/2025/toyrl/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "0cc7ed5ed4abe376a77574e4035e4625c5250ab4",
       "title": "深入浅出了解生成模型-1：GAN模型原理以及代码实战",
       "created": "2025-05-08 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/05/08/GAN.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "cf8dcebb3638b1e6dcbadf11c6c68145e386217d",
+      "title": "ToyRL: 从零实现深度强化学习算法",
+      "created": "2025-05-08 08:00",
+      "link": "https://mathewshen.me/blog/2025/toyrl/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1115,21 +1151,21 @@
       "category": "ai"
     },
     {
-      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
-      "title": "Oh-Numpy & Oh-Pytorch",
-      "created": "2025-01-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
       "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
       "created": "2025-01-23 08:00",
       "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1259,21 +1295,21 @@
       "category": "ai"
     },
     {
-      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
-      "title": "斯坦福小镇解读",
-      "created": "2024-11-28 08:00",
-      "link": "https://mathewshen.me/blog/2024/ai-town/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
       "title": "Reward Hacking in Reinforcement Learning",
       "created": "2024-11-28 08:00",
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
