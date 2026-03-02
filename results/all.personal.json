@@ -1,12 +1,30 @@
 {
   "statistical_data": {
     "friends_num": 38,
-    "active_num": 36,
-    "error_num": 2,
-    "article_num": 237,
-    "last_updated_time": "2026-03-03 00:58:23"
+    "active_num": 37,
+    "error_num": 1,
+    "article_num": 242,
+    "last_updated_time": "2026-03-03 04:46:19"
   },
   "article_data": [
+    {
+      "id": "af30505aa98bfa6b12602e5cf7af751f6ed61fe3",
+      "title": "openclaw 解决了什么痛点？",
+      "created": "2026-03-03 11:33",
+      "link": "https://kirigaya.cn/blog/article?seq=367",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "f6ce1747c133dd533742b3d0a7b036541e2ab99a",
+      "title": "小白都能看懂的 openclaw 安装教程",
+      "created": "2026-03-03 11:30",
+      "link": "https://kirigaya.cn/blog/article?seq=366",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
     {
       "id": "4f03d92dee465f3801fed97833ddb1bfa7a46aca",
       "title": "GIF optimization tool using WebAssembly and Gifsicle",
@@ -80,12 +98,39 @@
       "category": "ai"
     },
     {
+      "id": "b738060d246f3b8577e5b0c2a6a8ebb01f1fb668",
+      "title": "microgpt: 一个最小化的 GPT 实现",
+      "created": "2026-03-02 08:00",
+      "link": "https://lumina.shawnxie.top/article/microgpt-6720d2a9",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
       "id": "57cad5cd5f3218ef5a5a5f5bb2efe96eb1904323",
       "title": "强化学习算法-2：熵坍缩以及奖励坍缩问题机制分析及解决措施",
       "created": "2026-03-01 08:00",
       "link": "https://www.big-yellow-j.top/posts/2026/03/01/RLHF-2.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6182e4eca1dfb9a25bbe3533c2841fa527fdddbf",
+      "title": "人工智能软件开发的第三个时代",
+      "created": "2026-02-25 08:00",
+      "link": "https://lumina.shawnxie.top/article/x-b78d35fc",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "dc3a8b3436668b4fa5b0886197468e7a4037785d",
+      "title": "2028 年全球情报危机",
+      "created": "2026-02-23 08:00",
+      "link": "https://lumina.shawnxie.top/article/the-2028-global-intelligence-crisis-5269f390",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -674,21 +719,21 @@
       "category": "ai"
     },
     {
-      "id": "0807256cd10e40e0041c93c71d614f1164e6c618",
-      "title": "深入浅出了解生成模型-5：diffuser/accelerate库学习及其数据合成",
-      "created": "2025-06-25 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/06/25/accelerate-diffusers.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "d43bf54b3aa4767f932e8e17d2d47a9041f1e156",
       "title": "Rust ♥️ Python: Rust 做底层实现的高效 Python 库",
       "created": "2025-06-25 08:00",
       "link": "https://mathewshen.me/blog/2025/rust-and-python/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "0807256cd10e40e0041c93c71d614f1164e6c618",
+      "title": "深入浅出了解生成模型-5：diffuser/accelerate库学习及其数据合成",
+      "created": "2025-06-25 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/06/25/accelerate-diffusers.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -737,21 +782,21 @@
       "category": "ai"
     },
     {
-      "id": "1e9d0c3988dcb92a31de9a661ecf891968aa9c2f",
-      "title": "勇气的奥秘——从赢走向赢",
-      "created": "2025-06-11 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E5%8B%87%E6%B0%94%E7%9A%84%E5%A5%A5%E7%A7%98-%E4%BB%8E%E8%B5%A2%E8%B5%B0%E5%90%91%E8%B5%A2/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
       "id": "90c14f95511a221a65f2fea452321f4ffe5bcc62",
       "title": "图像消除论文-1：PixelHacker、PowerPanint、Attentive Eraser",
       "created": "2025-06-11 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/06/11/ImageEraser1.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "1e9d0c3988dcb92a31de9a661ecf891968aa9c2f",
+      "title": "勇气的奥秘——从赢走向赢",
+      "created": "2025-06-11 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E5%8B%87%E6%B0%94%E7%9A%84%E5%A5%A5%E7%A7%98-%E4%BB%8E%E8%B5%A2%E8%B5%B0%E5%90%91%E8%B5%A2/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
@@ -854,21 +899,21 @@
       "category": "ai"
     },
     {
-      "id": "0cc7ed5ed4abe376a77574e4035e4625c5250ab4",
-      "title": "深入浅出了解生成模型-1：GAN模型原理以及代码实战",
-      "created": "2025-05-08 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/05/08/GAN.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "cf8dcebb3638b1e6dcbadf11c6c68145e386217d",
       "title": "ToyRL: 从零实现深度强化学习算法",
       "created": "2025-05-08 08:00",
       "link": "https://mathewshen.me/blog/2025/toyrl/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "0cc7ed5ed4abe376a77574e4035e4625c5250ab4",
+      "title": "深入浅出了解生成模型-1：GAN模型原理以及代码实战",
+      "created": "2025-05-08 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/05/08/GAN.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -1151,21 +1196,21 @@
       "category": "ai"
     },
     {
-      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
-      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
-      "created": "2025-01-23 08:00",
-      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
       "title": "Oh-Numpy & Oh-Pytorch",
       "created": "2025-01-23 08:00",
       "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
+      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
+      "created": "2025-01-23 08:00",
+      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1295,21 +1340,21 @@
       "category": "ai"
     },
     {
-      "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
-      "title": "Reward Hacking in Reinforcement Learning",
-      "created": "2024-11-28 08:00",
-      "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
-      "author": "Lilian Weng",
-      "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
-      "category": "ai"
-    },
-    {
       "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
       "title": "斯坦福小镇解读",
       "created": "2024-11-28 08:00",
       "link": "https://mathewshen.me/blog/2024/ai-town/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
+      "title": "Reward Hacking in Reinforcement Learning",
+      "created": "2024-11-28 08:00",
+      "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
+      "author": "Lilian Weng",
+      "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
       "category": "ai"
     },
     {

@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 38,
-    "active_num": 36,
-    "error_num": 2,
-    "article_num": 559,
-    "last_updated_time": "2026-03-03 00:57:30"
+    "active_num": 37,
+    "error_num": 1,
+    "article_num": 579,
+    "last_updated_time": "2026-03-03 04:46:13"
   },
   "article_data": [
     {
@@ -32,6 +32,24 @@
       "link": "https://yukinoshitasherry.github.io/26%E5%A4%96%E5%9C%B0%E9%A3%9F%E7%89%A9/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "af30505aa98bfa6b12602e5cf7af751f6ed61fe3",
+      "title": "openclaw 解决了什么痛点？",
+      "created": "2026-03-03 11:33",
+      "link": "https://kirigaya.cn/blog/article?seq=367",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "f6ce1747c133dd533742b3d0a7b036541e2ab99a",
+      "title": "小白都能看懂的 openclaw 安装教程",
+      "created": "2026-03-03 11:30",
+      "link": "https://kirigaya.cn/blog/article?seq=366",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
       "category": "ai"
     },
     {
@@ -125,12 +143,39 @@
       "category": "ai"
     },
     {
+      "id": "b738060d246f3b8577e5b0c2a6a8ebb01f1fb668",
+      "title": "microgpt: 一个最小化的 GPT 实现",
+      "created": "2026-03-02 08:00",
+      "link": "https://lumina.shawnxie.top/article/microgpt-6720d2a9",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
       "id": "540e81eec7105d729218c263e0581e5db93d7198",
       "title": "论文速读记录 | 2026.03 - MoonOut",
       "created": "2026-03-02 00:01",
       "link": "https://www.cnblogs.com/moonout/p/19657062",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "c408257fce609f1441aa452fa32d028419e2e776",
+      "title": "skills：Hugging Face 推出的开源技能库",
+      "created": "2026-03-01 21:29",
+      "link": "https://lumina.shawnxie.top/article/skills-hugging-face-tui-chu-de-kai-yuan-ji-neng-ku-3740e9e8",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "339efd561579cbd1e61990e3b4e73eb539589941",
+      "title": "Agent-Reach：让 AI Agent 具备搜索多平台内容能力",
+      "created": "2026-03-01 21:21",
+      "link": "https://lumina.shawnxie.top/article/agent-reach-rang-ai-agent-ju-bei-sou-suo-duo-ping-6078d6c4",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -176,6 +221,87 @@
       "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018653&idx=3&sn=76dfe0bb2832efadbd7d245d34f5afe8",
       "author": "机器之心",
       "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "bcdf4835aa7a0a3b9394f6729429031331584747",
+      "title": "awesome-openclaw-usecases：OpenClaw真实使用案例",
+      "created": "2026-03-01 08:00",
+      "link": "https://lumina.shawnxie.top/article/awesome-openclaw-usecases-openclawzhen-shi-shi-5136e228",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "56a092258eda72c61bb2e6e4abee9ad045b88ff4",
+      "title": "zvec：阿里巴巴开源的轻量级向量数据库",
+      "created": "2026-03-01 08:00",
+      "link": "https://lumina.shawnxie.top/article/zvec-a-li-ba-ba-kai-yuan-de-qing-liang-ji-xiang-c09c0cda",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "7cecf8af8003df76440c1667192529f4256c91af",
+      "title": "将记忆导入 Claude",
+      "created": "2026-03-01 08:00",
+      "link": "https://lumina.shawnxie.top/article/switch-to-claude-without-starting-over-claude-7b66c60f",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "6b84b2d9edc3de74bee969bddce9ddfea0d726dd",
+      "title": "airi：开源的 AI VTuber/虚拟角色项目",
+      "created": "2026-03-01 08:00",
+      "link": "https://lumina.shawnxie.top/article/airi-kai-yuan-de-ai-vtuber-xu-ni-jiao-se-xiang-mu-f116cce9",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "f25a36b29ef155ce3e3d223572dfc90760a614e8",
+      "title": "awesome-openclaw-skills：OpenClaw 技能集合",
+      "created": "2026-03-01 08:00",
+      "link": "https://lumina.shawnxie.top/article/awesome-openclaw-skills-openclaw-ji-neng-ji-he-fedf147b",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "aba1731ee3f4e5e32f08ab6081496d1b345dbf15",
+      "title": "LobsterAI：网易有道开发的全能个人AI助手",
+      "created": "2026-03-01 08:00",
+      "link": "https://lumina.shawnxie.top/article/lobsterai-wang-yi-you-dao-kai-fa-de-quan-neng-ge-58363d67",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "f0eb6e909d59854796f3140e89582ca53ed0d8a9",
+      "title": "CoPaw：阿里开源的个人 AI 助手项目",
+      "created": "2026-03-01 08:00",
+      "link": "https://lumina.shawnxie.top/article/copaw-a-li-kai-yuan-de-ge-ren-ai-zhu-shou-xiang-mu-6640e09c",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "decaad9b52c4c390f2a85c838ea8fa9376db1ae4",
+      "title": "Superset：编程智能体的终端 IDE",
+      "created": "2026-03-01 08:00",
+      "link": "https://lumina.shawnxie.top/article/superset-bian-cheng-zhi-neng-ti-de-zhong-duan-ide-81586699",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "f40fce8bda3c01e04c141a3796643396f439acfe",
+      "title": "Mobile-Agent：多模态 GUI 自动化智能体框架",
+      "created": "2026-03-01 08:00",
+      "link": "https://lumina.shawnxie.top/article/mobile-agent-duo-mo-tai-gui-zi-dong-hua-zhi-neng-49686a53",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -230,6 +356,24 @@
       "link": "https://baoyu.io/blog/2026-02-28/anthropic-ceo-trump-pentagon-clash",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "c4de354a9620246ccee2a935152de6e6726a9e32",
+      "title": "特朗普下令：美国联邦政府将立即停用 Anthropic 的产品",
+      "created": "2026-02-28 08:00",
+      "link": "https://lumina.shawnxie.top/article/te-lang-pu-xia-ling-mei-guo-lian-bang-zheng-fu-01f97c61",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "42998f1db3e07786e50cd89ac151dab2fe6fd6c3",
+      "title": "我国首个国家级人形机器人与具身智能标准体系正式发布",
+      "created": "2026-02-28 08:00",
+      "link": "https://lumina.shawnxie.top/article/wo-guo-shou-ge-guo-jia-ji-ren-xing-ji-qi-ren-yu-f567f480",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -314,6 +458,24 @@
       "category": "ai"
     },
     {
+      "id": "8468b2b52e9a5e7987f943dd3f793f44276c8527",
+      "title": "管理 Claude 的记忆",
+      "created": "2026-02-27 08:00",
+      "link": "https://lumina.shawnxie.top/article/manage-claude-s-memory-claude-code-docs-eef2e5f1",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "37b1efc9ce1e71c256c6ff4707e0d4c5d373cfa1",
+      "title": "告别中文乱码！谷歌发布 Nano Banana 2 图像 AI 模型：画质直达 4K",
+      "created": "2026-02-27 08:00",
+      "link": "https://lumina.shawnxie.top/article/gao-bie-zhong-wen-luan-ma-gu-ge-fa-bu-nano-banana-09228845",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
       "id": "d799798c6fbb7a0f4f1503de39446ec0c2a528ec",
       "title": "Hoard things you know how to do",
       "created": "2026-02-27 04:33",
@@ -365,6 +527,42 @@
       "link": "https://baoyu.io/translations/2026-02-12/harness-engineering",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "54fbc3889ff60a3eab0c5ceed2fe867c165b461a",
+      "title": "人工智能改变了编程的面貌",
+      "created": "2026-02-26 08:00",
+      "link": "https://lumina.shawnxie.top/article/x-shang-de-andrej-karpathy-it-is-hard-to-122a3fe5",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "c0b0876338a2171809dbcf1dd3723003f1e3534d",
+      "title": "tldraw 将测试移至闭源仓库",
+      "created": "2026-02-26 08:00",
+      "link": "https://lumina.shawnxie.top/article/tldraw-issue-move-tests-to-closed-source-repo-599b2576",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "b88e2949f2d752d34b3ee4d79b67d3325195b2e3",
+      "title": "在智能体投入生产之前，你根本不知道它会做什么",
+      "created": "2026-02-26 08:00",
+      "link": "https://lumina.shawnxie.top/article/you-dont-know-what-your-agent-will-do-until-its-9e1f8558",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "47f80b08c77be91513ff854470b75981790ec6c0",
+      "title": "​谷歌重磅升级 AI 创意工作室 Flow，集成图像与视频生成",
+      "created": "2026-02-26 08:00",
+      "link": "https://lumina.shawnxie.top/article/gu-ge-zhong-bang-sheng-ji-ai-chuang-yi-gong-zuo-6dfdf445",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -1943,19 +2141,19 @@
       "category": "ai"
     },
     {
-      "id": "3b471576c20b1223ee665aedd34483dfa922ca58",
-      "title": "矩阵微分热身",
+      "id": "804fa59122219d2d96cf56ce39edeb9cad3bf507",
+      "title": "矩阵微分乘法法则速记",
       "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E7%83%AD%E8%BA%AB/",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "804fa59122219d2d96cf56ce39edeb9cad3bf507",
-      "title": "矩阵微分乘法法则速记",
+      "id": "3b471576c20b1223ee665aedd34483dfa922ca58",
+      "title": "矩阵微分热身",
       "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E7%83%AD%E8%BA%AB/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -2267,21 +2465,21 @@
       "category": "ai"
     },
     {
-      "id": "29a9e0b54d724362a8754e0d07d8cfa211c4d7d0",
-      "title": "无题",
-      "created": "2025-12-27 08:00",
-      "link": "https://ifuryst.github.io/blog/2025/untitled/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
-      "category": "ai"
-    },
-    {
       "id": "b862cd6209e171582dfddff2fa7c56ba247f57a4",
       "title": "模型推理框架——vllm原理及整体框架",
       "created": "2025-12-27 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/12/27/vllm-1.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "29a9e0b54d724362a8754e0d07d8cfa211c4d7d0",
+      "title": "无题",
+      "created": "2025-12-27 08:00",
+      "link": "https://ifuryst.github.io/blog/2025/untitled/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -3311,15 +3509,6 @@
       "category": "friend"
     },
     {
-      "id": "93ebecbd9596ad6baf91a1b98345efa436b1c17e",
-      "title": "为什么我需要设计回流系统？openmcp reflux 用量化指标帮你让你更加了解你的 Agent 系统与 MCP",
-      "created": "2025-10-31 06:32",
-      "link": "https://kirigaya.cn/blog/article?seq=357",
-      "author": "锦恢",
-      "avatar": "https://kirigaya.cn/favicon.png",
-      "category": "ai"
-    },
-    {
       "id": "0083ac77ac8028538c54d525ce0fe20ad469942e",
       "title": "Build your first AI Agent with Gemini, n8n and Google Cloud Run",
       "created": "2025-10-30 08:00",
@@ -3344,15 +3533,6 @@
       "link": "https://xnnehang.top/posts/debug/waiting_for_headers_0_ubuntu24",
       "author": "XnneHang's Blog",
       "avatar": "https://xnnehang.top/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "8b175dfe366875fb5213ed1024e8e7d7fcae60dd",
-      "title": "RAG 和 CE 是什么关系？我们真的需要 RAG 吗？",
-      "created": "2025-10-28 03:35",
-      "link": "https://kirigaya.cn/blog/article?seq=356",
-      "author": "锦恢",
-      "avatar": "https://kirigaya.cn/favicon.png",
       "category": "ai"
     },
     {
