@@ -4,7 +4,7 @@
     "active_num": 37,
     "error_num": 1,
     "article_num": 581,
-    "last_updated_time": "2026-03-03 10:39:51"
+    "last_updated_time": "2026-03-03 13:16:16"
   },
   "article_data": [
     {
@@ -35,6 +35,15 @@
       "category": "ai"
     },
     {
+      "id": "d8b77af9fb2f5340aa8d512e0789359c8af3b48a",
+      "title": "2026 年，万物皆 Coding Agent 的平台工程（A2A / ACP / MCP / Skill）",
+      "created": "2026-03-03 12:01",
+      "link": "http://www.phodal.com/blog/coding-agent-platform-engineering/",
+      "author": "Phodal Huang",
+      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
+      "category": "ai"
+    },
+    {
       "id": "af30505aa98bfa6b12602e5cf7af751f6ed61fe3",
       "title": "openclaw 解决了什么痛点？",
       "created": "2026-03-03 11:33",
@@ -53,12 +62,57 @@
       "category": "ai"
     },
     {
+      "id": "04ebc1493d5a62d2477a728f4601f2b4ecc2f208",
+      "title": "LeetCode 718 最长重复子数组：python3 题解 - MoonOut",
+      "created": "2026-03-03 11:26",
+      "link": "https://www.cnblogs.com/moonout/p/19662251",
+      "author": "Moon out",
+      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "fe2e51e5f00fc3cc0026bec3cf33b012055fb5d7",
+      "title": "LeetCode 1143 最长公共子序列：python 3 题解 - MoonOut",
+      "created": "2026-03-03 11:14",
+      "link": "https://www.cnblogs.com/moonout/p/19662208",
+      "author": "Moon out",
+      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "1dbd71d3ec9e471a381df20559cd9552985b4862",
+      "title": "LeetCode 407 接雨水 II（3D 版）：python3 题解 - MoonOut",
+      "created": "2026-03-03 10:43",
+      "link": "https://www.cnblogs.com/moonout/p/19661969",
+      "author": "Moon out",
+      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
       "id": "dbbf92ee0f52191fea94fa7d35d41a97b16cf4dd",
       "title": "LeetCode 42 接雨水：python3 题解 - MoonOut",
       "created": "2026-03-03 10:28",
       "link": "https://www.cnblogs.com/moonout/p/19661867",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "a43e438ec32d53cf26382dd46784e38b3c27e6c8",
+      "title": "如何创作AI歌曲？从生成歌词、歌曲创作、专辑封面到音乐发行",
+      "created": "2026-03-03 10:22",
+      "link": "https://blog.zhheo.com/p/cpw1bogx.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
+      "category": "friend"
+    },
+    {
+      "id": "0e82a7aff65d1fbc7c99dab8f3336074aae9a0c0",
+      "title": "Giving LLMs a personality is just good engineering",
+      "created": "2026-03-03 08:00",
+      "link": "https://seangoedecke.com/giving-llms-a-personality/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -143,6 +197,15 @@
       "category": "ai"
     },
     {
+      "id": "ca5df4618faee8529cf418e48b9f378863c05ec8",
+      "title": "Greg Brockman（OpenAI 联合创始人）把“那场宫斗”讲完整了：董事会、请愿书、马斯克与控制权",
+      "created": "2026-03-02 08:00",
+      "link": "https://baoyu.io/blog/2026-03-01/greg-brockman",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "96ec34280cb969dbe4d08dc660e5579adf8ca4a0",
       "title": "设计流程已死：Anthropic 设计负责人 Jenny Wen 谈 AI 时代的设计变革",
       "created": "2026-03-02 08:00",
@@ -152,21 +215,21 @@
       "category": "ai"
     },
     {
-      "id": "0ab217ab64fd02f6773ba47c30359a5eb6c90581",
-      "title": "肖恩技术周刊（第 84 期）：Token 粉碎机",
-      "created": "2026-03-02 08:00",
-      "link": "https://weekly.shawnxie.top/content/2026/84.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "b738060d246f3b8577e5b0c2a6a8ebb01f1fb668",
       "title": "microgpt: 一个最小化的 GPT 实现",
       "created": "2026-03-02 08:00",
       "link": "https://lumina.shawnxie.top/article/microgpt-6720d2a9",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "0ab217ab64fd02f6773ba47c30359a5eb6c90581",
+      "title": "肖恩技术周刊（第 84 期）：Token 粉碎机",
+      "created": "2026-03-02 08:00",
+      "link": "https://weekly.shawnxie.top/content/2026/84.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -539,21 +602,21 @@
       "category": "ai"
     },
     {
-      "id": "e44d72287f6142b276a728b74bbd126033c8e2e2",
-      "title": "Mixture of Experts (MoEs) in Transformers",
-      "created": "2026-02-26 08:00",
-      "link": "https://huggingface.co/blog/moe-transformers",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "4d50c95f79c3a1c476da99fae6b4af3f25b655e7",
       "title": "驾驭工程：在「智能体优先」的世界里借力 Codex",
       "created": "2026-02-26 08:00",
       "link": "https://baoyu.io/translations/2026-02-12/harness-engineering",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e44d72287f6142b276a728b74bbd126033c8e2e2",
+      "title": "Mixture of Experts (MoEs) in Transformers",
+      "created": "2026-02-26 08:00",
+      "link": "https://huggingface.co/blog/moe-transformers",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -683,15 +746,6 @@
       "category": "ai"
     },
     {
-      "id": "ea6c582559c06681d2c8ae3238823a99fc885e5c",
-      "title": "GitHub上传超时问题",
-      "created": "2026-02-25 08:00",
-      "link": "https://yukinoshitasherry.github.io/github%E6%8B%89%E5%8F%96%E6%96%87%E4%BB%B6%E5%90%8D%E7%A7%B0%E5%A4%AA%E9%95%BF/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
-      "category": "ai"
-    },
-    {
       "id": "58a4d769b0c764b09b87bae1fa427855801ceae1",
       "title": "92.6% 开发者每月使用 AI 编码助手，但每周节省时间只有 4 小时",
       "created": "2026-02-25 08:00",
@@ -707,6 +761,15 @@
       "link": "https://baoyu.io/blog/2026-02-25/coding-agent-sweet-spot",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "ea6c582559c06681d2c8ae3238823a99fc885e5c",
+      "title": "GitHub上传超时问题",
+      "created": "2026-02-25 08:00",
+      "link": "https://yukinoshitasherry.github.io/github%E6%8B%89%E5%8F%96%E6%96%87%E4%BB%B6%E5%90%8D%E7%A7%B0%E5%A4%AA%E9%95%BF/",
+      "author": "秋月春风的书房",
+      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
       "category": "ai"
     },
     {
@@ -746,21 +809,21 @@
       "category": "ai"
     },
     {
-      "id": "328ac70aed76788dbf6102d13722ea7596d612ab",
-      "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
-      "created": "2026-02-24 08:00",
-      "link": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "076353ae66089a0583b451e024013fc9cf4d9c27",
       "title": "同样的模型，为什么 Cursor 跑不过 Claude Code？",
       "created": "2026-02-24 08:00",
       "link": "https://baoyu.io/blog/2026-02-23/claude-code-vs-cursor",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "328ac70aed76788dbf6102d13722ea7596d612ab",
+      "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
+      "created": "2026-02-24 08:00",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -998,21 +1061,21 @@
       "category": "ai"
     },
     {
-      "id": "a10c31319962675c5df2dd490085067aa96a5b61",
-      "title": "One-Shot Any Web App with Gradio's gr.HTML",
-      "created": "2026-02-18 08:00",
-      "link": "https://huggingface.co/blog/gradio-html-one-shot-apps",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "428d6b0dd5e9ac6d605286cbef711aa49e7986ff",
       "title": "用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更",
       "created": "2026-02-18 08:00",
       "link": "https://baoyu.io/blog/2026-02-13/claude-code-auto-commit",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "a10c31319962675c5df2dd490085067aa96a5b61",
+      "title": "One-Shot Any Web App with Gradio's gr.HTML",
+      "created": "2026-02-18 08:00",
+      "link": "https://huggingface.co/blog/gradio-html-one-shot-apps",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1173,15 +1236,6 @@
       "title": "Anthropic CEO Dario Amodei 访谈：我们正在接近指数的终点",
       "created": "2026-02-14 08:00",
       "link": "https://baoyu.io/blog/2026-02-14/dario-amodei-interview-analysis",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "7db71b252238c2a189342aedc2ec66fa7ab62c71",
-      "title": "别再用提示词去 AI 味了，方向就是错的",
-      "created": "2026-02-14 08:00",
-      "link": "https://baoyu.io/blog/2026-02-14/remove-ai-writing-flavor",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
@@ -2285,15 +2339,6 @@
       "category": "friend"
     },
     {
-      "id": "fdeb6cd5851223548dd42a76925b20d0139aedec",
-      "title": "论文速读记录 | 2026.01 - MoonOut",
-      "created": "2026-01-01 22:08",
-      "link": "https://www.cnblogs.com/moonout/p/19430736",
-      "author": "Moon out",
-      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
       "id": "928b7829cd250008c9e13b0edbecb9a6ac433721",
       "title": "Qwen-Image-2512: 更细腻，更真实",
       "created": "2025-12-31 13:08",
@@ -2699,15 +2744,6 @@
       "category": "ai"
     },
     {
-      "id": "4799b63d1bcefc6df9505be30df8cd37588ac766",
-      "title": "论文速读记录 | 2025.12（2） - MoonOut",
-      "created": "2025-12-20 23:30",
-      "link": "https://www.cnblogs.com/moonout/p/19377108",
-      "author": "Moon out",
-      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
       "id": "9e02b7d61103cda181dd9a63b6a8d97095713f89",
       "title": "I Trained Probes to Catch AI Models Sandbagging",
       "created": "2025-12-20 08:30",
@@ -2823,15 +2859,6 @@
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
       "category": "friend"
-    },
-    {
-      "id": "a01560d9513d98cb9e50f48526250e576c19457a",
-      "title": "PbRL · MARL | 近期 preference-based MARL 工作速读 - MoonOut",
-      "created": "2025-12-15 14:20",
-      "link": "https://www.cnblogs.com/moonout/p/19025026",
-      "author": "Moon out",
-      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
     },
     {
       "id": "4210014b8d36d9150bfc813782b809e928dbf7a4",
@@ -3005,19 +3032,19 @@
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -3083,15 +3110,6 @@
       "link": "https://ifuryst.github.io/blog/2025/llm-sampling/",
       "author": "ifuryst",
       "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
-      "category": "ai"
-    },
-    {
-      "id": "098a4ec85e55af64c09019fc54cd2a6ec64eaff8",
-      "title": "How good engineers write bad code at big companies",
-      "created": "2025-11-29 08:00",
-      "link": "https://seangoedecke.com/bad-code-at-big-companies/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -3392,19 +3410,19 @@
       "category": "ai"
     },
     {
-      "id": "c0cfd951583b0ddec4e6dbb8dbc9c95dcc6bd593",
-      "title": "ELBO与VAE与EM",
+      "id": "c389a4203305e254a63dafd528b811fd77a74499",
+      "title": "SpecForge Marks",
       "created": "2025-11-06 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/elbo%E4%B8%8Evae%E4%B8%8Eem/",
+      "link": "https://blog.tomorrowdawn.cc/posts/specforge-marks/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "c389a4203305e254a63dafd528b811fd77a74499",
-      "title": "SpecForge Marks",
+      "id": "c0cfd951583b0ddec4e6dbb8dbc9c95dcc6bd593",
+      "title": "ELBO与VAE与EM",
       "created": "2025-11-06 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/specforge-marks/",
+      "link": "https://blog.tomorrowdawn.cc/posts/elbo%E4%B8%8Evae%E4%B8%8Eem/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -3498,15 +3516,6 @@
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
-    },
-    {
-      "id": "689cd5dbb7b397c9d26a9de5fd793b13e71bd815",
-      "title": "博客六周年记",
-      "created": "2025-10-31 18:38",
-      "link": "https://blog.zhheo.com/p/a8cqpj9s.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
-      "category": "friend"
     },
     {
       "id": "0083ac77ac8028538c54d525ce0fe20ad469942e",
@@ -3641,15 +3650,6 @@
       "link": "https://www.philschmid.de/benchmark-compedium",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "54d746241b0ed57c7995e4fbb3572482de3f701e",
-      "title": "Agent 架构综述：从 Prompt 到上下文工程构建 AI Agent",
-      "created": "2025-10-14 14:09",
-      "link": "http://www.phodal.com/blog/prompt-to-agenticg/",
-      "author": "Phodal Huang",
-      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
       "category": "ai"
     },
     {

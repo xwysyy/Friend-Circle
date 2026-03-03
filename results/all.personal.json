@@ -3,17 +3,62 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 231,
-    "last_updated_time": "2026-03-03 10:40:00"
+    "article_num": 236,
+    "last_updated_time": "2026-03-03 13:16:23"
   },
   "article_data": [
     {
-      "id": "dbbf92ee0f52191fea94fa7d35d41a97b16cf4dd",
-      "title": "LeetCode 42 接雨水：python3 题解 - MoonOut",
-      "created": "2026-03-03 10:28",
-      "link": "https://www.cnblogs.com/moonout/p/19661867",
+      "id": "d8b77af9fb2f5340aa8d512e0789359c8af3b48a",
+      "title": "2026 年，万物皆 Coding Agent 的平台工程（A2A / ACP / MCP / Skill）",
+      "created": "2026-03-03 12:01",
+      "link": "http://www.phodal.com/blog/coding-agent-platform-engineering/",
+      "author": "Phodal Huang",
+      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "04ebc1493d5a62d2477a728f4601f2b4ecc2f208",
+      "title": "LeetCode 718 最长重复子数组：python3 题解 - MoonOut",
+      "created": "2026-03-03 11:26",
+      "link": "https://www.cnblogs.com/moonout/p/19662251",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "fe2e51e5f00fc3cc0026bec3cf33b012055fb5d7",
+      "title": "LeetCode 1143 最长公共子序列：python 3 题解 - MoonOut",
+      "created": "2026-03-03 11:14",
+      "link": "https://www.cnblogs.com/moonout/p/19662208",
+      "author": "Moon out",
+      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "1dbd71d3ec9e471a381df20559cd9552985b4862",
+      "title": "LeetCode 407 接雨水 II（3D 版）：python3 题解 - MoonOut",
+      "created": "2026-03-03 10:43",
+      "link": "https://www.cnblogs.com/moonout/p/19661969",
+      "author": "Moon out",
+      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "a43e438ec32d53cf26382dd46784e38b3c27e6c8",
+      "title": "如何创作AI歌曲？从生成歌词、歌曲创作、专辑封面到音乐发行",
+      "created": "2026-03-03 10:22",
+      "link": "https://blog.zhheo.com/p/cpw1bogx.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
+      "category": "friend"
+    },
+    {
+      "id": "0e82a7aff65d1fbc7c99dab8f3336074aae9a0c0",
+      "title": "Giving LLMs a personality is just good engineering",
+      "created": "2026-03-03 08:00",
+      "link": "https://seangoedecke.com/giving-llms-a-personality/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -26,10 +71,10 @@
       "category": "ai"
     },
     {
-      "id": "96ec34280cb969dbe4d08dc660e5579adf8ca4a0",
-      "title": "设计流程已死：Anthropic 设计负责人 Jenny Wen 谈 AI 时代的设计变革",
+      "id": "ca5df4618faee8529cf418e48b9f378863c05ec8",
+      "title": "Greg Brockman（OpenAI 联合创始人）把“那场宫斗”讲完整了：董事会、请愿书、马斯克与控制权",
       "created": "2026-03-02 08:00",
-      "link": "https://baoyu.io/blog/2026-03-01/jenny-wen-design-process",
+      "link": "https://baoyu.io/blog/2026-03-01/greg-brockman",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
@@ -161,19 +206,19 @@
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -566,21 +611,21 @@
       "category": "ai"
     },
     {
-      "id": "4491f7d2bcbc01b0aa9a1774bee2a9f8f76f2e3f",
-      "title": "肖恩技术周刊（第 51 期）：为何浏览器请求头User-Agent均以Mozilla开头？",
-      "created": "2025-06-30 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/51.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "519908ebd9cf39429c01e0ab1d6edbbf14105a8b",
       "title": "The New Skill in AI is Not Prompting, It's Context Engineering",
       "created": "2025-06-30 08:00",
       "link": "https://www.philschmid.de/context-engineering",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "4491f7d2bcbc01b0aa9a1774bee2a9f8f76f2e3f",
+      "title": "肖恩技术周刊（第 51 期）：为何浏览器请求头User-Agent均以Mozilla开头？",
+      "created": "2025-06-30 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/51.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -602,21 +647,21 @@
       "category": "ai"
     },
     {
-      "id": "d43bf54b3aa4767f932e8e17d2d47a9041f1e156",
-      "title": "Rust ♥️ Python: Rust 做底层实现的高效 Python 库",
-      "created": "2025-06-25 08:00",
-      "link": "https://mathewshen.me/blog/2025/rust-and-python/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "0807256cd10e40e0041c93c71d614f1164e6c618",
       "title": "深入浅出了解生成模型-5：diffuser/accelerate库学习及其数据合成",
       "created": "2025-06-25 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/06/25/accelerate-diffusers.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "d43bf54b3aa4767f932e8e17d2d47a9041f1e156",
+      "title": "Rust ♥️ Python: Rust 做底层实现的高效 Python 库",
+      "created": "2025-06-25 08:00",
+      "link": "https://mathewshen.me/blog/2025/rust-and-python/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -665,21 +710,21 @@
       "category": "ai"
     },
     {
-      "id": "1e9d0c3988dcb92a31de9a661ecf891968aa9c2f",
-      "title": "勇气的奥秘——从赢走向赢",
-      "created": "2025-06-11 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E5%8B%87%E6%B0%94%E7%9A%84%E5%A5%A5%E7%A7%98-%E4%BB%8E%E8%B5%A2%E8%B5%B0%E5%90%91%E8%B5%A2/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
       "id": "90c14f95511a221a65f2fea452321f4ffe5bcc62",
       "title": "图像消除论文-1：PixelHacker、PowerPanint、Attentive Eraser",
       "created": "2025-06-11 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/06/11/ImageEraser1.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "1e9d0c3988dcb92a31de9a661ecf891968aa9c2f",
+      "title": "勇气的奥秘——从赢走向赢",
+      "created": "2025-06-11 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E5%8B%87%E6%B0%94%E7%9A%84%E5%A5%A5%E7%A7%98-%E4%BB%8E%E8%B5%A2%E8%B5%B0%E5%90%91%E8%B5%A2/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
@@ -782,21 +827,21 @@
       "category": "ai"
     },
     {
-      "id": "cf8dcebb3638b1e6dcbadf11c6c68145e386217d",
-      "title": "ToyRL: 从零实现深度强化学习算法",
-      "created": "2025-05-08 08:00",
-      "link": "https://mathewshen.me/blog/2025/toyrl/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "0cc7ed5ed4abe376a77574e4035e4625c5250ab4",
       "title": "深入浅出了解生成模型-1：GAN模型原理以及代码实战",
       "created": "2025-05-08 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/05/08/GAN.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "cf8dcebb3638b1e6dcbadf11c6c68145e386217d",
+      "title": "ToyRL: 从零实现深度强化学习算法",
+      "created": "2025-05-08 08:00",
+      "link": "https://mathewshen.me/blog/2025/toyrl/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1079,21 +1124,21 @@
       "category": "ai"
     },
     {
-      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
-      "title": "Oh-Numpy & Oh-Pytorch",
-      "created": "2025-01-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
       "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
       "created": "2025-01-23 08:00",
       "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1223,21 +1268,21 @@
       "category": "ai"
     },
     {
-      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
-      "title": "斯坦福小镇解读",
-      "created": "2024-11-28 08:00",
-      "link": "https://mathewshen.me/blog/2024/ai-town/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
       "title": "Reward Hacking in Reinforcement Learning",
       "created": "2024-11-28 08:00",
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
