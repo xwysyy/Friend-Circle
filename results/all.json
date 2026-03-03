@@ -4,7 +4,7 @@
     "active_num": 37,
     "error_num": 1,
     "article_num": 581,
-    "last_updated_time": "2026-03-03 16:51:43"
+    "last_updated_time": "2026-03-03 21:10:20"
   },
   "article_data": [
     {
@@ -32,6 +32,42 @@
       "link": "https://yukinoshitasherry.github.io/26%E5%A4%96%E5%9C%B0%E9%A3%9F%E7%89%A9/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "21b64fd3a51b0d28a90362b0d9de1c6217342308",
+      "title": "LeetCode 15 三数之和：python3 题解 - MoonOut",
+      "created": "2026-03-03 17:04",
+      "link": "https://www.cnblogs.com/moonout/p/19664106",
+      "author": "Moon out",
+      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "2fba1685d078160e1f0c474f93f7fb0cd7917fb1",
+      "title": "神隐许久的光年之外，造了款AI浏览器Tabbit，能打吗？",
+      "created": "2026-03-03 17:03",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651019191&idx=1&sn=8bedc286edc083ef4a2ccfb431f1e2a6",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "a068ab0bacf8f604d3d57681d37c5c0e117112ae",
+      "title": "训练机器人方式对了吗？英伟达DreamZero双榜第一新反思",
+      "created": "2026-03-03 17:03",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651019191&idx=2&sn=4be0ed8e60d25714ceb68916660f8311",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "f3cd561699a9a5a7a7fc76821d62fea6ff93294d",
+      "title": "ICLR 2026 | 当视频难以被表征：UCSD、HKUST等机构联合提出FlowRVS，用生成式流匹配重构视觉感知范式",
+      "created": "2026-03-03 17:03",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651019191&idx=3&sn=6f11bcbcf5ee1140821f30f340ba1a3b",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -233,6 +269,15 @@
       "category": "ai"
     },
     {
+      "id": "0ab217ab64fd02f6773ba47c30359a5eb6c90581",
+      "title": "肖恩技术周刊（第 84 期）：Token 粉碎机",
+      "created": "2026-03-02 08:00",
+      "link": "https://weekly.shawnxie.top/content/2026/84.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "category": "ai"
+    },
+    {
       "id": "ca5df4618faee8529cf418e48b9f378863c05ec8",
       "title": "Greg Brockman（OpenAI 联合创始人）把“那场宫斗”讲完整了：董事会、请愿书、马斯克与控制权",
       "created": "2026-03-02 08:00",
@@ -248,15 +293,6 @@
       "link": "https://baoyu.io/blog/2026-03-01/jenny-wen-design-process",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "0ab217ab64fd02f6773ba47c30359a5eb6c90581",
-      "title": "肖恩技术周刊（第 84 期）：Token 粉碎机",
-      "created": "2026-03-02 08:00",
-      "link": "https://weekly.shawnxie.top/content/2026/84.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -458,15 +494,6 @@
       "category": "ai"
     },
     {
-      "id": "bfe5dde724d300fb8c32a48b8814fa1bd4c1088c",
-      "title": "ICLR 2026｜FOCUS 关键帧提取：长视频理解能力提升11.9%，只需采样<2% 帧",
-      "created": "2026-02-28 12:16",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018571&idx=2&sn=6a6be34a81c4b23a1750b0dd01f94e33",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "6a9bb14e6725cfb7d49c099018a61f5efe40644f",
       "title": "被封杀当晚，OpenAI 拿到了相同条款——Amodei 首次专访揭开 Anthropic 与五角大楼冲突内幕",
       "created": "2026-02-28 08:00",
@@ -527,24 +554,6 @@
       "link": "https://simonwillison.net/2026/Feb/27/unicode-explorer/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "09fc1ea4f13f233d0a652330ae07e3daac56646f",
-      "title": "用AI替代人类，Block裁员四成，股价大涨近25%，超4700万人围观",
-      "created": "2026-02-27 22:13",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018518&idx=1&sn=48a4bbdb47a76a8a0ff0ac07d881e444",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "3eef906f8e0bba5895ac5f62830501ee8da6e002",
-      "title": "比比皆是的下一个创新点：从Prompt Learning进化到SIPDO的闭环自进化",
-      "created": "2026-02-27 22:13",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018518&idx=2&sn=9b1f02344dae9b86a417702023b0d82a",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -2087,15 +2096,6 @@
       "category": "ai"
     },
     {
-      "id": "0ee3d9fd501081f3e2006f9e7fb29986cd43eb45",
-      "title": "基于梯度组合的多任务 / 多目标学习 - MoonOut",
-      "created": "2026-01-10 17:17",
-      "link": "https://www.cnblogs.com/moonout/p/19465882",
-      "author": "Moon out",
-      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
       "id": "d2d4c537b9958ebbfbeff2eb4a4e7e2f20dc2c3a",
       "title": "让炼丹更科学一些（五）：基于梯度精调学习率",
       "created": "2026-01-09 10:56",
@@ -2186,19 +2186,19 @@
       "category": "ai"
     },
     {
-      "id": "804fa59122219d2d96cf56ce39edeb9cad3bf507",
-      "title": "矩阵微分乘法法则速记",
+      "id": "64a885263404a75b6fda56d21ec2d331d683cc60",
+      "title": "梯度速降",
       "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E6%A2%AF%E5%BA%A6%E9%80%9F%E9%99%8D/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "64a885263404a75b6fda56d21ec2d331d683cc60",
-      "title": "梯度速降",
+      "id": "804fa59122219d2d96cf56ce39edeb9cad3bf507",
+      "title": "矩阵微分乘法法则速记",
       "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E6%A2%AF%E5%BA%A6%E9%80%9F%E9%99%8D/",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
