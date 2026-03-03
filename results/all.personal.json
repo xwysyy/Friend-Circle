@@ -3,62 +3,44 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 236,
-    "last_updated_time": "2026-03-03 13:16:23"
+    "article_num": 221,
+    "last_updated_time": "2026-03-03 16:51:50"
   },
   "article_data": [
     {
-      "id": "d8b77af9fb2f5340aa8d512e0789359c8af3b48a",
-      "title": "2026 年，万物皆 Coding Agent 的平台工程（A2A / ACP / MCP / Skill）",
-      "created": "2026-03-03 12:01",
-      "link": "http://www.phodal.com/blog/coding-agent-platform-engineering/",
-      "author": "Phodal Huang",
-      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "04ebc1493d5a62d2477a728f4601f2b4ecc2f208",
-      "title": "LeetCode 718 最长重复子数组：python3 题解 - MoonOut",
-      "created": "2026-03-03 11:26",
-      "link": "https://www.cnblogs.com/moonout/p/19662251",
+      "id": "fc1601754d46e4ed06a3e8f42d00342f731e30f1",
+      "title": "LeetCode 3 无重复字符的最长子串：python3 题解 - MoonOut",
+      "created": "2026-03-03 16:49",
+      "link": "https://www.cnblogs.com/moonout/p/19664015",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
       "category": "ai"
     },
     {
-      "id": "fe2e51e5f00fc3cc0026bec3cf33b012055fb5d7",
-      "title": "LeetCode 1143 最长公共子序列：python 3 题解 - MoonOut",
-      "created": "2026-03-03 11:14",
-      "link": "https://www.cnblogs.com/moonout/p/19662208",
+      "id": "a458e8f5701faddc5a7c3463c41423cc5a1d0f6b",
+      "title": "LeetCode 140 单词拆分 II（输出所有可行拆分句子）：python3 题解 - MoonOut",
+      "created": "2026-03-03 15:26",
+      "link": "https://www.cnblogs.com/moonout/p/19663471",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
       "category": "ai"
     },
     {
-      "id": "1dbd71d3ec9e471a381df20559cd9552985b4862",
-      "title": "LeetCode 407 接雨水 II（3D 版）：python3 题解 - MoonOut",
-      "created": "2026-03-03 10:43",
-      "link": "https://www.cnblogs.com/moonout/p/19661969",
+      "id": "fab9d680be4933233ebad0087a0519949b433123",
+      "title": "LeetCode 139 单词拆分：python3 题解 - MoonOut",
+      "created": "2026-03-03 15:17",
+      "link": "https://www.cnblogs.com/moonout/p/19663396",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
       "category": "ai"
     },
     {
-      "id": "a43e438ec32d53cf26382dd46784e38b3c27e6c8",
-      "title": "如何创作AI歌曲？从生成歌词、歌曲创作、专辑封面到音乐发行",
-      "created": "2026-03-03 10:22",
-      "link": "https://blog.zhheo.com/p/cpw1bogx.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
-      "category": "friend"
-    },
-    {
-      "id": "0e82a7aff65d1fbc7c99dab8f3336074aae9a0c0",
-      "title": "Giving LLMs a personality is just good engineering",
-      "created": "2026-03-03 08:00",
-      "link": "https://seangoedecke.com/giving-llms-a-personality/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "id": "9bc1ee451dda995bb0fb331779c493265ceed52f",
+      "title": "LeetCode 72 编辑距离：python3 题解 - MoonOut",
+      "created": "2026-03-03 15:08",
+      "link": "https://www.cnblogs.com/moonout/p/19663333",
+      "author": "Moon out",
+      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
       "category": "ai"
     },
     {
@@ -68,24 +50,6 @@
       "link": "https://www.cnblogs.com/moonout/p/19660803",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
-      "id": "ca5df4618faee8529cf418e48b9f378863c05ec8",
-      "title": "Greg Brockman（OpenAI 联合创始人）把“那场宫斗”讲完整了：董事会、请愿书、马斯克与控制权",
-      "created": "2026-03-02 08:00",
-      "link": "https://baoyu.io/blog/2026-03-01/greg-brockman",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "57cad5cd5f3218ef5a5a5f5bb2efe96eb1904323",
-      "title": "强化学习算法-2：熵坍缩以及奖励坍缩问题机制分析及解决措施",
-      "created": "2026-03-01 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/03/01/RLHF-2.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -111,15 +75,6 @@
       "title": "LLM | VeRL 相关文档汇总 - MoonOut",
       "created": "2026-02-17 17:40",
       "link": "https://www.cnblogs.com/moonout/p/19621804",
-      "author": "Moon out",
-      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
-      "id": "2380894458c1f5c6dbc4564cd89f9728efbf171d",
-      "title": "Python · GitHub · Linux | 使用本机作为·代·理·服务器 - MoonOut",
-      "created": "2026-02-15 12:39",
-      "link": "https://www.cnblogs.com/moonout/p/19617816",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
       "category": "ai"
@@ -188,15 +143,6 @@
       "category": "ai"
     },
     {
-      "id": "04d86ac5fc8cf6362972c26a5e414892435ac4d7",
-      "title": "明明配了SSH却无法推送私有仓库，原来是密钥版本太新了",
-      "created": "2025-12-20 23:31",
-      "link": "https://www.less-bug.com/posts/although-ssh-is-configured-the-private-repository-cannot-be-pushed-it-turns-out-that-the-key-version-is-too-new/",
-      "author": "Less Bug",
-      "avatar": "https://www.less-bug.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "8a3a47b9753c6c42d8cc0338d5363f7a74bb37a2",
       "title": "Mac电脑初学与装机记录",
       "created": "2025-12-18 08:00",
@@ -260,48 +206,12 @@
       "category": "ai"
     },
     {
-      "id": "8b0c94057193899f7eb82ca8b6ef25ec4214b673",
-      "title": "LLM 量化（GPTQ、GGUF）实战以及效果和推理性能实测",
-      "created": "2025-09-22 00:00",
-      "link": "https://ninehills.tech/articles/143.html",
-      "author": "九原山博客",
-      "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
-      "category": "ai"
-    },
-    {
-      "id": "82b2fde757c24e7635c88869fb5ccef5bc1a0e56",
-      "title": "使用Coding Agent 作为通用智能体完成 DeepResearch 任务",
-      "created": "2025-09-16 00:00",
-      "link": "https://ninehills.tech/articles/141.html",
-      "author": "九原山博客",
-      "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
-      "category": "ai"
-    },
-    {
-      "id": "19fe4e049ba73c2925141d673b9342591f75a60f",
-      "title": "不同硬件和推理引擎模型输出的精度差异",
-      "created": "2025-09-09 00:00",
-      "link": "https://ninehills.tech/articles/137.html",
-      "author": "九原山博客",
-      "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
-      "category": "ai"
-    },
-    {
       "id": "2830b2f2445f6958609ee85e5d2a59f14917e59b",
       "title": "免费 GPU 或廉价算力",
       "created": "2025-09-03 00:00",
       "link": "https://ninehills.tech/articles/133.html",
       "author": "九原山博客",
       "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
-      "category": "ai"
-    },
-    {
-      "id": "bc7dd08ccca251eaa2ee3967aa8e766476803ccb",
-      "title": "开源模型技术总结-1————Qwen系列模型",
-      "created": "2025-08-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/08/28/OpenModelQwen.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -323,282 +233,111 @@
       "category": "ai"
     },
     {
-      "id": "ce818bac42ba6e437a3590d7917741eba6cd5616",
-      "title": "TextQuests: How Good are LLMs at Text-Based Video Games?",
-      "created": "2025-08-12 08:00",
-      "link": "https://huggingface.co/blog/textquests",
+      "id": "f516e61d2657d755881e8fcc16c022cea69bfca9",
+      "title": "Migrating the Hub from Git LFS to Xet",
+      "created": "2025-07-15 08:00",
+      "link": "https://huggingface.co/blog/migrating-the-hub-to-xet",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "45cb752037397f31a7c1b2bb85a6a9d10f2371a7",
-      "title": "🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?",
-      "created": "2025-08-12 08:00",
-      "link": "https://huggingface.co/blog/filbench",
+      "id": "ae7aec069b3939a39884ab572fa5bfa5cb78095d",
+      "title": "Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models",
+      "created": "2025-07-10 20:54",
+      "link": "https://huggingface.co/blog/AI-MO/kimina-prover",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "cd4f1553c85a7b0d728d13e4873207e0a26e8f7a",
-      "title": "Introducing AI Sheets: a tool to work with datasets using open AI models!",
-      "created": "2025-08-08 08:00",
-      "link": "https://huggingface.co/blog/aisheets",
+      "id": "6783013a8af251b0809b66d3d938da0f7e80aa87",
+      "title": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution",
+      "created": "2025-07-10 08:00",
+      "link": "https://huggingface.co/blog/async-robot-inference",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "1c3ae4dd47531eb94f80224a93f56787f7bba259",
-      "title": "Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training",
-      "created": "2025-08-08 08:00",
-      "link": "https://huggingface.co/blog/accelerate-nd-parallel",
+      "id": "b3fd6651fb8a3624bb6a98eb9ef6a1a1482056fe",
+      "title": "ScreenEnv: Deploy your full stack Desktop Agent",
+      "created": "2025-07-10 08:00",
+      "link": "https://huggingface.co/blog/screenenv",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "3e22e4ec3bab95064b93c7b50950e7a0d65391c9",
-      "title": "如果你的VSCode Jupyter是个笨蛋找不到环境……",
-      "created": "2025-08-07 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E5%A6%82%E6%9E%9C%E4%BD%A0%E7%9A%84vscode-jupyter%E6%98%AF%E4%B8%AA%E7%AC%A8%E8%9B%8B%E6%89%BE%E4%B8%8D%E5%88%B0%E7%8E%AF%E5%A2%83/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "6fca2708dd46c2edb7a69303acd0f8a8d185c9d9",
-      "title": "Vision Language Model Alignment in TRL ⚡️",
-      "created": "2025-08-07 08:00",
-      "link": "https://huggingface.co/blog/trl-vlm-alignment",
+      "id": "ca3b1c577662089da922d9d0b5219ad728e10a47",
+      "title": "Building the Hugging Face MCP Server",
+      "created": "2025-07-10 08:00",
+      "link": "https://huggingface.co/blog/building-hf-mcp",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "cdfeea9596c1b56156023a8396f76429e18647b7",
-      "title": "Welcome GPT OSS, the new open-source model family from OpenAI!",
-      "created": "2025-08-05 08:00",
-      "link": "https://huggingface.co/blog/welcome-openai-gpt-oss",
+      "id": "e87daea5645e709cf26bbe2667b8bee38dff3db5",
+      "title": "Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders",
+      "created": "2025-07-09 08:00",
+      "link": "https://huggingface.co/blog/reachy-mini",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "a7d760ab746a249f83e47511d9972107e8be8ff3",
-      "title": "Measuring Open-Source Llama Nemotron Models on DeepResearch Bench",
-      "created": "2025-08-05 03:51",
-      "link": "https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent",
+      "id": "c813e0eae594a3205af1c4bc5ab09ad3345f4817",
+      "title": "Creating custom kernels for the AMD MI300",
+      "created": "2025-07-09 08:00",
+      "link": "https://huggingface.co/blog/mi300kernels",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "ccf88facbd4d0b108d8ebec5dc0af64f54a898b8",
-      "title": "📚 3LM: A Benchmark for Arabic LLMs in STEM and Code",
-      "created": "2025-08-01 22:25",
-      "link": "https://huggingface.co/blog/tiiuae/3lm-benchmark",
+      "id": "14385d65a9a8e405737244e6e963f2dfd8d616a4",
+      "title": "Upskill your LLMs With Gradio MCP Servers",
+      "created": "2025-07-09 08:00",
+      "link": "https://huggingface.co/blog/gradio-mcp-servers",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "19fc12f12099dcc88fa9f261892b14c543e63673",
-      "title": "速通CUDA",
-      "created": "2025-08-01 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E9%80%9F%E9%80%9Acuda/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "e07af35f3032ffe55baed8dbe4b9a7912dd68e2d",
-      "title": "Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio",
-      "created": "2025-07-31 08:00",
-      "link": "https://huggingface.co/blog/gradio-vton-mcp",
+      "id": "eda6b39f35706f36cfab982f9870d18516716d75",
+      "title": "SmolLM3: smol, multilingual, long-context reasoner",
+      "created": "2025-07-08 08:00",
+      "link": "https://huggingface.co/blog/smollm3",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "12966bb6e2ceef79370839db5f5be1f74b897300",
-      "title": "Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face",
-      "created": "2025-07-29 08:00",
-      "link": "https://huggingface.co/blog/trackio",
+      "id": "233a746ffc41ab880ca0d2b0bc4109297e175cf7",
+      "title": "Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure",
+      "created": "2025-07-08 08:00",
+      "link": "https://huggingface.co/blog/infrastructure-alerting",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "55134f36b57b4136e3e06fbf0b1a296e04a7062f",
-      "title": "GSPO：迈向持续拓展的语言模型强化学习",
-      "created": "2025-07-27 15:00",
-      "link": "https://qwen.ai/blog?id=gspo",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
-      "category": "ai"
-    },
-    {
-      "id": "8ef26a5b85e584cd1bfc03b53d8b96bb50e48d09",
-      "title": "Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨",
-      "created": "2025-07-25 08:00",
-      "link": "https://huggingface.co/blog/hf-cli",
+      "id": "46191c925b6aff2426d817a847ce1afb3f87ad1c",
+      "title": "Efficient MultiModal Data Pipeline",
+      "created": "2025-07-08 08:00",
+      "link": "https://huggingface.co/blog/mmdp",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "ca7971322475137b66bec017435b117620bbf7a7",
-      "title": "Parquet Content-Defined Chunking",
-      "created": "2025-07-25 08:00",
-      "link": "https://huggingface.co/blog/parquet-cdc",
+      "id": "7171cbcf8da6f106c118968f85a3188eb77a1f9c",
+      "title": "Announcing  NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models",
+      "created": "2025-07-04 20:25",
+      "link": "https://huggingface.co/blog/tiiuae/e2lm-competition",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "469948b29fb591288519a5ec6ebddf8306c7fb2f",
-      "title": "TimeScope: How Long Can Your Video Large Multimodal Model Go?",
-      "created": "2025-07-23 08:00",
-      "link": "https://huggingface.co/blog/timescope-video-lmm-benchmark",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "cde2fe77d1be2eb2b6dc090d29e41c7d1a137518",
-      "title": "Fast LoRA inference for Flux with Diffusers and PEFT",
-      "created": "2025-07-23 08:00",
-      "link": "https://huggingface.co/blog/lora-fast",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "62bf7f5904574a3f140e643adaeb4a7c9c7046d3",
-      "title": "Qwen3-Coder: 在世界中自主编程",
-      "created": "2025-07-22 21:00",
-      "link": "https://qwen.ai/blog?id=qwen3-coder",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
-      "category": "ai"
-    },
-    {
-      "id": "d87ac4dac10ee56377045aa0efd7558db2f3993b",
-      "title": "Accelerate a World of LLMs on Hugging Face with NVIDIA NIM",
-      "created": "2025-07-22 02:01",
-      "link": "https://huggingface.co/blog/nvidia/multi-llm-nim",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "ef4f06b2f68186d20e09c7fc45635b2210e66569",
-      "title": "[VLMWalk-1] OpenWebUI配置",
-      "created": "2025-07-18 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/vlmwalk-1-openwebui%E9%85%8D%E7%BD%AE/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "db32404a201439d4dee653c4cb21f2f5969bbda1",
-      "title": "Arc Virtual Cell Challenge: A Primer",
-      "created": "2025-07-18 08:00",
-      "link": "https://huggingface.co/blog/virtual-cell-challenge",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "084a3f4929552fcbb133040b4120823b2ac6e74f",
-      "title": "Consilium: When Multiple LLMs Collaborate",
-      "created": "2025-07-17 08:00",
-      "link": "https://huggingface.co/blog/consilium-multi-llm",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "c8d7fe2cd231db962d8aad17e92a25417addcf82",
-      "title": "Back to The Future: Evaluating AI Agents on Predicting Future Events",
-      "created": "2025-07-17 08:00",
-      "link": "https://huggingface.co/blog/futurebench",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "ec08d52fce95cdd6dbf426131a7e337f2a3d6811",
-      "title": "Five Big Improvements to Gradio MCP Servers",
-      "created": "2025-07-17 08:00",
-      "link": "https://huggingface.co/blog/gradio-mcp-updates",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "f05412c1b14636b237793855d48d9641031b2ebf",
-      "title": "Ettin Suite: SoTA Paired Encoders and Decoders",
-      "created": "2025-07-16 08:00",
-      "link": "https://huggingface.co/blog/ettin",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "18f56562b7db04ad095c659ba62ea8f8e3d3371d",
-      "title": "肖恩技术周刊（第 53 期）：编程的本质",
-      "created": "2025-07-14 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/53.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
-      "id": "f4b34bef6f531a800f12ae9a4f6a6431e22d3c81",
-      "title": "大语言模型高质量数据集汇总",
-      "created": "2025-07-10 00:00",
-      "link": "https://ninehills.tech/articles/129.html",
-      "author": "九原山博客",
-      "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
-      "category": "ai"
-    },
-    {
-      "id": "f5b995f7a67281b408cd1c760d9755a6e918d252",
-      "title": "AI Tech Blog",
-      "created": "2025-07-08 00:00",
-      "link": "https://ninehills.tech/articles/128.html",
-      "author": "九原山博客",
-      "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
-      "category": "ai"
-    },
-    {
-      "id": "efa5818f6b7bac2307e16e78ca4c3342c86c6641",
-      "title": "肖恩技术周刊（第 52 期）：魔数0x5f3759df",
-      "created": "2025-07-07 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/52.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
-      "id": "a5238ba96a4f6a0af901e1fe4419afae2c477cf1",
-      "title": "浅谈AIGC论文检测",
-      "created": "2025-07-01 19:32",
-      "link": "https://blog.liushen.fun/posts/58e1bd57/",
-      "author": "清羽飞扬",
-      "avatar": "https://blog.liushen.fun/info/avatar.ico",
-      "category": "friend"
-    },
-    {
-      "id": "145c37031e6c7a43ed4e1655b2d556d5bf0cb8a7",
-      "title": "LLM Research Papers: The 2025 List (January to June)",
-      "created": "2025-07-01 14:06",
-      "link": "https://sebastianraschka.com/blog/2025/llm-research-papers-the-2025-list-january-to-june.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -611,102 +350,75 @@
       "category": "ai"
     },
     {
-      "id": "519908ebd9cf39429c01e0ab1d6edbbf14105a8b",
-      "title": "The New Skill in AI is Not Prompting, It's Context Engineering",
-      "created": "2025-06-30 08:00",
-      "link": "https://www.philschmid.de/context-engineering",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
+      "id": "6ed40dacc4bc52620d2b308a3b925698f8476148",
+      "title": "Training and Finetuning Sparse Embedding Models with Sentence Transformers v5",
+      "created": "2025-07-01 08:00",
+      "link": "https://huggingface.co/blog/train-sparse-encoder",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "4491f7d2bcbc01b0aa9a1774bee2a9f8f76f2e3f",
-      "title": "肖恩技术周刊（第 51 期）：为何浏览器请求头User-Agent均以Mozilla开头？",
-      "created": "2025-06-30 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/51.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "id": "9aa10c19d7fd5b8f581af0ad184492c3612925d0",
+      "title": "Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub",
+      "created": "2025-06-28 05:09",
+      "link": "https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "4c2812a7cb4db873cf0f46556d4437fcfe4ad164",
-      "title": "CV中常用Backbone-4：目标检查算法原理以及代码操作",
-      "created": "2025-06-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/06/28/Objectdetection.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "06b6ef140bf0d5024a94f08c8cb69dc1ec3dc96a",
-      "title": "图像消除论文-2：SmartEraser、Erase Diffusion、OmniEraser",
+      "id": "a1b4c9bd83448b13a2c22e2b2e3a10ca5459e68f",
+      "title": "Gemma 3n fully available in the open-source ecosystem!",
       "created": "2025-06-26 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/06/26/ImageEraser2.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "link": "https://huggingface.co/blog/gemma3n",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "0807256cd10e40e0041c93c71d614f1164e6c618",
-      "title": "深入浅出了解生成模型-5：diffuser/accelerate库学习及其数据合成",
-      "created": "2025-06-25 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/06/25/accelerate-diffusers.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "d43bf54b3aa4767f932e8e17d2d47a9041f1e156",
-      "title": "Rust ♥️ Python: Rust 做底层实现的高效 Python 库",
-      "created": "2025-06-25 08:00",
-      "link": "https://mathewshen.me/blog/2025/rust-and-python/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
-      "id": "660024a800757ece8d27b93b5088dc6dc38de905",
-      "title": "肖恩技术周刊（第 50 期）：警惕胶水工作",
+      "id": "9b7e2a21a60e4d8a202f8b43fe54903650afd164",
+      "title": "Transformers backend integration in SGLang",
       "created": "2025-06-23 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/50.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "link": "https://huggingface.co/blog/transformers-backend-sglang",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "138e15559d2e28ba4be7d562a5601f55cc495947",
-      "title": "Single vs Multi-Agent System?",
-      "created": "2025-06-20 08:00",
-      "link": "https://www.philschmid.de/single-vs-multi-agents",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
+      "id": "0573e55f5c9d7340d6bdb10519ac3181e983a69e",
+      "title": "(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware",
+      "created": "2025-06-19 08:00",
+      "link": "https://huggingface.co/blog/flux-qlora",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "d9915aa2bcdbcf5375be3a45e104cdef3aab3516",
-      "title": "Understanding and Coding the KV Cache in LLMs from Scratch",
-      "created": "2025-06-17 16:00",
-      "link": "https://sebastianraschka.com/blog/2025/coding-the-kv-cache-in-llms.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "5441647fa2a1cac7952b2fccd97a8ed58fefb9ef",
-      "title": "深入浅出了解生成模型-4：一致性模型（consistency model）",
-      "created": "2025-06-17 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/06/17/CM.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b409e1fe14baa37dfb1df98340c99294feaf8ab3",
-      "title": "肖恩技术周刊（第 49 期）：消费主义假象",
+      "id": "a46498fb99d7b98346b0dc798c4536da063d007a",
+      "title": "Groq on Hugging Face Inference Providers 🔥",
       "created": "2025-06-16 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/49.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "link": "https://huggingface.co/blog/inference-providers-groq",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7652afe4f639e03d391a0b9aeb2d3c7ab9450ed0",
+      "title": "How Long Prompts Block Other Requests - Optimizing LLM Performance",
+      "created": "2025-06-12 16:00",
+      "link": "https://huggingface.co/blog/tngtech/llm-performance-blocked-by-long-prompts",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "39e3384c43ad0780ca69223c8387c17941a985c7",
+      "title": "Learn the Hugging Face Kernel Hub in 5 Minutes",
+      "created": "2025-06-12 08:00",
+      "link": "https://huggingface.co/blog/hello-hf-kernels",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -908,12 +620,57 @@
       "category": "ai"
     },
     {
+      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
+      "title": "Qwen多模态系列论文",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
       "title": "Google Gemini LangChain Cheatsheet",
       "created": "2025-04-28 08:00",
       "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "817c82cf2757eac3149a5f1e20fc7f755169f81f",
+      "title": "强化学习框架：OpenRLHF源码解读，模型训练-1",
+      "created": "2025-04-24 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/24/OpenRLHF-2.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "77be626def3ac25685ed12bddce8d38edd813379",
+      "title": "强化学习框架：OpenRLHF源码解读，模型处理",
+      "created": "2025-04-22 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/22/OpenRLHF-1.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "1e1c01bd7f3a7f2f791a728acd78b72ef5a73d59",
+      "title": "深度学习分布式训练-2（模型并行/数据并行/流水线并行/张量并行）",
+      "created": "2025-04-21 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/21/DistributeTraining-2.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
+      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
+      "created": "2025-04-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -995,6 +752,15 @@
       "link": "https://mathewshen.me/blog/2025/redis-lock/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "1f4f50d680e063561cf84e3d4e0b90a4237724ed",
+      "title": "Python进阶知识：多进程/多线程/装饰器",
+      "created": "2025-03-22 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/03/22/PythonThreading.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -1376,12 +1142,30 @@
       "category": "ai"
     },
     {
+      "id": "7d8d0c74cbb1ae6cb8e73056ff240874fccf0e2f",
+      "title": "Evaluate open LLMs with Vertex AI and Gemini",
+      "created": "2024-09-24 08:00",
+      "link": "https://www.philschmid.de/evaluate-llm-with-gemini",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "ce1c738ad333bbdb67a2828e340aef3ca1de73f6",
       "title": "Building A GPT-Style LLM Classifier From Scratch",
       "created": "2024-09-21 14:03",
       "link": "https://sebastianraschka.com/blog/2024/building-a-gpt-style-llm-classifier.html",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "5fa8412644086866a6426de15aedba7f62e2a089",
+      "title": "Evaluate LLMs using Evaluation Harness and Hugging Face TGI/vLLM",
+      "created": "2024-09-19 08:00",
+      "link": "https://www.philschmid.de/evaluate-llms-with-lm-eval-and-tgi-vllm",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1428,6 +1212,15 @@
       "author": "huccihuang",
       "avatar": "https://avatars.githubusercontent.com/u/37830922?s=400&u=e1064ca880baded1c670372f9fa0a1b0cffac885&v=4",
       "category": "lang"
+    },
+    {
+      "id": "6fa640cd85f0f9dcec18e69129085db2c7dd40a6",
+      "title": "C：实现一个迷你无栈协程框架——Minico",
+      "created": "2024-07-22 23:19",
+      "link": "https://www.less-bug.com/posts/c-implement-a-mini-stackless-coroutine-framework-minico/",
+      "author": "Less Bug",
+      "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
     },
     {
       "id": "a7130006643347acfc99a7af7880aecfc45f1c46",
@@ -1524,6 +1317,24 @@
       "title": "Tips for LLM Pretraining and Evaluating Reward Models",
       "created": "2024-03-31 14:00",
       "link": "https://sebastianraschka.com/blog/2024/research-papers-in-march-2024.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "5370c3c70c7e475f643b6878c86a0a21447aa7a5",
+      "title": "Research Papers in February 2024",
+      "created": "2024-03-03 14:00",
+      "link": "https://sebastianraschka.com/blog/2024/research-papers-in-february-2024.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "be3e08b850d21e3f12cb8dfab1d461691c373a22",
+      "title": "Improving LoRA: Implementing Weight-Decomposed Low-Rank Adaptation (DoRA) from Scratch",
+      "created": "2024-02-18 16:00",
+      "link": "https://sebastianraschka.com/blog/2024/lora-dora.html",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
@@ -2033,6 +1844,15 @@
       "category": "ai"
     },
     {
+      "id": "9e3a064faaa75e9cb7dd9670ba8ff74676a4468f",
+      "title": "小工具 p2pfile 可以快速的用于内网大文件分发",
+      "created": "2022-01-29 00:00",
+      "link": "https://ninehills.tech/articles/88.html",
+      "author": "九原山博客",
+      "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
+      "category": "ai"
+    },
+    {
       "id": "76583c4985bd3cc0973aef36d4f7890e57ed1bf2",
       "title": "Learning with not Enough Data Part 1: Semi-Supervised Learning",
       "created": "2021-12-05 08:00",
@@ -2105,6 +1925,33 @@
       "category": "ai"
     },
     {
+      "id": "4a1d5bb702dd7456f78ec962b8869796c1f799a7",
+      "title": "《植物大战僵尸》PC/Mac版存档修改",
+      "created": "2020-05-03 00:00",
+      "link": "https://ninehills.tech/articles/78.html",
+      "author": "九原山博客",
+      "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "1c80388fe91b19cf843d71d446dea1171e63eccf",
+      "title": "Kubernetes 基于 Namespace 的物理队列实现",
+      "created": "2020-04-10 00:00",
+      "link": "https://ninehills.tech/articles/77.html",
+      "author": "九原山博客",
+      "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "1240343b145ff19d2cb1325ffc574bdd5abaa65f",
+      "title": "SRE 技术简报 20200310",
+      "created": "2020-03-20 00:00",
+      "link": "https://ninehills.tech/articles/76.html",
+      "author": "九原山博客",
+      "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
+      "category": "ai"
+    },
+    {
       "id": "1af6044c93011e21b3760c2c265f63546aecd641",
       "title": "Emotional Intelligence",
       "created": "2020-02-02 05:16",
@@ -2123,10 +1970,28 @@
       "category": "ai"
     },
     {
+      "id": "b4a2f23df0dc75232d5d09ab98652e4080b3c30f",
+      "title": "游戏 《天命奇御》",
+      "created": "2020-01-14 00:00",
+      "link": "https://ninehills.tech/articles/75.html",
+      "author": "九原山博客",
+      "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
+      "category": "ai"
+    },
+    {
       "id": "ebf74c13b641dfac2814303de01a0a8d59ca499b",
       "title": "2019",
       "created": "2019-12-30 08:00",
       "link": "https://mathewshen.me/blog/2019/2019/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "32ed357bbbc6a69a4de5c23a27cebec9eff08d3e",
+      "title": "寻找无双",
+      "created": "2019-06-19 08:00",
+      "link": "https://mathewshen.me/blog/2019/wushuang/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
