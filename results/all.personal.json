@@ -3,53 +3,17 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 242,
-    "last_updated_time": "2026-03-03 04:46:19"
+    "article_num": 231,
+    "last_updated_time": "2026-03-03 10:40:00"
   },
   "article_data": [
     {
-      "id": "af30505aa98bfa6b12602e5cf7af751f6ed61fe3",
-      "title": "openclaw 解决了什么痛点？",
-      "created": "2026-03-03 11:33",
-      "link": "https://kirigaya.cn/blog/article?seq=367",
-      "author": "锦恢",
-      "avatar": "https://kirigaya.cn/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "f6ce1747c133dd533742b3d0a7b036541e2ab99a",
-      "title": "小白都能看懂的 openclaw 安装教程",
-      "created": "2026-03-03 11:30",
-      "link": "https://kirigaya.cn/blog/article?seq=366",
-      "author": "锦恢",
-      "avatar": "https://kirigaya.cn/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "4f03d92dee465f3801fed97833ddb1bfa7a46aca",
-      "title": "GIF optimization tool using WebAssembly and Gifsicle",
-      "created": "2026-03-03 00:35",
-      "link": "https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "86ee2985555aaa59f4590cfa4d920daa02fcab72",
-      "title": "The Architecture Behind Open-Source LLMs",
-      "created": "2026-03-03 00:30",
-      "link": "https://blog.bytebytego.com/p/the-architecture-behind-open-source",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "c78e21236d984eef89cd9b9ae7c1d530c79a40aa",
-      "title": "February sponsors-only newsletter",
-      "created": "2026-03-02 22:53",
-      "link": "https://simonwillison.net/2026/Mar/2/february-newsletter/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "id": "dbbf92ee0f52191fea94fa7d35d41a97b16cf4dd",
+      "title": "LeetCode 42 接雨水：python3 题解 - MoonOut",
+      "created": "2026-03-03 10:28",
+      "link": "https://www.cnblogs.com/moonout/p/19661867",
+      "author": "Moon out",
+      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
       "category": "ai"
     },
     {
@@ -62,48 +26,12 @@
       "category": "ai"
     },
     {
-      "id": "4227edff01d4092f1654f20eda3ecae7725726c7",
-      "title": "MuP之上：3. 特殊情况特殊处理",
-      "created": "2026-03-02 18:59",
-      "link": "https://kexue.fm/archives/11647",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
-      "id": "d5760d66547f39ff82db2d95af7b09d7df1c7069",
-      "title": "范式跃迁：LLM + EC重构算法设计范式，华为&港城大夺冠CVRP国际顶级赛事",
-      "created": "2026-03-02 15:42",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018881&idx=1&sn=b1a610953f1cb57a931918ee0a1d5254",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "ea30a1bdaf11b46996cefadfdf7c6106bd781920",
-      "title": "科学家的超级合伙人来也！星河启智「大圣」让高能动性AI「入局」真实科研",
-      "created": "2026-03-02 15:42",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018881&idx=2&sn=0a94b60a8c8eae612571452d02fab268",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "4d10eff9baf643c3bc011829d0e3cf9f4363338b",
-      "title": "ICDE 2026 | 从匹配困境到推理突破：阿里REG4Rec 激活生成式推荐的个性化潜力",
-      "created": "2026-03-02 15:42",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018881&idx=3&sn=a49c461de62e904ccb4daf654c358c64",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b738060d246f3b8577e5b0c2a6a8ebb01f1fb668",
-      "title": "microgpt: 一个最小化的 GPT 实现",
+      "id": "96ec34280cb969dbe4d08dc660e5579adf8ca4a0",
+      "title": "设计流程已死：Anthropic 设计负责人 Jenny Wen 谈 AI 时代的设计变革",
       "created": "2026-03-02 08:00",
-      "link": "https://lumina.shawnxie.top/article/microgpt-6720d2a9",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "link": "https://baoyu.io/blog/2026-03-01/jenny-wen-design-process",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -113,24 +41,6 @@
       "link": "https://www.big-yellow-j.top/posts/2026/03/01/RLHF-2.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "6182e4eca1dfb9a25bbe3533c2841fa527fdddbf",
-      "title": "人工智能软件开发的第三个时代",
-      "created": "2026-02-25 08:00",
-      "link": "https://lumina.shawnxie.top/article/x-b78d35fc",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "dc3a8b3436668b4fa5b0886197468e7a4037785d",
-      "title": "2028 年全球情报危机",
-      "created": "2026-02-23 08:00",
-      "link": "https://lumina.shawnxie.top/article/the-2028-global-intelligence-crisis-5269f390",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -179,24 +89,6 @@
       "category": "ai"
     },
     {
-      "id": "e91abc5abaae4e98b188329541fdfd81fedb9e21",
-      "title": "DeltaNet的核心逆矩阵的元素总是在[-1, 1]内",
-      "created": "2026-01-26 10:47",
-      "link": "https://kexue.fm/archives/11563",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
-      "id": "79f8d8ee1026a05a678c76c8810a534bbcba4b61",
-      "title": "为什么我们偏爱各向同性？基于最速下降的理解",
-      "created": "2026-01-20 19:44",
-      "link": "https://kexue.fm/archives/11549",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
       "id": "5ee23ad7512216aaea851a5b2e600d18cb3bc5f3",
       "title": "LLM | 正在尝试使用 verl - MoonOut",
       "created": "2026-01-20 16:20",
@@ -210,15 +102,6 @@
       "title": "让炼丹更科学一些（六）：自上而下的精妙构造",
       "created": "2026-01-16 15:03",
       "link": "https://kexue.fm/archives/11540",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
-      "id": "d2d4c537b9958ebbfbeff2eb4a4e7e2f20dc2c3a",
-      "title": "让炼丹更科学一些（五）：基于梯度精调学习率",
-      "created": "2026-01-09 10:56",
-      "link": "https://kexue.fm/archives/11530",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
@@ -278,19 +161,19 @@
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -392,15 +275,6 @@
       "link": "https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-2-how-wrap-and-sm-work/",
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "400793914d11a12ab32e1f3177c3cc3d5ba67366",
-      "title": "Neural Super Sampling is here!",
-      "created": "2025-08-12 22:52",
-      "link": "https://huggingface.co/blog/Arm/neural-super-sampling",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -620,6 +494,15 @@
       "category": "ai"
     },
     {
+      "id": "f05412c1b14636b237793855d48d9641031b2ebf",
+      "title": "Ettin Suite: SoTA Paired Encoders and Decoders",
+      "created": "2025-07-16 08:00",
+      "link": "https://huggingface.co/blog/ettin",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "18f56562b7db04ad095c659ba62ea8f8e3d3371d",
       "title": "肖恩技术周刊（第 53 期）：编程的本质",
       "created": "2025-07-14 08:00",
@@ -782,21 +665,21 @@
       "category": "ai"
     },
     {
-      "id": "90c14f95511a221a65f2fea452321f4ffe5bcc62",
-      "title": "图像消除论文-1：PixelHacker、PowerPanint、Attentive Eraser",
-      "created": "2025-06-11 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/06/11/ImageEraser1.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "1e9d0c3988dcb92a31de9a661ecf891968aa9c2f",
       "title": "勇气的奥秘——从赢走向赢",
       "created": "2025-06-11 08:00",
       "link": "https://blog.tomorrowdawn.cc/posts/%E5%8B%87%E6%B0%94%E7%9A%84%E5%A5%A5%E7%A7%98-%E4%BB%8E%E8%B5%A2%E8%B5%B0%E5%90%91%E8%B5%A2/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "90c14f95511a221a65f2fea452321f4ffe5bcc62",
+      "title": "图像消除论文-1：PixelHacker、PowerPanint、Attentive Eraser",
+      "created": "2025-06-11 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/06/11/ImageEraser1.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -1619,10 +1502,10 @@
       "category": "ai"
     },
     {
-      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
-      "title": "obra/superpowers",
+      "id": "b5932ec20120c54a97aaddf4e56153ee326f1347",
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/obra/superpowers",
+      "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1637,19 +1520,10 @@
       "category": "ai"
     },
     {
-      "id": "b5932ec20120c54a97aaddf4e56153ee326f1347",
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
+      "title": "obra/superpowers",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "4e27fe4f18daac1ac5897e515e24ca7aea811d9f",
-      "title": "huggingface/skills",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/huggingface/skills",
+      "link": "https://github.com/obra/superpowers",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1664,37 +1538,10 @@
       "category": "ai"
     },
     {
-      "id": "bc40eae43700851e43e35fa5782713c2c87ac918",
-      "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "id": "b887f733149be939ed7d604527578d4a6403c542",
+      "title": "moeru-ai/airi",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "80cb740a8398d14d8a691043991572b18e35e815",
-      "title": "clockworklabs/SpacetimeDB",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/clockworklabs/SpacetimeDB",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "1bc7f24b585cc8074e391310ca0dce0933423975",
-      "title": "LadybirdBrowser/ladybird",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/LadybirdBrowser/ladybird",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "346e5b02f42737d90af49953a6c35e49404e5978",
-      "title": "moonshine-ai/moonshine",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/moonshine-ai/moonshine",
+      "link": "https://github.com/moeru-ai/airi",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1709,10 +1556,64 @@
       "category": "ai"
     },
     {
+      "id": "80cb740a8398d14d8a691043991572b18e35e815",
+      "title": "clockworklabs/SpacetimeDB",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/clockworklabs/SpacetimeDB",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "524fed4f12034504d9f4b4396a607cd6685859cd",
       "title": "ruvnet/ruvector",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/ruvnet/ruvector",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "c44e27161b7e444febcbd0f78f2201a5339c35f4",
+      "title": "shareAI-lab/learn-claude-code",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/shareAI-lab/learn-claude-code",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "bc40eae43700851e43e35fa5782713c2c87ac918",
+      "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "4e27fe4f18daac1ac5897e515e24ca7aea811d9f",
+      "title": "huggingface/skills",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/huggingface/skills",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "4dbd4d31e8c68859bc7d570d5761895a40a6b57a",
+      "title": "alibaba/OpenSandbox",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/alibaba/OpenSandbox",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "9c241fb43bc9a6592b7a03258cae5b930445544b",
+      "title": "anthropics/claude-code",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/anthropics/claude-code",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1727,10 +1628,10 @@
       "category": "ai"
     },
     {
-      "id": "9c241fb43bc9a6592b7a03258cae5b930445544b",
-      "title": "anthropics/claude-code",
+      "id": "346e5b02f42737d90af49953a6c35e49404e5978",
+      "title": "moonshine-ai/moonshine",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/anthropics/claude-code",
+      "link": "https://github.com/moonshine-ai/moonshine",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
