@@ -4,7 +4,7 @@
     "active_num": 37,
     "error_num": 1,
     "article_num": 579,
-    "last_updated_time": "2026-03-05 00:55:01"
+    "last_updated_time": "2026-03-05 04:40:59"
   },
   "article_data": [
     {
@@ -32,6 +32,24 @@
       "link": "https://yukinoshitasherry.github.io/26%E5%A4%96%E5%9C%B0%E9%A3%9F%E7%89%A9/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "f6ce1747c133dd533742b3d0a7b036541e2ab99a",
+      "title": "小白都能看懂的 openclaw 安装教程",
+      "created": "2026-03-05 09:11",
+      "link": "https://kirigaya.cn/blog/article?seq=366",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "acca7ea2a71ea70e02c2729761d8244b1580f733",
+      "title": "Anti-patterns: things to avoid",
+      "created": "2026-03-05 01:34",
+      "link": "https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -260,15 +278,6 @@
       "category": "ai"
     },
     {
-      "id": "f6ce1747c133dd533742b3d0a7b036541e2ab99a",
-      "title": "小白都能看懂的 openclaw 安装教程",
-      "created": "2026-03-03 11:30",
-      "link": "https://kirigaya.cn/blog/article?seq=366",
-      "author": "锦恢",
-      "avatar": "https://kirigaya.cn/favicon.png",
-      "category": "ai"
-    },
-    {
       "id": "04ebc1493d5a62d2477a728f4601f2b4ecc2f208",
       "title": "LeetCode 718 最长重复子数组：python3 题解 - MoonOut",
       "created": "2026-03-03 11:26",
@@ -422,21 +431,21 @@
       "category": "ai"
     },
     {
-      "id": "b738060d246f3b8577e5b0c2a6a8ebb01f1fb668",
-      "title": "microgpt: 一个最小化的 GPT 实现",
-      "created": "2026-03-02 08:00",
-      "link": "https://lumina.shawnxie.top/article/microgpt-6720d2a9",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
       "id": "0ab217ab64fd02f6773ba47c30359a5eb6c90581",
       "title": "肖恩技术周刊（第 84 期）：Token 粉碎机",
       "created": "2026-03-02 08:00",
       "link": "https://weekly.shawnxie.top/content/2026/84.html",
       "author": "肖恩技术周刊",
       "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "category": "ai"
+    },
+    {
+      "id": "b738060d246f3b8577e5b0c2a6a8ebb01f1fb668",
+      "title": "microgpt: 一个最小化的 GPT 实现",
+      "created": "2026-03-02 08:00",
+      "link": "https://lumina.shawnxie.top/article/microgpt-6720d2a9",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -887,15 +896,6 @@
       "link": "https://kirigaya.cn/blog/article?seq=365",
       "author": "锦恢",
       "avatar": "https://kirigaya.cn/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "07679dab3724e9d3089ec133d142e6db5f48729e",
-      "title": "Linear walkthroughs",
-      "created": "2026-02-25 09:07",
-      "link": "https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -2195,19 +2195,19 @@
       "category": "ai"
     },
     {
-      "id": "804fa59122219d2d96cf56ce39edeb9cad3bf507",
-      "title": "矩阵微分乘法法则速记",
+      "id": "64a885263404a75b6fda56d21ec2d331d683cc60",
+      "title": "梯度速降",
       "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E6%A2%AF%E5%BA%A6%E9%80%9F%E9%99%8D/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "64a885263404a75b6fda56d21ec2d331d683cc60",
-      "title": "梯度速降",
+      "id": "804fa59122219d2d96cf56ce39edeb9cad3bf507",
+      "title": "矩阵微分乘法法则速记",
       "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E6%A2%AF%E5%BA%A6%E9%80%9F%E9%99%8D/",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -2519,21 +2519,21 @@
       "category": "ai"
     },
     {
-      "id": "4627fcf1fb4a115d4335704aeecf402d9dc1a6f2",
-      "title": "王二下班之后",
-      "created": "2025-12-27 08:00",
-      "link": "https://mathewshen.me/blog/2025/wang-work/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "27bb33e4926cc0d7552cb49e91aa04be22d38095",
       "title": "You can't design software you don't work on",
       "created": "2025-12-27 08:00",
       "link": "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "4627fcf1fb4a115d4335704aeecf402d9dc1a6f2",
+      "title": "王二下班之后",
+      "created": "2025-12-27 08:00",
+      "link": "https://mathewshen.me/blog/2025/wang-work/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
