@@ -4,7 +4,7 @@
     "active_num": 37,
     "error_num": 1,
     "article_num": 579,
-    "last_updated_time": "2026-03-05 13:14:54"
+    "last_updated_time": "2026-03-05 16:53:09"
   },
   "article_data": [
     {
@@ -41,6 +41,24 @@
       "link": "https://kirigaya.cn/blog/article?seq=366",
       "author": "锦恢",
       "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "8be7238298e648cd8f059c65274cfe9f23bc091e",
+      "title": "SFT 监督微调教程：原理、公式与实践",
+      "created": "2026-03-05 08:00",
+      "link": "https://yukinoshitasherry.github.io/SFT%E6%95%99%E7%A8%8B-%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5/",
+      "author": "秋月春风的书房",
+      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "cc41b8869d0ccc8346aaf553b4e4d3c8de407f42",
+      "title": "多稿合并：从手动比稿到一键 Skill",
+      "created": "2026-03-05 08:00",
+      "link": "https://baoyu.io/blog/2026-03-04/ai-merge-drafts-into-skills",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -113,6 +131,15 @@
       "link": "https://www.cnblogs.com/moonout/p/19667909",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "248985fd8eb817096b701200df27a6a4675ac227",
+      "title": "陶哲轩最新演讲：AI 不是来抢数学家蛋糕的，是来把蛋糕做大的",
+      "created": "2026-03-04 08:00",
+      "link": "https://baoyu.io/blog/2026-03-04/terence-tao-mathematics-in-the-age-of-ai",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -321,6 +348,15 @@
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
       "category": "friend"
+    },
+    {
+      "id": "b87b07820b66b900f80465b494966d434bd05f8e",
+      "title": "大模型训练三阶段总览：Pre-Training、SFT 与 RLHF 流程",
+      "created": "2026-03-03 08:00",
+      "link": "https://yukinoshitasherry.github.io/SFT/",
+      "author": "秋月春风的书房",
+      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
     },
     {
       "id": "0e82a7aff65d1fbc7c99dab8f3336074aae9a0c0",
@@ -764,21 +800,21 @@
       "category": "ai"
     },
     {
-      "id": "4d50c95f79c3a1c476da99fae6b4af3f25b655e7",
-      "title": "驾驭工程：在「智能体优先」的世界里借力 Codex",
-      "created": "2026-02-26 08:00",
-      "link": "https://baoyu.io/translations/2026-02-12/harness-engineering",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "e44d72287f6142b276a728b74bbd126033c8e2e2",
       "title": "Mixture of Experts (MoEs) in Transformers",
       "created": "2026-02-26 08:00",
       "link": "https://huggingface.co/blog/moe-transformers",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "4d50c95f79c3a1c476da99fae6b4af3f25b655e7",
+      "title": "驾驭工程：在「智能体优先」的世界里借力 Codex",
+      "created": "2026-02-26 08:00",
+      "link": "https://baoyu.io/translations/2026-02-12/harness-engineering",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -899,6 +935,15 @@
       "category": "ai"
     },
     {
+      "id": "ea6c582559c06681d2c8ae3238823a99fc885e5c",
+      "title": "GitHub上传超时问题",
+      "created": "2026-02-25 08:00",
+      "link": "https://yukinoshitasherry.github.io/github%E6%8B%89%E5%8F%96%E6%96%87%E4%BB%B6%E5%90%8D%E7%A7%B0%E5%A4%AA%E9%95%BF/",
+      "author": "秋月春风的书房",
+      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
       "id": "58a4d769b0c764b09b87bae1fa427855801ceae1",
       "title": "92.6% 开发者每月使用 AI 编码助手，但每周节省时间只有 4 小时",
       "created": "2026-02-25 08:00",
@@ -914,15 +959,6 @@
       "link": "https://baoyu.io/blog/2026-02-25/coding-agent-sweet-spot",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "ea6c582559c06681d2c8ae3238823a99fc885e5c",
-      "title": "GitHub上传超时问题",
-      "created": "2026-02-25 08:00",
-      "link": "https://yukinoshitasherry.github.io/github%E6%8B%89%E5%8F%96%E6%96%87%E4%BB%B6%E5%90%8D%E7%A7%B0%E5%A4%AA%E9%95%BF/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
       "category": "ai"
     },
     {
@@ -944,21 +980,21 @@
       "category": "ai"
     },
     {
-      "id": "076353ae66089a0583b451e024013fc9cf4d9c27",
-      "title": "同样的模型，为什么 Cursor 跑不过 Claude Code？",
-      "created": "2026-02-24 08:00",
-      "link": "https://baoyu.io/blog/2026-02-23/claude-code-vs-cursor",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "328ac70aed76788dbf6102d13722ea7596d612ab",
       "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
       "created": "2026-02-24 08:00",
       "link": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "076353ae66089a0583b451e024013fc9cf4d9c27",
+      "title": "同样的模型，为什么 Cursor 跑不过 Claude Code？",
+      "created": "2026-02-24 08:00",
+      "link": "https://baoyu.io/blog/2026-02-23/claude-code-vs-cursor",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -1187,21 +1223,21 @@
       "category": "ai"
     },
     {
-      "id": "428d6b0dd5e9ac6d605286cbef711aa49e7986ff",
-      "title": "用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更",
-      "created": "2026-02-18 08:00",
-      "link": "https://baoyu.io/blog/2026-02-13/claude-code-auto-commit",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "a10c31319962675c5df2dd490085067aa96a5b61",
       "title": "One-Shot Any Web App with Gradio's gr.HTML",
       "created": "2026-02-18 08:00",
       "link": "https://huggingface.co/blog/gradio-html-one-shot-apps",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "428d6b0dd5e9ac6d605286cbef711aa49e7986ff",
+      "title": "用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更",
+      "created": "2026-02-18 08:00",
+      "link": "https://baoyu.io/blog/2026-02-13/claude-code-auto-commit",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -1313,15 +1349,6 @@
       "category": "ai"
     },
     {
-      "id": "116c9ad40a079a7ec2513302f1f74114dae25067",
-      "title": "快不等于好：Anthropic 和 OpenAI 的快速模式藏着什么",
-      "created": "2026-02-15 08:00",
-      "link": "https://baoyu.io/blog/2026-02-15/fast-mode-vs-codex-spark",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "f3c98e92299c3044e22166fde6bba83d9503e4fb",
       "title": "Two different tricks for fast LLM inference",
       "created": "2026-02-15 08:00",
@@ -1349,15 +1376,6 @@
       "category": "friend"
     },
     {
-      "id": "db107dec0f50dcf4b466a5fcf0eafe3741432f98",
-      "title": "Anthropic CEO Dario Amodei 访谈：我们正在接近指数的终点",
-      "created": "2026-02-14 08:00",
-      "link": "https://baoyu.io/blog/2026-02-14/dario-amodei-interview-analysis",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "05401bde8c814e67e16602580d505f3be5b94df2",
       "title": "Qwen3.5：迈向原生多模态智能体",
       "created": "2026-02-14 04:00",
@@ -1373,6 +1391,15 @@
       "link": "https://www.cnblogs.com/moonout/p/19611573",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "5f0e9640cf50b76611a6fa13c1363f2cb9034ad6",
+      "title": "大模型的参数与显存：概念、公式与实践",
+      "created": "2026-02-13 08:00",
+      "link": "https://yukinoshitasherry.github.io/2602%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E4%B8%8E%E6%98%BE%E5%AD%98/",
+      "author": "秋月春风的书房",
+      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
       "category": "ai"
     },
     {
@@ -1743,6 +1770,15 @@
       "author": "阮一峰",
       "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
       "category": "friend"
+    },
+    {
+      "id": "da9924939cafb9c1f919d89c8f886ba580bb13f2",
+      "title": "Agent Skills入门",
+      "created": "2026-01-30 08:00",
+      "link": "https://yukinoshitasherry.github.io/skills/",
+      "author": "秋月春风的书房",
+      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
     },
     {
       "id": "ee90ea4906457c0895e85333dbe070ef07a680d5",
@@ -2384,6 +2420,15 @@
       "category": "ai"
     },
     {
+      "id": "b037efb6e622b19028abf03f56368c9042713850",
+      "title": "2025杭州&上海日料&东南亚菜&自助探店合集",
+      "created": "2025-12-31 08:00",
+      "link": "https://yukinoshitasherry.github.io/25%E6%9D%AD%E5%B7%9E%E4%B8%8A%E6%B5%B7%E6%97%A5%E6%96%99/",
+      "author": "秋月春风的书房",
+      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
       "id": "87ae5b6bb6057b7d191dace0a837681a1ae844f8",
       "title": "2025杭州&上海西餐探店合集",
       "created": "2025-12-31 08:00",
@@ -2397,15 +2442,6 @@
       "title": "2025杭州中餐探店合集",
       "created": "2025-12-31 08:00",
       "link": "https://yukinoshitasherry.github.io/25%E6%9D%AD%E5%B7%9E%E4%B8%AD%E9%A4%90/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "b037efb6e622b19028abf03f56368c9042713850",
-      "title": "2025杭州&上海日料&东南亚菜&自助探店合集",
-      "created": "2025-12-31 08:00",
-      "link": "https://yukinoshitasherry.github.io/25%E6%9D%AD%E5%B7%9E%E4%B8%8A%E6%B5%B7%E6%97%A5%E6%96%99/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
       "category": "ai"
@@ -2825,24 +2861,6 @@
       "category": "ai"
     },
     {
-      "id": "8a3a47b9753c6c42d8cc0338d5363f7a74bb37a2",
-      "title": "Mac电脑初学与装机记录",
-      "created": "2025-12-18 08:00",
-      "link": "https://yukinoshitasherry.github.io/mac%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "c2b84dda4ce82f0627197839a33e962b74508e05",
-      "title": "Agent Memory综述整理",
-      "created": "2025-12-17 08:00",
-      "link": "https://yukinoshitasherry.github.io/2512agentmem%E7%BB%BC%E8%BF%B0/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
-      "category": "ai"
-    },
-    {
       "id": "58267e785a963246a5337df44e41a0ae3d56e9fb",
       "title": "AutoDev 3.0 → Xiuper：咻！全平台、全流程智能体编程平台",
       "created": "2025-12-16 22:18",
@@ -2915,15 +2933,6 @@
       "category": "friend"
     },
     {
-      "id": "ab39c89323a35e34c62f7e8229174b73c076ea07",
-      "title": "联想电脑Windows11重装操作系统修复参考",
-      "created": "2025-12-12 08:00",
-      "link": "https://yukinoshitasherry.github.io/%E9%87%8D%E8%A3%85os/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
-      "category": "ai"
-    },
-    {
       "id": "588957b6019a49f06bd689d048ce0dc653f263cc",
       "title": "Stable Diffusion WebUI和Comfui基础使用",
       "created": "2025-12-12 08:00",
@@ -2969,6 +2978,15 @@
       "category": "ai"
     },
     {
+      "id": "8e2eaedb69495564b96ddbbf6f98f4dee299b0aa",
+      "title": "快速部署 Nexus Terminal 打造高颜值远程管理终端",
+      "created": "2025-12-09 00:00",
+      "link": "https://dusays.com/archives/841/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
+    },
+    {
       "id": "cc38c6f2dd82f3407d61de6042a8b24f734a6fea",
       "title": "健身方法论：1-RM 综合估算公式与 Lr 负重估算算法",
       "created": "2025-12-08 21:40",
@@ -3005,15 +3023,6 @@
       "category": "ai"
     },
     {
-      "id": "4284d6b026639663e357a8fd77f5156174932dfa",
-      "title": "Zootopia2：我们需要更多这样的进步自由派电影",
-      "created": "2025-12-05 08:00",
-      "link": "https://yukinoshitasherry.github.io/2512Zootopia2/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
-      "category": "ai"
-    },
-    {
       "id": "d2bf8c143a4b0b8319cd4a80d01c4839171ec46f",
       "title": "AI detection tools cannot prove that text is AI-generated",
       "created": "2025-12-05 08:00",
@@ -3041,19 +3050,19 @@
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -3963,15 +3972,6 @@
       "title": "探索扣子空间「邀请码不限量分享」",
       "created": "2025-08-23 00:00",
       "link": "https://dusays.com/archives/823/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
-      "category": "friend"
-    },
-    {
-      "id": "d49e6d5614c8541e96009508d2296280913dcc8a",
-      "title": "在银河麒麟桌面操作系统 ARM 版上安装 KVM 虚拟化",
-      "created": "2025-08-17 00:00",
-      "link": "https://dusays.com/archives/822/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
