@@ -3,46 +3,10 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 216,
-    "last_updated_time": "2026-03-06 21:08:47"
+    "article_num": 212,
+    "last_updated_time": "2026-03-07 00:51:34"
   },
   "article_data": [
-    {
-      "id": "db990439d8c9b0dd64085ab72e912d2de6c4411d",
-      "title": "李飞飞50亿美金赛道被开源！浙大教授章国锋带队创业，打造无限时长实时3D世界模型",
-      "created": "2026-03-06 12:28",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020091&idx=1&sn=c67bb3f04ba35160ab0a3b24b5d1eb4c",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "86724056b8d555e05f9ab658336601d004921bbb",
-      "title": "FlashAttention-4正式发布：算法流水线大改，矩阵乘法级速度",
-      "created": "2026-03-06 12:28",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020091&idx=2&sn=dc5a27b3f449a9d5ea45b053cacb184f",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "f56c4c2899034f9c85dd73683b60beffa5152279",
-      "title": "CVPR 2026 | 1B模型也能当多镜头导演？大连理工&快手可灵开源力作MultiShotMaster",
-      "created": "2026-03-06 12:28",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020091&idx=3&sn=1a83a5837a71f62aef47735021021562",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b4d155417ca718a0e1bcc7913790aba799c41404",
-      "title": "I don't know if my job will still exist in ten years",
-      "created": "2026-03-06 08:00",
-      "link": "https://seangoedecke.com/will-my-job-still-exist/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
     {
       "id": "32a3eab6301a23cc9493b9680337edd3588fc562",
       "title": "LLM 算法岗 | 字节面试常问的 leetcode 算法题汇总，附 leetcode 链接 - MoonOut",
@@ -50,15 +14,6 @@
       "link": "https://www.cnblogs.com/moonout/p/19660803",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
-      "id": "04cf78b7bbca480c6e3144275d74fa8aa89becac",
-      "title": "Kimi K2.5 技术解读：原生多模态联合训练与并行 Agent 编排训练",
-      "created": "2026-03-01 20:00",
-      "link": "https://yuanchaofa.com/post/kimi-k2-5-reading-notes",
-      "author": "chao fa",
-      "avatar": "https://yuanchaofa.com/img/icon.webp",
       "category": "ai"
     },
     {
@@ -86,6 +41,15 @@
       "link": "https://www.cnblogs.com/moonout/p/19621804",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "06d1783afac25822f03bdc8b4c8e5131f8702e4f",
+      "title": "GPT-5.3 Instant：更顺畅、更实用的日常对话体验",
+      "created": "2026-02-13 08:00",
+      "link": "https://lumina.shawnxie.top/article/gpt-5-3-instant-geng-shun-chang-geng-shi-yong-de-0c67541b",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -143,19 +107,19 @@
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -251,21 +215,21 @@
       "category": "ai"
     },
     {
-      "id": "512319b1230add0ba5f13a557e058eb1f1937936",
-      "title": "Introducing Training Cluster as a Service - a new collaboration with NVIDIA",
-      "created": "2025-06-11 08:00",
-      "link": "https://huggingface.co/blog/nvidia-training-cluster",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "90c14f95511a221a65f2fea452321f4ffe5bcc62",
       "title": "图像消除论文-1：PixelHacker、PowerPanint、Attentive Eraser",
       "created": "2025-06-11 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/06/11/ImageEraser1.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "512319b1230add0ba5f13a557e058eb1f1937936",
+      "title": "Introducing Training Cluster as a Service - a new collaboration with NVIDIA",
+      "created": "2025-06-11 08:00",
+      "link": "https://huggingface.co/blog/nvidia-training-cluster",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -341,15 +305,6 @@
       "category": "ai"
     },
     {
-      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
-      "title": "LLM KV Cache: A Simple Implementation",
-      "created": "2025-06-03 08:00",
-      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "fe02b0351660681e16448dee9332dc31d519087a",
       "title": "SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data",
       "created": "2025-06-03 08:00",
@@ -368,12 +323,12 @@
       "category": "ai"
     },
     {
-      "id": "99b35aab447256d877ee0881bc4c043b1ed2b2de",
-      "title": "CodeAgents + Structure: A Better Way to Execute Actions",
-      "created": "2025-05-28 08:00",
-      "link": "https://huggingface.co/blog/structured-codeagent",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
+      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
+      "title": "LLM KV Cache: A Simple Implementation",
+      "created": "2025-06-03 08:00",
+      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -383,6 +338,15 @@
       "link": "https://www.big-yellow-j.top/posts/2025/05/28/MultiModal.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "99b35aab447256d877ee0881bc4c043b1ed2b2de",
+      "title": "CodeAgents + Structure: A Better Way to Execute Actions",
+      "created": "2025-05-28 08:00",
+      "link": "https://huggingface.co/blog/structured-codeagent",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -449,21 +413,21 @@
       "category": "ai"
     },
     {
-      "id": "f926bb52f775215f06d4f49c26d627476f8d5ecf",
-      "title": "Microsoft and Hugging Face expand collaboration",
-      "created": "2025-05-19 08:00",
-      "link": "https://huggingface.co/blog/azure-ai-foundry",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "25cbe3edf731fc48c2187a25a32820c6e1c90589",
       "title": "深入浅出了解生成模型-3：Diffusion模型原理以及代码",
       "created": "2025-05-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/05/19/DiffusionModel.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "f926bb52f775215f06d4f49c26d627476f8d5ecf",
+      "title": "Microsoft and Hugging Face expand collaboration",
+      "created": "2025-05-19 08:00",
+      "link": "https://huggingface.co/blog/azure-ai-foundry",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -512,21 +476,21 @@
       "category": "ai"
     },
     {
-      "id": "cf8dcebb3638b1e6dcbadf11c6c68145e386217d",
-      "title": "ToyRL: 从零实现深度强化学习算法",
-      "created": "2025-05-08 08:00",
-      "link": "https://mathewshen.me/blog/2025/toyrl/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "0cc7ed5ed4abe376a77574e4035e4625c5250ab4",
       "title": "深入浅出了解生成模型-1：GAN模型原理以及代码实战",
       "created": "2025-05-08 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/05/08/GAN.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "cf8dcebb3638b1e6dcbadf11c6c68145e386217d",
+      "title": "ToyRL: 从零实现深度强化学习算法",
+      "created": "2025-05-08 08:00",
+      "link": "https://mathewshen.me/blog/2025/toyrl/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -593,21 +557,21 @@
       "category": "ai"
     },
     {
-      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
-      "title": "Google Gemini LangChain Cheatsheet",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
       "title": "Qwen多模态系列论文",
       "created": "2025-04-28 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
+      "title": "Google Gemini LangChain Cheatsheet",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -863,21 +827,21 @@
       "category": "ai"
     },
     {
-      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
-      "title": "Oh-Numpy & Oh-Pytorch",
-      "created": "2025-01-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
       "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
       "created": "2025-01-23 08:00",
       "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1007,21 +971,21 @@
       "category": "ai"
     },
     {
-      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
-      "title": "斯坦福小镇解读",
-      "created": "2024-11-28 08:00",
-      "link": "https://mathewshen.me/blog/2024/ai-town/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
       "title": "Reward Hacking in Reinforcement Learning",
       "created": "2024-11-28 08:00",
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
