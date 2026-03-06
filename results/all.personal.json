@@ -3,10 +3,46 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 211,
-    "last_updated_time": "2026-03-06 04:43:31"
+    "article_num": 214,
+    "last_updated_time": "2026-03-06 10:33:21"
   },
   "article_data": [
+    {
+      "id": "b9ed8b663728e5ae30c739a7bcf4a7b549cb47bb",
+      "title": "OpenMCP 新功能介绍：批量验证与 Debugger MCP，助力自动化 Agent 开发",
+      "created": "2026-03-06 14:42",
+      "link": "https://kirigaya.cn/blog/article?seq=369",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "f5a81f917c68829a7e766eab5a708564f70ff84f",
+      "title": "Folo Claim",
+      "created": "2026-03-06 08:00",
+      "link": "https://mathewshen.me/blog/2026/folo-claim/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "d4d7400516056dd077f07de46056c51cd38987d6",
+      "title": "Introducing GPT‑5.4",
+      "created": "2026-03-06 07:56",
+      "link": "https://simonwillison.net/2026/Mar/5/introducing-gpt54/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "4278bdea72fac38eecb09c5035e8f484e8cadd90",
+      "title": "科技爱好者周刊（第 387 期）：你是领先的",
+      "created": "2026-03-06 04:20",
+      "link": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html",
+      "author": "阮一峰",
+      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
+      "category": "friend"
+    },
     {
       "id": "32a3eab6301a23cc9493b9680337edd3588fc562",
       "title": "LLM 算法岗 | 字节面试常问的 leetcode 算法题汇总，附 leetcode 链接 - MoonOut",
@@ -197,21 +233,21 @@
       "category": "ai"
     },
     {
-      "id": "512319b1230add0ba5f13a557e058eb1f1937936",
-      "title": "Introducing Training Cluster as a Service - a new collaboration with NVIDIA",
-      "created": "2025-06-11 08:00",
-      "link": "https://huggingface.co/blog/nvidia-training-cluster",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "1e9d0c3988dcb92a31de9a661ecf891968aa9c2f",
       "title": "勇气的奥秘——从赢走向赢",
       "created": "2025-06-11 08:00",
       "link": "https://blog.tomorrowdawn.cc/posts/%E5%8B%87%E6%B0%94%E7%9A%84%E5%A5%A5%E7%A7%98-%E4%BB%8E%E8%B5%A2%E8%B5%B0%E5%90%91%E8%B5%A2/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "512319b1230add0ba5f13a557e058eb1f1937936",
+      "title": "Introducing Training Cluster as a Service - a new collaboration with NVIDIA",
+      "created": "2025-06-11 08:00",
+      "link": "https://huggingface.co/blog/nvidia-training-cluster",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -296,6 +332,15 @@
       "category": "ai"
     },
     {
+      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
+      "title": "LLM KV Cache: A Simple Implementation",
+      "created": "2025-06-03 08:00",
+      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
       "id": "fe02b0351660681e16448dee9332dc31d519087a",
       "title": "SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data",
       "created": "2025-06-03 08:00",
@@ -311,15 +356,6 @@
       "link": "https://huggingface.co/blog/vllm-colocate",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
-      "title": "LLM KV Cache: A Simple Implementation",
-      "created": "2025-06-03 08:00",
-      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1286,19 +1322,10 @@
       "category": "ai"
     },
     {
-      "id": "4e27fe4f18daac1ac5897e515e24ca7aea811d9f",
-      "title": "huggingface/skills",
+      "id": "5c284b00b37eb4c12177ed21048cbf97df34d87a",
+      "title": "superset-sh/superset",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/huggingface/skills",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "b887f733149be939ed7d604527578d4a6403c542",
-      "title": "moeru-ai/airi",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/moeru-ai/airi",
+      "link": "https://github.com/superset-sh/superset",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1313,15 +1340,6 @@
       "category": "ai"
     },
     {
-      "id": "9c241fb43bc9a6592b7a03258cae5b930445544b",
-      "title": "anthropics/claude-code",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/anthropics/claude-code",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "346e5b02f42737d90af49953a6c35e49404e5978",
       "title": "moonshine-ai/moonshine",
       "created": "2024-01-01 00:00",
@@ -1331,46 +1349,19 @@
       "category": "ai"
     },
     {
-      "id": "c44e27161b7e444febcbd0f78f2201a5339c35f4",
-      "title": "shareAI-lab/learn-claude-code",
+      "id": "7592adc74e5f618c12d5e22907cfd8f659d08423",
+      "title": "anthropics/prompt-eng-interactive-tutorial",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/shareAI-lab/learn-claude-code",
+      "link": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "ea9a569724f0eb119a010ef0781c04d251a914b7",
-      "title": "ruvnet/RuView",
+      "id": "b887f733149be939ed7d604527578d4a6403c542",
+      "title": "moeru-ai/airi",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/ruvnet/RuView",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "bc40eae43700851e43e35fa5782713c2c87ac918",
-      "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "c289dc3d991e222b970344c35cf58dc3763342a2",
-      "title": "ruvnet/ruflo",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/ruvnet/ruflo",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "80cb740a8398d14d8a691043991572b18e35e815",
-      "title": "clockworklabs/SpacetimeDB",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/clockworklabs/SpacetimeDB",
+      "link": "https://github.com/moeru-ai/airi",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1385,6 +1376,15 @@
       "category": "ai"
     },
     {
+      "id": "ca08b1c29b3dcb3dce5103e7b5f099ded6d5bf31",
+      "title": "abhigyanpatwari/GitNexus",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/abhigyanpatwari/GitNexus",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "4dbd4d31e8c68859bc7d570d5761895a40a6b57a",
       "title": "alibaba/OpenSandbox",
       "created": "2024-01-01 00:00",
@@ -1394,10 +1394,46 @@
       "category": "ai"
     },
     {
-      "id": "ca08b1c29b3dcb3dce5103e7b5f099ded6d5bf31",
-      "title": "abhigyanpatwari/GitNexus",
+      "id": "bc40eae43700851e43e35fa5782713c2c87ac918",
+      "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/abhigyanpatwari/GitNexus",
+      "link": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "c44e27161b7e444febcbd0f78f2201a5339c35f4",
+      "title": "shareAI-lab/learn-claude-code",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/shareAI-lab/learn-claude-code",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "d62a626bb9996c2213f89212634224a273af4e0d",
+      "title": "xpzouying/xiaohongshu-mcp",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/xpzouying/xiaohongshu-mcp",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "ea9a569724f0eb119a010ef0781c04d251a914b7",
+      "title": "ruvnet/RuView",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/ruvnet/RuView",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "c289dc3d991e222b970344c35cf58dc3763342a2",
+      "title": "ruvnet/ruflo",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/ruvnet/ruflo",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1893,15 +1929,6 @@
       "title": "2019",
       "created": "2019-12-30 08:00",
       "link": "https://mathewshen.me/blog/2019/2019/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
-      "id": "32ed357bbbc6a69a4de5c23a27cebec9eff08d3e",
-      "title": "寻找无双",
-      "created": "2019-06-19 08:00",
-      "link": "https://mathewshen.me/blog/2019/wushuang/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
