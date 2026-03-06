@@ -4,7 +4,7 @@
     "active_num": 37,
     "error_num": 1,
     "article_num": 579,
-    "last_updated_time": "2026-03-07 00:51:25"
+    "last_updated_time": "2026-03-07 04:38:46"
   },
   "article_data": [
     {
@@ -32,6 +32,24 @@
       "link": "https://yukinoshitasherry.github.io/26%E5%A4%96%E5%9C%B0%E9%A3%9F%E7%89%A9/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "e090e2e5d09563bf066904c325f49dd4c4766058",
+      "title": "Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator Agent Skills",
+      "created": "2026-03-07 02:56",
+      "link": "https://huggingface.co/blog/nvidia/model-evaluation-skill",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7c3e87c0f1f20ba759bf754633861052c2b0dbb5",
+      "title": "Anthropic and the Pentagon",
+      "created": "2026-03-07 01:26",
+      "link": "https://simonwillison.net/2026/Mar/6/anthropic-and-the-pentagon/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -179,6 +197,15 @@
       "category": "ai"
     },
     {
+      "id": "8be7238298e648cd8f059c65274cfe9f23bc091e",
+      "title": "SFT 监督微调教程：原理、公式与实践",
+      "created": "2026-03-05 08:00",
+      "link": "https://yukinoshitasherry.github.io/SFT%E6%95%99%E7%A8%8B-%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5/",
+      "author": "秋月春风的书房",
+      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
       "id": "41daf44b6dc98dcd36017056e6ae164014c217af",
       "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
       "created": "2026-03-05 08:00",
@@ -188,12 +215,12 @@
       "category": "ai"
     },
     {
-      "id": "8be7238298e648cd8f059c65274cfe9f23bc091e",
-      "title": "SFT 监督微调教程：原理、公式与实践",
+      "id": "ef975331dc01ae88ed35086e7c13e7ccd125d8a7",
+      "title": "我用 AI 翻译的三个阶段：提示词时代 → 推理模型时代 → Agent 时代",
       "created": "2026-03-05 08:00",
-      "link": "https://yukinoshitasherry.github.io/SFT%E6%95%99%E7%A8%8B-%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "link": "https://baoyu.io/blog/2026-03-05/i-built-a-translator-skill",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -584,21 +611,21 @@
       "category": "ai"
     },
     {
-      "id": "0ab217ab64fd02f6773ba47c30359a5eb6c90581",
-      "title": "肖恩技术周刊（第 84 期）：Token 粉碎机",
-      "created": "2026-03-02 08:00",
-      "link": "https://weekly.shawnxie.top/content/2026/84.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "b738060d246f3b8577e5b0c2a6a8ebb01f1fb668",
       "title": "microgpt: 一个最小化的 GPT 实现",
       "created": "2026-03-02 08:00",
       "link": "https://lumina.shawnxie.top/article/microgpt-6720d2a9",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "0ab217ab64fd02f6773ba47c30359a5eb6c90581",
+      "title": "肖恩技术周刊（第 84 期）：Token 粉碎机",
+      "created": "2026-03-02 08:00",
+      "link": "https://weekly.shawnxie.top/content/2026/84.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -908,15 +935,6 @@
       "category": "ai"
     },
     {
-      "id": "367f9464105015628846f1aec00ee0ccb9d64cb9",
-      "title": "Google API Keys Weren't Secrets. But then Gemini Changed the Rules.",
-      "created": "2026-02-26 12:28",
-      "link": "https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
       "id": "e44d72287f6142b276a728b74bbd126033c8e2e2",
       "title": "Mixture of Experts (MoEs) in Transformers",
       "created": "2026-02-26 08:00",
@@ -1058,15 +1076,6 @@
       "link": "http://www.phodal.com/blog/routa/",
       "author": "Phodal Huang",
       "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "328ac70aed76788dbf6102d13722ea7596d612ab",
-      "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
-      "created": "2026-02-24 08:00",
-      "link": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1385,15 +1394,6 @@
       "category": "ai"
     },
     {
-      "id": "2907b67a4a15a8abfe53c7d27e5533897a0f4e50",
-      "title": "Jeff Dean 深度访谈：一页纸备忘录促成 Gemini 的诞生，Google AI 的反击与 10,000 Token 的未来",
-      "created": "2026-02-17 08:00",
-      "link": "https://baoyu.io/blog/2026-02-17/jeff-dean-latent-space",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "283f8f35757dad82c325c0208a27e7d91aae6242",
       "title": "LLM-generated skills work, if you generate them afterwards",
       "created": "2026-02-17 08:00",
@@ -1493,21 +1493,21 @@
       "category": "ai"
     },
     {
-      "id": "835809aa0dbebbb9771f36317088d878e2ec22ad",
-      "title": "Custom Kernels for All from Codex and Claude",
-      "created": "2026-02-13 08:00",
-      "link": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5f0e9640cf50b76611a6fa13c1363f2cb9034ad6",
       "title": "大模型的参数与显存：概念、公式与实践",
       "created": "2026-02-13 08:00",
       "link": "https://yukinoshitasherry.github.io/2602%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E4%B8%8E%E6%98%BE%E5%AD%98/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "835809aa0dbebbb9771f36317088d878e2ec22ad",
+      "title": "Custom Kernels for All from Codex and Claude",
+      "created": "2026-02-13 08:00",
+      "link": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -2294,10 +2294,10 @@
       "category": "ai"
     },
     {
-      "id": "64a885263404a75b6fda56d21ec2d331d683cc60",
-      "title": "梯度速降",
+      "id": "3b471576c20b1223ee665aedd34483dfa922ca58",
+      "title": "矩阵微分热身",
       "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E6%A2%AF%E5%BA%A6%E9%80%9F%E9%99%8D/",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E7%83%AD%E8%BA%AB/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -2312,10 +2312,10 @@
       "category": "ai"
     },
     {
-      "id": "3b471576c20b1223ee665aedd34483dfa922ca58",
-      "title": "矩阵微分热身",
+      "id": "64a885263404a75b6fda56d21ec2d331d683cc60",
+      "title": "梯度速降",
       "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E7%83%AD%E8%BA%AB/",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E6%A2%AF%E5%BA%A6%E9%80%9F%E9%99%8D/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -2618,21 +2618,21 @@
       "category": "ai"
     },
     {
-      "id": "27bb33e4926cc0d7552cb49e91aa04be22d38095",
-      "title": "You can't design software you don't work on",
-      "created": "2025-12-27 08:00",
-      "link": "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "4627fcf1fb4a115d4335704aeecf402d9dc1a6f2",
       "title": "王二下班之后",
       "created": "2025-12-27 08:00",
       "link": "https://mathewshen.me/blog/2025/wang-work/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "27bb33e4926cc0d7552cb49e91aa04be22d38095",
+      "title": "You can't design software you don't work on",
+      "created": "2025-12-27 08:00",
+      "link": "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -3104,19 +3104,19 @@
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
