@@ -4,7 +4,7 @@
     "active_num": 37,
     "error_num": 1,
     "article_num": 580,
-    "last_updated_time": "2026-03-07 10:26:42"
+    "last_updated_time": "2026-03-07 13:02:41"
   },
   "article_data": [
     {
@@ -50,15 +50,6 @@
       "link": "https://simonwillison.net/2026/Mar/6/ally-piechowski/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "e090e2e5d09563bf066904c325f49dd4c4766058",
-      "title": "Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator Agent Skills",
-      "created": "2026-03-07 02:56",
-      "link": "https://huggingface.co/blog/nvidia/model-evaluation-skill",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1268,21 +1259,21 @@
       "category": "ai"
     },
     {
-      "id": "a6418b25d679ca65f34ae87a88acdba8fd1ccaec",
-      "title": "模型训练分析-1：Loss以及Grad Norm分析",
-      "created": "2026-02-20 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/02/20/ModelTraining.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b8cca878bea9f51a281f84db40da371dd7d859cf",
       "title": "Agents: Inner Loop vs Outer Loop",
       "created": "2026-02-20 08:00",
       "link": "https://www.philschmid.de/inner-loop-vs-outer-loop",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "a6418b25d679ca65f34ae87a88acdba8fd1ccaec",
+      "title": "模型训练分析-1：Loss以及Grad Norm分析",
+      "created": "2026-02-20 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/02/20/ModelTraining.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -1943,6 +1934,15 @@
       "category": "ai"
     },
     {
+      "id": "5ba81dd8abe4645bbfc0efc668b312efd54ffb56",
+      "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+      "created": "2026-01-27 18:26",
+      "link": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "823b008d551cba1c03192f1566a1518b2cd20013",
       "title": "Learn Alma：Tool Model 和 Chat Model 的分离，以及 Web Fetch 和 Web Search 的编排",
       "created": "2026-01-27 09:25",
@@ -1961,21 +1961,21 @@
       "category": "ai"
     },
     {
-      "id": "9ca2fa0270f940ec652b1d8bb7d440d6c8cb2fd2",
-      "title": "You have to know how to drive the car",
-      "created": "2026-01-26 08:00",
-      "link": "https://seangoedecke.com/knowing-how-to-drive-the-car/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "abf909c856ce0885020dc45b4a60f19c36472d5f",
       "title": "肖恩技术周刊（第 80 期）：AI编程的9条心得",
       "created": "2026-01-26 08:00",
       "link": "https://weekly.shawnxie.top/content/2026/80.html",
       "author": "肖恩技术周刊",
       "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "category": "ai"
+    },
+    {
+      "id": "9ca2fa0270f940ec652b1d8bb7d440d6c8cb2fd2",
+      "title": "You have to know how to drive the car",
+      "created": "2026-01-26 08:00",
+      "link": "https://seangoedecke.com/knowing-how-to-drive-the-car/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -2312,19 +2312,19 @@
       "category": "ai"
     },
     {
-      "id": "804fa59122219d2d96cf56ce39edeb9cad3bf507",
-      "title": "矩阵微分乘法法则速记",
+      "id": "3b471576c20b1223ee665aedd34483dfa922ca58",
+      "title": "矩阵微分热身",
       "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E7%83%AD%E8%BA%AB/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "3b471576c20b1223ee665aedd34483dfa922ca58",
-      "title": "矩阵微分热身",
+      "id": "804fa59122219d2d96cf56ce39edeb9cad3bf507",
+      "title": "矩阵微分乘法法则速记",
       "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E7%83%AD%E8%BA%AB/",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -2339,21 +2339,21 @@
       "category": "ai"
     },
     {
-      "id": "62c7a6997464ba9ec3203e59b814c0efd2bef855",
-      "title": "The Dictator's Handbook and the politics of technical competence",
-      "created": "2026-01-05 08:00",
-      "link": "https://seangoedecke.com/the-dictators-handbook/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "ddecdacb24bd0f7eeb6152205e2cf9f5e1c9e6bd",
       "title": "肖恩技术周刊（第 77 期）：稀缺特质",
       "created": "2026-01-05 08:00",
       "link": "https://weekly.shawnxie.top/content/2026/77.html",
       "author": "肖恩技术周刊",
       "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "category": "ai"
+    },
+    {
+      "id": "62c7a6997464ba9ec3203e59b814c0efd2bef855",
+      "title": "The Dictator's Handbook and the politics of technical competence",
+      "created": "2026-01-05 08:00",
+      "link": "https://seangoedecke.com/the-dictators-handbook/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -2627,21 +2627,21 @@
       "category": "ai"
     },
     {
-      "id": "27bb33e4926cc0d7552cb49e91aa04be22d38095",
-      "title": "You can't design software you don't work on",
-      "created": "2025-12-27 08:00",
-      "link": "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "4627fcf1fb4a115d4335704aeecf402d9dc1a6f2",
       "title": "王二下班之后",
       "created": "2025-12-27 08:00",
       "link": "https://mathewshen.me/blog/2025/wang-work/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "27bb33e4926cc0d7552cb49e91aa04be22d38095",
+      "title": "You can't design software you don't work on",
+      "created": "2025-12-27 08:00",
+      "link": "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
