@@ -4,7 +4,7 @@
     "active_num": 37,
     "error_num": 1,
     "article_num": 580,
-    "last_updated_time": "2026-03-07 20:59:26"
+    "last_updated_time": "2026-03-08 00:35:03"
   },
   "article_data": [
     {
@@ -44,6 +44,15 @@
       "category": "ai"
     },
     {
+      "id": "c7c4cba0627e87ad91a0ea0ccfdfbe8ff3315af2",
+      "title": "EP205: CPU vs GPU vs TPU",
+      "created": "2026-03-08 00:31",
+      "link": "https://blog.bytebytego.com/p/ep205-cpu-vs-gpu-vs-tpu",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
       "id": "1533037c77c2806b6187d56b6dd9c036388f1acb",
       "title": "14B规模竟也能单卡实时生成视频？多亏这个强大的开源底座",
       "created": "2026-03-07 12:18",
@@ -77,6 +86,15 @@
       "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020334&idx=4&sn=57c302ec4b9d4508864e8d799bf1038c",
       "author": "机器之心",
       "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "9edff1232626ef0458ec7612a6ac1a55db1ddf13",
+      "title": "RL 算法详解：从 Q-learning 到 GRPO 系列",
+      "created": "2026-03-07 08:00",
+      "link": "https://yukinoshitasherry.github.io/RL%E7%AE%97%E6%B3%95/",
+      "author": "秋月春风的书房",
+      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
       "category": "ai"
     },
     {
@@ -269,10 +287,10 @@
       "category": "ai"
     },
     {
-      "id": "8be7238298e648cd8f059c65274cfe9f23bc091e",
+      "id": "b87b07820b66b900f80465b494966d434bd05f8e",
       "title": "SFT 监督微调",
       "created": "2026-03-05 08:00",
-      "link": "https://yukinoshitasherry.github.io/SFT%E6%95%99%E7%A8%8B-%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5/",
+      "link": "https://yukinoshitasherry.github.io/SFT/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
       "category": "ai"
@@ -1277,21 +1295,21 @@
       "category": "ai"
     },
     {
-      "id": "a6418b25d679ca65f34ae87a88acdba8fd1ccaec",
-      "title": "模型训练分析-1：Loss以及Grad Norm分析",
-      "created": "2026-02-20 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/02/20/ModelTraining.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b8cca878bea9f51a281f84db40da371dd7d859cf",
       "title": "Agents: Inner Loop vs Outer Loop",
       "created": "2026-02-20 08:00",
       "link": "https://www.philschmid.de/inner-loop-vs-outer-loop",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "a6418b25d679ca65f34ae87a88acdba8fd1ccaec",
+      "title": "模型训练分析-1：Loss以及Grad Norm分析",
+      "created": "2026-02-20 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/02/20/ModelTraining.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -1511,10 +1529,10 @@
       "category": "ai"
     },
     {
-      "id": "5f0e9640cf50b76611a6fa13c1363f2cb9034ad6",
-      "title": "大模型的参数与显存：概念、公式与实践",
+      "id": "7d86a3a27813e0cb4a3a211e04eb61a1acc3523b",
+      "title": "大模型参数与显存",
       "created": "2026-02-13 08:00",
-      "link": "https://yukinoshitasherry.github.io/2602%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E4%B8%8E%E6%98%BE%E5%AD%98/",
+      "link": "https://yukinoshitasherry.github.io/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E4%B8%8E%E6%98%BE%E5%AD%98/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
       "category": "ai"
@@ -1625,15 +1643,6 @@
       "link": "https://qwen.ai/blog?id=qwen-image-2.0",
       "author": "Qwen",
       "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
-      "category": "ai"
-    },
-    {
-      "id": "9a4c6443a75fe85193c69243807ae1aee50797d3",
-      "title": "How Yelp Built “Yelp Assistant”",
-      "created": "2026-02-10 00:31",
-      "link": "https://blog.bytebytego.com/p/how-yelp-built-yelp-assistant",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
@@ -2339,19 +2348,19 @@
       "category": "ai"
     },
     {
-      "id": "15f4a5452b3bd90d618626d5de84e7ff3d1103a7",
-      "title": "Adam中的偏差修正起到了什么作用？",
+      "id": "64a885263404a75b6fda56d21ec2d331d683cc60",
+      "title": "梯度速降",
       "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/adam%E4%B8%AD%E7%9A%84%E5%81%8F%E5%B7%AE%E4%BF%AE%E6%AD%A3%E8%B5%B7%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8/",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E6%A2%AF%E5%BA%A6%E9%80%9F%E9%99%8D/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "64a885263404a75b6fda56d21ec2d331d683cc60",
-      "title": "梯度速降",
+      "id": "15f4a5452b3bd90d618626d5de84e7ff3d1103a7",
+      "title": "Adam中的偏差修正起到了什么作用？",
       "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E6%A2%AF%E5%BA%A6%E9%80%9F%E9%99%8D/",
+      "link": "https://blog.tomorrowdawn.cc/posts/adam%E4%B8%AD%E7%9A%84%E5%81%8F%E5%B7%AE%E4%BF%AE%E6%AD%A3%E8%B5%B7%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -2519,19 +2528,19 @@
       "category": "ai"
     },
     {
-      "id": "87ae5b6bb6057b7d191dace0a837681a1ae844f8",
-      "title": "2025杭州&上海西餐探店合集",
+      "id": "2768c8eeb1d695c7113230c266776be74c6d0672",
+      "title": "2025杭州中餐探店合集",
       "created": "2025-12-31 08:00",
-      "link": "https://yukinoshitasherry.github.io/25%E6%9D%AD%E5%B7%9E%E4%B8%8A%E6%B5%B7%E8%A5%BF%E9%A4%90/",
+      "link": "https://yukinoshitasherry.github.io/25%E6%9D%AD%E5%B7%9E%E4%B8%AD%E9%A4%90/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
       "category": "ai"
     },
     {
-      "id": "2768c8eeb1d695c7113230c266776be74c6d0672",
-      "title": "2025杭州中餐探店合集",
+      "id": "87ae5b6bb6057b7d191dace0a837681a1ae844f8",
+      "title": "2025杭州&上海西餐探店合集",
       "created": "2025-12-31 08:00",
-      "link": "https://yukinoshitasherry.github.io/25%E6%9D%AD%E5%B7%9E%E4%B8%AD%E9%A4%90/",
+      "link": "https://yukinoshitasherry.github.io/25%E6%9D%AD%E5%B7%9E%E4%B8%8A%E6%B5%B7%E8%A5%BF%E9%A4%90/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
       "category": "ai"
@@ -2850,15 +2859,6 @@
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico",
       "category": "friend"
-    },
-    {
-      "id": "cdb07afd29887669ec302c88a8d8302183df30a8",
-      "title": "2025剧院现场年终总结",
-      "created": "2025-12-21 08:00",
-      "link": "https://yukinoshitasherry.github.io/2025music-review/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
-      "category": "ai"
     },
     {
       "id": "04d86ac5fc8cf6362972c26a5e414892435ac4d7",

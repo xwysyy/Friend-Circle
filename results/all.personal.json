@@ -3,51 +3,24 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 219,
-    "last_updated_time": "2026-03-07 20:59:32"
+    "article_num": 217,
+    "last_updated_time": "2026-03-08 00:35:10"
   },
   "article_data": [
     {
-      "id": "1533037c77c2806b6187d56b6dd9c036388f1acb",
-      "title": "14B规模竟也能单卡实时生成视频？多亏这个强大的开源底座",
-      "created": "2026-03-07 12:18",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020334&idx=1&sn=5545a4b599966d797919aac970ce92ef",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "id": "c7c4cba0627e87ad91a0ea0ccfdfbe8ff3315af2",
+      "title": "EP205: CPU vs GPU vs TPU",
+      "created": "2026-03-08 00:31",
+      "link": "https://blog.bytebytego.com/p/ep205-cpu-vs-gpu-vs-tpu",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
-      "id": "d897edde93212b0e92c0a3d23a2559108d6b1c39",
-      "title": "Claude两周挖出火狐浏览器22个漏洞、14个高危！安全研究的游戏规则该变了？",
-      "created": "2026-03-07 12:18",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020334&idx=2&sn=dc9d13d6deb2c3ee31e3d57deebed308",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "2e4f8e0fc13d88e416c256edb9145fe201a5e95a",
-      "title": "谢赛宁也玩MC？开源全新世界模型生成多人一致的游戏视角",
-      "created": "2026-03-07 12:18",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020334&idx=3&sn=3d54da751c965ca30c6373d76b53f75a",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "eb9aa6a55fd32616264e37abd1b8c66670b56ef3",
-      "title": "破解大模型「无效并行推理」：Parallel-Probe问世，并行推理效率提升35.8%",
-      "created": "2026-03-07 12:18",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020334&idx=4&sn=57c302ec4b9d4508864e8d799bf1038c",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "d188915510d883467fce7724aa77f7eea653247d",
-      "title": "Pre-Training、SFT 与 RLHF",
-      "created": "2026-03-03 08:00",
-      "link": "https://yukinoshitasherry.github.io/Pretrain-SFT-RLHF/",
+      "id": "9edff1232626ef0458ec7612a6ac1a55db1ddf13",
+      "title": "RL 算法详解：从 Q-learning 到 GRPO 系列",
+      "created": "2026-03-07 08:00",
+      "link": "https://yukinoshitasherry.github.io/RL%E7%AE%97%E6%B3%95/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
       "category": "ai"
@@ -104,6 +77,15 @@
       "link": "https://lumina.shawnxie.top/article/gpt-5-3-instant-geng-shun-chang-geng-shi-yong-de-0c67541b",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "7d86a3a27813e0cb4a3a211e04eb61a1acc3523b",
+      "title": "大模型参数与显存",
+      "created": "2026-02-13 08:00",
+      "link": "https://yukinoshitasherry.github.io/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E4%B8%8E%E6%98%BE%E5%AD%98/",
+      "author": "秋月春风的书房",
+      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
       "category": "ai"
     },
     {
@@ -260,6 +242,15 @@
       "category": "ai"
     },
     {
+      "id": "1e9d0c3988dcb92a31de9a661ecf891968aa9c2f",
+      "title": "勇气的奥秘——从赢走向赢",
+      "created": "2025-06-11 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E5%8B%87%E6%B0%94%E7%9A%84%E5%A5%A5%E7%A7%98-%E4%BB%8E%E8%B5%A2%E8%B5%B0%E5%90%91%E8%B5%A2/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
       "id": "512319b1230add0ba5f13a557e058eb1f1937936",
       "title": "Introducing Training Cluster as a Service - a new collaboration with NVIDIA",
       "created": "2025-06-11 08:00",
@@ -275,15 +266,6 @@
       "link": "https://www.big-yellow-j.top/posts/2025/06/11/ImageEraser1.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "1e9d0c3988dcb92a31de9a661ecf891968aa9c2f",
-      "title": "勇气的奥秘——从赢走向赢",
-      "created": "2025-06-11 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E5%8B%87%E6%B0%94%E7%9A%84%E5%A5%A5%E7%A7%98-%E4%BB%8E%E8%B5%A2%E8%B5%B0%E5%90%91%E8%B5%A2/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
@@ -359,6 +341,15 @@
       "category": "ai"
     },
     {
+      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
+      "title": "LLM KV Cache: A Simple Implementation",
+      "created": "2025-06-03 08:00",
+      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
       "id": "fe02b0351660681e16448dee9332dc31d519087a",
       "title": "SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data",
       "created": "2025-06-03 08:00",
@@ -374,15 +365,6 @@
       "link": "https://huggingface.co/blog/vllm-colocate",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
-      "title": "LLM KV Cache: A Simple Implementation",
-      "created": "2025-06-03 08:00",
-      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
