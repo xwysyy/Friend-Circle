@@ -3,10 +3,28 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 214,
-    "last_updated_time": "2026-03-07 04:38:53"
+    "article_num": 216,
+    "last_updated_time": "2026-03-07 10:26:49"
   },
   "article_data": [
+    {
+      "id": "d14d8f5a45ee98355bba302cee531f4390f3860a",
+      "title": "俟河之清，人寿几何",
+      "created": "2026-03-08 08:00",
+      "link": "https://mathewshen.me/blog/2026/waiting/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "7296aed4ac39c365f10da2ae370dc31cffb63274",
+      "title": "Quoting Ally Piechowski",
+      "created": "2026-03-07 05:58",
+      "link": "https://simonwillison.net/2026/Mar/6/ally-piechowski/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "e090e2e5d09563bf066904c325f49dd4c4766058",
       "title": "Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator Agent Skills",
@@ -332,6 +350,15 @@
       "category": "ai"
     },
     {
+      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
+      "title": "LLM KV Cache: A Simple Implementation",
+      "created": "2025-06-03 08:00",
+      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
       "id": "fe02b0351660681e16448dee9332dc31d519087a",
       "title": "SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data",
       "created": "2025-06-03 08:00",
@@ -347,15 +374,6 @@
       "link": "https://huggingface.co/blog/vllm-colocate",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
-      "title": "LLM KV Cache: A Simple Implementation",
-      "created": "2025-06-03 08:00",
-      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -575,21 +593,21 @@
       "category": "ai"
     },
     {
-      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
-      "title": "Google Gemini LangChain Cheatsheet",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
       "title": "Qwen多模态系列论文",
       "created": "2025-04-28 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
+      "title": "Google Gemini LangChain Cheatsheet",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1313,55 +1331,10 @@
       "category": "ai"
     },
     {
-      "id": "5c284b00b37eb4c12177ed21048cbf97df34d87a",
-      "title": "superset-sh/superset",
+      "id": "3f3b95061e31cb6a0e86ab6906dadc924755a0c1",
+      "title": "CodebuffAI/codebuff",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/superset-sh/superset",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
-      "title": "obra/superpowers",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/obra/superpowers",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "346e5b02f42737d90af49953a6c35e49404e5978",
-      "title": "moonshine-ai/moonshine",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/moonshine-ai/moonshine",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "7592adc74e5f618c12d5e22907cfd8f659d08423",
-      "title": "anthropics/prompt-eng-interactive-tutorial",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "b887f733149be939ed7d604527578d4a6403c542",
-      "title": "moeru-ai/airi",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/moeru-ai/airi",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "ab15f474a2763269ec4e90c6123dcec8d5ee3dbf",
-      "title": "bytedance/deer-flow",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/bytedance/deer-flow",
+      "link": "https://github.com/CodebuffAI/codebuff",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1376,6 +1349,42 @@
       "category": "ai"
     },
     {
+      "id": "ab15f474a2763269ec4e90c6123dcec8d5ee3dbf",
+      "title": "bytedance/deer-flow",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/bytedance/deer-flow",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "b887f733149be939ed7d604527578d4a6403c542",
+      "title": "moeru-ai/airi",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/moeru-ai/airi",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "db1126994486cafd11a20d8f83d95c0fd2f25804",
+      "title": "D4Vinci/Scrapling",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/D4Vinci/Scrapling",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "ea9a569724f0eb119a010ef0781c04d251a914b7",
+      "title": "ruvnet/RuView",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/ruvnet/RuView",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "4dbd4d31e8c68859bc7d570d5761895a40a6b57a",
       "title": "alibaba/OpenSandbox",
       "created": "2024-01-01 00:00",
@@ -1385,10 +1394,28 @@
       "category": "ai"
     },
     {
-      "id": "bc40eae43700851e43e35fa5782713c2c87ac918",
-      "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "id": "5c284b00b37eb4c12177ed21048cbf97df34d87a",
+      "title": "superset-sh/superset",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "link": "https://github.com/superset-sh/superset",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
+      "title": "NousResearch/hermes-agent",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "0c225b4f567f0f12853079912c8a59b2bda3b7b9",
+      "title": "agentscope-ai/agentscope",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/agentscope-ai/agentscope",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1403,19 +1430,19 @@
       "category": "ai"
     },
     {
-      "id": "d62a626bb9996c2213f89212634224a273af4e0d",
-      "title": "xpzouying/xiaohongshu-mcp",
+      "id": "7592adc74e5f618c12d5e22907cfd8f659d08423",
+      "title": "anthropics/prompt-eng-interactive-tutorial",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/xpzouying/xiaohongshu-mcp",
+      "link": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "ea9a569724f0eb119a010ef0781c04d251a914b7",
-      "title": "ruvnet/RuView",
+      "id": "d62a626bb9996c2213f89212634224a273af4e0d",
+      "title": "xpzouying/xiaohongshu-mcp",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/ruvnet/RuView",
+      "link": "https://github.com/xpzouying/xiaohongshu-mcp",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1920,15 +1947,6 @@
       "title": "2019",
       "created": "2019-12-30 08:00",
       "link": "https://mathewshen.me/blog/2019/2019/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
-      "id": "32ed357bbbc6a69a4de5c23a27cebec9eff08d3e",
-      "title": "寻找无双",
-      "created": "2019-06-19 08:00",
-      "link": "https://mathewshen.me/blog/2019/wushuang/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
