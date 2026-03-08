@@ -3,17 +3,35 @@
     "friends_num": 38,
     "active_num": 36,
     "error_num": 2,
-    "article_num": 215,
-    "last_updated_time": "2026-03-08 16:38:43"
+    "article_num": 217,
+    "last_updated_time": "2026-03-08 21:00:54"
   },
   "article_data": [
     {
-      "id": "9edff1232626ef0458ec7612a6ac1a55db1ddf13",
-      "title": "RL 算法详解：从 Q-learning 到 GRPO 系列",
-      "created": "2026-03-07 08:00",
-      "link": "https://yukinoshitasherry.github.io/RL%E7%AE%97%E6%B3%95/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "id": "dc575eeb15f10d308823ceaed059e6e76ceb9962",
+      "title": "一键接入OpenClaw，谷歌开源CLI狂揽15k Stars，Agent开始接管Workspace",
+      "created": "2026-03-08 12:04",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020388&idx=1&sn=deb1784bd1795c6a77b14d76851c9d8c",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "5fc13cc693996c38b47e5b84e05d16b3718dc437",
+      "title": "自动研究真的是未来！Karpathy放大招，将自我迭代智能体放进单个GPU",
+      "created": "2026-03-08 12:04",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020388&idx=2&sn=f9e3c4abb5397c93797eb67053363327",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "c551b5b94c67dcaddd88e5810034dbca8494b3c5",
+      "title": "李曼玲、李飞飞团队顶会新作：给大模型测「空间智商」",
+      "created": "2026-03-08 12:04",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020388&idx=3&sn=aa2cc0f123a909ab9c2fcbd755133390",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -23,15 +41,6 @@
       "link": "https://www.cnblogs.com/moonout/p/19660803",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
-      "id": "088abfef82a50aba56ac4ffdb42d2ff5cff64edc",
-      "title": "A Dream of Spring for Open-Weight LLMs: 10 Architectures from Jan-Feb 2026",
-      "created": "2026-02-25 16:15",
-      "link": "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -80,15 +89,6 @@
       "category": "ai"
     },
     {
-      "id": "4c3da264aa3a873f81b8a15185eb48c77d49acd7",
-      "title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
-      "created": "2026-01-24 16:15",
-      "link": "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "11c8f4217166140dbea26a08b7d6eeaf872ed6ad",
       "title": "让炼丹更科学一些（六）：自上而下的精妙构造",
       "created": "2026-01-16 15:03",
@@ -104,24 +104,6 @@
       "link": "https://ninehills.tech/articles/150.html",
       "author": "九原山博客",
       "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
-      "category": "ai"
-    },
-    {
-      "id": "b1581a551bbc528f2a4043a13b63ecbb7cc0e712",
-      "title": "The State Of LLMs 2025: Progress, Problems, and Predictions",
-      "created": "2025-12-30 16:15",
-      "link": "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "ab5df59450fc24dce4c4f271a69d1eb0eed8e31c",
-      "title": "LLM Research Papers: The 2025 List (July to December)",
-      "created": "2025-12-30 16:00",
-      "link": "https://magazine.sebastianraschka.com/p/llm-research-papers-2025-part2",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -170,15 +152,6 @@
       "category": "ai"
     },
     {
-      "id": "f02a2aa74e79d89d5bf97f96d0c6280c93e951f9",
-      "title": "From DeepSeek V3 to V3.2: Architecture, Sparse Attention, and RL Updates",
-      "created": "2025-12-03 08:06",
-      "link": "https://magazine.sebastianraschka.com/p/technical-deepseek",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "c110723119151dc9b73ccbc74b99b00007336e87",
       "title": "GPU 微架构之旅 | 第五天：术业有专攻——那些“特种兵”单元",
       "created": "2025-11-16 23:13",
@@ -194,33 +167,6 @@
       "link": "https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-4-memory-pyramid/",
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "ae6b9eee40feb8ddc9f0aea70e4a18eb7e5ee32c",
-      "title": "Beyond Standard LLMs",
-      "created": "2025-11-04 08:08",
-      "link": "https://magazine.sebastianraschka.com/p/beyond-standard-llms",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "f61e677d50bc3afdd652bb85d932176332b118d7",
-      "title": "Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)",
-      "created": "2025-10-05 08:06",
-      "link": "https://magazine.sebastianraschka.com/p/llm-evaluation-4-approaches",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "c52b4cee69ffc817b5366e03aded7f1b464b2d42",
-      "title": "Understanding and Implementing Qwen3 From Scratch",
-      "created": "2025-09-06 16:00",
-      "link": "https://magazine.sebastianraschka.com/p/qwen3-from-scratch",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -251,55 +197,10 @@
       "category": "ai"
     },
     {
-      "id": "6d3011a0c9c8946558da5a622f24d1db7d08409f",
-      "title": "From GPT-2 to gpt-oss: Analyzing the Architectural Advances",
-      "created": "2025-08-09 19:00",
-      "link": "https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "32267b4e2347763fecefeac3ef3a206ab1daa5f0",
-      "title": "The Big LLM Architecture Comparison",
-      "created": "2025-07-19 14:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "5d67698738ca4d2763c3a894e9d600d221280b77",
-      "title": "LLM Research Papers: The 2025 List (January to June)",
-      "created": "2025-07-01 14:06",
-      "link": "https://magazine.sebastianraschka.com/p/llm-research-papers-2025-list-one",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "cdd76750432fa113610fa866d027af89c7c21074",
       "title": "pytorch使用-1：pytorch中基础概念",
       "created": "2025-07-01 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/07/01/torch_basic.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "c9d8040bdb3105956b4605d014854f9706d09674",
-      "title": "Understanding and Coding the KV Cache in LLMs from Scratch",
-      "created": "2025-06-17 16:00",
-      "link": "https://magazine.sebastianraschka.com/p/coding-the-kv-cache-in-llms",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "90c14f95511a221a65f2fea452321f4ffe5bcc62",
-      "title": "图像消除论文-1：PixelHacker、PowerPanint、Attentive Eraser",
-      "created": "2025-06-11 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/06/11/ImageEraser1.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
@@ -311,6 +212,15 @@
       "link": "https://blog.tomorrowdawn.cc/posts/%E5%8B%87%E6%B0%94%E7%9A%84%E5%A5%A5%E7%A7%98-%E4%BB%8E%E8%B5%A2%E8%B5%B0%E5%90%91%E8%B5%A2/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "90c14f95511a221a65f2fea452321f4ffe5bcc62",
+      "title": "图像消除论文-1：PixelHacker、PowerPanint、Attentive Eraser",
+      "created": "2025-06-11 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/06/11/ImageEraser1.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -413,21 +323,21 @@
       "category": "ai"
     },
     {
-      "id": "82d67b6fd361ef19f708706bafc72f71681124b8",
-      "title": "多模态算法Clip、Albef、Blip等算法原理",
-      "created": "2025-05-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/05/28/MultiModal.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "99b35aab447256d877ee0881bc4c043b1ed2b2de",
       "title": "CodeAgents + Structure: A Better Way to Execute Actions",
       "created": "2025-05-28 08:00",
       "link": "https://huggingface.co/blog/structured-codeagent",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "82d67b6fd361ef19f708706bafc72f71681124b8",
+      "title": "多模态算法Clip、Albef、Blip等算法原理",
+      "created": "2025-05-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/05/28/MultiModal.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -494,21 +404,21 @@
       "category": "ai"
     },
     {
-      "id": "25cbe3edf731fc48c2187a25a32820c6e1c90589",
-      "title": "深入浅出了解生成模型-3：Diffusion模型原理以及代码",
-      "created": "2025-05-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/05/19/DiffusionModel.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "f926bb52f775215f06d4f49c26d627476f8d5ecf",
       "title": "Microsoft and Hugging Face expand collaboration",
       "created": "2025-05-19 08:00",
       "link": "https://huggingface.co/blog/azure-ai-foundry",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "25cbe3edf731fc48c2187a25a32820c6e1c90589",
+      "title": "深入浅出了解生成模型-3：Diffusion模型原理以及代码",
+      "created": "2025-05-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/05/19/DiffusionModel.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -719,21 +629,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1106,6 +1016,15 @@
       "category": "ai"
     },
     {
+      "id": "1a22e095a98b84c2015118f3b300da42f93ed6f5",
+      "title": "Understanding Multimodal LLMs",
+      "created": "2024-11-03 14:03",
+      "link": "https://magazine.sebastianraschka.com/p/understanding-multimodal-llms",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "118780140db873f2469b51adf5c70b9baac564b6",
       "title": "物理光学笔记",
       "created": "2024-10-30 19:22",
@@ -1196,6 +1115,15 @@
       "category": "ai"
     },
     {
+      "id": "a7ea6d2d79c7db066c846c890aa380af98bf941d",
+      "title": "Building A GPT-Style LLM Classifier From Scratch",
+      "created": "2024-09-21 14:03",
+      "link": "https://magazine.sebastianraschka.com/p/building-a-gpt-style-llm-classifier",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "5fa8412644086866a6426de15aedba7f62e2a089",
       "title": "Evaluate LLMs using Evaluation Harness and Hugging Face TGI/vLLM",
       "created": "2024-09-19 08:00",
@@ -1205,12 +1133,30 @@
       "category": "ai"
     },
     {
+      "id": "16d6a36a35600e46557751c7859a699a3018a7f2",
+      "title": "Building LLMs from the Ground Up: A 3-hour Coding Workshop",
+      "created": "2024-09-01 14:03",
+      "link": "https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "45947fdaf45ba89295df786ef67ce4c8912d4559",
       "title": "Dawid-Skene 算法",
       "created": "2024-08-21 08:00",
       "link": "https://mathewshen.me/blog/2024/ds/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "d815393aeef3a983f52c589e5e1977dda97b1b93",
+      "title": "New LLM Pre-training and Post-training Paradigms",
+      "created": "2024-08-17 14:03",
+      "link": "https://magazine.sebastianraschka.com/p/new-llm-pre-training-and-post-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1241,6 +1187,15 @@
       "category": "ai"
     },
     {
+      "id": "ef29388bfc9d58ffd838c949566d457f9ffefc01",
+      "title": "Instruction Pretraining LLMs",
+      "created": "2024-07-20 14:03",
+      "link": "https://magazine.sebastianraschka.com/p/instruction-pretraining-llms",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "7a667124ef53b41c10c95eb42371d39aa77ff3b9",
       "title": "EAFP：先斩后奏的设计思路，异常处理的用武之地，pythonic 的编程哲学",
       "created": "2024-07-09 17:00",
@@ -1268,6 +1223,24 @@
       "category": "lang"
     },
     {
+      "id": "f15ee17f9a180e70f51d72ddb0699517ab427690",
+      "title": "LLM Research Insights: Instruction Masking and New LoRA Finetuning Experiments?",
+      "created": "2024-06-02 14:03",
+      "link": "https://magazine.sebastianraschka.com/p/llm-research-insights-instruction",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "5c65a47f7c108aa298e2cf8c69975f821df95bf8",
+      "title": "Developing an LLM: Building, Training, Finetuning",
+      "created": "2024-06-02 14:03",
+      "link": "https://magazine.sebastianraschka.com/p/llms-building-training-finetuning",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "9d7199e661500bbc992e032808fbf547bae73617",
       "title": "Match Case: 让 80% 的 if 惨遭失业",
       "created": "2024-05-18 17:00",
@@ -1277,12 +1250,57 @@
       "category": "lang"
     },
     {
+      "id": "279d7b587f0e4580c8ec8bd9d81743be4759abbc",
+      "title": "How Good Are the Latest Open LLMs? And Is DPO Better Than PPO?",
+      "created": "2024-05-12 14:03",
+      "link": "https://magazine.sebastianraschka.com/p/how-good-are-the-latest-open-llms",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "3e034385ade240c24808b6828bd26665c42a4934",
+      "title": "Using and Finetuning Pretrained Transformers",
+      "created": "2024-04-20 15:00",
+      "link": "https://magazine.sebastianraschka.com/p/using-and-finetuning-pretrained-transformers",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "38eb95b0e9e6e2014089bfe0f186f3cf35ab03f9",
       "title": "Diffusion Models for Video Generation",
       "created": "2024-04-12 08:00",
       "link": "https://lilianweng.github.io/posts/2024-04-12-diffusion-video/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "3ed054bbd6a55a0025dea5d0c5d03da933d4035f",
+      "title": "Tips for LLM Pretraining and Evaluating Reward Models",
+      "created": "2024-03-31 14:00",
+      "link": "https://magazine.sebastianraschka.com/p/tips-for-llm-pretraining-and-evaluating-rms",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "0a66d489cf5fce2d3f8fb84cb3b03a809568fbdb",
+      "title": "Research Papers in February 2024",
+      "created": "2024-03-03 14:00",
+      "link": "https://magazine.sebastianraschka.com/p/research-papers-in-february-2024",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "9d0f12f4323caf26b7608d27057cda2356d3c62f",
+      "title": "Improving LoRA: Implementing Weight-Decomposed Low-Rank Adaptation (DoRA) from Scratch",
+      "created": "2024-02-18 16:00",
+      "link": "https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
