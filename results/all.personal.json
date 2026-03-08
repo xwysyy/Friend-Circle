@@ -3,46 +3,10 @@
     "friends_num": 38,
     "active_num": 36,
     "error_num": 2,
-    "article_num": 218,
-    "last_updated_time": "2026-03-09 00:37:00"
+    "article_num": 214,
+    "last_updated_time": "2026-03-09 04:34:15"
   },
   "article_data": [
-    {
-      "id": "bc5e8056d1bc5942e69e754338278dae856c090e",
-      "title": "Quoting Joseph Weizenbaum",
-      "created": "2026-03-08 22:59",
-      "link": "https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "dc575eeb15f10d308823ceaed059e6e76ceb9962",
-      "title": "一键接入OpenClaw，谷歌开源CLI狂揽15k Stars，Agent开始接管Workspace",
-      "created": "2026-03-08 12:04",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020388&idx=1&sn=deb1784bd1795c6a77b14d76851c9d8c",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "5fc13cc693996c38b47e5b84e05d16b3718dc437",
-      "title": "自动研究真的是未来！Karpathy放大招，将自我迭代智能体放进单个GPU",
-      "created": "2026-03-08 12:04",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020388&idx=2&sn=f9e3c4abb5397c93797eb67053363327",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "c551b5b94c67dcaddd88e5810034dbca8494b3c5",
-      "title": "李曼玲、李飞飞团队顶会新作：给大模型测「空间智商」",
-      "created": "2026-03-08 12:04",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020388&idx=3&sn=aa2cc0f123a909ab9c2fcbd755133390",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
     {
       "id": "32a3eab6301a23cc9493b9680337edd3588fc562",
       "title": "LLM 算法岗 | 字节面试常问的 leetcode 算法题汇总，附 leetcode 链接 - MoonOut",
@@ -305,15 +269,6 @@
       "category": "ai"
     },
     {
-      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
-      "title": "LLM KV Cache: A Simple Implementation",
-      "created": "2025-06-03 08:00",
-      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "fe02b0351660681e16448dee9332dc31d519087a",
       "title": "SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data",
       "created": "2025-06-03 08:00",
@@ -329,6 +284,15 @@
       "link": "https://huggingface.co/blog/vllm-colocate",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
+      "title": "LLM KV Cache: A Simple Implementation",
+      "created": "2025-06-03 08:00",
+      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
