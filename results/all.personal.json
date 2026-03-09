@@ -3,17 +3,35 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 213,
-    "last_updated_time": "2026-03-09 16:53:56"
+    "article_num": 215,
+    "last_updated_time": "2026-03-09 21:16:47"
   },
   "article_data": [
     {
-      "id": "262a9fc35dbe51be300b88711107d6f75e33a14d",
-      "title": "品牌时代",
-      "created": "2026-03-08 08:00",
-      "link": "https://baoyu.io/translations/2026-03-05/the-brand-age-pg",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
+      "id": "2e7e3ac7edd3db764b5fc9046855370ddab2081a",
+      "title": "3B打32B？海外病毒式传播的小模型，竟然来自BOSS直聘",
+      "created": "2026-03-09 11:56",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020452&idx=1&sn=a08bcae10fe0e1f4510f1388fba7937e",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "70a6db5064b7a68de2b0801ae0872307c6040a65",
+      "title": "AI 下半场，LLM Benchmark 要补全什么？",
+      "created": "2026-03-09 11:56",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020452&idx=2&sn=47cb8488376aa2b82bbd2a5fac7c2b9a",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "846da26390ec1b4709fed1a8e90a8ffc73f75893",
+      "title": "ICLR2026 Oral | 北大彭一杰团队提出高效优化新范式，递归似然比梯度优化器赋能扩散模型后训练",
+      "created": "2026-03-09 11:56",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020452&idx=3&sn=03867dc330326ea9435922490dc834f7",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -116,19 +134,19 @@
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -188,21 +206,21 @@
       "category": "ai"
     },
     {
-      "id": "90c14f95511a221a65f2fea452321f4ffe5bcc62",
-      "title": "图像消除论文-1：PixelHacker、PowerPanint、Attentive Eraser",
-      "created": "2025-06-11 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/06/11/ImageEraser1.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "1e9d0c3988dcb92a31de9a661ecf891968aa9c2f",
       "title": "勇气的奥秘——从赢走向赢",
       "created": "2025-06-11 08:00",
       "link": "https://blog.tomorrowdawn.cc/posts/%E5%8B%87%E6%B0%94%E7%9A%84%E5%A5%A5%E7%A7%98-%E4%BB%8E%E8%B5%A2%E8%B5%B0%E5%90%91%E8%B5%A2/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "90c14f95511a221a65f2fea452321f4ffe5bcc62",
+      "title": "图像消除论文-1：PixelHacker、PowerPanint、Attentive Eraser",
+      "created": "2025-06-11 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/06/11/ImageEraser1.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -278,15 +296,6 @@
       "category": "ai"
     },
     {
-      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
-      "title": "LLM KV Cache: A Simple Implementation",
-      "created": "2025-06-03 08:00",
-      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "fe02b0351660681e16448dee9332dc31d519087a",
       "title": "SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data",
       "created": "2025-06-03 08:00",
@@ -305,12 +314,12 @@
       "category": "ai"
     },
     {
-      "id": "82d67b6fd361ef19f708706bafc72f71681124b8",
-      "title": "多模态算法Clip、Albef、Blip等算法原理",
-      "created": "2025-05-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/05/28/MultiModal.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
+      "title": "LLM KV Cache: A Simple Implementation",
+      "created": "2025-06-03 08:00",
+      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -320,6 +329,15 @@
       "link": "https://huggingface.co/blog/structured-codeagent",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "82d67b6fd361ef19f708706bafc72f71681124b8",
+      "title": "多模态算法Clip、Albef、Blip等算法原理",
+      "created": "2025-05-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/05/28/MultiModal.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -386,21 +404,21 @@
       "category": "ai"
     },
     {
-      "id": "25cbe3edf731fc48c2187a25a32820c6e1c90589",
-      "title": "深入浅出了解生成模型-3：Diffusion模型原理以及代码",
-      "created": "2025-05-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/05/19/DiffusionModel.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "f926bb52f775215f06d4f49c26d627476f8d5ecf",
       "title": "Microsoft and Hugging Face expand collaboration",
       "created": "2025-05-19 08:00",
       "link": "https://huggingface.co/blog/azure-ai-foundry",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "25cbe3edf731fc48c2187a25a32820c6e1c90589",
+      "title": "深入浅出了解生成模型-3：Diffusion模型原理以及代码",
+      "created": "2025-05-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/05/19/DiffusionModel.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -611,21 +629,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
