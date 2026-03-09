@@ -4,9 +4,18 @@
     "active_num": 37,
     "error_num": 1,
     "article_num": 215,
-    "last_updated_time": "2026-03-10 01:00:52"
+    "last_updated_time": "2026-03-10 04:41:06"
   },
   "article_data": [
+    {
+      "id": "ec92a6e121b60abcc4d5bb9bdf583240ef47f779",
+      "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
+      "created": "2026-03-10 02:36",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "9ea648f27e8ffec9b8e3671bb5c107e711d28aaa",
       "title": "Top AI GitHub Repositories in 2026",
@@ -32,6 +41,24 @@
       "link": "https://simonwillison.net/2026/Mar/9/not-so-boring/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "59a06e2a252a6cf1f14f0de8427dfe5bcb7dbb35",
+      "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+      "created": "2026-03-09 08:00",
+      "link": "https://huggingface.co/blog/ulysses-sp",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "96b2284ecdf3b55b54009f4306767010c37ba5f1",
+      "title": "LeRobot v0.5.0: Scaling Every Dimension",
+      "created": "2026-03-09 08:00",
+      "link": "https://huggingface.co/blog/lerobot-release-v050",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -143,19 +170,19 @@
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -215,21 +242,21 @@
       "category": "ai"
     },
     {
-      "id": "1e9d0c3988dcb92a31de9a661ecf891968aa9c2f",
-      "title": "勇气的奥秘——从赢走向赢",
-      "created": "2025-06-11 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E5%8B%87%E6%B0%94%E7%9A%84%E5%A5%A5%E7%A7%98-%E4%BB%8E%E8%B5%A2%E8%B5%B0%E5%90%91%E8%B5%A2/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
       "id": "90c14f95511a221a65f2fea452321f4ffe5bcc62",
       "title": "图像消除论文-1：PixelHacker、PowerPanint、Attentive Eraser",
       "created": "2025-06-11 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/06/11/ImageEraser1.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "1e9d0c3988dcb92a31de9a661ecf891968aa9c2f",
+      "title": "勇气的奥秘——从赢走向赢",
+      "created": "2025-06-11 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E5%8B%87%E6%B0%94%E7%9A%84%E5%A5%A5%E7%A7%98-%E4%BB%8E%E8%B5%A2%E8%B5%B0%E5%90%91%E8%B5%A2/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
@@ -453,33 +480,6 @@
       "title": "The Transformers Library: standardizing model definitions",
       "created": "2025-05-15 08:00",
       "link": "https://huggingface.co/blog/transformers-model-definition",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "d37483b7664fe3eaf5f1e48f9b96fbddce717d9a",
-      "title": "Improving Hugging Face Model Access for Kaggle Users",
-      "created": "2025-05-14 08:00",
-      "link": "https://huggingface.co/blog/kaggle-integration",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "7778b7f35e6b484cf34b40e32b7bc8ba4cd101c1",
-      "title": "Blazingly fast whisper transcriptions with Inference Endpoints",
-      "created": "2025-05-13 08:00",
-      "link": "https://huggingface.co/blog/fast-whisper-endpoints",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "fbfcd4a5fc9c47682149d5bf4dd1e922a0e091ff",
-      "title": "Vision Language Models (Better, faster, stronger)",
-      "created": "2025-05-12 08:00",
-      "link": "https://huggingface.co/blog/vlms-2025",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
