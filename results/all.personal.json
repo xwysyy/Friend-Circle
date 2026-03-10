@@ -3,116 +3,26 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 211,
-    "last_updated_time": "2026-03-10 21:14:34"
+    "article_num": 206,
+    "last_updated_time": "2026-03-11 00:00:28"
   },
   "article_data": [
     {
-      "id": "89543ed3f983e07e51f2ce16c2ea1be57122eb6c",
-      "title": "经典动态规划问题 | 背包问题详解 - MoonOut",
-      "created": "2026-03-10 20:08",
-      "link": "https://www.cnblogs.com/moonout/p/19698889",
-      "author": "Moon out",
-      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "id": "4e5df3836badb7a892486d7bcd1ee539bc63527f",
+      "title": "How Airbnb Rolled Out 20+ Local Payment Methods in 360 Days",
+      "created": "2026-03-10 23:31",
+      "link": "https://blog.bytebytego.com/p/how-airbnb-rolled-out-20-local-payment",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
-      "id": "57742053016e09788bf5adf44e5cc4a3e2740ca3",
-      "title": "LeetCode 65 有效数字：python3 题解 - MoonOut",
-      "created": "2026-03-10 18:58",
-      "link": "https://www.cnblogs.com/moonout/p/19698734",
-      "author": "Moon out",
-      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
-      "id": "db2f783e455309b111e00b11c358544ab4384e06",
-      "title": "AI发布首个全球科学家社区爆火，硅谷投资圈：科技研究领域的「谷歌地图」来了！",
-      "created": "2026-03-10 16:11",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020878&idx=1&sn=7ca7601799d80bfa0f3cf6d9a2394c1c",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "9b3f89d914f2c393301dc0ae0bf18f4352678be4",
-      "title": "Karpathy Vibe Coding整新活：Agent版「GitHub」问世",
-      "created": "2026-03-10 16:11",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020878&idx=2&sn=74a0750d4696301e37324368dc422aa8",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "2bc6b699b5f739571c66949163d749c486baab8e",
-      "title": "首个千万美金ARR的AI4S公司，完成AI设计新分子商业应用",
-      "created": "2026-03-10 16:11",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020878&idx=3&sn=37313c55137e81a706c38e3c7b5f1dcc",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "a6d474f877eb8af6f65dc16f2eaf9ff7a88959c9",
-      "title": "不平衡数据下对比学习的理论分析：从训练动态到剪枝解决方案",
-      "created": "2026-03-10 16:11",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020878&idx=4&sn=492fb7b6dc2618d35d581acdef45ec38",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "cf14fb4125bab58cc0ab5af49fdd80deb929fb1b",
-      "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
-      "created": "2026-03-10 08:00",
-      "link": "https://huggingface.co/blog/async-rl-training-landscape",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "21d6d80bd7e913620ab07b9b7b14767bd4c80201",
-      "title": "AI Native 的来时路",
-      "created": "2026-03-10 08:00",
-      "link": "https://mathewshen.me/blog/2026/new-era/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
-      "id": "62f32a6c7f570b397da844e4ecd72610e1a71e01",
-      "title": "How Autoresearch will change Small Language Models adoption",
-      "created": "2026-03-10 08:00",
-      "link": "https://www.philschmid.de/autoresearch",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "70a6db5064b7a68de2b0801ae0872307c6040a65",
-      "title": "AI 下半场，LLM Benchmark 要补全什么？",
-      "created": "2026-03-09 11:56",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020452&idx=2&sn=47cb8488376aa2b82bbd2a5fac7c2b9a",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "59a06e2a252a6cf1f14f0de8427dfe5bcb7dbb35",
-      "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
-      "created": "2026-03-09 08:00",
-      "link": "https://huggingface.co/blog/ulysses-sp",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "d6db3c02dd0202d28ebf47fefe76006222b9c193",
-      "title": "开源模型技术总结-3————FireRed（小红书）开源模型",
-      "created": "2026-03-09 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/03/09/FireRedModel.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "id": "a77448a57735e8433a7314bdb1b187cafd9d4bd8",
+      "title": "Harness Engineering 实践指南：落地探索的三大原则",
+      "created": "2026-03-10 21:45",
+      "link": "http://www.phodal.com/blog/harness-engineering/",
+      "author": "Phodal Huang",
+      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
       "category": "ai"
     },
     {
@@ -188,19 +98,19 @@
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -494,6 +404,24 @@
       "category": "ai"
     },
     {
+      "id": "7778b7f35e6b484cf34b40e32b7bc8ba4cd101c1",
+      "title": "Blazingly fast whisper transcriptions with Inference Endpoints",
+      "created": "2025-05-13 08:00",
+      "link": "https://huggingface.co/blog/fast-whisper-endpoints",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "fbfcd4a5fc9c47682149d5bf4dd1e922a0e091ff",
+      "title": "Vision Language Models (Better, faster, stronger)",
+      "created": "2025-05-12 08:00",
+      "link": "https://huggingface.co/blog/vlms-2025",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "e051d2c6165ef1ee0c1b21810076d26db4e801da",
       "title": "深入浅出了解生成模型-2：VAE模型原理以及代码实战",
       "created": "2025-05-11 08:00",
@@ -761,6 +689,15 @@
       "link": "https://philliphaeusler.com/posts/orthogonal_linear_layers/",
       "author": "Phillip Haeusler",
       "avatar": "https://philliphaeusler.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "89043ec30ab1e3af84effc0e58bde0dcf4135d1f",
+      "title": "数据蒸馏（Data Distillation）操作原理",
+      "created": "2025-03-10 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/03/10/Data-Distillation.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -1139,6 +1076,15 @@
       "link": "https://magazine.sebastianraschka.com/p/building-a-gpt-style-llm-classifier",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "5fa8412644086866a6426de15aedba7f62e2a089",
+      "title": "Evaluate LLMs using Evaluation Harness and Hugging Face TGI/vLLM",
+      "created": "2024-09-19 08:00",
+      "link": "https://www.philschmid.de/evaluate-llms-with-lm-eval-and-tgi-vllm",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1902,6 +1848,15 @@
       "title": "2019",
       "created": "2019-12-30 08:00",
       "link": "https://mathewshen.me/blog/2019/2019/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "32ed357bbbc6a69a4de5c23a27cebec9eff08d3e",
+      "title": "寻找无双",
+      "created": "2019-06-19 08:00",
+      "link": "https://mathewshen.me/blog/2019/wushuang/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
