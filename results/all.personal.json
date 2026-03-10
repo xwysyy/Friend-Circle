@@ -3,26 +3,17 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 206,
-    "last_updated_time": "2026-03-11 00:00:28"
+    "article_num": 204,
+    "last_updated_time": "2026-03-11 02:59:07"
   },
   "article_data": [
     {
-      "id": "4e5df3836badb7a892486d7bcd1ee539bc63527f",
-      "title": "How Airbnb Rolled Out 20+ Local Payment Methods in 360 Days",
-      "created": "2026-03-10 23:31",
-      "link": "https://blog.bytebytego.com/p/how-airbnb-rolled-out-20-local-payment",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "a77448a57735e8433a7314bdb1b187cafd9d4bd8",
-      "title": "Harness Engineering 实践指南：落地探索的三大原则",
-      "created": "2026-03-10 21:45",
-      "link": "http://www.phodal.com/blog/harness-engineering/",
-      "author": "Phodal Huang",
-      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
+      "id": "2ae52e2df01b0a9d845a8014b93a3497c2ff6273",
+      "title": "Introducing Storage Buckets on the Hugging Face Hub",
+      "created": "2026-03-10 08:00",
+      "link": "https://huggingface.co/blog/storage-buckets",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -242,6 +233,15 @@
       "category": "ai"
     },
     {
+      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
+      "title": "LLM KV Cache: A Simple Implementation",
+      "created": "2025-06-03 08:00",
+      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
       "id": "fe02b0351660681e16448dee9332dc31d519087a",
       "title": "SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data",
       "created": "2025-06-03 08:00",
@@ -257,15 +257,6 @@
       "link": "https://huggingface.co/blog/vllm-colocate",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
-      "title": "LLM KV Cache: A Simple Implementation",
-      "created": "2025-06-03 08:00",
-      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -408,15 +399,6 @@
       "title": "Blazingly fast whisper transcriptions with Inference Endpoints",
       "created": "2025-05-13 08:00",
       "link": "https://huggingface.co/blog/fast-whisper-endpoints",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "fbfcd4a5fc9c47682149d5bf4dd1e922a0e091ff",
-      "title": "Vision Language Models (Better, faster, stronger)",
-      "created": "2025-05-12 08:00",
-      "link": "https://huggingface.co/blog/vlms-2025",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
