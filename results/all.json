@@ -4,7 +4,7 @@
     "active_num": 37,
     "error_num": 1,
     "article_num": 575,
-    "last_updated_time": "2026-03-10 16:53:11"
+    "last_updated_time": "2026-03-10 21:14:27"
   },
   "article_data": [
     {
@@ -35,12 +35,66 @@
       "category": "ai"
     },
     {
+      "id": "89543ed3f983e07e51f2ce16c2ea1be57122eb6c",
+      "title": "经典动态规划问题 | 背包问题详解 - MoonOut",
+      "created": "2026-03-10 20:08",
+      "link": "https://www.cnblogs.com/moonout/p/19698889",
+      "author": "Moon out",
+      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "57742053016e09788bf5adf44e5cc4a3e2740ca3",
+      "title": "LeetCode 65 有效数字：python3 题解 - MoonOut",
+      "created": "2026-03-10 18:58",
+      "link": "https://www.cnblogs.com/moonout/p/19698734",
+      "author": "Moon out",
+      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
       "id": "a90172e2145a73f6a6745a6f926c6c7fb4c0ea0b",
       "title": "LeetCode 451 根据字符出现频率排序：python3 题解 - MoonOut",
       "created": "2026-03-10 16:29",
       "link": "https://www.cnblogs.com/moonout/p/19697712",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "db2f783e455309b111e00b11c358544ab4384e06",
+      "title": "AI发布首个全球科学家社区爆火，硅谷投资圈：科技研究领域的「谷歌地图」来了！",
+      "created": "2026-03-10 16:11",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020878&idx=1&sn=7ca7601799d80bfa0f3cf6d9a2394c1c",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "9b3f89d914f2c393301dc0ae0bf18f4352678be4",
+      "title": "Karpathy Vibe Coding整新活：Agent版「GitHub」问世",
+      "created": "2026-03-10 16:11",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020878&idx=2&sn=74a0750d4696301e37324368dc422aa8",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2bc6b699b5f739571c66949163d749c486baab8e",
+      "title": "首个千万美金ARR的AI4S公司，完成AI设计新分子商业应用",
+      "created": "2026-03-10 16:11",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020878&idx=3&sn=37313c55137e81a706c38e3c7b5f1dcc",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "a6d474f877eb8af6f65dc16f2eaf9ff7a88959c9",
+      "title": "不平衡数据下对比学习的理论分析：从训练动态到剪枝解决方案",
+      "created": "2026-03-10 16:11",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020878&idx=4&sn=492fb7b6dc2618d35d581acdef45ec38",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -87,6 +141,15 @@
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
       "category": "friend"
+    },
+    {
+      "id": "cf14fb4125bab58cc0ab5af49fdd80deb929fb1b",
+      "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+      "created": "2026-03-10 08:00",
+      "link": "https://huggingface.co/blog/async-rl-training-landscape",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
     },
     {
       "id": "21d6d80bd7e913620ab07b9b7b14767bd4c80201",
@@ -269,42 +332,6 @@
       "category": "ai"
     },
     {
-      "id": "1533037c77c2806b6187d56b6dd9c036388f1acb",
-      "title": "14B规模竟也能单卡实时生成视频？多亏这个强大的开源底座",
-      "created": "2026-03-07 12:18",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020334&idx=1&sn=5545a4b599966d797919aac970ce92ef",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "d897edde93212b0e92c0a3d23a2559108d6b1c39",
-      "title": "Claude两周挖出火狐浏览器22个漏洞、14个高危！安全研究的游戏规则该变了？",
-      "created": "2026-03-07 12:18",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020334&idx=2&sn=dc9d13d6deb2c3ee31e3d57deebed308",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "2e4f8e0fc13d88e416c256edb9145fe201a5e95a",
-      "title": "谢赛宁也玩MC？开源全新世界模型生成多人一致的游戏视角",
-      "created": "2026-03-07 12:18",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020334&idx=3&sn=3d54da751c965ca30c6373d76b53f75a",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "eb9aa6a55fd32616264e37abd1b8c66670b56ef3",
-      "title": "破解大模型「无效并行推理」：Parallel-Probe问世，并行推理效率提升35.8%",
-      "created": "2026-03-07 12:18",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020334&idx=4&sn=57c302ec4b9d4508864e8d799bf1038c",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "9edff1232626ef0458ec7612a6ac1a55db1ddf13",
       "title": "RL 算法详解：从 Q-learning 到 GRPO 系列",
       "created": "2026-03-07 08:00",
@@ -431,24 +458,6 @@
       "category": "ai"
     },
     {
-      "id": "ef975331dc01ae88ed35086e7c13e7ccd125d8a7",
-      "title": "我用 AI 翻译的三个阶段：提示词时代 → 推理模型时代 → Agent 时代",
-      "created": "2026-03-05 08:00",
-      "link": "https://baoyu.io/blog/2026-03-05/i-built-a-translator-skill",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "cc41b8869d0ccc8346aaf553b4e4d3c8de407f42",
-      "title": "多稿合并：从手动比稿到一键 Skill",
-      "created": "2026-03-05 08:00",
-      "link": "https://baoyu.io/blog/2026-03-04/ai-merge-drafts-into-skills",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b87b07820b66b900f80465b494966d434bd05f8e",
       "title": "SFT 监督微调",
       "created": "2026-03-05 08:00",
@@ -464,6 +473,24 @@
       "link": "https://huggingface.co/blog/modular-diffusers",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "ef975331dc01ae88ed35086e7c13e7ccd125d8a7",
+      "title": "我用 AI 翻译的三个阶段：提示词时代 → 推理模型时代 → Agent 时代",
+      "created": "2026-03-05 08:00",
+      "link": "https://baoyu.io/blog/2026-03-05/i-built-a-translator-skill",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "cc41b8869d0ccc8346aaf553b4e4d3c8de407f42",
+      "title": "多稿合并：从手动比稿到一键 Skill",
+      "created": "2026-03-05 08:00",
+      "link": "https://baoyu.io/blog/2026-03-04/ai-merge-drafts-into-skills",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -576,7 +603,7 @@
     },
     {
       "id": "798afff8b3f3e5ab39df3e762279f2c5d022755c",
-      "title": "LeetCode 23 合并 K 个升序链表：python3 题解 - MoonOut",
+      "title": "LeetCode 21 合并 K 个升序链表：python3 题解 - MoonOut",
       "created": "2026-03-03 23:21",
       "link": "https://www.cnblogs.com/moonout/p/19665450",
       "author": "Moon out",
@@ -701,15 +728,6 @@
       "category": "ai"
     },
     {
-      "id": "dbbf92ee0f52191fea94fa7d35d41a97b16cf4dd",
-      "title": "LeetCode 42 接雨水：python3 题解 - MoonOut",
-      "created": "2026-03-03 10:28",
-      "link": "https://www.cnblogs.com/moonout/p/19661867",
-      "author": "Moon out",
-      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
       "id": "a43e438ec32d53cf26382dd46784e38b3c27e6c8",
       "title": "如何创作AI歌曲？从生成歌词、歌曲创作、专辑封面到音乐发行",
       "created": "2026-03-03 10:22",
@@ -761,15 +779,6 @@
       "link": "https://simonwillison.net/2026/Mar/2/february-newsletter/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "32a3eab6301a23cc9493b9680337edd3588fc562",
-      "title": "LLM 算法岗 | 字节面试常问的 leetcode 算法题汇总，附 leetcode 链接 - MoonOut",
-      "created": "2026-03-02 21:47",
-      "link": "https://www.cnblogs.com/moonout/p/19660803",
-      "author": "Moon out",
-      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
       "category": "ai"
     },
     {
@@ -1079,21 +1088,21 @@
       "category": "ai"
     },
     {
-      "id": "4d50c95f79c3a1c476da99fae6b4af3f25b655e7",
-      "title": "驾驭工程：在「智能体优先」的世界里借力 Codex",
-      "created": "2026-02-26 08:00",
-      "link": "https://baoyu.io/translations/2026-02-12/harness-engineering",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "e44d72287f6142b276a728b74bbd126033c8e2e2",
       "title": "Mixture of Experts (MoEs) in Transformers",
       "created": "2026-02-26 08:00",
       "link": "https://huggingface.co/blog/moe-transformers",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "4d50c95f79c3a1c476da99fae6b4af3f25b655e7",
+      "title": "驾驭工程：在「智能体优先」的世界里借力 Codex",
+      "created": "2026-02-26 08:00",
+      "link": "https://baoyu.io/translations/2026-02-12/harness-engineering",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -1178,24 +1187,6 @@
       "category": "ai"
     },
     {
-      "id": "58a4d769b0c764b09b87bae1fa427855801ceae1",
-      "title": "92.6% 开发者每月使用 AI 编码助手，但每周节省时间只有 4 小时",
-      "created": "2026-02-25 08:00",
-      "link": "https://baoyu.io/blog/2026-02-25/laura-tacho-ai-pragmatic-summit",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "c4b3c0086fd6f86235b7306d5a7181a406419c2b",
-      "title": "Coding Agent 有个甜蜜点，多数人直接跳过了",
-      "created": "2026-02-25 08:00",
-      "link": "https://baoyu.io/blog/2026-02-25/coding-agent-sweet-spot",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "0d1f952508a843b79497fe44051db680f4b69bd6",
       "title": "KV Cache",
       "created": "2026-02-25 08:00",
@@ -1211,6 +1202,24 @@
       "link": "https://yukinoshitasherry.github.io/github%E6%8B%89%E5%8F%96%E6%96%87%E4%BB%B6%E5%90%8D%E7%A7%B0%E5%A4%AA%E9%95%BF/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "58a4d769b0c764b09b87bae1fa427855801ceae1",
+      "title": "92.6% 开发者每月使用 AI 编码助手，但每周节省时间只有 4 小时",
+      "created": "2026-02-25 08:00",
+      "link": "https://baoyu.io/blog/2026-02-25/laura-tacho-ai-pragmatic-summit",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "c4b3c0086fd6f86235b7306d5a7181a406419c2b",
+      "title": "Coding Agent 有个甜蜜点，多数人直接跳过了",
+      "created": "2026-02-25 08:00",
+      "link": "https://baoyu.io/blog/2026-02-25/coding-agent-sweet-spot",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -1484,21 +1493,21 @@
       "category": "ai"
     },
     {
-      "id": "428d6b0dd5e9ac6d605286cbef711aa49e7986ff",
-      "title": "用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更",
-      "created": "2026-02-18 08:00",
-      "link": "https://baoyu.io/blog/2026-02-13/claude-code-auto-commit",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "a10c31319962675c5df2dd490085067aa96a5b61",
       "title": "One-Shot Any Web App with Gradio's gr.HTML",
       "created": "2026-02-18 08:00",
       "link": "https://huggingface.co/blog/gradio-html-one-shot-apps",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "428d6b0dd5e9ac6d605286cbef711aa49e7986ff",
+      "title": "用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更",
+      "created": "2026-02-18 08:00",
+      "link": "https://baoyu.io/blog/2026-02-13/claude-code-auto-commit",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -1952,15 +1961,6 @@
       "category": "ai"
     },
     {
-      "id": "ee90ea4906457c0895e85333dbe070ef07a680d5",
-      "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
-      "created": "2026-01-29 08:00",
-      "link": "https://huggingface.co/blog/daggr",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "d08bca586a1a5d8e71838335eadc3d0acbb47ebe",
       "title": "高峰不常有",
       "created": "2026-01-29 08:00",
@@ -2366,6 +2366,15 @@
       "category": "ai"
     },
     {
+      "id": "804fa59122219d2d96cf56ce39edeb9cad3bf507",
+      "title": "矩阵微分乘法法则速记",
+      "created": "2026-01-05 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
       "id": "64a885263404a75b6fda56d21ec2d331d683cc60",
       "title": "梯度速降",
       "created": "2026-01-05 08:00",
@@ -2379,15 +2388,6 @@
       "title": "矩阵微分热身",
       "created": "2026-01-05 08:00",
       "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E7%83%AD%E8%BA%AB/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "804fa59122219d2d96cf56ce39edeb9cad3bf507",
-      "title": "矩阵微分乘法法则速记",
-      "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
