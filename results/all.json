@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 38,
-    "active_num": 37,
-    "error_num": 1,
-    "article_num": 580,
-    "last_updated_time": "2026-03-12 04:40:18"
+    "active_num": 36,
+    "error_num": 2,
+    "article_num": 560,
+    "last_updated_time": "2026-03-12 06:33:43"
   },
   "article_data": [
     {
@@ -96,6 +96,15 @@
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
       "category": "friend"
+    },
+    {
+      "id": "bb9110192ed9ab0a1daece49113dda2de0f1ca71",
+      "title": "编程 Agent 如何重塑工程、产品和设计",
+      "created": "2026-03-11 08:00",
+      "link": "https://baoyu.io/translations/2026-03-11/coding-agents-reshaping-epd",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
     },
     {
       "id": "891f2b01bc7b7c87e9ced517074bee32715a3ba3",
@@ -251,6 +260,24 @@
       "category": "friend"
     },
     {
+      "id": "21d6d80bd7e913620ab07b9b7b14767bd4c80201",
+      "title": "AI Native 的来时路",
+      "created": "2026-03-10 08:00",
+      "link": "https://mathewshen.me/blog/2026/new-era/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "62f32a6c7f570b397da844e4ecd72610e1a71e01",
+      "title": "How Autoresearch will change Small Language Models adoption",
+      "created": "2026-03-10 08:00",
+      "link": "https://www.philschmid.de/autoresearch",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "2ae52e2df01b0a9d845a8014b93a3497c2ff6273",
       "title": "Introducing Storage Buckets on the Hugging Face Hub",
       "created": "2026-03-10 08:00",
@@ -266,24 +293,6 @@
       "link": "https://huggingface.co/blog/async-rl-training-landscape",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "62f32a6c7f570b397da844e4ecd72610e1a71e01",
-      "title": "How Autoresearch will change Small Language Models adoption",
-      "created": "2026-03-10 08:00",
-      "link": "https://www.philschmid.de/autoresearch",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "21d6d80bd7e913620ab07b9b7b14767bd4c80201",
-      "title": "AI Native 的来时路",
-      "created": "2026-03-10 08:00",
-      "link": "https://mathewshen.me/blog/2026/new-era/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -449,21 +458,21 @@
       "category": "ai"
     },
     {
-      "id": "9edff1232626ef0458ec7612a6ac1a55db1ddf13",
-      "title": "RL 算法详解：从 Q-learning 到 GRPO 系列",
-      "created": "2026-03-07 08:00",
-      "link": "https://yukinoshitasherry.github.io/RL%E7%AE%97%E6%B3%95/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
-      "category": "ai"
-    },
-    {
       "id": "5d9d9f42fbfcedd6b9ddcd1027ce16862a221538",
       "title": "Confessions vs. CoT Monitoring vs. Probes: Three Bets on Model Honesty",
       "created": "2026-03-07 08:00",
       "link": "https://subhadipmitra.com/blog/2026/three-bets-model-honesty/",
       "author": "Subhadip Mitra",
       "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "category": "ai"
+    },
+    {
+      "id": "9edff1232626ef0458ec7612a6ac1a55db1ddf13",
+      "title": "RL 算法详解：从 Q-learning 到 GRPO 系列",
+      "created": "2026-03-07 08:00",
+      "link": "https://yukinoshitasherry.github.io/RL%E7%AE%97%E6%B3%95/",
+      "author": "秋月春风的书房",
+      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
       "category": "ai"
     },
     {
@@ -827,21 +836,21 @@
       "category": "friend"
     },
     {
-      "id": "d188915510d883467fce7724aa77f7eea653247d",
-      "title": "Pre-Training、SFT 与 RLHF",
-      "created": "2026-03-03 08:00",
-      "link": "https://yukinoshitasherry.github.io/Pretrain-SFT-RLHF/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
-      "category": "ai"
-    },
-    {
       "id": "0e82a7aff65d1fbc7c99dab8f3336074aae9a0c0",
       "title": "Giving LLMs a personality is just good engineering",
       "created": "2026-03-03 08:00",
       "link": "https://seangoedecke.com/giving-llms-a-personality/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "d188915510d883467fce7724aa77f7eea653247d",
+      "title": "Pre-Training、SFT 与 RLHF",
+      "created": "2026-03-03 08:00",
+      "link": "https://yukinoshitasherry.github.io/Pretrain-SFT-RLHF/",
+      "author": "秋月春风的书房",
+      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
       "category": "ai"
     },
     {
@@ -980,15 +989,6 @@
       "category": "ai"
     },
     {
-      "id": "57cad5cd5f3218ef5a5a5f5bb2efe96eb1904323",
-      "title": "强化学习算法-2：熵坍缩以及奖励坍缩问题机制分析及解决措施",
-      "created": "2026-03-01 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/03/01/RLHF-2.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "bcdf4835aa7a0a3b9394f6729429031331584747",
       "title": "awesome-openclaw-usecases：OpenClaw真实使用案例",
       "created": "2026-03-01 08:00",
@@ -1067,6 +1067,15 @@
       "link": "https://lumina.shawnxie.top/article/mobile-agent-duo-mo-tai-gui-zi-dong-hua-zhi-neng-49686a53",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "57cad5cd5f3218ef5a5a5f5bb2efe96eb1904323",
+      "title": "强化学习算法-2：熵坍缩以及奖励坍缩问题机制分析及解决措施",
+      "created": "2026-03-01 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/03/01/RLHF-2.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -1169,24 +1178,6 @@
       "category": "ai"
     },
     {
-      "id": "1dba16c3dcb291dce0506d138a0580a131d7d597",
-      "title": "强化学习算法-1：GRPO、DPO与PPO解析",
-      "created": "2026-02-26 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/02/26/RLHF-1.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e44d72287f6142b276a728b74bbd126033c8e2e2",
-      "title": "Mixture of Experts (MoEs) in Transformers",
-      "created": "2026-02-26 08:00",
-      "link": "https://huggingface.co/blog/moe-transformers",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "54fbc3889ff60a3eab0c5ceed2fe867c165b461a",
       "title": "人工智能改变了编程的面貌",
       "created": "2026-02-26 08:00",
@@ -1220,6 +1211,24 @@
       "link": "https://lumina.shawnxie.top/article/gu-ge-zhong-bang-sheng-ji-ai-chuang-yi-gong-zuo-6dfdf445",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "1dba16c3dcb291dce0506d138a0580a131d7d597",
+      "title": "强化学习算法-1：GRPO、DPO与PPO解析",
+      "created": "2026-02-26 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/02/26/RLHF-1.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e44d72287f6142b276a728b74bbd126033c8e2e2",
+      "title": "Mixture of Experts (MoEs) in Transformers",
+      "created": "2026-02-26 08:00",
+      "link": "https://huggingface.co/blog/moe-transformers",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1358,15 +1367,6 @@
       "category": "ai"
     },
     {
-      "id": "385625ec7d882f02a7b74bdb3c8ac1a192506645",
-      "title": "深入浅出了解生成模型-10：Flow Matching基本原理",
-      "created": "2026-02-23 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/02/23/FlowMatching.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "cad37d404e8c15e14af6deb4214fb3b6476aa9cc",
       "title": "Insider amnesia",
       "created": "2026-02-23 08:00",
@@ -1382,6 +1382,15 @@
       "link": "https://seangoedecke.com/continuous-learning/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "385625ec7d882f02a7b74bdb3c8ac1a192506645",
+      "title": "深入浅出了解生成模型-10：Flow Matching基本原理",
+      "created": "2026-02-23 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/02/23/FlowMatching.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -1484,6 +1493,15 @@
       "category": "ai"
     },
     {
+      "id": "b8cca878bea9f51a281f84db40da371dd7d859cf",
+      "title": "Agents: Inner Loop vs Outer Loop",
+      "created": "2026-02-20 08:00",
+      "link": "https://www.philschmid.de/inner-loop-vs-outer-loop",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "ca4b92433d4bdcc0f15f8d6c296302de3806fb42",
       "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
       "created": "2026-02-20 08:00",
@@ -1499,15 +1517,6 @@
       "link": "https://huggingface.co/blog/unsloth-jobs",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b8cca878bea9f51a281f84db40da371dd7d859cf",
-      "title": "Agents: Inner Loop vs Outer Loop",
-      "created": "2026-02-20 08:00",
-      "link": "https://www.philschmid.de/inner-loop-vs-outer-loop",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1565,15 +1574,6 @@
       "category": "ai"
     },
     {
-      "id": "428d6b0dd5e9ac6d605286cbef711aa49e7986ff",
-      "title": "用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更",
-      "created": "2026-02-18 08:00",
-      "link": "https://baoyu.io/blog/2026-02-13/claude-code-auto-commit",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "a10c31319962675c5df2dd490085067aa96a5b61",
       "title": "One-Shot Any Web App with Gradio's gr.HTML",
       "created": "2026-02-18 08:00",
@@ -1592,21 +1592,21 @@
       "category": "ai"
     },
     {
-      "id": "384030fdf4578c8e1c083c1ca8c8bd14a3e66530",
-      "title": "Can We Close the Loop in 2026?",
-      "created": "2026-02-17 08:00",
-      "link": "https://www.philschmid.de/closing-the-loop",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "283f8f35757dad82c325c0208a27e7d91aae6242",
       "title": "LLM-generated skills work, if you generate them afterwards",
       "created": "2026-02-17 08:00",
       "link": "https://seangoedecke.com/generate-skills-afterwards/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "384030fdf4578c8e1c083c1ca8c8bd14a3e66530",
+      "title": "Can We Close the Loop in 2026?",
+      "created": "2026-02-17 08:00",
+      "link": "https://www.philschmid.de/closing-the-loop",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1664,12 +1664,12 @@
       "category": "friend"
     },
     {
-      "id": "05401bde8c814e67e16602580d505f3be5b94df2",
-      "title": "Qwen3.5：迈向原生多模态智能体",
-      "created": "2026-02-14 04:00",
-      "link": "https://qwen.ai/blog?id=qwen3.5",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
+      "id": "748820cd95f0b5ec380802a0797f0c29fed8d917",
+      "title": "Multimodal Function Calling with Gemini 3 and Interactions API",
+      "created": "2026-02-13 08:00",
+      "link": "https://www.philschmid.de/interactions-multimodal-fc",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1688,15 +1688,6 @@
       "link": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "748820cd95f0b5ec380802a0797f0c29fed8d917",
-      "title": "Multimodal Function Calling with Gemini 3 and Interactions API",
-      "created": "2026-02-13 08:00",
-      "link": "https://www.philschmid.de/interactions-multimodal-fc",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1751,15 +1742,6 @@
       "link": "https://seangoedecke.com/screwing-up/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "2f98e85d6d28a780f880e78a454e3972d6e5a2a8",
-      "title": "Qwen-Image-2.0: 专业信息图，细腻真实感",
-      "created": "2026-02-10 13:08",
-      "link": "https://qwen.ai/blog?id=qwen-image-2.0",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
       "category": "ai"
     },
     {
@@ -1907,15 +1889,6 @@
       "category": "ai"
     },
     {
-      "id": "5059de01d1045e5cbe633e12d7d62c01d40191aa",
-      "title": "Qwen3-Coder-Next：推动小型混合模型在智能体编程上的边界",
-      "created": "2026-02-03 04:00",
-      "link": "https://qwen.ai/blog?id=qwen3-coder-next",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
-      "category": "ai"
-    },
-    {
       "id": "167e2b02eb6f9d9dcab67481ce06d8f58cfe99ae",
       "title": "Moltbook as MCP Stress Test: What 770K Agents Reveal About Protocol Design",
       "created": "2026-02-02 18:00",
@@ -1997,15 +1970,6 @@
       "category": "ai"
     },
     {
-      "id": "136975081a0d8234e8c237c6d3325609ddcfad6c",
-      "title": "Qwen3-ASR & Qwen3-ForcedAligner现已开源：够稳定，能流式，多语言！",
-      "created": "2026-01-29 00:00",
-      "link": "https://qwen.ai/blog?id=qwen3asr",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
-      "category": "ai"
-    },
-    {
       "id": "0df318dc0abc4cfff3ebe69b8388e10275364db3",
       "title": "一行代码将arXiv论文翻译成中文版",
       "created": "2026-01-28 12:01",
@@ -2051,15 +2015,6 @@
       "category": "ai"
     },
     {
-      "id": "abf909c856ce0885020dc45b4a60f19c36472d5f",
-      "title": "肖恩技术周刊（第 80 期）：AI编程的9条心得",
-      "created": "2026-01-26 08:00",
-      "link": "https://weekly.shawnxie.top/content/2026/80.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "9ca2fa0270f940ec652b1d8bb7d440d6c8cb2fd2",
       "title": "You have to know how to drive the car",
       "created": "2026-01-26 08:00",
@@ -2069,12 +2024,12 @@
       "category": "ai"
     },
     {
-      "id": "2ae63d7cabe0efc4270ca7cab1a4220ebe40cdb5",
-      "title": "突破极限：Qwen3-Max-Thinking 的能力跃迁",
-      "created": "2026-01-26 04:00",
-      "link": "https://qwen.ai/blog?id=qwen3-max-thinking",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
+      "id": "abf909c856ce0885020dc45b4a60f19c36472d5f",
+      "title": "肖恩技术周刊（第 80 期）：AI编程的9条心得",
+      "created": "2026-01-26 08:00",
+      "link": "https://weekly.shawnxie.top/content/2026/80.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -2120,15 +2075,6 @@
       "link": "https://www.philschmid.de/interactions-api-quickstart",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "150d26c6976c103155b655ddcf2e542d702ddf3c",
-      "title": "Qwen3-TTS全家桶开源: 语音设计，克隆与生成！",
-      "created": "2026-01-22 00:00",
-      "link": "https://qwen.ai/blog?id=qwen3tts-0115",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
       "category": "ai"
     },
     {
@@ -2339,15 +2285,6 @@
       "category": "friend"
     },
     {
-      "id": "cac26578916c72faff0cd66ceb56953454ae6c18",
-      "title": "Qwen3-VL-Embedding & Qwen3-VL-Reranker：统一多模态表征与排序",
-      "created": "2026-01-08 04:00",
-      "link": "https://qwen.ai/blog?id=qwen3-vl-embedding",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
-      "category": "ai"
-    },
-    {
       "id": "746171bade2707ea1a7aa7b61feb88f5dcfe1861",
       "title": "2025，清风已至，正帆向星海",
       "created": "2026-01-08 00:06",
@@ -2384,28 +2321,28 @@
       "category": "ai"
     },
     {
+      "id": "62c7a6997464ba9ec3203e59b814c0efd2bef855",
+      "title": "The Dictator's Handbook and the politics of technical competence",
+      "created": "2026-01-05 08:00",
+      "link": "https://seangoedecke.com/the-dictators-handbook/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8d90519fb1690502dd7c59a88435336cab69145e",
+      "title": "The importance of Agent Harness in 2026",
+      "created": "2026-01-05 08:00",
+      "link": "https://www.philschmid.de/agent-harness-2026",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "8a239488dce84fdcea1c82b4038f4627d68337e2",
       "title": "分母布局下的矩阵微分速通",
       "created": "2026-01-05 08:00",
       "link": "https://blog.tomorrowdawn.cc/posts/%E5%88%86%E6%AF%8D%E5%B8%83%E5%B1%80%E4%B8%8B%E7%9A%84%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E9%80%9F%E9%80%9A/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "64a885263404a75b6fda56d21ec2d331d683cc60",
-      "title": "梯度速降",
-      "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E6%A2%AF%E5%BA%A6%E9%80%9F%E9%99%8D/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "3b471576c20b1223ee665aedd34483dfa922ca58",
-      "title": "矩阵微分热身",
-      "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E7%83%AD%E8%BA%AB/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -2420,6 +2357,24 @@
       "category": "ai"
     },
     {
+      "id": "3b471576c20b1223ee665aedd34483dfa922ca58",
+      "title": "矩阵微分热身",
+      "created": "2026-01-05 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E7%83%AD%E8%BA%AB/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "64a885263404a75b6fda56d21ec2d331d683cc60",
+      "title": "梯度速降",
+      "created": "2026-01-05 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E6%A2%AF%E5%BA%A6%E9%80%9F%E9%99%8D/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
       "id": "15f4a5452b3bd90d618626d5de84e7ff3d1103a7",
       "title": "Adam中的偏差修正起到了什么作用？",
       "created": "2026-01-05 08:00",
@@ -2429,30 +2384,12 @@
       "category": "ai"
     },
     {
-      "id": "8d90519fb1690502dd7c59a88435336cab69145e",
-      "title": "The importance of Agent Harness in 2026",
-      "created": "2026-01-05 08:00",
-      "link": "https://www.philschmid.de/agent-harness-2026",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "ddecdacb24bd0f7eeb6152205e2cf9f5e1c9e6bd",
       "title": "肖恩技术周刊（第 77 期）：稀缺特质",
       "created": "2026-01-05 08:00",
       "link": "https://weekly.shawnxie.top/content/2026/77.html",
       "author": "肖恩技术周刊",
       "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
-      "id": "62c7a6997464ba9ec3203e59b814c0efd2bef855",
-      "title": "The Dictator's Handbook and the politics of technical competence",
-      "created": "2026-01-05 08:00",
-      "link": "https://seangoedecke.com/the-dictators-handbook/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -2492,15 +2429,6 @@
       "category": "ai"
     },
     {
-      "id": "c73df1e12c8aff68db77bf38a4f9d191e687c589",
-      "title": "常见指标之pass@k, avg@k, const@k, best@k",
-      "created": "2026-01-03 08:00",
-      "link": "https://yukinoshitasherry.github.io/2512passkavgkbestk/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
-      "category": "ai"
-    },
-    {
       "id": "67e902415b23970487e468e4635beb4cdc9aba26",
       "title": "2025 was an excellent year for this blog",
       "created": "2026-01-03 08:00",
@@ -2510,10 +2438,10 @@
       "category": "ai"
     },
     {
-      "id": "bfadca025f1dcf905fe3aa1fd49d801f96bc119e",
-      "title": "RL中的 Rollout 与 Training",
-      "created": "2026-01-02 08:00",
-      "link": "https://yukinoshitasherry.github.io/2512rollout/",
+      "id": "c73df1e12c8aff68db77bf38a4f9d191e687c589",
+      "title": "常见指标之pass@k, avg@k, const@k, best@k",
+      "created": "2026-01-03 08:00",
+      "link": "https://yukinoshitasherry.github.io/2512passkavgkbestk/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
       "category": "ai"
@@ -2525,6 +2453,15 @@
       "link": "https://seangoedecke.com/grok-deepfakes/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "bfadca025f1dcf905fe3aa1fd49d801f96bc119e",
+      "title": "RL中的 Rollout 与 Training",
+      "created": "2026-01-02 08:00",
+      "link": "https://yukinoshitasherry.github.io/2512rollout/",
+      "author": "秋月春风的书房",
+      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
       "category": "ai"
     },
     {
@@ -2546,12 +2483,12 @@
       "category": "friend"
     },
     {
-      "id": "928b7829cd250008c9e13b0edbecb9a6ac433721",
-      "title": "Qwen-Image-2512: 更细腻，更真实",
-      "created": "2025-12-31 13:08",
-      "link": "https://qwen.ai/blog?id=qwen-image-2512",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
+      "id": "056e0d800d4694be8574dc5193b0bc1db7bd7043",
+      "title": "8 Predictions for 2026. What comes next in AI?",
+      "created": "2025-12-31 08:00",
+      "link": "https://www.philschmid.de/2026-predictions",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -2606,15 +2543,6 @@
       "link": "https://yukinoshitasherry.github.io/25%E6%9D%AD%E5%B7%9E%E4%B8%8A%E6%B5%B7%E8%A5%BF%E9%A4%90/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "056e0d800d4694be8574dc5193b0bc1db7bd7043",
-      "title": "8 Predictions for 2026. What comes next in AI?",
-      "created": "2025-12-31 08:00",
-      "link": "https://www.philschmid.de/2026-predictions",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -2708,21 +2636,12 @@
       "category": "ai"
     },
     {
-      "id": "b862cd6209e171582dfddff2fa7c56ba247f57a4",
-      "title": "模型推理框架——vllm原理及整体框架",
+      "id": "27bb33e4926cc0d7552cb49e91aa04be22d38095",
+      "title": "You can't design software you don't work on",
       "created": "2025-12-27 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/12/27/vllm-1.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "a6ad5b0a8920fa4399bb7d0de3ac2f5055ee26ca",
-      "title": "具体一点，再具体一点",
-      "created": "2025-12-27 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E5%85%B7%E4%BD%93%E4%B8%80%E7%82%B9-%E5%86%8D%E5%85%B7%E4%BD%93%E4%B8%80%E7%82%B9/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "link": "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -2735,12 +2654,12 @@
       "category": "ai"
     },
     {
-      "id": "27bb33e4926cc0d7552cb49e91aa04be22d38095",
-      "title": "You can't design software you don't work on",
+      "id": "b862cd6209e171582dfddff2fa7c56ba247f57a4",
+      "title": "模型推理框架——vllm原理及整体框架",
       "created": "2025-12-27 08:00",
-      "link": "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "link": "https://www.big-yellow-j.top/posts/2025/12/27/vllm-1.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -2750,6 +2669,15 @@
       "link": "https://ifuryst.github.io/blog/2025/untitled/",
       "author": "ifuryst",
       "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a6ad5b0a8920fa4399bb7d0de3ac2f5055ee26ca",
+      "title": "具体一点，再具体一点",
+      "created": "2025-12-27 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E5%85%B7%E4%BD%93%E4%B8%80%E7%82%B9-%E5%86%8D%E5%85%B7%E4%BD%93%E4%B8%80%E7%82%B9/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
@@ -2843,15 +2771,6 @@
       "category": "friend"
     },
     {
-      "id": "3b16c32f264810a24271409ad06ab839fd50d66c",
-      "title": "Qwen-Image-Edit-2511: 一致性再提升",
-      "created": "2025-12-23 13:08",
-      "link": "https://qwen.ai/blog?id=qwen-image-edit-2511",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
-      "category": "ai"
-    },
-    {
       "id": "cffbb0bbcd3364c4670bb1f647438afd344b0244",
       "title": "Agentic 时代的前端革命：重塑 UI 为 AI 的执行界面",
       "created": "2025-12-23 12:26",
@@ -2876,15 +2795,6 @@
       "link": "https://yukinoshitasherry.github.io/temp0/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "891324a03b8f376b1f9fccff65d88d29b7125b56",
-      "title": "Qwen3-TTS 全面升级: 音色设计与音色克隆！",
-      "created": "2025-12-23 00:00",
-      "link": "https://qwen.ai/blog?id=qwen3-tts-vc-voicedesign",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
       "category": "ai"
     },
     {
@@ -2949,15 +2859,6 @@
       "author": "大橘和朋友们的周刊",
       "avatar": "https://rrorangeandfriends.de/favicon.png",
       "category": "friend"
-    },
-    {
-      "id": "6b172ec137ee5cd9b66ee1a26002a59eaefd9105",
-      "title": "Qwen-Image-Layered: 面向内在可编辑性的图层分解",
-      "created": "2025-12-19 13:08",
-      "link": "https://qwen.ai/blog?id=qwen-image-layered",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
-      "category": "ai"
     },
     {
       "id": "f9a21f49638eebf7860ab9b641c20f6ba5af12dc",
@@ -3032,21 +2933,21 @@
       "category": "friend"
     },
     {
-      "id": "0352f0915f344dff6e2e620796d826af95ab9746",
-      "title": "肖恩技术周刊（第 74 期）：AI重塑未来",
-      "created": "2025-12-15 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/74.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "eb4aa41e1644d516841f85fc82b9556741ade2f0",
       "title": "LeoTalk AI周知 13: AI这一年",
       "created": "2025-12-15 08:00",
       "link": "https://ifuryst.github.io/blog/2025/leotalk-ai-weekly-13-year-of-ai/",
       "author": "ifuryst",
       "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "0352f0915f344dff6e2e620796d826af95ab9746",
+      "title": "肖恩技术周刊（第 74 期）：AI重塑未来",
+      "created": "2025-12-15 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/74.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -3104,15 +3005,6 @@
       "category": "ai"
     },
     {
-      "id": "fa929d1e601b75e192e4e6a2dbf025f00f28f523",
-      "title": "Qwen3-Omni-Flash-2025-12-01：声形意合，令出智随！",
-      "created": "2025-12-09 05:00",
-      "link": "https://qwen.ai/blog?id=qwen3-omni-flash-20251201",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
-      "category": "ai"
-    },
-    {
       "id": "8e2eaedb69495564b96ddbbf6f98f4dee299b0aa",
       "title": "快速部署 Nexus Terminal 打造高颜值远程管理终端",
       "created": "2025-12-09 00:00",
@@ -3158,21 +3050,12 @@
       "category": "ai"
     },
     {
-      "id": "6d5fa28c2d5ba3c581dde503cc5ec85b33bfc87b",
-      "title": "SAPO：一种稳定且高性能的大语言模型强化学习方法",
-      "created": "2025-12-05 04:00",
-      "link": "https://qwen.ai/blog?id=sapo",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
-      "category": "ai"
-    },
-    {
-      "id": "deca1307f2b624d8dcd8498c786d6e9f5ea5754e",
-      "title": "Qwen3-TTS 全面升级！49种音色 + 10种语言 + 9种方言",
-      "created": "2025-12-05 00:00",
-      "link": "https://qwen.ai/blog?id=qwen3-tts-1128",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
+      "id": "76760614b97f499d20f031911876dbfc4d54827e",
+      "title": "Context Engineering for AI Agents: Part 2",
+      "created": "2025-12-04 08:00",
+      "link": "https://www.philschmid.de/context-engineering-part-2",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -3191,15 +3074,6 @@
       "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "76760614b97f499d20f031911876dbfc4d54827e",
-      "title": "Context Engineering for AI Agents: Part 2",
-      "created": "2025-12-04 08:00",
-      "link": "https://www.philschmid.de/context-engineering-part-2",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -3230,21 +3104,21 @@
       "category": "ai"
     },
     {
-      "id": "8067bdad1fa389ea816b053c2cc94eb8a2f14175",
-      "title": "肖恩技术周刊（第 72 期）：有趣的C语言谜题",
-      "created": "2025-12-01 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/72.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "dd39d51c442a270b26a07ae2e8444b8721369506",
       "title": "LeoTalk AI周知 11: VLA到世界模型",
       "created": "2025-12-01 08:00",
       "link": "https://ifuryst.github.io/blog/2025/leotalk-ai-weekly-11-vla-to-world-model/",
       "author": "ifuryst",
       "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "8067bdad1fa389ea816b053c2cc94eb8a2f14175",
+      "title": "肖恩技术周刊（第 72 期）：有趣的C语言谜题",
+      "created": "2025-12-01 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/72.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -3293,21 +3167,21 @@
       "category": "ai"
     },
     {
-      "id": "d90e85d7d88f26bbb0d49d0bc6f3890e1af8a8c9",
-      "title": "肖恩技术周刊（第 71 期）：何以成事",
-      "created": "2025-11-24 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/71.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "560dff5b744098ef4b5b67e04c8ef5d6c7b7113c",
       "title": "新时代的 Google Scholar",
       "created": "2025-11-24 08:00",
       "link": "https://mathewshen.me/blog/2025/google-scholar-new-features/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "d90e85d7d88f26bbb0d49d0bc6f3890e1af8a8c9",
+      "title": "肖恩技术周刊（第 71 期）：何以成事",
+      "created": "2025-11-24 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/71.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -3329,21 +3203,21 @@
       "category": "ai"
     },
     {
-      "id": "da3702e4c3c57694bfc2314acb2c05b39e793aa6",
-      "title": "我使用AI的个人心得",
-      "created": "2025-11-21 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E6%88%91%E4%BD%BF%E7%94%A8ai%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%BF%83%E5%BE%97/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
       "id": "63676835555028bafe612ad6e0fdcbe2b5340d79",
       "title": "Practical Guide on how to build an Agent from scratch with Gemini 3",
       "created": "2025-11-21 08:00",
       "link": "https://www.philschmid.de/building-agents",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "da3702e4c3c57694bfc2314acb2c05b39e793aa6",
+      "title": "我使用AI的个人心得",
+      "created": "2025-11-21 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E6%88%91%E4%BD%BF%E7%94%A8ai%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%BF%83%E5%BE%97/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
@@ -3455,15 +3329,6 @@
       "category": "ai"
     },
     {
-      "id": "617b82ea900cec7798ebe1b6d5f5448d13e54d20",
-      "title": "Qwen DeepResearch: 当灵感不再需要理由",
-      "created": "2025-11-13 04:59",
-      "link": "https://qwen.ai/blog?id=qwen-deepresearch",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
-      "category": "ai"
-    },
-    {
       "id": "83538855d2d8de2e48aa58192520d50661ab45b4",
       "title": "AutoDev CLI：构建 AI Agent 生成的 AI Agent 质量保障与验证架构",
       "created": "2025-11-12 16:35",
@@ -3518,19 +3383,19 @@
       "category": "ai"
     },
     {
-      "id": "c0cfd951583b0ddec4e6dbb8dbc9c95dcc6bd593",
-      "title": "ELBO与VAE与EM",
+      "id": "c389a4203305e254a63dafd528b811fd77a74499",
+      "title": "SpecForge Marks",
       "created": "2025-11-06 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/elbo%E4%B8%8Evae%E4%B8%8Eem/",
+      "link": "https://blog.tomorrowdawn.cc/posts/specforge-marks/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "c389a4203305e254a63dafd528b811fd77a74499",
-      "title": "SpecForge Marks",
+      "id": "c0cfd951583b0ddec4e6dbb8dbc9c95dcc6bd593",
+      "title": "ELBO与VAE与EM",
       "created": "2025-11-06 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/specforge-marks/",
+      "link": "https://blog.tomorrowdawn.cc/posts/elbo%E4%B8%8Evae%E4%B8%8Eem/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -3786,51 +3651,6 @@
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
-    },
-    {
-      "id": "8d4c61cb73d8fedb23c2005cbc4960faf51bb2ee",
-      "title": "Qwen3-Max：大就是好",
-      "created": "2025-09-24 12:00",
-      "link": "https://qwen.ai/blog?id=qwen3-max",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
-      "category": "ai"
-    },
-    {
-      "id": "31ce49cac0d8d0fe95d674961d6d5b879aba197f",
-      "title": "Qwen3-LiveTranslate：视、听、说全模态同传大模型！",
-      "created": "2025-09-23 07:00",
-      "link": "https://qwen.ai/blog?id=qwen3-livetranslate",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
-      "category": "ai"
-    },
-    {
-      "id": "aee7e69e35de89622bd1470d353fe407ce58e0d6",
-      "title": "Qwen3-VL：明察、深思、广行",
-      "created": "2025-09-23 06:00",
-      "link": "https://qwen.ai/blog?id=qwen3-vl",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
-      "category": "ai"
-    },
-    {
-      "id": "22ccfd135088fd97921012246f497495c240ae1e",
-      "title": "旅行规划师：你的专属智能行程设计师",
-      "created": "2025-09-23 05:00",
-      "link": "https://qwen.ai/blog?id=agent",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
-      "category": "ai"
-    },
-    {
-      "id": "5d8c9c889e85e527114c7b18ac600adca737f587",
-      "title": "Qwen3Guard: 实时安全，逐词响应",
-      "created": "2025-09-23 04:00",
-      "link": "https://qwen.ai/blog?id=qwen3guard",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
-      "category": "ai"
     },
     {
       "id": "8b0c94057193899f7eb82ca8b6ef25ec4214b673",
