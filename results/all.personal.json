@@ -3,8 +3,8 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 215,
-    "last_updated_time": "2026-03-11 16:53:00"
+    "article_num": 211,
+    "last_updated_time": "2026-03-11 18:50:12"
   },
   "article_data": [
     {
@@ -23,51 +23,6 @@
       "link": "https://www.cnblogs.com/moonout/p/19702578",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
-      "id": "e922446d99bf59b0509735e7f73969c2ffcb9671",
-      "title": "超级制图上手：图片上的文字如何用AI修改？无痕改字一键出图",
-      "created": "2026-03-11 10:46",
-      "link": "https://blog.zhheo.com/p/yynnxi2c.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
-      "category": "friend"
-    },
-    {
-      "id": "891f2b01bc7b7c87e9ced517074bee32715a3ba3",
-      "title": "当 AI 写了几乎所有代码，软件工程会怎样？",
-      "created": "2026-03-11 08:00",
-      "link": "https://baoyu.io/translations/2026-01-07/ai-writes-most-code",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "16219f25253ef65ec7a9596b7f66f6769973ae91",
-      "title": "AI Coding Fluency：从工具使用到人机协作的软件工程",
-      "created": "2026-03-11 07:43",
-      "link": "http://www.phodal.com/blog/ai-coding-fluency/",
-      "author": "Phodal Huang",
-      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "e08fba5cae09c05b5eac31822cf055e3ba8dee80",
-      "title": "AI should help us produce better code",
-      "created": "2026-03-11 06:25",
-      "link": "https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "087b7ac98b372690e64b6f7e768878a7523941a7",
-      "title": "How NVIDIA Builds Open Data for AI",
-      "created": "2026-03-11 03:49",
-      "link": "https://huggingface.co/blog/nvidia/open-data-for-ai",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -287,6 +242,15 @@
       "category": "ai"
     },
     {
+      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
+      "title": "LLM KV Cache: A Simple Implementation",
+      "created": "2025-06-03 08:00",
+      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
       "id": "fe02b0351660681e16448dee9332dc31d519087a",
       "title": "SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data",
       "created": "2025-06-03 08:00",
@@ -305,12 +269,12 @@
       "category": "ai"
     },
     {
-      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
-      "title": "LLM KV Cache: A Simple Implementation",
-      "created": "2025-06-03 08:00",
-      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "id": "82d67b6fd361ef19f708706bafc72f71681124b8",
+      "title": "多模态算法Clip、Albef、Blip等算法原理",
+      "created": "2025-05-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/05/28/MultiModal.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -320,15 +284,6 @@
       "link": "https://huggingface.co/blog/structured-codeagent",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "82d67b6fd361ef19f708706bafc72f71681124b8",
-      "title": "多模态算法Clip、Albef、Blip等算法原理",
-      "created": "2025-05-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/05/28/MultiModal.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -395,21 +350,21 @@
       "category": "ai"
     },
     {
-      "id": "f926bb52f775215f06d4f49c26d627476f8d5ecf",
-      "title": "Microsoft and Hugging Face expand collaboration",
-      "created": "2025-05-19 08:00",
-      "link": "https://huggingface.co/blog/azure-ai-foundry",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "25cbe3edf731fc48c2187a25a32820c6e1c90589",
       "title": "深入浅出了解生成模型-3：Diffusion模型原理以及代码",
       "created": "2025-05-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/05/19/DiffusionModel.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "f926bb52f775215f06d4f49c26d627476f8d5ecf",
+      "title": "Microsoft and Hugging Face expand collaboration",
+      "created": "2025-05-19 08:00",
+      "link": "https://huggingface.co/blog/azure-ai-foundry",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -453,6 +408,15 @@
       "title": "Blazingly fast whisper transcriptions with Inference Endpoints",
       "created": "2025-05-13 08:00",
       "link": "https://huggingface.co/blog/fast-whisper-endpoints",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "fbfcd4a5fc9c47682149d5bf4dd1e922a0e091ff",
+      "title": "Vision Language Models (Better, faster, stronger)",
+      "created": "2025-05-12 08:00",
+      "link": "https://huggingface.co/blog/vlms-2025",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
@@ -611,21 +575,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {

@@ -4,7 +4,7 @@
     "active_num": 37,
     "error_num": 1,
     "article_num": 580,
-    "last_updated_time": "2026-03-11 16:52:52"
+    "last_updated_time": "2026-03-11 18:50:06"
   },
   "article_data": [
     {
@@ -548,6 +548,15 @@
       "category": "ai"
     },
     {
+      "id": "41daf44b6dc98dcd36017056e6ae164014c217af",
+      "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+      "created": "2026-03-05 08:00",
+      "link": "https://huggingface.co/blog/modular-diffusers",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "b87b07820b66b900f80465b494966d434bd05f8e",
       "title": "SFT 监督微调",
       "created": "2026-03-05 08:00",
@@ -572,15 +581,6 @@
       "link": "https://baoyu.io/blog/2026-03-04/ai-merge-drafts-into-skills",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "41daf44b6dc98dcd36017056e6ae164014c217af",
-      "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
-      "created": "2026-03-05 08:00",
-      "link": "https://huggingface.co/blog/modular-diffusers",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1151,21 +1151,21 @@
       "category": "ai"
     },
     {
-      "id": "4d50c95f79c3a1c476da99fae6b4af3f25b655e7",
-      "title": "驾驭工程：在「智能体优先」的世界里借力 Codex",
-      "created": "2026-02-26 08:00",
-      "link": "https://baoyu.io/translations/2026-02-12/harness-engineering",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "e44d72287f6142b276a728b74bbd126033c8e2e2",
       "title": "Mixture of Experts (MoEs) in Transformers",
       "created": "2026-02-26 08:00",
       "link": "https://huggingface.co/blog/moe-transformers",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "4d50c95f79c3a1c476da99fae6b4af3f25b655e7",
+      "title": "驾驭工程：在「智能体优先」的世界里借力 Codex",
+      "created": "2026-02-26 08:00",
+      "link": "https://baoyu.io/translations/2026-02-12/harness-engineering",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -1556,21 +1556,21 @@
       "category": "ai"
     },
     {
-      "id": "428d6b0dd5e9ac6d605286cbef711aa49e7986ff",
-      "title": "用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更",
-      "created": "2026-02-18 08:00",
-      "link": "https://baoyu.io/blog/2026-02-13/claude-code-auto-commit",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "a10c31319962675c5df2dd490085067aa96a5b61",
       "title": "One-Shot Any Web App with Gradio's gr.HTML",
       "created": "2026-02-18 08:00",
       "link": "https://huggingface.co/blog/gradio-html-one-shot-apps",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "428d6b0dd5e9ac6d605286cbef711aa49e7986ff",
+      "title": "用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更",
+      "created": "2026-02-18 08:00",
+      "link": "https://baoyu.io/blog/2026-02-13/claude-code-auto-commit",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -1664,21 +1664,21 @@
       "category": "ai"
     },
     {
-      "id": "7d86a3a27813e0cb4a3a211e04eb61a1acc3523b",
-      "title": "大模型参数与显存",
-      "created": "2026-02-13 08:00",
-      "link": "https://yukinoshitasherry.github.io/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E4%B8%8E%E6%98%BE%E5%AD%98/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
-      "category": "ai"
-    },
-    {
       "id": "835809aa0dbebbb9771f36317088d878e2ec22ad",
       "title": "Custom Kernels for All from Codex and Claude",
       "created": "2026-02-13 08:00",
       "link": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7d86a3a27813e0cb4a3a211e04eb61a1acc3523b",
+      "title": "大模型参数与显存",
+      "created": "2026-02-13 08:00",
+      "link": "https://yukinoshitasherry.github.io/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E4%B8%8E%E6%98%BE%E5%AD%98/",
+      "author": "秋月春风的书房",
+      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
       "category": "ai"
     },
     {
@@ -2393,6 +2393,15 @@
       "category": "ai"
     },
     {
+      "id": "64a885263404a75b6fda56d21ec2d331d683cc60",
+      "title": "梯度速降",
+      "created": "2026-01-05 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E6%A2%AF%E5%BA%A6%E9%80%9F%E9%99%8D/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
       "id": "3b471576c20b1223ee665aedd34483dfa922ca58",
       "title": "矩阵微分热身",
       "created": "2026-01-05 08:00",
@@ -2406,15 +2415,6 @@
       "title": "矩阵微分乘法法则速记",
       "created": "2026-01-05 08:00",
       "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "64a885263404a75b6fda56d21ec2d331d683cc60",
-      "title": "梯度速降",
-      "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E6%A2%AF%E5%BA%A6%E9%80%9F%E9%99%8D/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
