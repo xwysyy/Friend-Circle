@@ -4,9 +4,18 @@
     "active_num": 37,
     "error_num": 1,
     "article_num": 216,
-    "last_updated_time": "2026-03-12 10:39:30"
+    "last_updated_time": "2026-03-12 13:18:25"
   },
   "article_data": [
+    {
+      "id": "74a942baffcf4be96bf825d92348cd7fc3b1e866",
+      "title": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
+      "created": "2026-03-12 11:53",
+      "link": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "3059ff7ce689aeb1b8ffdd6d884f0f47411a1b1f",
       "title": "Sorting algorithms",
@@ -14,15 +23,6 @@
       "link": "https://simonwillison.net/2026/Mar/11/sorting-algorithms/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "89cf392ae0bd0a4cda25095b55059d7edf2a5846",
-      "title": "Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds",
-      "created": "2026-03-11 23:50",
-      "link": "https://huggingface.co/blog/nvidia/synthetic-code-concepts",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -197,21 +197,21 @@
       "category": "ai"
     },
     {
-      "id": "90c14f95511a221a65f2fea452321f4ffe5bcc62",
-      "title": "图像消除论文-1：PixelHacker、PowerPanint、Attentive Eraser",
-      "created": "2025-06-11 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/06/11/ImageEraser1.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "1e9d0c3988dcb92a31de9a661ecf891968aa9c2f",
       "title": "勇气的奥秘——从赢走向赢",
       "created": "2025-06-11 08:00",
       "link": "https://blog.tomorrowdawn.cc/posts/%E5%8B%87%E6%B0%94%E7%9A%84%E5%A5%A5%E7%A7%98-%E4%BB%8E%E8%B5%A2%E8%B5%B0%E5%90%91%E8%B5%A2/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "90c14f95511a221a65f2fea452321f4ffe5bcc62",
+      "title": "图像消除论文-1：PixelHacker、PowerPanint、Attentive Eraser",
+      "created": "2025-06-11 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/06/11/ImageEraser1.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -278,15 +278,6 @@
       "category": "ai"
     },
     {
-      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
-      "title": "LLM KV Cache: A Simple Implementation",
-      "created": "2025-06-03 08:00",
-      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "fe02b0351660681e16448dee9332dc31d519087a",
       "title": "SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data",
       "created": "2025-06-03 08:00",
@@ -305,12 +296,12 @@
       "category": "ai"
     },
     {
-      "id": "82d67b6fd361ef19f708706bafc72f71681124b8",
-      "title": "多模态算法Clip、Albef、Blip等算法原理",
-      "created": "2025-05-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/05/28/MultiModal.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
+      "title": "LLM KV Cache: A Simple Implementation",
+      "created": "2025-06-03 08:00",
+      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -320,6 +311,15 @@
       "link": "https://huggingface.co/blog/structured-codeagent",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "82d67b6fd361ef19f708706bafc72f71681124b8",
+      "title": "多模态算法Clip、Albef、Blip等算法原理",
+      "created": "2025-05-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/05/28/MultiModal.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -386,21 +386,21 @@
       "category": "ai"
     },
     {
-      "id": "25cbe3edf731fc48c2187a25a32820c6e1c90589",
-      "title": "深入浅出了解生成模型-3：Diffusion模型原理以及代码",
-      "created": "2025-05-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/05/19/DiffusionModel.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "f926bb52f775215f06d4f49c26d627476f8d5ecf",
       "title": "Microsoft and Hugging Face expand collaboration",
       "created": "2025-05-19 08:00",
       "link": "https://huggingface.co/blog/azure-ai-foundry",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "25cbe3edf731fc48c2187a25a32820c6e1c90589",
+      "title": "深入浅出了解生成模型-3：Diffusion模型原理以及代码",
+      "created": "2025-05-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/05/19/DiffusionModel.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -476,21 +476,21 @@
       "category": "ai"
     },
     {
-      "id": "cf8dcebb3638b1e6dcbadf11c6c68145e386217d",
-      "title": "ToyRL: 从零实现深度强化学习算法",
-      "created": "2025-05-08 08:00",
-      "link": "https://mathewshen.me/blog/2025/toyrl/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "0cc7ed5ed4abe376a77574e4035e4625c5250ab4",
       "title": "深入浅出了解生成模型-1：GAN模型原理以及代码实战",
       "created": "2025-05-08 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/05/08/GAN.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "cf8dcebb3638b1e6dcbadf11c6c68145e386217d",
+      "title": "ToyRL: 从零实现深度强化学习算法",
+      "created": "2025-05-08 08:00",
+      "link": "https://mathewshen.me/blog/2025/toyrl/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -602,21 +602,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -836,21 +836,21 @@
       "category": "ai"
     },
     {
-      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
-      "title": "Oh-Numpy & Oh-Pytorch",
-      "created": "2025-01-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
       "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
       "created": "2025-01-23 08:00",
       "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -980,21 +980,21 @@
       "category": "ai"
     },
     {
-      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
-      "title": "斯坦福小镇解读",
-      "created": "2024-11-28 08:00",
-      "link": "https://mathewshen.me/blog/2024/ai-town/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
       "title": "Reward Hacking in Reinforcement Learning",
       "created": "2024-11-28 08:00",
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
