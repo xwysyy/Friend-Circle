@@ -3,51 +3,15 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 217,
-    "last_updated_time": "2026-03-13 10:32:31"
+    "article_num": 214,
+    "last_updated_time": "2026-03-13 15:01:49"
   },
   "article_data": [
     {
-      "id": "3e45431a598390c600cf4f4993fd14bf7ac6a794",
-      "title": "不知道如何在你的出海产品中部署 Agent？不知道如何售卖你的 MCP 服务器？ Dedalus Labs 会为您排忧解难",
-      "created": "2026-03-13 11:40",
-      "link": "https://kirigaya.cn/blog/article?seq=370",
-      "author": "锦恢",
-      "avatar": "https://kirigaya.cn/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "4e558c1ba7e59b019bc57b20b7704a4fd247507c",
-      "title": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
-      "created": "2026-03-13 09:02",
-      "link": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "8322764925416e23139b22ffabb75cde1d2e2a16",
-      "title": "科技爱好者周刊（第 388 期）：测试是新的护城河",
-      "created": "2026-03-13 07:59",
-      "link": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html",
-      "author": "阮一峰",
-      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
-      "category": "friend"
-    },
-    {
-      "id": "f3cb10a8abb30ad8c84a5cdc708b43b32690838e",
-      "title": "MALUS - Clean Room as a Service",
-      "created": "2026-03-13 04:08",
-      "link": "https://simonwillison.net/2026/Mar/12/malus/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "6a6b8f4938a2733e5dd84539817f16feb45c2f21",
-      "title": "Coding After Coders: The End of Computer Programming as We Know It",
-      "created": "2026-03-13 03:23",
-      "link": "https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything",
+      "id": "efa4d9124f712d6610a341744bf354c0406985b8",
+      "title": "Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
+      "created": "2026-03-13 11:44",
+      "link": "https://simonwillison.net/2026/Mar/13/liquid/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
@@ -467,6 +431,15 @@
       "category": "ai"
     },
     {
+      "id": "fbfcd4a5fc9c47682149d5bf4dd1e922a0e091ff",
+      "title": "Vision Language Models (Better, faster, stronger)",
+      "created": "2025-05-12 08:00",
+      "link": "https://huggingface.co/blog/vlms-2025",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "e051d2c6165ef1ee0c1b21810076d26db4e801da",
       "title": "深入浅出了解生成模型-2：VAE模型原理以及代码实战",
       "created": "2025-05-11 08:00",
@@ -494,21 +467,21 @@
       "category": "ai"
     },
     {
-      "id": "0cc7ed5ed4abe376a77574e4035e4625c5250ab4",
-      "title": "深入浅出了解生成模型-1：GAN模型原理以及代码实战",
-      "created": "2025-05-08 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/05/08/GAN.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "cf8dcebb3638b1e6dcbadf11c6c68145e386217d",
       "title": "ToyRL: 从零实现深度强化学习算法",
       "created": "2025-05-08 08:00",
       "link": "https://mathewshen.me/blog/2025/toyrl/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "0cc7ed5ed4abe376a77574e4035e4625c5250ab4",
+      "title": "深入浅出了解生成模型-1：GAN模型原理以及代码实战",
+      "created": "2025-05-08 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/05/08/GAN.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -620,21 +593,21 @@
       "category": "ai"
     },
     {
-      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
-      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
-      "created": "2025-04-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
       "title": "The State of Reinforcement Learning for LLM Reasoning",
       "created": "2025-04-19 08:00",
       "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
+      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
+      "created": "2025-04-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
