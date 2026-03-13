@@ -3,44 +3,53 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 218,
-    "last_updated_time": "2026-03-13 03:01:02"
+    "article_num": 217,
+    "last_updated_time": "2026-03-13 10:32:31"
   },
   "article_data": [
     {
-      "id": "58002eb9d9da1a2d8e83b6b70e728a26b27a925f",
-      "title": "Quoting Les Orchard",
-      "created": "2026-03-13 00:28",
-      "link": "https://simonwillison.net/2026/Mar/12/les-orchard/#atom-everything",
+      "id": "3e45431a598390c600cf4f4993fd14bf7ac6a794",
+      "title": "不知道如何在你的出海产品中部署 Agent？不知道如何售卖你的 MCP 服务器？ Dedalus Labs 会为您排忧解难",
+      "created": "2026-03-13 11:40",
+      "link": "https://kirigaya.cn/blog/article?seq=370",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "4e558c1ba7e59b019bc57b20b7704a4fd247507c",
+      "title": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
+      "created": "2026-03-13 09:02",
+      "link": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8322764925416e23139b22ffabb75cde1d2e2a16",
+      "title": "科技爱好者周刊（第 388 期）：测试是新的护城河",
+      "created": "2026-03-13 07:59",
+      "link": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html",
+      "author": "阮一峰",
+      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
+      "category": "friend"
+    },
+    {
+      "id": "f3cb10a8abb30ad8c84a5cdc708b43b32690838e",
+      "title": "MALUS - Clean Room as a Service",
+      "created": "2026-03-13 04:08",
+      "link": "https://simonwillison.net/2026/Mar/12/malus/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
-      "id": "e448a4935e8b3ac94c71c8c7e047fb43c319f71b",
-      "title": "Stateless Architecture: Benefits and Tradeoffs",
-      "created": "2026-03-12 23:31",
-      "link": "https://blog.bytebytego.com/p/stateless-architecture-benefits-and",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "b79b0741c12ca128c360aed50c60c54425611161",
-      "title": "Harness Engineering 的防御视角：从 Codex Security 看 AI 生成代码的治理",
-      "created": "2026-03-12 22:00",
-      "link": "http://www.phodal.com/blog/harness-engineering-defense-security/",
-      "author": "Phodal Huang",
-      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "c3f9801d5899bc85d42f8a86ca6bf99dca589c0e",
-      "title": "前奏曲",
-      "created": "2026-03-12 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/prelude/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "id": "6a6b8f4938a2733e5dd84539817f16feb45c2f21",
+      "title": "Coding After Coders: The End of Computer Programming as We Know It",
+      "created": "2026-03-13 03:23",
+      "link": "https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -143,19 +152,19 @@
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -206,21 +215,21 @@
       "category": "ai"
     },
     {
-      "id": "1e9d0c3988dcb92a31de9a661ecf891968aa9c2f",
-      "title": "勇气的奥秘——从赢走向赢",
-      "created": "2025-06-11 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E5%8B%87%E6%B0%94%E7%9A%84%E5%A5%A5%E7%A7%98-%E4%BB%8E%E8%B5%A2%E8%B5%B0%E5%90%91%E8%B5%A2/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
       "id": "90c14f95511a221a65f2fea452321f4ffe5bcc62",
       "title": "图像消除论文-1：PixelHacker、PowerPanint、Attentive Eraser",
       "created": "2025-06-11 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/06/11/ImageEraser1.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "1e9d0c3988dcb92a31de9a661ecf891968aa9c2f",
+      "title": "勇气的奥秘——从赢走向赢",
+      "created": "2025-06-11 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E5%8B%87%E6%B0%94%E7%9A%84%E5%A5%A5%E7%A7%98-%E4%BB%8E%E8%B5%A2%E8%B5%B0%E5%90%91%E8%B5%A2/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
@@ -287,6 +296,15 @@
       "category": "ai"
     },
     {
+      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
+      "title": "LLM KV Cache: A Simple Implementation",
+      "created": "2025-06-03 08:00",
+      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
       "id": "fe02b0351660681e16448dee9332dc31d519087a",
       "title": "SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data",
       "created": "2025-06-03 08:00",
@@ -305,12 +323,12 @@
       "category": "ai"
     },
     {
-      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
-      "title": "LLM KV Cache: A Simple Implementation",
-      "created": "2025-06-03 08:00",
-      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "id": "82d67b6fd361ef19f708706bafc72f71681124b8",
+      "title": "多模态算法Clip、Albef、Blip等算法原理",
+      "created": "2025-05-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/05/28/MultiModal.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -320,15 +338,6 @@
       "link": "https://huggingface.co/blog/structured-codeagent",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "82d67b6fd361ef19f708706bafc72f71681124b8",
-      "title": "多模态算法Clip、Albef、Blip等算法原理",
-      "created": "2025-05-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/05/28/MultiModal.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -395,21 +404,21 @@
       "category": "ai"
     },
     {
-      "id": "f926bb52f775215f06d4f49c26d627476f8d5ecf",
-      "title": "Microsoft and Hugging Face expand collaboration",
-      "created": "2025-05-19 08:00",
-      "link": "https://huggingface.co/blog/azure-ai-foundry",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "25cbe3edf731fc48c2187a25a32820c6e1c90589",
       "title": "深入浅出了解生成模型-3：Diffusion模型原理以及代码",
       "created": "2025-05-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/05/19/DiffusionModel.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "f926bb52f775215f06d4f49c26d627476f8d5ecf",
+      "title": "Microsoft and Hugging Face expand collaboration",
+      "created": "2025-05-19 08:00",
+      "link": "https://huggingface.co/blog/azure-ai-foundry",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -458,15 +467,6 @@
       "category": "ai"
     },
     {
-      "id": "fbfcd4a5fc9c47682149d5bf4dd1e922a0e091ff",
-      "title": "Vision Language Models (Better, faster, stronger)",
-      "created": "2025-05-12 08:00",
-      "link": "https://huggingface.co/blog/vlms-2025",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "e051d2c6165ef1ee0c1b21810076d26db4e801da",
       "title": "深入浅出了解生成模型-2：VAE模型原理以及代码实战",
       "created": "2025-05-11 08:00",
@@ -494,21 +494,21 @@
       "category": "ai"
     },
     {
-      "id": "cf8dcebb3638b1e6dcbadf11c6c68145e386217d",
-      "title": "ToyRL: 从零实现深度强化学习算法",
-      "created": "2025-05-08 08:00",
-      "link": "https://mathewshen.me/blog/2025/toyrl/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "0cc7ed5ed4abe376a77574e4035e4625c5250ab4",
       "title": "深入浅出了解生成模型-1：GAN模型原理以及代码实战",
       "created": "2025-05-08 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/05/08/GAN.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "cf8dcebb3638b1e6dcbadf11c6c68145e386217d",
+      "title": "ToyRL: 从零实现深度强化学习算法",
+      "created": "2025-05-08 08:00",
+      "link": "https://mathewshen.me/blog/2025/toyrl/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1322,19 +1322,10 @@
       "category": "ai"
     },
     {
-      "id": "62c7a5d1f9f35d49165dabec76ce767178e5fdf8",
-      "title": "666ghj/MiroFish",
+      "id": "bfbf32c9cff73ba561d8a5c2dd2d52895fbf6525",
+      "title": "promptfoo/promptfoo",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/666ghj/MiroFish",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "3b23309d9289b25299848236293eff0d27b5ce0e",
-      "title": "virattt/ai-hedge-fund",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/virattt/ai-hedge-fund",
+      "link": "https://github.com/promptfoo/promptfoo",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1349,28 +1340,19 @@
       "category": "ai"
     },
     {
-      "id": "ec643c90aca4ac8d3a02abbeeab6bae2e8303164",
-      "title": "msitarzewski/agency-agents",
+      "id": "7c95635412aeaf23fafb688ad7e8a0648cc6378e",
+      "title": "QwenLM/Qwen-Agent",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/msitarzewski/agency-agents",
+      "link": "https://github.com/QwenLM/Qwen-Agent",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "f34f4dbecb6a77eed9c33e45d6463239607c2019",
-      "title": "TheCraigHewitt/seomachine",
+      "id": "3b23309d9289b25299848236293eff0d27b5ce0e",
+      "title": "virattt/ai-hedge-fund",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/TheCraigHewitt/seomachine",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "1578476054924343c30bb9dcb9ee3ac3e52de914",
-      "title": "alirezarezvani/claude-skills",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/alirezarezvani/claude-skills",
+      "link": "https://github.com/virattt/ai-hedge-fund",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1385,37 +1367,19 @@
       "category": "ai"
     },
     {
-      "id": "b887f733149be939ed7d604527578d4a6403c542",
-      "title": "moeru-ai/airi",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/moeru-ai/airi",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "dd219ead61639052fc55e7b8ea028f0b4e142b94",
-      "title": "shanraisshan/claude-code-best-practice",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/shanraisshan/claude-code-best-practice",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "7c95635412aeaf23fafb688ad7e8a0648cc6378e",
-      "title": "QwenLM/Qwen-Agent",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/QwenLM/Qwen-Agent",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "7e12207576fb4b59a4575a2e9724b838baebc464",
       "title": "teng-lin/notebooklm-py",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/teng-lin/notebooklm-py",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "62c7a5d1f9f35d49165dabec76ce767178e5fdf8",
+      "title": "666ghj/MiroFish",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/666ghj/MiroFish",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1430,10 +1394,19 @@
       "category": "ai"
     },
     {
-      "id": "387a4f6b52173d5de10c0f5e9ef4ecb486d9bdf6",
-      "title": "ItzCrazyKns/Vane",
+      "id": "ec643c90aca4ac8d3a02abbeeab6bae2e8303164",
+      "title": "msitarzewski/agency-agents",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/ItzCrazyKns/Vane",
+      "link": "https://github.com/msitarzewski/agency-agents",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "905757c351ef282310e1e2b11958927638429656",
+      "title": "inclusionAI/AReaL",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/inclusionAI/AReaL",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1448,19 +1421,37 @@
       "category": "ai"
     },
     {
-      "id": "ea9a569724f0eb119a010ef0781c04d251a914b7",
-      "title": "ruvnet/RuView",
+      "id": "b887f733149be939ed7d604527578d4a6403c542",
+      "title": "moeru-ai/airi",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/ruvnet/RuView",
+      "link": "https://github.com/moeru-ai/airi",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "905757c351ef282310e1e2b11958927638429656",
-      "title": "inclusionAI/AReaL",
+      "id": "1578476054924343c30bb9dcb9ee3ac3e52de914",
+      "title": "alirezarezvani/claude-skills",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/inclusionAI/AReaL",
+      "link": "https://github.com/alirezarezvani/claude-skills",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "aeb3c7b38ab17ac14ae2f9b3c830a38b08eedc86",
+      "title": "microsoft/BitNet",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/microsoft/BitNet",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "f34f4dbecb6a77eed9c33e45d6463239607c2019",
+      "title": "TheCraigHewitt/seomachine",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/TheCraigHewitt/seomachine",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
