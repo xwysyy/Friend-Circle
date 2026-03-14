@@ -3,26 +3,26 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 215,
-    "last_updated_time": "2026-03-14 02:51:25"
+    "article_num": 212,
+    "last_updated_time": "2026-03-14 10:30:29"
   },
   "article_data": [
     {
-      "id": "fa2e436bfdfcb82ee416070ab240c7b726d5c13d",
-      "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
-      "created": "2026-03-14 02:29",
-      "link": "https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "id": "325fe7276b960508bca18d1ce76b9caee1b05c4d",
+      "title": "Big tech engineers need big egos",
+      "created": "2026-03-14 08:00",
+      "link": "https://seangoedecke.com/big-tech-needs-big-egos/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "23e05518371c8f9cf40e271b6c209222779604d0",
-      "title": "Quoting Craig Mod",
-      "created": "2026-03-14 01:14",
-      "link": "https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "id": "a8faebcc5f7fc091420e14378d7df96adae475cf",
+      "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
+      "created": "2026-03-14 04:00",
+      "link": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -62,24 +62,6 @@
       "category": "ai"
     },
     {
-      "id": "385625ec7d882f02a7b74bdb3c8ac1a192506645",
-      "title": "深入浅出了解生成模型-10：Flow Matching基本原理",
-      "created": "2026-02-23 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/02/23/FlowMatching.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b58af27be5f0edc33b1fc9ae907608fecade95ed",
-      "title": "深入浅出了解生成模型-9：扩散模型微调框架ai-toolkit介绍",
-      "created": "2026-01-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/01/28/Ai-toolkit-Training.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "11c8f4217166140dbea26a08b7d6eeaf872ed6ad",
       "title": "让炼丹更科学一些（六）：自上而下的精妙构造",
       "created": "2026-01-16 15:03",
@@ -95,15 +77,6 @@
       "link": "https://ninehills.tech/articles/150.html",
       "author": "九原山博客",
       "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
-      "category": "ai"
-    },
-    {
-      "id": "b9a24d96040d69721c996a7121f4b197f6aafd26",
-      "title": "深入浅出了解生成模型-8：生成加速策略概述",
-      "created": "2025-12-29 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/12/29/SDAcceralate.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -125,19 +98,19 @@
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -188,15 +161,6 @@
       "category": "ai"
     },
     {
-      "id": "90c14f95511a221a65f2fea452321f4ffe5bcc62",
-      "title": "图像消除论文-1：PixelHacker、PowerPanint、Attentive Eraser",
-      "created": "2025-06-11 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/06/11/ImageEraser1.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "1e9d0c3988dcb92a31de9a661ecf891968aa9c2f",
       "title": "勇气的奥秘——从赢走向赢",
       "created": "2025-06-11 08:00",
@@ -215,48 +179,12 @@
       "category": "ai"
     },
     {
-      "id": "713bff60de241b77419c9130bd3f1de62a0a1296",
-      "title": "ScreenSuite - The most comprehensive evaluation suite for GUI Agents!",
-      "created": "2025-06-06 08:00",
-      "link": "https://huggingface.co/blog/screensuite",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "34b1decaf33efbee95cde718abbb1483c71447f2",
       "title": "深度学习学习率优化方法——pytorch中各类warm up策略",
       "created": "2025-06-05 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/06/05/WarmUP-Torch.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "c1930feaaf3cb363b69c2b86c81e41bacbed3e1e",
-      "title": "KV Cache from scratch in nanoVLM",
-      "created": "2025-06-04 08:00",
-      "link": "https://huggingface.co/blog/kv-cache",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b73b6d9b0953f15bf241e155000fd093f228cf60",
-      "title": "Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom",
-      "created": "2025-06-03 23:04",
-      "link": "https://huggingface.co/blog/Arm/ai-sound-gen-on-arm",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e6c50118fe43997195ae5a5a92a5dd6ca62fdabc",
-      "title": "Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H",
-      "created": "2025-06-03 21:27",
-      "link": "https://huggingface.co/blog/Hcompany/holo1",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -278,120 +206,12 @@
       "category": "ai"
     },
     {
-      "id": "fe02b0351660681e16448dee9332dc31d519087a",
-      "title": "SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data",
-      "created": "2025-06-03 08:00",
-      "link": "https://huggingface.co/blog/smolvla",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "bfe33e0877ce605dc7b07a2bd5831c6771859376",
-      "title": "No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL",
-      "created": "2025-06-03 08:00",
-      "link": "https://huggingface.co/blog/vllm-colocate",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "82d67b6fd361ef19f708706bafc72f71681124b8",
       "title": "多模态算法Clip、Albef、Blip等算法原理",
       "created": "2025-05-28 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/05/28/MultiModal.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "99b35aab447256d877ee0881bc4c043b1ed2b2de",
-      "title": "CodeAgents + Structure: A Better Way to Execute Actions",
-      "created": "2025-05-28 08:00",
-      "link": "https://huggingface.co/blog/structured-codeagent",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "bd283c5cbc82623f67121024c60d0dac4c50bd96",
-      "title": "🐯 Liger GRPO meets TRL",
-      "created": "2025-05-25 08:00",
-      "link": "https://huggingface.co/blog/liger-grpo",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "ba17cc8e6a0e91c4d6ba6becb9e1b4e9a616e9c6",
-      "title": "Dell Enterprise Hub is all you need to build AI on premises",
-      "created": "2025-05-23 08:00",
-      "link": "https://huggingface.co/blog/dell-ai-applications",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "66994a7a5edbfc6b550fbf86673e1400c9cb8577",
-      "title": "Tiny Agents in Python: a MCP-powered agent in ~70 lines of code",
-      "created": "2025-05-23 08:00",
-      "link": "https://huggingface.co/blog/python-tiny-agents",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "4126b60f4066652751f7180a8f12d15665c22de6",
-      "title": "Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance",
-      "created": "2025-05-21 14:52",
-      "link": "https://huggingface.co/blog/tiiuae/falcon-h1",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e45b507cf600efa2b85a914da45ef794f1da5b5f",
-      "title": "Falcon-Arabic: A Breakthrough in Arabic Language Models",
-      "created": "2025-05-21 14:35",
-      "link": "https://huggingface.co/blog/tiiuae/falcon-arabic",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "fc2f56f426ee611bdf20a3e5eedea072e74bd833",
-      "title": "Exploring Quantization Backends in Diffusers",
-      "created": "2025-05-21 08:00",
-      "link": "https://huggingface.co/blog/diffusers-quantization",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "55e3c4e66c93175278a06a9237dc68e159622fed",
-      "title": "nanoVLM: The simplest repository to train your VLM in pure PyTorch",
-      "created": "2025-05-21 08:00",
-      "link": "https://huggingface.co/blog/nanovlm",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "25cbe3edf731fc48c2187a25a32820c6e1c90589",
-      "title": "深入浅出了解生成模型-3：Diffusion模型原理以及代码",
-      "created": "2025-05-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/05/19/DiffusionModel.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "f926bb52f775215f06d4f49c26d627476f8d5ecf",
-      "title": "Microsoft and Hugging Face expand collaboration",
-      "created": "2025-05-19 08:00",
-      "link": "https://huggingface.co/blog/azure-ai-foundry",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -404,66 +224,12 @@
       "category": "ai"
     },
     {
-      "id": "7ab3804613b69501f28da0d854f469083d36aa4c",
-      "title": "Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models.",
-      "created": "2025-05-15 21:13",
-      "link": "https://huggingface.co/blog/tiiuae/falcon-edge",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "399873fa2f41502cf6ec343e225c301e450a8f42",
-      "title": "The Transformers Library: standardizing model definitions",
-      "created": "2025-05-15 08:00",
-      "link": "https://huggingface.co/blog/transformers-model-definition",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "d37483b7664fe3eaf5f1e48f9b96fbddce717d9a",
-      "title": "Improving Hugging Face Model Access for Kaggle Users",
-      "created": "2025-05-14 08:00",
-      "link": "https://huggingface.co/blog/kaggle-integration",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "7778b7f35e6b484cf34b40e32b7bc8ba4cd101c1",
-      "title": "Blazingly fast whisper transcriptions with Inference Endpoints",
-      "created": "2025-05-13 08:00",
-      "link": "https://huggingface.co/blog/fast-whisper-endpoints",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "fbfcd4a5fc9c47682149d5bf4dd1e922a0e091ff",
-      "title": "Vision Language Models (Better, faster, stronger)",
-      "created": "2025-05-12 08:00",
-      "link": "https://huggingface.co/blog/vlms-2025",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e051d2c6165ef1ee0c1b21810076d26db4e801da",
-      "title": "深入浅出了解生成模型-2：VAE模型原理以及代码实战",
+      "id": "10a164fdc457656db7db54b87de43e9d8f02d8ea",
+      "title": "LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?",
       "created": "2025-05-11 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/05/11/VAE.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "4b3449d49d4ba585143a0aea80c516a4ae238762",
-      "title": "Coding LLMs from the Ground Up: A Complete Course",
-      "created": "2025-05-10 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/coding-llms-from-the-ground-up",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "link": "https://huggingface.co/blog/lerobot-datasets",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -473,33 +239,6 @@
       "link": "https://www.less-bug.com/posts/pc-point-to-next-instruction--is-it-true/",
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "0cc7ed5ed4abe376a77574e4035e4625c5250ab4",
-      "title": "深入浅出了解生成模型-1：GAN模型原理以及代码实战",
-      "created": "2025-05-08 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/05/08/GAN.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "cf8dcebb3638b1e6dcbadf11c6c68145e386217d",
-      "title": "ToyRL: 从零实现深度强化学习算法",
-      "created": "2025-05-08 08:00",
-      "link": "https://mathewshen.me/blog/2025/toyrl/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
-      "id": "ea1758e2d54a6872e51adb7e7294ed63907240f3",
-      "title": "Zero to One: Learning Agentic Patterns",
-      "created": "2025-05-05 08:00",
-      "link": "https://www.philschmid.de/agentic-pattern",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -539,6 +278,24 @@
       "category": "ai"
     },
     {
+      "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
+      "title": "How to Build an MCP Server with Gradio",
+      "created": "2025-04-30 08:00",
+      "link": "https://huggingface.co/blog/gradio-mcp",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8c36b3928d86769a7e8d4521266ae1b43b6b4cd9",
+      "title": "The 4 Things Qwen-3’s Chat Template Teaches Us",
+      "created": "2025-04-30 08:00",
+      "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "b6a5c897a047d4936611640173cfe6ecdbeda021",
       "title": "使用 WireGuard 打通家庭内网与出差设备",
       "created": "2025-04-29 15:55",
@@ -554,6 +311,24 @@
       "link": "https://www.less-bug.com/posts/learn-and-practice-of-axi4-bus-protocol/",
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8a876fdba7ae9f6f114c8772aaf91caa95ca5bcd",
+      "title": "Welcoming Llama Guard 4 on Hugging Face Hub",
+      "created": "2025-04-29 08:00",
+      "link": "https://huggingface.co/blog/llama-guard-4",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "1c8c50279833f1901850741a321eeb90f156275c",
+      "title": "Introducing AutoRound: Intel’s Advanced Quantization for LLMs and VLMs",
+      "created": "2025-04-29 08:00",
+      "link": "https://huggingface.co/blog/autoround",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -575,12 +350,39 @@
       "category": "ai"
     },
     {
+      "id": "bb7322d23703b8ffcf8687862d339cb9a03cc79f",
+      "title": "PipelineRL",
+      "created": "2025-04-26 06:37",
+      "link": "https://huggingface.co/blog/ServiceNow/pipelinerl",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b80d35f4261229229e6053f8263b2398abde4a58",
+      "title": "Tiny Agents: an MCP-powered agent in 50 lines of code",
+      "created": "2025-04-25 08:00",
+      "link": "https://huggingface.co/blog/tiny-agents",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "817c82cf2757eac3149a5f1e20fc7f755169f81f",
       "title": "强化学习框架：OpenRLHF源码解读，模型训练-1",
       "created": "2025-04-24 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/24/OpenRLHF-2.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "364b2c571a0fe1959ed6cb5afca5773962620111",
+      "title": "Finetuning olmOCR to be a faithful OCR-Engine",
+      "created": "2025-04-23 02:33",
+      "link": "https://huggingface.co/blog/tngtech/finetuning-olmocr-to-be-a-faithful-ocr-engine",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -629,6 +431,60 @@
       "category": "ai"
     },
     {
+      "id": "2f081a663d68f60629316e816618e21c42fccf8e",
+      "title": "Prefill and Decode for Concurrent Requests - Optimizing LLM Performance",
+      "created": "2025-04-16 18:10",
+      "link": "https://huggingface.co/blog/tngtech/llm-performance-prefill-decode-concurrent-requests",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "558b9bab313e39ba15ac1826dab6f8fc7a7df5ae",
+      "title": "17 Reasons Why Gradio Isn't Just Another UI Library",
+      "created": "2025-04-16 08:00",
+      "link": "https://huggingface.co/blog/why-gradio-stands-out",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "08f2b1f53bd68a2a40b455283e587a904b554054",
+      "title": "Cohere on Hugging Face Inference Providers 🔥",
+      "created": "2025-04-16 08:00",
+      "link": "https://huggingface.co/blog/inference-providers-cohere",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "03d40b49767c36ff7048f6b0933df929db16bc09",
+      "title": "Introducing HELMET: Holistically Evaluating Long-context Language Models",
+      "created": "2025-04-16 08:00",
+      "link": "https://huggingface.co/blog/helmet",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "cd9496c2e2e8a6e74c9c97a2ae06ec4972d380b5",
+      "title": "Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition 🤖",
+      "created": "2025-04-14 08:00",
+      "link": "https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "dfbaec8b338466a2633c605c30f2911526f65c89",
+      "title": "4M Models Scanned: Protect AI + Hugging Face 6 Months In",
+      "created": "2025-04-14 08:00",
+      "link": "https://huggingface.co/blog/pai-6-month",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "2972382a12e1b9b644ea4406d0b156cc2b77ea47",
       "title": "Critical Company Size",
       "created": "2025-04-13 07:39",
@@ -638,12 +494,57 @@
       "category": "ai"
     },
     {
+      "id": "1e3d6f5f6214e955d7da8f69fe50e9adea49af8b",
+      "title": "Visual Salamandra: Pushing the Boundaries of Multimodal Understanding",
+      "created": "2025-04-11 22:21",
+      "link": "https://huggingface.co/blog/BSC-LT/visualsalamandra7b",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "3a06bd98cde3fb4d43ac5f88a02803e7324f8217",
+      "title": "Hugging Face and Cloudflare Partner to Make Real-Time Speech and Video Seamless with FastRTC",
+      "created": "2025-04-09 08:00",
+      "link": "https://huggingface.co/blog/fastrtc-cloudflare",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "3cd14bfe18f6defeeafe76860686caa7ad2472b7",
+      "title": "Arabic Leaderboards: Introducing Arabic Instruction Following, Updating AraGen, and More",
+      "created": "2025-04-08 08:00",
+      "link": "https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "ecd3ed918822079cc65402ac80aa903c13ff8a7f",
       "title": "Scala 速通入门教程",
       "created": "2025-04-05 12:04",
       "link": "https://www.less-bug.com/posts/learn-scala-in-one-day/",
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "f10586db2f38b619ebdb839655484e30f4575f52",
+      "title": "Welcome Llama 4 Maverick & Scout on Hugging Face",
+      "created": "2025-04-05 08:00",
+      "link": "https://huggingface.co/blog/llama4-release",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8a9b9b76a2bf071a9b83f0fcdb507cd78926849b",
+      "title": "Journey to 1 Million Gradio Users!",
+      "created": "2025-04-04 08:00",
+      "link": "https://huggingface.co/blog/gradio-1m",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -755,12 +656,48 @@
       "category": "ai"
     },
     {
+      "id": "5f6cb2ba7c2a15af31b4b05205a02512566795cb",
+      "title": "Kimi论文——Muon优化器原理/torch优化器",
+      "created": "2025-03-04 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/03/04/Muon.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "3a719ee2966104a868391fc9a8013ca2792854d2",
       "title": "Presentia: 简单而优雅的 Presentation 模板",
       "created": "2025-03-01 08:00",
       "link": "https://mathewshen.me/blog/2025/presentia/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "aa215a063fdb08850634901c15c6b87d3caec9ac",
+      "title": "LLM 生成策略全解析：从 Beam Search 到 Top-p 采样",
+      "created": "2025-02-27 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/02/27/LLM-OUT.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "670c43aeeec6f587dd9a10d35354a26c883ceb46",
+      "title": "深入浅出 DeepSpeed：深度学习高效训练框架解析",
+      "created": "2025-02-24 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/02/24/deepspeed.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "0292d48a6afc79fe95d873eacb428e416c3560d4",
+      "title": "从梯度消失到模型过拟合：归一化、Dropout 和梯度裁剪的深度解析",
+      "created": "2025-02-23 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/02/23/dl-norm.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -773,12 +710,39 @@
       "category": "ai"
     },
     {
+      "id": "b1878e0c58c52f68b8962b0e844711a988f1636a",
+      "title": "Kimi/DeepSeek最新论文MoBA与NSA阅读",
+      "created": "2025-02-21 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/02/21/Kimi-DS-Paper.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "0a8af36fb1078d487435525b954ed3541385078d",
       "title": "大语言模型与深度学习书籍推荐",
       "created": "2025-02-20 08:00",
       "link": "https://mathewshen.me/blog/2025/dl-book/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "5d7ffc43bbb7c5cfffb84650d9551dbb88bd5651",
+      "title": "Docunmen AI 中图像高分辨率处理思路汇总",
+      "created": "2025-02-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/02/19/DocAI-HR.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "422ff2669a6e08800ef0ae9416d0695c958b7f71",
+      "title": "深入探讨Attention变种与内存优化：从MHA到Flash/Page Attention",
+      "created": "2025-02-17 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/02/17/Attention.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -980,21 +944,21 @@
       "category": "ai"
     },
     {
-      "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
-      "title": "Reward Hacking in Reinforcement Learning",
-      "created": "2024-11-28 08:00",
-      "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
-      "author": "Lilian Weng",
-      "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
-      "category": "ai"
-    },
-    {
       "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
       "title": "斯坦福小镇解读",
       "created": "2024-11-28 08:00",
       "link": "https://mathewshen.me/blog/2024/ai-town/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
+      "title": "Reward Hacking in Reinforcement Learning",
+      "created": "2024-11-28 08:00",
+      "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
+      "author": "Lilian Weng",
+      "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
       "category": "ai"
     },
     {
@@ -1139,6 +1103,15 @@
       "link": "https://magazine.sebastianraschka.com/p/new-llm-pre-training-and-post-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "ae423d41c3c5aa855626e46f704b3409ef6f9d32",
+      "title": "Deploy open LLMs with Terraform and Amazon SageMaker",
+      "created": "2024-08-05 08:00",
+      "link": "https://www.philschmid.de/terraform-llm-sagemaker",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1313,55 +1286,28 @@
       "category": "ai"
     },
     {
-      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
-      "title": "NousResearch/hermes-agent",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/NousResearch/hermes-agent",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "7c95635412aeaf23fafb688ad7e8a0648cc6378e",
-      "title": "QwenLM/Qwen-Agent",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/QwenLM/Qwen-Agent",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "3b23309d9289b25299848236293eff0d27b5ce0e",
-      "title": "virattt/ai-hedge-fund",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/virattt/ai-hedge-fund",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "a4c670db592db63c8bfbe4ff726dc141429b6ac5",
-      "title": "GoogleCloudPlatform/generative-ai",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/GoogleCloudPlatform/generative-ai",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "7e12207576fb4b59a4575a2e9724b838baebc464",
-      "title": "teng-lin/notebooklm-py",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/teng-lin/notebooklm-py",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "62c7a5d1f9f35d49165dabec76ce767178e5fdf8",
       "title": "666ghj/MiroFish",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/666ghj/MiroFish",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "6d7dbf0755b38fbcb2fd55f480d1bbbb46b77d59",
+      "title": "Q00/ouroboros",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/Q00/ouroboros",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "f2f8872b16ace9c13f8ad521672023dd505a9433",
+      "title": "fishaudio/fish-speech",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/fishaudio/fish-speech",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1376,19 +1322,28 @@
       "category": "ai"
     },
     {
-      "id": "ec643c90aca4ac8d3a02abbeeab6bae2e8303164",
-      "title": "msitarzewski/agency-agents",
+      "id": "3b23309d9289b25299848236293eff0d27b5ce0e",
+      "title": "virattt/ai-hedge-fund",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/msitarzewski/agency-agents",
+      "link": "https://github.com/virattt/ai-hedge-fund",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "905757c351ef282310e1e2b11958927638429656",
-      "title": "inclusionAI/AReaL",
+      "id": "7e12207576fb4b59a4575a2e9724b838baebc464",
+      "title": "teng-lin/notebooklm-py",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/inclusionAI/AReaL",
+      "link": "https://github.com/teng-lin/notebooklm-py",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
+      "title": "NousResearch/hermes-agent",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/NousResearch/hermes-agent",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1403,19 +1358,19 @@
       "category": "ai"
     },
     {
-      "id": "b887f733149be939ed7d604527578d4a6403c542",
-      "title": "moeru-ai/airi",
+      "id": "a4c670db592db63c8bfbe4ff726dc141429b6ac5",
+      "title": "GoogleCloudPlatform/generative-ai",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/moeru-ai/airi",
+      "link": "https://github.com/GoogleCloudPlatform/generative-ai",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "1578476054924343c30bb9dcb9ee3ac3e52de914",
-      "title": "alirezarezvani/claude-skills",
+      "id": "ec643c90aca4ac8d3a02abbeeab6bae2e8303164",
+      "title": "msitarzewski/agency-agents",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/alirezarezvani/claude-skills",
+      "link": "https://github.com/msitarzewski/agency-agents",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1430,10 +1385,10 @@
       "category": "ai"
     },
     {
-      "id": "f34f4dbecb6a77eed9c33e45d6463239607c2019",
-      "title": "TheCraigHewitt/seomachine",
+      "id": "b887f733149be939ed7d604527578d4a6403c542",
+      "title": "moeru-ai/airi",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/TheCraigHewitt/seomachine",
+      "link": "https://github.com/moeru-ai/airi",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1517,6 +1472,15 @@
       "link": "https://philliphaeusler.com/posts/tic_tac_toe/",
       "author": "Phillip Haeusler",
       "avatar": "https://philliphaeusler.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "001115838b91da96dc1ba1a87b6763a732f04384",
+      "title": "Optimizing LLMs From a Dataset Perspective",
+      "created": "2023-09-15 16:00",
+      "link": "https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1938,6 +1902,15 @@
       "title": "寻找无双",
       "created": "2019-06-19 08:00",
       "link": "https://mathewshen.me/blog/2019/wushuang/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "13002fb9db5605e299c4bb42c21aea58309fc77f",
+      "title": "所谓偶然",
+      "created": "2019-01-19 08:00",
+      "link": "https://mathewshen.me/blog/2019/chance/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
