@@ -1,12 +1,57 @@
 {
   "statistical_data": {
     "friends_num": 38,
-    "active_num": 37,
-    "error_num": 1,
-    "article_num": 212,
-    "last_updated_time": "2026-03-15 15:05:32"
+    "active_num": 36,
+    "error_num": 2,
+    "article_num": 216,
+    "last_updated_time": "2026-03-15 21:05:39"
   },
   "article_data": [
+    {
+      "id": "1a7218f83985e5c973385967f7f9249b5f26d5ae",
+      "title": "当 Kanban 不再管理人：Routa Kanban 如何管理 Agent Team",
+      "created": "2026-03-15 15:19",
+      "link": "http://www.phodal.com/blog/routa-kanban/",
+      "author": "Phodal Huang",
+      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "e1e86b3ce9482970bffecfa20ff35c167bb06c1d",
+      "title": "arXiv变天：将脱离康奈尔大学独立，招聘CEO，网友：以后还能白嫖吗？",
+      "created": "2026-03-15 09:17",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651021511&idx=1&sn=cb3ab9cb9de227e10b337643099ca960",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "d3275baf7fe1459d44780052b2de406c92124448",
+      "title": "OpenClaw带火AI记忆，DeepMind用混合记忆把3D重建拉到近2万帧",
+      "created": "2026-03-15 09:17",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651021511&idx=2&sn=e5194bc09c7ddbdeb96f773132df10e5",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6066a2cb5e2f2aa44f729cd964f17ecd48b6df98",
+      "title": "ICLR 2026｜多模态大模型真的理解情绪吗？MME-Emotion给出了系统答案",
+      "created": "2026-03-15 09:17",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651021511&idx=3&sn=08a96e73521c602bd5066af107cdd9ff",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b1e166963f559702af6111de1ad8f494037106df",
+      "title": "New LLM Architecture Gallery",
+      "created": "2026-03-14 22:45",
+      "link": "https://sebastianraschka.com/blog/2026/llm-architecture-gallery.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "45538c7b9b24d2968991b51761dcf89790db422f",
       "title": "LLM 算法岗 | 八股问答（2）· 大模型训练流程与微调技术 - MoonOut",
@@ -80,19 +125,19 @@
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -314,21 +359,21 @@
       "category": "ai"
     },
     {
-      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
-      "title": "Qwen多模态系列论文",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
       "title": "Google Gemini LangChain Cheatsheet",
       "created": "2025-04-28 08:00",
       "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
+      "title": "Qwen多模态系列论文",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -386,21 +431,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -683,21 +728,21 @@
       "category": "ai"
     },
     {
-      "id": "0df637fa256ffa2ba859e4dd6fac7cab947a37b0",
-      "title": "Deepseek GRPO 中的 KL Divergence",
-      "created": "2025-02-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/grpo-kl/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "0292d48a6afc79fe95d873eacb428e416c3560d4",
       "title": "从梯度消失到模型过拟合：归一化、Dropout 和梯度裁剪的深度解析",
       "created": "2025-02-23 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/02/23/dl-norm.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "0df637fa256ffa2ba859e4dd6fac7cab947a37b0",
+      "title": "Deepseek GRPO 中的 KL Divergence",
+      "created": "2025-02-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/grpo-kl/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -791,21 +836,21 @@
       "category": "ai"
     },
     {
-      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
-      "title": "Oh-Numpy & Oh-Pytorch",
-      "created": "2025-01-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
       "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
       "created": "2025-01-23 08:00",
       "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -935,21 +980,21 @@
       "category": "ai"
     },
     {
-      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
-      "title": "斯坦福小镇解读",
-      "created": "2024-11-28 08:00",
-      "link": "https://mathewshen.me/blog/2024/ai-town/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
       "title": "Reward Hacking in Reinforcement Learning",
       "created": "2024-11-28 08:00",
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1169,19 +1214,19 @@
       "category": "lang"
     },
     {
-      "id": "f15ee17f9a180e70f51d72ddb0699517ab427690",
-      "title": "LLM Research Insights: Instruction Masking and New LoRA Finetuning Experiments?",
+      "id": "5c65a47f7c108aa298e2cf8c69975f821df95bf8",
+      "title": "Developing an LLM: Building, Training, Finetuning",
       "created": "2024-06-02 14:03",
-      "link": "https://magazine.sebastianraschka.com/p/llm-research-insights-instruction",
+      "link": "https://magazine.sebastianraschka.com/p/llms-building-training-finetuning",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "5c65a47f7c108aa298e2cf8c69975f821df95bf8",
-      "title": "Developing an LLM: Building, Training, Finetuning",
+      "id": "f15ee17f9a180e70f51d72ddb0699517ab427690",
+      "title": "LLM Research Insights: Instruction Masking and New LoRA Finetuning Experiments?",
       "created": "2024-06-02 14:03",
-      "link": "https://magazine.sebastianraschka.com/p/llms-building-training-finetuning",
+      "link": "https://magazine.sebastianraschka.com/p/llm-research-insights-instruction",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
@@ -1472,15 +1517,6 @@
       "link": "https://philliphaeusler.com/posts/tic_tac_toe/",
       "author": "Phillip Haeusler",
       "avatar": "https://philliphaeusler.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "001115838b91da96dc1ba1a87b6763a732f04384",
-      "title": "Optimizing LLMs From a Dataset Perspective",
-      "created": "2023-09-15 16:00",
-      "link": "https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
