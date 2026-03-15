@@ -3,37 +3,10 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 214,
-    "last_updated_time": "2026-03-15 02:47:28"
+    "article_num": 212,
+    "last_updated_time": "2026-03-15 10:50:52"
   },
   "article_data": [
-    {
-      "id": "d604e108f8fdc38b763f1d9e1b4ea46e35b59f1b",
-      "title": "Quoting Jannis Leidel",
-      "created": "2026-03-15 02:41",
-      "link": "https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "d7c85d2a8ebefed8ef6a4881adc02fce8c093d55",
-      "title": "My fireside chat about agentic engineering at the Pragmatic Summit",
-      "created": "2026-03-15 02:19",
-      "link": "https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "8e32ed0cd2af04844e3ce1f0ae4155bad551e6cd",
-      "title": "EP206: Git Workflow: Essential Commands",
-      "created": "2026-03-14 23:30",
-      "link": "https://blog.bytebytego.com/p/ep206-git-workflow-essential-commands",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
     {
       "id": "45538c7b9b24d2968991b51761dcf89790db422f",
       "title": "LLM 算法岗 | 八股问答（2）· 大模型训练流程与微调技术 - MoonOut",
@@ -107,19 +80,19 @@
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -278,15 +251,6 @@
       "category": "ai"
     },
     {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -302,6 +266,15 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -413,21 +386,21 @@
       "category": "ai"
     },
     {
-      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
-      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
-      "created": "2025-04-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
       "title": "The State of Reinforcement Learning for LLM Reasoning",
       "created": "2025-04-19 08:00",
       "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
+      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
+      "created": "2025-04-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -557,21 +530,21 @@
       "category": "ai"
     },
     {
-      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
-      "title": "Model Context Protocol (MCP) an overview",
-      "created": "2025-04-03 08:00",
-      "link": "https://www.philschmid.de/mcp-introduction",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
       "title": "The NLP Course is becoming the LLM Course",
       "created": "2025-04-03 08:00",
       "link": "https://huggingface.co/blog/llm-course",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
+      "title": "Model Context Protocol (MCP) an overview",
+      "created": "2025-04-03 08:00",
+      "link": "https://www.philschmid.de/mcp-introduction",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1304,73 +1277,19 @@
       "category": "ai"
     },
     {
-      "id": "62c7a5d1f9f35d49165dabec76ce767178e5fdf8",
-      "title": "666ghj/MiroFish",
+      "id": "ec643c90aca4ac8d3a02abbeeab6bae2e8303164",
+      "title": "msitarzewski/agency-agents",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/666ghj/MiroFish",
+      "link": "https://github.com/msitarzewski/agency-agents",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "6d7dbf0755b38fbcb2fd55f480d1bbbb46b77d59",
-      "title": "Q00/ouroboros",
+      "id": "7e7a6ce6c81ff0b491dad3522f0eb9a3d19259e0",
+      "title": "lightpanda-io/browser",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Q00/ouroboros",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "f2f8872b16ace9c13f8ad521672023dd505a9433",
-      "title": "fishaudio/fish-speech",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/fishaudio/fish-speech",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "add7186209e3eea0a32d1d70a91c5b5cc86cb92d",
-      "title": "666ghj/BettaFish",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/666ghj/BettaFish",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "3b23309d9289b25299848236293eff0d27b5ce0e",
-      "title": "virattt/ai-hedge-fund",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/virattt/ai-hedge-fund",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "7e12207576fb4b59a4575a2e9724b838baebc464",
-      "title": "teng-lin/notebooklm-py",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/teng-lin/notebooklm-py",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
-      "title": "NousResearch/hermes-agent",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/NousResearch/hermes-agent",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "ab15f474a2763269ec4e90c6123dcec8d5ee3dbf",
-      "title": "bytedance/deer-flow",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/bytedance/deer-flow",
+      "link": "https://github.com/lightpanda-io/browser",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1385,10 +1304,46 @@
       "category": "ai"
     },
     {
-      "id": "ec643c90aca4ac8d3a02abbeeab6bae2e8303164",
-      "title": "msitarzewski/agency-agents",
+      "id": "221b3f216a71272dff35581a4da17e4a9d81a3a6",
+      "title": "karpathy/nanochat",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/msitarzewski/agency-agents",
+      "link": "https://github.com/karpathy/nanochat",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "f2f8872b16ace9c13f8ad521672023dd505a9433",
+      "title": "fishaudio/fish-speech",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/fishaudio/fish-speech",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "7e12207576fb4b59a4575a2e9724b838baebc464",
+      "title": "teng-lin/notebooklm-py",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/teng-lin/notebooklm-py",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "ab15f474a2763269ec4e90c6123dcec8d5ee3dbf",
+      "title": "bytedance/deer-flow",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/bytedance/deer-flow",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "3b23309d9289b25299848236293eff0d27b5ce0e",
+      "title": "virattt/ai-hedge-fund",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/virattt/ai-hedge-fund",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1403,10 +1358,37 @@
       "category": "ai"
     },
     {
-      "id": "b887f733149be939ed7d604527578d4a6403c542",
-      "title": "moeru-ai/airi",
+      "id": "62c7a5d1f9f35d49165dabec76ce767178e5fdf8",
+      "title": "666ghj/MiroFish",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/moeru-ai/airi",
+      "link": "https://github.com/666ghj/MiroFish",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "add7186209e3eea0a32d1d70a91c5b5cc86cb92d",
+      "title": "666ghj/BettaFish",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/666ghj/BettaFish",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
+      "title": "NousResearch/hermes-agent",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "22094f39633a83796f270ca789a7796a6d612fbc",
+      "title": "volcengine/OpenViking",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/volcengine/OpenViking",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
