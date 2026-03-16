@@ -1,12 +1,48 @@
 {
   "statistical_data": {
     "friends_num": 38,
-    "active_num": 36,
-    "error_num": 2,
-    "article_num": 214,
-    "last_updated_time": "2026-03-16 15:26:39"
+    "active_num": 37,
+    "error_num": 1,
+    "article_num": 219,
+    "last_updated_time": "2026-03-16 21:24:41"
   },
   "article_data": [
+    {
+      "id": "716496a1d7f1e8111b8e9d73c2747ef00395e20f",
+      "title": "阿里 JVS Claw 上手：都这么多天了，养虾的门槛被打下来了吗？",
+      "created": "2026-03-16 15:36",
+      "link": "https://blog.zhheo.com/p/ey4573gn.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
+      "category": "friend"
+    },
+    {
+      "id": "980345c114905dc5df86a4226a1767b123ba615a",
+      "title": "清华团队悄悄开源了一只「教学龙虾」：国内首个L4级AI课堂来了",
+      "created": "2026-03-16 11:50",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651021695&idx=1&sn=cf9c302c1497b4bbc9461f257549e1c8",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "5197d603e19d12a77f5e6406e19311e16ae1264d",
+      "title": "DeepSeek、GPT、Qwen，所有大模型架构图都有，Karpathy：宝藏画廊！",
+      "created": "2026-03-16 11:50",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651021695&idx=2&sn=dfb05cf45cec9e723315eafd701ccd46",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "5c6bcb012b9305ac71596af980fd727cd5c6a8af",
+      "title": "以「图」破局，HyperOffload定义超节点存储管理新范式",
+      "created": "2026-03-16 11:50",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651021695&idx=3&sn=f8b94c4a3eccf08bd72eed11c4ca2798",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "2e60e70633ed33fd8a3a7580af696dfbdff28108",
       "title": "洪绘图标助手更新：获取应用图标、将你的图标对mac进行适配",
@@ -15,6 +51,15 @@
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
       "category": "friend"
+    },
+    {
+      "id": "f2a00befc99f7429b11147413e05607005b52673",
+      "title": "智能体工程的 8 个等级",
+      "created": "2026-03-16 08:00",
+      "link": "https://baoyu.io/translations/2026-03-11/levels-of-agentic-engineering",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
     },
     {
       "id": "d3ca584b07f59b86e95c94a3a9ef2052fcdcbc93",
@@ -413,21 +458,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -953,21 +998,21 @@
       "category": "ai"
     },
     {
-      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
-      "title": "斯坦福小镇解读",
-      "created": "2024-11-28 08:00",
-      "link": "https://mathewshen.me/blog/2024/ai-town/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
       "title": "Reward Hacking in Reinforcement Learning",
       "created": "2024-11-28 08:00",
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
