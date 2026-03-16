@@ -3,17 +3,17 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 234,
-    "last_updated_time": "2026-03-16 02:48:02"
+    "article_num": 228,
+    "last_updated_time": "2026-03-16 10:51:25"
   },
   "article_data": [
     {
-      "id": "d72caeae2066e146c91de91305bd2c06827f7dca",
-      "title": "肖恩技术周刊（第 85 期）：卖铲子的先富了",
-      "created": "2026-03-16 08:00",
-      "link": "https://weekly.shawnxie.top/content/2026/85.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "id": "3272e374bfa9fa1a1066ce8c51f4aefdbac2f6a2",
+      "title": "What is agentic engineering?",
+      "created": "2026-03-16 06:41",
+      "link": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -23,105 +23,6 @@
       "link": "https://www.cnblogs.com/moonout/p/19722167",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
-      "id": "2aca1fc336df84ddda7c74589208a2db37b44829",
-      "title": "MiroFish：AI 预测引擎",
-      "created": "2026-03-15 08:00",
-      "link": "https://lumina.shawnxie.top/article/mirofish-ai-yu-ce-yin-qing-4b7977a0",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "e390bbd635e477114de8884c75ac53f37d4e620b",
-      "title": "claude-plugins-official: Claude Code 高质量插件精选目录",
-      "created": "2026-03-15 08:00",
-      "link": "https://lumina.shawnxie.top/article/anthropics-claude-plugins-official-official-cfefd007",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "256d156c9d07288083cdb2dc2a9df9cd8f997c44",
-      "title": "Qwen-Agent：基于 Qwen 的智能体框架",
-      "created": "2026-03-15 08:00",
-      "link": "https://lumina.shawnxie.top/article/qwen-agent-ji-yu-qwen-de-zhi-neng-ti-kuang-jia-35c776f2",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "c72c6f1a9c711e3fd8ca051526e2f2d501a10384",
-      "title": "‌⁢​‍⁡⁤﻿⁤﻿‌‍‌‬﻿​​‬⁣‍⁢﻿‌​​﻿​⁡‬‬⁢⁤‍⁢‌﻿⁡‬⁡​﻿‍﻿​‍‍‌​⁣⁡⁡2026 企业级AI编程实践手册",
-      "created": "2026-03-15 08:00",
-      "link": "https://lumina.shawnxie.top/article/2026-qi-ye-ji-aibian-cheng-shi-jian-shou-ce-fei-6d5df702",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "30b56a9fa985b923a89cf67d308250e716d83027",
-      "title": "人工智能应该帮助我们编写更好的代码",
-      "created": "2026-03-15 08:00",
-      "link": "https://lumina.shawnxie.top/article/ai-should-help-us-produce-better-code-agentic-a0003db5",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "dc888669a4baed22456ae289f0443548ce91e842",
-      "title": "OpenClaw飞书官方插件上线",
-      "created": "2026-03-15 08:00",
-      "link": "https://lumina.shawnxie.top/article/openclawfei-shu-guan-fang-cha-jian-shang-xian-yi-2da08f3e",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "65dcc9e0349327e0c83c4070503d46af3ee00b4f",
-      "title": "​Star 量破 28 万：OpenClaw 发布重大更新，正式支持 GPT-5.4 与“记忆热插拔”",
-      "created": "2026-03-15 08:00",
-      "link": "https://lumina.shawnxie.top/article/star-liang-po-28-mo-openclaw-fa-bu-zhong-da-geng-3fd5b5be",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "819ea5bb46643a0d9649c194eed71670dfe4f268",
-      "title": "专为中国用户优化的Skills社区",
-      "created": "2026-03-15 08:00",
-      "link": "https://lumina.shawnxie.top/article/zhuan-wei-zhong-guo-yong-hu-you-hua-de-skillsshe-4068e7d3",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "f8da5d7d6cc373b8f437c91da7583a497a65e740",
-      "title": "理解债务 —— 人工智能生成代码的隐性成本",
-      "created": "2026-03-14 08:00",
-      "link": "https://lumina.shawnxie.top/article/comprehension-debt-the-hidden-cost-of-ai-47076014",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "046846a809bd91921684ef09c88d3e069b03adb8",
-      "title": "程序员之后的编程：我们所熟知的计算机编程的终结",
-      "created": "2026-03-12 08:00",
-      "link": "https://lumina.shawnxie.top/article/coding-after-coders-the-end-of-computer-a427dc90",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "149450bfdfc3f3473e29d65b08080fd5202b078e",
-      "title": "你不知道的 Claude Code：架构、治理与工程实践",
-      "created": "2026-03-12 08:00",
-      "link": "https://lumina.shawnxie.top/article/ni-bu-zhi-dao-de-claude-code-jia-gou-zhi-li-yu-f814e0b8",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -152,82 +53,127 @@
       "category": "ai"
     },
     {
-      "id": "5a722c89738a90429ca9c61a10d3c20796f8c583",
-      "title": "自主上下文压缩",
-      "created": "2026-03-11 08:00",
-      "link": "https://lumina.shawnxie.top/article/autonomous-context-compression-969bac1a",
+      "id": "b9d765d1806ad0baf9c979665e5f73f9555d74c1",
+      "title": "GPT‑5.4 震撼登场",
+      "created": "2026-03-05 08:00",
+      "link": "https://lumina.shawnxie.top/article/introducing-gpt-5-4-5fccec8b",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
-      "id": "c87cc493284f5937cc70e6047424aaa1da0b3509",
-      "title": "推理模型难以掌控思维链，但这反而是件好事",
-      "created": "2026-03-10 08:00",
-      "link": "https://lumina.shawnxie.top/article/tui-li-mo-xing-nan-yi-zhang-kong-si-wei-lian-dan-83b8662f",
+      "id": "33571f28bbcb3d8c20d50e6b1198a795329f9dbc",
+      "title": "评估 Skills",
+      "created": "2026-03-05 08:00",
+      "link": "https://lumina.shawnxie.top/article/evaluating-skills-74ec735b",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
-      "id": "928f786e7b85f9fa4c33fc1a1e46fdf898343004",
-      "title": "编码代理如何重塑工程、产品和设计领域",
-      "created": "2026-03-10 08:00",
-      "link": "https://lumina.shawnxie.top/article/how-coding-agents-are-reshaping-engineering-59878b22",
+      "id": "18cfe56b03b235896d5344ad098288b32655e503",
+      "title": "Google NotebookLM 推出“电影级视频概览”新功能",
+      "created": "2026-03-05 08:00",
+      "link": "https://lumina.shawnxie.top/article/google-notebooklm-tui-chu-dian-ying-ji-shi-pin-edc68593",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
-      "id": "ffbf2af346a8cd1f1ca5ff1bf080e52fd920edde",
-      "title": "智能体框架的深层剖析",
-      "created": "2026-03-10 08:00",
-      "link": "https://lumina.shawnxie.top/article/the-anatomy-of-an-agent-harness-3ea27a0f",
+      "id": "3749191b29421f302c274a185798474017a8aa6f",
+      "title": "联想新款 T 系列 ThinkPad 笔记本电脑在可维修性方面获得 10/10 的评分",
+      "created": "2026-03-05 08:00",
+      "link": "https://lumina.shawnxie.top/article/lenovos-new-t-series-thinkpads-score-10-10-for-74ccad36",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
-      "id": "0e6abc89f8c57655f3917ba44413369553afd3e8",
-      "title": "Gemini Embedding 2：Google首款原生多模态嵌入模型",
-      "created": "2026-03-10 08:00",
-      "link": "https://lumina.shawnxie.top/article/gemini-embedding-2-our-first-natively-multimodal-1e062f90",
+      "id": "cf7eb1dea72e03eecf22478fd0ea851cb7fd2d98",
+      "title": "评估和测试智能体技能实用指南",
+      "created": "2026-03-04 08:00",
+      "link": "https://lumina.shawnxie.top/article/practical-guide-to-evaluating-and-testing-agent-f764f209",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
-      "id": "6c7bf66c5658f1f8db72bf481d78c4b53131e9b3",
-      "title": "Anthropic在Claude Code推出AI代码审查工具Code Review，自动检测Pull Request漏洞",
-      "created": "2026-03-10 08:00",
-      "link": "https://lumina.shawnxie.top/article/anthropiczai-claude-codetui-chu-aidai-ma-shen-cha-d2935a45",
+      "id": "492e89d89efe2a5bab7ec8b2bef88308ccfefd8e",
+      "title": "LangChain Skills",
+      "created": "2026-03-04 08:00",
+      "link": "https://lumina.shawnxie.top/article/langchain-skills-316bfef7",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
-      "id": "3a39ebdec5cbfb9816513f28a262f06c2015bf21",
-      "title": "2026，写给 AI 创业者的慷慨、残酷、与迷雾",
-      "created": "2026-03-07 08:00",
-      "link": "https://lumina.shawnxie.top/article/2026-xie-gei-ai-chuang-ye-zhe-de-kang-kai-can-ku-02670e58",
+      "id": "30fb9a6fb43c291716803a832faba05fdb98af7b",
+      "title": "软件工程循环中的人类与智能体",
+      "created": "2026-03-04 08:00",
+      "link": "https://lumina.shawnxie.top/article/humans-and-agents-in-software-engineering-loops-276e9c31",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
-      "id": "fbdc8c0f5660b72d16e795918bf06cef8050d88c",
-      "title": "我的编码智能体工作效率提高技巧",
-      "created": "2026-03-06 08:00",
-      "link": "https://lumina.shawnxie.top/article/hoard-things-you-know-how-to-do-agentic-d7a87f9c",
+      "id": "d01e017e5b10cd3a6f605619ae8bf829974df40c",
+      "title": "2026年中国AI发展趋势前瞻",
+      "created": "2026-03-04 08:00",
+      "link": "https://lumina.shawnxie.top/article/2026nian-zhong-guo-aifa-zhan-qu-shi-qian-zhan-af51059a",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
-      "id": "d310879d6aea81509b8bda3be0f9a8f7e0e64dca",
-      "title": "GPT-5.4 思维系统卡片",
-      "created": "2026-03-06 08:00",
-      "link": "https://lumina.shawnxie.top/article/gpt-5-4-thinking-system-card-openai-deployment-210f00db",
+      "id": "e86885db4ee74665b5d52bb008d33306ebf0436d",
+      "title": "​响应快如闪电！谷歌发布 Gemini 3.1 Flash-Lite：首字提速 2.5 倍，算力成本再创新低",
+      "created": "2026-03-04 08:00",
+      "link": "https://lumina.shawnxie.top/article/xiang-ying-kuai-ru-shan-dian-gu-ge-fa-bu-gemini-3-fb5f3f7f",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "67d15f0bb73be2ad2fce5c2ffb12f06d7886f556",
+      "title": "没人会因为简单而获得晋升",
+      "created": "2026-03-03 08:00",
+      "link": "https://lumina.shawnxie.top/article/nobody-gets-promoted-for-simplicity-d1298df9",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "06014ff68e1646da97768e1e063ea283b6422856",
+      "title": "从被动应对到主动出击：借助大语言模型弥合钓鱼攻击防御缺口",
+      "created": "2026-03-03 08:00",
+      "link": "https://lumina.shawnxie.top/article/from-reactive-to-proactive-closing-the-phishing-df9ff7a4",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "e1ea3ae9176d033d3f98f4a9f36648d70d25706f",
+      "title": "改进 skill-creator：测试、衡量并优化 Agent 技能",
+      "created": "2026-03-03 08:00",
+      "link": "https://lumina.shawnxie.top/article/improving-skill-creator-test-measure-and-refine-275bc129",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "fcaf82e58969a47ce3a4d7beeb6108044c48f360",
+      "title": "Gemini 3.1 Flash-Lite：为大规模智能而打造",
+      "created": "2026-03-03 08:00",
+      "link": "https://lumina.shawnxie.top/article/gemini-3-1-flash-lite-built-for-intelligence-at-496267d7",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "5742ea56e486723350291057b2883fe7403a0d11",
+      "title": "Claude Code官方语音模式上线：输入/voice，按住空格说话，AI编程效率直接起飞",
+      "created": "2026-03-03 08:00",
+      "link": "https://lumina.shawnxie.top/article/claude-codeguan-fang-yu-yin-mo-shi-shang-xian-shu-7524922c",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
@@ -287,19 +233,19 @@
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -593,21 +539,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -890,21 +836,21 @@
       "category": "ai"
     },
     {
-      "id": "0df637fa256ffa2ba859e4dd6fac7cab947a37b0",
-      "title": "Deepseek GRPO 中的 KL Divergence",
-      "created": "2025-02-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/grpo-kl/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "0292d48a6afc79fe95d873eacb428e416c3560d4",
       "title": "从梯度消失到模型过拟合：归一化、Dropout 和梯度裁剪的深度解析",
       "created": "2025-02-23 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/02/23/dl-norm.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "0df637fa256ffa2ba859e4dd6fac7cab947a37b0",
+      "title": "Deepseek GRPO 中的 KL Divergence",
+      "created": "2025-02-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/grpo-kl/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -989,21 +935,21 @@
       "category": "ai"
     },
     {
-      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
-      "title": "Oh-Numpy & Oh-Pytorch",
-      "created": "2025-01-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
       "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
       "created": "2025-01-23 08:00",
       "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1133,21 +1079,21 @@
       "category": "ai"
     },
     {
-      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
-      "title": "斯坦福小镇解读",
-      "created": "2024-11-28 08:00",
-      "link": "https://mathewshen.me/blog/2024/ai-town/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
       "title": "Reward Hacking in Reinforcement Learning",
       "created": "2024-11-28 08:00",
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1466,82 +1412,10 @@
       "category": "ai"
     },
     {
-      "id": "bfbf32c9cff73ba561d8a5c2dd2d52895fbf6525",
-      "title": "promptfoo/promptfoo",
+      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
+      "title": "NousResearch/hermes-agent",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/promptfoo/promptfoo",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "ec643c90aca4ac8d3a02abbeeab6bae2e8303164",
-      "title": "msitarzewski/agency-agents",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/msitarzewski/agency-agents",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "7e7a6ce6c81ff0b491dad3522f0eb9a3d19259e0",
-      "title": "lightpanda-io/browser",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/lightpanda-io/browser",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "a4c670db592db63c8bfbe4ff726dc141429b6ac5",
-      "title": "GoogleCloudPlatform/generative-ai",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/GoogleCloudPlatform/generative-ai",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "221b3f216a71272dff35581a4da17e4a9d81a3a6",
-      "title": "karpathy/nanochat",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/karpathy/nanochat",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "f2f8872b16ace9c13f8ad521672023dd505a9433",
-      "title": "fishaudio/fish-speech",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/fishaudio/fish-speech",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "7e12207576fb4b59a4575a2e9724b838baebc464",
-      "title": "teng-lin/notebooklm-py",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/teng-lin/notebooklm-py",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "ab15f474a2763269ec4e90c6123dcec8d5ee3dbf",
-      "title": "bytedance/deer-flow",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/bytedance/deer-flow",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "3b23309d9289b25299848236293eff0d27b5ce0e",
-      "title": "virattt/ai-hedge-fund",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/virattt/ai-hedge-fund",
+      "link": "https://github.com/NousResearch/hermes-agent",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1556,10 +1430,73 @@
       "category": "ai"
     },
     {
+      "id": "221b3f216a71272dff35581a4da17e4a9d81a3a6",
+      "title": "karpathy/nanochat",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/karpathy/nanochat",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "62c7a5d1f9f35d49165dabec76ce767178e5fdf8",
       "title": "666ghj/MiroFish",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/666ghj/MiroFish",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "7e12207576fb4b59a4575a2e9724b838baebc464",
+      "title": "teng-lin/notebooklm-py",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/teng-lin/notebooklm-py",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "bfbf32c9cff73ba561d8a5c2dd2d52895fbf6525",
+      "title": "promptfoo/promptfoo",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/promptfoo/promptfoo",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "1739a2341816bb7a6628a1455e6456db5d96f38f",
+      "title": "AstrBotDevs/AstrBot",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/AstrBotDevs/AstrBot",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "ec643c90aca4ac8d3a02abbeeab6bae2e8303164",
+      "title": "msitarzewski/agency-agents",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/msitarzewski/agency-agents",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "3b23309d9289b25299848236293eff0d27b5ce0e",
+      "title": "virattt/ai-hedge-fund",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/virattt/ai-hedge-fund",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "f2f8872b16ace9c13f8ad521672023dd505a9433",
+      "title": "fishaudio/fish-speech",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/fishaudio/fish-speech",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1574,10 +1511,19 @@
       "category": "ai"
     },
     {
-      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
-      "title": "NousResearch/hermes-agent",
+      "id": "ab15f474a2763269ec4e90c6123dcec8d5ee3dbf",
+      "title": "bytedance/deer-flow",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/NousResearch/hermes-agent",
+      "link": "https://github.com/bytedance/deer-flow",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "a4c670db592db63c8bfbe4ff726dc141429b6ac5",
+      "title": "GoogleCloudPlatform/generative-ai",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/GoogleCloudPlatform/generative-ai",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
