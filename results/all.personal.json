@@ -3,45 +3,72 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 216,
-    "last_updated_time": "2026-03-17 03:11:02"
+    "article_num": 220,
+    "last_updated_time": "2026-03-17 10:34:22"
   },
   "article_data": [
     {
-      "id": "057012e580fdbe4f1bdfc6b1de3721e7e17387e2",
-      "title": "How Stripe’s Minions Ship 1,300 PRs a Week",
-      "created": "2026-03-16 23:31",
-      "link": "https://blog.bytebytego.com/p/how-stripes-minions-ship-1300-prs",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "af7c23b6d303a94ab841312ce0baacb7d46ab622",
-      "title": "Harness Engineering 的下一步：Fitness Function 定义 AI Agent 的完成条件",
-      "created": "2026-03-16 22:43",
-      "link": "http://www.phodal.com/blog/harness-engineering-fitness-function/",
-      "author": "Phodal Huang",
-      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "cf4fc67c5aa481947317e8e4e454608cf62cc95d",
-      "title": "How coding agents work",
-      "created": "2026-03-16 22:01",
-      "link": "https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#atom-everything",
+      "id": "83af6dcaec3665e951dec415b302a1b1744d487e",
+      "title": "Introducing Mistral Small 4",
+      "created": "2026-03-17 07:41",
+      "link": "https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
-      "id": "47e439e51c2390039502cb8b2240035c2a99653b",
-      "title": "Developer Guide: Nano Banana 2 with the Gemini Interactions API",
-      "created": "2026-03-16 08:00",
-      "link": "https://www.philschmid.de/nano-banana-2-interactions-api",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
+      "id": "e66b4f44aee3b8173490c9309b30d61b74886460",
+      "title": "Use subagents and custom agents in Codex",
+      "created": "2026-03-17 07:03",
+      "link": "https://simonwillison.net/2026/Mar/16/codex-subagents/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
+    },
+    {
+      "id": "71500f01f7def7ef90deceeab56a32b3e2221120",
+      "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
+      "created": "2026-03-17 05:58",
+      "link": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e3f9bbb1b6d16ab7437102ff91c337178b62ece6",
+      "title": "Quoting A member of Anthropic’s alignment-science team",
+      "created": "2026-03-17 05:38",
+      "link": "https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "30c4046233679d9fb7e7234f26a189f84a4f42fc",
+      "title": "Quoting Guilherme Rambo",
+      "created": "2026-03-17 04:34",
+      "link": "https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "36be2f5d0bf879ea6cd105a88a95e890f7dd4c74",
+      "title": "Coding agents for data analysis",
+      "created": "2026-03-17 04:12",
+      "link": "https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "e020953146e39f33f8178c96567821dc21aa7422",
+      "title": "未命名文档",
+      "created": "2026-03-16 10:28",
+      "link": "https://imqi1.com/note/997",
+      "author": "ImQi1",
+      "avatar": "https://imqi1.com/avatar.webp",
+      "category": "friend"
     },
     {
       "id": "d3ca584b07f59b86e95c94a3a9ef2052fcdcbc93",
@@ -440,21 +467,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -579,15 +606,6 @@
       "title": "Journey to 1 Million Gradio Users!",
       "created": "2025-04-04 08:00",
       "link": "https://huggingface.co/blog/gradio-1m",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
-      "title": "The NLP Course is becoming the LLM Course",
-      "created": "2025-04-03 08:00",
-      "link": "https://huggingface.co/blog/llm-course",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
@@ -1142,6 +1160,15 @@
       "category": "ai"
     },
     {
+      "id": "ae423d41c3c5aa855626e46f704b3409ef6f9d32",
+      "title": "Deploy open LLMs with Terraform and Amazon SageMaker",
+      "created": "2024-08-05 08:00",
+      "link": "https://www.philschmid.de/terraform-llm-sagemaker",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "c48435ecf46221f7a9f8b6f954b7bb41187ed7ee",
       "title": "链接器：第一视角深入理解 PLT 和 GOT",
       "created": "2024-07-27 12:17",
@@ -1304,10 +1331,19 @@
       "category": "ai"
     },
     {
-      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
-      "title": "NousResearch/hermes-agent",
+      "id": "62c7a5d1f9f35d49165dabec76ce767178e5fdf8",
+      "title": "666ghj/MiroFish",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/NousResearch/hermes-agent",
+      "link": "https://github.com/666ghj/MiroFish",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
+      "title": "obra/superpowers",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/obra/superpowers",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1322,28 +1358,10 @@
       "category": "ai"
     },
     {
-      "id": "221b3f216a71272dff35581a4da17e4a9d81a3a6",
-      "title": "karpathy/nanochat",
+      "id": "ec643c90aca4ac8d3a02abbeeab6bae2e8303164",
+      "title": "msitarzewski/agency-agents",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/karpathy/nanochat",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "62c7a5d1f9f35d49165dabec76ce767178e5fdf8",
-      "title": "666ghj/MiroFish",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/666ghj/MiroFish",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "7e12207576fb4b59a4575a2e9724b838baebc464",
-      "title": "teng-lin/notebooklm-py",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/teng-lin/notebooklm-py",
+      "link": "https://github.com/msitarzewski/agency-agents",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1358,19 +1376,19 @@
       "category": "ai"
     },
     {
-      "id": "1739a2341816bb7a6628a1455e6456db5d96f38f",
-      "title": "AstrBotDevs/AstrBot",
+      "id": "ab15f474a2763269ec4e90c6123dcec8d5ee3dbf",
+      "title": "bytedance/deer-flow",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/AstrBotDevs/AstrBot",
+      "link": "https://github.com/bytedance/deer-flow",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "ec643c90aca4ac8d3a02abbeeab6bae2e8303164",
-      "title": "msitarzewski/agency-agents",
+      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
+      "title": "NousResearch/hermes-agent",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/msitarzewski/agency-agents",
+      "link": "https://github.com/NousResearch/hermes-agent",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1385,6 +1403,24 @@
       "category": "ai"
     },
     {
+      "id": "1739a2341816bb7a6628a1455e6456db5d96f38f",
+      "title": "AstrBotDevs/AstrBot",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/AstrBotDevs/AstrBot",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "fa4361846156ed467960d677c72734a959c6327d",
+      "title": "pbakaus/impeccable",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/pbakaus/impeccable",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "f2f8872b16ace9c13f8ad521672023dd505a9433",
       "title": "fishaudio/fish-speech",
       "created": "2024-01-01 00:00",
@@ -1394,28 +1430,19 @@
       "category": "ai"
     },
     {
-      "id": "add7186209e3eea0a32d1d70a91c5b5cc86cb92d",
-      "title": "666ghj/BettaFish",
+      "id": "4260c244130cf5323fa64b0b786b4c68bfe96f65",
+      "title": "vectorize-io/hindsight",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/666ghj/BettaFish",
+      "link": "https://github.com/vectorize-io/hindsight",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "ab15f474a2763269ec4e90c6123dcec8d5ee3dbf",
-      "title": "bytedance/deer-flow",
+      "id": "14e5ad11ea7e8fcfe72d302d4a25590aca02cf00",
+      "title": "alibaba/page-agent",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/bytedance/deer-flow",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "a4c670db592db63c8bfbe4ff726dc141429b6ac5",
-      "title": "GoogleCloudPlatform/generative-ai",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "link": "https://github.com/alibaba/page-agent",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1425,6 +1452,15 @@
       "title": "volcengine/OpenViking",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/volcengine/OpenViking",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "add7186209e3eea0a32d1d70a91c5b5cc86cb92d",
+      "title": "666ghj/BettaFish",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/666ghj/BettaFish",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
