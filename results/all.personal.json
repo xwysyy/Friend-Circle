@@ -1,12 +1,30 @@
 {
   "statistical_data": {
     "friends_num": 38,
-    "active_num": 36,
-    "error_num": 2,
-    "article_num": 214,
-    "last_updated_time": "2026-03-18 15:08:27"
+    "active_num": 37,
+    "error_num": 1,
+    "article_num": 240,
+    "last_updated_time": "2026-03-18 21:24:27"
   },
   "article_data": [
+    {
+      "id": "b86eaf85aa1fe2969bbd76931e00c3309fe9311c",
+      "title": "更全面的具身智能真机评测来了！CVPR 2026 ManipArena挑战赛邀你打榜",
+      "created": "2026-03-18 15:37",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651022107&idx=1&sn=fcf843bb29253f0f9c2707102cc7bd41",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "891e518a541b2eed3e219fd06d3f986472b1e841",
+      "title": "第二代PPTAgent来了！中科院软件所开源首个本地通用幻灯片智能体，9B参数打平GPT-5",
+      "created": "2026-03-18 15:37",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651022107&idx=2&sn=e1b4981cefa7374dbd336da7573d4d1c",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "a85f2ae7547fe956d3a1cefc715f7c67e0d1ad6c",
       "title": "LLM 算法岗 | 八股问答（7）· 多模态与主流模型架构 - MoonOut",
@@ -59,6 +77,33 @@
       "link": "https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "6ff4985b4301465e8af1956cdf58c6537d2a15cf",
+      "title": "老黄呼吁所有企业「养虾」当天，阿里正规军入场，「悟空」把路铺平了",
+      "created": "2026-03-17 18:00",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651022053&idx=1&sn=1d7af3d33e28cd5b752c9ffb4d795e27",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b9d6c43e357ae2c04188238513826bc9a3826f5a",
+      "title": "一家00后创办的世界模型公司，凭什么让华为哈勃重金押注？",
+      "created": "2026-03-17 18:00",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651022053&idx=2&sn=5643d1754b11e4edf1df9690c198f3a9",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e61aa0e83f85f0e878a75ce1864eaa42b715ae74",
+      "title": "TPAMI 2026 | 仅用两个变量破解混杂因素：CIC实现动力学因果推断与混杂变量重构",
+      "created": "2026-03-17 18:00",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651022053&idx=3&sn=e43fa5897fc7afd4ace6dbd5eb4a7c11",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -206,6 +251,15 @@
       "category": "ai"
     },
     {
+      "id": "14a25255c7608449e8cd53e30b91af49b4caec8a",
+      "title": "Harness Engineering — Agent 不好用，也许不是模型的问题",
+      "created": "2026-03-15 06:00",
+      "link": "https://yuanchaofa.com/post/harness-engineering-for-ai-agents",
+      "author": "chao fa",
+      "avatar": "https://yuanchaofa.com/img/icon.webp",
+      "category": "ai"
+    },
+    {
       "id": "45538c7b9b24d2968991b51761dcf89790db422f",
       "title": "LLM 算法岗 | 八股问答（2）· 大模型训练流程与微调技术 - MoonOut",
       "created": "2026-03-11 23:14",
@@ -287,19 +341,19 @@
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -383,6 +437,15 @@
       "link": "https://www.less-bug.com/posts/setting-up-a-rust-for-linux-kernel-development-environment-using-devcontainers/",
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
+      "title": "LLM KV Cache: A Simple Implementation",
+      "created": "2025-06-03 08:00",
+      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -584,21 +647,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -764,6 +827,15 @@
       "category": "ai"
     },
     {
+      "id": "a3173c4fa5b8941dac451cf5971bb66cf2a9a972",
+      "title": "简单聊一聊 Redis 的锁",
+      "created": "2025-03-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/redis-lock/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
       "id": "1f4f50d680e063561cf84e3d4e0b90a4237724ed",
       "title": "Python进阶知识：多进程/多线程/装饰器",
       "created": "2025-03-22 08:00",
@@ -809,6 +881,15 @@
       "category": "ai"
     },
     {
+      "id": "068bd4d0806cd59080bd2d2339e9e781ecb59453",
+      "title": "LLM Speculative Sampling",
+      "created": "2025-03-08 08:00",
+      "link": "https://mathewshen.me/blog/2025/llm-sps/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
       "id": "beb8c7ea608b77ba8db8a543586ed7fde34580d7",
       "title": "Function Calling Guide: Google DeepMind Gemini 2.0 Flash",
       "created": "2025-03-05 08:00",
@@ -824,6 +905,15 @@
       "link": "https://www.big-yellow-j.top/posts/2025/03/04/Muon.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "3a719ee2966104a868391fc9a8013ca2792854d2",
+      "title": "Presentia: 简单而优雅的 Presentation 模板",
+      "created": "2025-03-01 08:00",
+      "link": "https://mathewshen.me/blog/2025/presentia/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -854,12 +944,30 @@
       "category": "ai"
     },
     {
+      "id": "0df637fa256ffa2ba859e4dd6fac7cab947a37b0",
+      "title": "Deepseek GRPO 中的 KL Divergence",
+      "created": "2025-02-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/grpo-kl/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
       "id": "b1878e0c58c52f68b8962b0e844711a988f1636a",
       "title": "Kimi/DeepSeek最新论文MoBA与NSA阅读",
       "created": "2025-02-21 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/02/21/Kimi-DS-Paper.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "0a8af36fb1078d487435525b954ed3541385078d",
+      "title": "大语言模型与深度学习书籍推荐",
+      "created": "2025-02-20 08:00",
+      "link": "https://mathewshen.me/blog/2025/dl-book/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -935,6 +1043,15 @@
       "category": "ai"
     },
     {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
       "id": "d4f422f3dedc87affdc9fae36464dbe562b28e54",
       "title": "Implementing A Byte Pair Encoding (BPE) Tokenizer From Scratch",
       "created": "2025-01-17 14:03",
@@ -980,12 +1097,30 @@
       "category": "ai"
     },
     {
+      "id": "24d7521e90604dbe93d0043e2ab357f2c866b7f5",
+      "title": "我的 2024",
+      "created": "2024-12-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/2024-summary/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
       "id": "8c89103b7b80ecd42ce791943680f63289022e6b",
       "title": "Fine-tune classifier with ModernBERT in 2025",
       "created": "2024-12-25 08:00",
       "link": "https://www.philschmid.de/fine-tune-modern-bert-in-2025",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "29f20fa1aefd326df7ca2ee4bf6ffa76f034e82f",
+      "title": "LLM in 2024",
+      "created": "2024-12-23 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-think-2024/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1004,6 +1139,15 @@
       "link": "https://www.philschmid.de/fine-tune-llms-in-2025",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "eb18485588b0ae518cd743a96d284f3cfd56b667",
+      "title": "zhplot: 让 Python 中文做图变得简单",
+      "created": "2024-12-08 08:00",
+      "link": "https://mathewshen.me/blog/2024/zhplot/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1040,6 +1184,15 @@
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1166,6 +1319,15 @@
       "link": "https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "45947fdaf45ba89295df786ef67ce4c8912d4559",
+      "title": "Dawid-Skene 算法",
+      "created": "2024-08-21 08:00",
+      "link": "https://mathewshen.me/blog/2024/ds/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1328,6 +1490,15 @@
       "link": "https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e1ea58a7d21418f46f18cdc0c4719121fb8c5b0c",
+      "title": "终身学习:2023",
+      "created": "2024-02-07 08:00",
+      "link": "https://mathewshen.me/blog/2024/lifelong-2023/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1520,12 +1691,30 @@
       "category": "ai"
     },
     {
+      "id": "3a50aa765f50f5f8eb4952ae9b7728fc0b996e21",
+      "title": "开源体会",
+      "created": "2023-11-01 08:00",
+      "link": "https://mathewshen.me/blog/2023/open-source-related/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
       "id": "ce68292451aa04a5b4bad6af3da4610ebda1a855",
       "title": "Adversarial Attacks on LLMs",
       "created": "2023-10-25 08:00",
       "link": "https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "c7f9b0d2fd1cc527353d36b0fa67953cf2d3870e",
+      "title": "十岁那年",
+      "created": "2023-10-07 08:00",
+      "link": "https://mathewshen.me/blog/2023/ten-years-old/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1772,6 +1961,15 @@
       "category": "ai"
     },
     {
+      "id": "b71870d5deebac2741bbb0f68ee215822eeb721f",
+      "title": "考研杂记",
+      "created": "2022-12-12 08:00",
+      "link": "https://mathewshen.me/blog/2022/graduate/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
       "id": "189b698067bccd4435a804ede1710e7789605bf7",
       "title": "Some Math behind Neural Tangent Kernel",
       "created": "2022-09-09 01:00",
@@ -1862,6 +2060,15 @@
       "category": "ai"
     },
     {
+      "id": "99348744d76fcfec5e6a08235b9de18a07be752a",
+      "title": "当谈论吃饭时，我们在谈论什么？关于我在 SYSU 吃饭这件事",
+      "created": "2021-02-28 08:00",
+      "link": "https://mathewshen.me/blog/2021/sysu-card/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
       "id": "91c8f7fce27fce7adb24423dc6f8215c5a867ec2",
       "title": "Controllable Neural Text Generation",
       "created": "2021-01-02 08:00",
@@ -1931,6 +2138,33 @@
       "link": "https://ninehills.tech/articles/75.html",
       "author": "九原山博客",
       "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "ebf74c13b641dfac2814303de01a0a8d59ca499b",
+      "title": "2019",
+      "created": "2019-12-30 08:00",
+      "link": "https://mathewshen.me/blog/2019/2019/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "32ed357bbbc6a69a4de5c23a27cebec9eff08d3e",
+      "title": "寻找无双",
+      "created": "2019-06-19 08:00",
+      "link": "https://mathewshen.me/blog/2019/wushuang/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "13002fb9db5605e299c4bb42c21aea58309fc77f",
+      "title": "所谓偶然",
+      "created": "2019-01-19 08:00",
+      "link": "https://mathewshen.me/blog/2019/chance/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     }
   ]
