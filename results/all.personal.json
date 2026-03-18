@@ -3,10 +3,37 @@
     "friends_num": 38,
     "active_num": 36,
     "error_num": 2,
-    "article_num": 197,
-    "last_updated_time": "2026-03-18 10:40:44"
+    "article_num": 214,
+    "last_updated_time": "2026-03-18 15:08:27"
   },
   "article_data": [
+    {
+      "id": "a85f2ae7547fe956d3a1cefc715f7c67e0d1ad6c",
+      "title": "LLM 算法岗 | 八股问答（7）· 多模态与主流模型架构 - MoonOut",
+      "created": "2026-03-18 14:29",
+      "link": "https://www.cnblogs.com/moonout/p/19733786",
+      "author": "Moon out",
+      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "3480ed5d94309d7c3fa6bbc9c1825bbb11478996",
+      "title": "万兴剧厂：AI驱动的一站式精品漫剧创作平台",
+      "created": "2026-03-18 08:00",
+      "link": "https://lumina.shawnxie.top/article/mo-xing-ju-han-aiqu-dong-de-yi-zhan-shi-jing-pin-612d8691",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "8de2fa241c14292c18bd7d986ac6f7becfbe3852",
+      "title": "智能体工程模式",
+      "created": "2026-03-18 08:00",
+      "link": "https://lumina.shawnxie.top/article/agentic-engineering-patterns-simon-willison-s-c9464ade",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
     {
       "id": "310658f5b68091d3b06cb877df9b5986c7360bf9",
       "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
@@ -35,12 +62,138 @@
       "category": "ai"
     },
     {
+      "id": "30b988aa8cca373208bf164bbeecc25b703547a7",
+      "title": "Qwen3.5-35B-A3B 无审查版",
+      "created": "2026-03-17 08:00",
+      "link": "https://lumina.shawnxie.top/article/hauhaucs-qwen3-5-35b-a3b-uncensored-hauhaucs-02f74be3",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "be2cb05e6997e440ffee8954a473f619772b48ab",
+      "title": "我是如何借助大语言模型编写软件的",
+      "created": "2026-03-17 08:00",
+      "link": "https://lumina.shawnxie.top/article/how-i-write-software-with-llms-stavros-stuff-da4c5f0f",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "0495876cf9127c866da18235d73ac59dc831b112",
+      "title": "​智谱发布 GLM-5-Turbo：专为“龙虾”智能体优化的实干型基座模型",
+      "created": "2026-03-17 08:00",
+      "link": "https://lumina.shawnxie.top/article/zhi-pu-fa-bu-glm-5-turbo-zhuan-wei-long-xia-zhi-961e045a",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "0af02840027fca7ee6afc31ba2f6646923116bbf",
+      "title": "最近一些 Agent 认知：OS 与 Agent-native 应用",
+      "created": "2026-03-17 08:00",
+      "link": "https://lumina.shawnxie.top/article/yi-agent-shi-os-chui-lei-zuo-os-shi-zhao-si-00ce2cbc",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "aa0c37dd45aeb620cfe4c73186a0e2ea702616af",
+      "title": "YouMind：AI 创作智能体",
+      "created": "2026-03-17 08:00",
+      "link": "https://lumina.shawnxie.top/article/youmind-ai-chuang-zuo-zhi-neng-ti-ead4897d",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "6310c43921be60069f466e6cf7a5e080156acf9e",
+      "title": "Codex 支持 Subagents",
+      "created": "2026-03-17 08:00",
+      "link": "https://lumina.shawnxie.top/article/subagents-f7e7ee00",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "84993ed2a4169e187d09d0f571a23d2847f45306",
+      "title": "RSS.app：一站式RSS订阅生成平台",
+      "created": "2026-03-17 08:00",
+      "link": "https://lumina.shawnxie.top/article/rss-feed-generator-widgets-bots-web-social-feeds-92bf6db4",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
       "id": "a59710f87739ce4fe26003561ca2d89b4b0e6110",
       "title": "构建 Claude Code 的经验：我们如何使用 Skills",
       "created": "2026-03-17 08:00",
       "link": "https://baoyu.io/translations/2026-03-17/claude-code-skills-lessons",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "92b702b466b81de68211537f3b8cf644f8e3d515",
+      "title": "我研读了 Hermes Agent 的记忆系统，它弥补了 OpenClaw 的设计缺陷",
+      "created": "2026-03-16 08:00",
+      "link": "https://lumina.shawnxie.top/article/i-read-hermes-agent-s-memory-system-and-it-fixes-2955f0bc",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "2d911d3600f1bd93d7986dfc0383d74bf4012d6c",
+      "title": "CanIRun.ai：检测设备能运行哪些本地大模型",
+      "created": "2026-03-16 08:00",
+      "link": "https://lumina.shawnxie.top/article/canirun-ai-can-your-machine-run-ai-models-7b7a5a9f",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "5202b180c5a94060beacf7eb4c7380e446bd7ea4",
+      "title": "LangChain 推出部署命令行工具",
+      "created": "2026-03-16 08:00",
+      "link": "https://lumina.shawnxie.top/article/introducing-deploy-cli-7735da03",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "ebd5b8f32ad81dae43ef11a87095117acd5323d2",
+      "title": "AutoClaw（澳龙）：智谱推出的 AI 智能体",
+      "created": "2026-03-16 08:00",
+      "link": "https://lumina.shawnxie.top/article/autoclaw-ao-long-openclawyi-jian-an-zhuang-fei-dd84b1b6",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "e3102dcf5213de0324b028f719959281063f03bf",
+      "title": "智能体工程的 8 个等级",
+      "created": "2026-03-16 08:00",
+      "link": "https://lumina.shawnxie.top/article/zhi-neng-ti-gong-cheng-de-8-ge-deng-ji-536bfef9",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "1106a30c7ae1fc310221d0d572ac553f8b1d8eab",
+      "title": "OiiOii：AI动画创作平台",
+      "created": "2026-03-16 08:00",
+      "link": "https://lumina.shawnxie.top/article/oiioii-83897698",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "b5843d31b611e38cbac56b14fea92322dbee4d72",
+      "title": "​行业首个！腾讯发布“龙虾管家”，为本地 AI Agent 打造安全沙箱",
+      "created": "2026-03-16 08:00",
+      "link": "https://lumina.shawnxie.top/article/xing-ye-shou-ge-teng-xun-fa-bu-long-xia-guan-jia-78a7d231",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -296,6 +449,15 @@
       "category": "ai"
     },
     {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -311,15 +473,6 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -359,21 +512,21 @@
       "category": "ai"
     },
     {
-      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
-      "title": "Google Gemini LangChain Cheatsheet",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
       "title": "Qwen多模态系列论文",
       "created": "2025-04-28 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
+      "title": "Google Gemini LangChain Cheatsheet",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
