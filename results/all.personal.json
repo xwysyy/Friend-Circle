@@ -3,35 +3,44 @@
     "friends_num": 38,
     "active_num": 36,
     "error_num": 2,
-    "article_num": 196,
-    "last_updated_time": "2026-03-18 03:09:40"
+    "article_num": 197,
+    "last_updated_time": "2026-03-18 10:40:44"
   },
   "article_data": [
     {
-      "id": "429881ea07c5a498b3406c699087f4a5314e5aec",
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "created": "2026-03-18 00:37",
-      "link": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "id": "310658f5b68091d3b06cb877df9b5986c7360bf9",
+      "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
+      "created": "2026-03-18 07:17",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "6ee8addec13985c90dcc3b67542f3ab0699925f4",
-      "title": "Quoting Tim Schilling",
-      "created": "2026-03-18 00:13",
-      "link": "https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything",
+      "id": "83d8b79c247090569dc8ee38f7ccff12a4025bab",
+      "title": "Quoting Ken Jin",
+      "created": "2026-03-18 05:48",
+      "link": "https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
-      "id": "912931537115e55062100d5f3bca462e91ea9504",
-      "title": "How Reddit Migrated Petabyte-Scale Kafka from EC2 to Kubernetes",
-      "created": "2026-03-17 23:30",
-      "link": "https://blog.bytebytego.com/p/how-reddit-migrated-petabyte-scale",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "id": "aca07b9a4a898005b341a57be85493c1a5da5d6d",
+      "title": "GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52",
+      "created": "2026-03-18 03:39",
+      "link": "https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "a59710f87739ce4fe26003561ca2d89b4b0e6110",
+      "title": "构建 Claude Code 的经验：我们如何使用 Skills",
+      "created": "2026-03-17 08:00",
+      "link": "https://baoyu.io/translations/2026-03-17/claude-code-skills-lessons",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -125,19 +134,19 @@
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -287,15 +296,6 @@
       "category": "ai"
     },
     {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -311,6 +311,15 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -350,21 +359,21 @@
       "category": "ai"
     },
     {
-      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
-      "title": "Qwen多模态系列论文",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
       "title": "Google Gemini LangChain Cheatsheet",
       "created": "2025-04-28 08:00",
       "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
+      "title": "Qwen多模态系列论文",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -422,21 +431,21 @@
       "category": "ai"
     },
     {
-      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
-      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
-      "created": "2025-04-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
       "title": "The State of Reinforcement Learning for LLM Reasoning",
       "created": "2025-04-19 08:00",
       "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
+      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
+      "created": "2025-04-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -1178,69 +1187,6 @@
       "category": "ai"
     },
     {
-      "id": "62c7a5d1f9f35d49165dabec76ce767178e5fdf8",
-      "title": "666ghj/MiroFish",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/666ghj/MiroFish",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
-      "title": "obra/superpowers",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/obra/superpowers",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "aeb3c7b38ab17ac14ae2f9b3c830a38b08eedc86",
-      "title": "microsoft/BitNet",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/microsoft/BitNet",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "ec643c90aca4ac8d3a02abbeeab6bae2e8303164",
-      "title": "msitarzewski/agency-agents",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/msitarzewski/agency-agents",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "bfbf32c9cff73ba561d8a5c2dd2d52895fbf6525",
-      "title": "promptfoo/promptfoo",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/promptfoo/promptfoo",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "ab15f474a2763269ec4e90c6123dcec8d5ee3dbf",
-      "title": "bytedance/deer-flow",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/bytedance/deer-flow",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
-      "title": "NousResearch/hermes-agent",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/NousResearch/hermes-agent",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "3b23309d9289b25299848236293eff0d27b5ce0e",
       "title": "virattt/ai-hedge-fund",
       "created": "2024-01-01 00:00",
@@ -1259,28 +1205,28 @@
       "category": "ai"
     },
     {
-      "id": "fa4361846156ed467960d677c72734a959c6327d",
-      "title": "pbakaus/impeccable",
+      "id": "add7186209e3eea0a32d1d70a91c5b5cc86cb92d",
+      "title": "666ghj/BettaFish",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/pbakaus/impeccable",
+      "link": "https://github.com/666ghj/BettaFish",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "f2f8872b16ace9c13f8ad521672023dd505a9433",
-      "title": "fishaudio/fish-speech",
+      "id": "bfbf32c9cff73ba561d8a5c2dd2d52895fbf6525",
+      "title": "promptfoo/promptfoo",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/fishaudio/fish-speech",
+      "link": "https://github.com/promptfoo/promptfoo",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "4260c244130cf5323fa64b0b786b4c68bfe96f65",
-      "title": "vectorize-io/hindsight",
+      "id": "62c7a5d1f9f35d49165dabec76ce767178e5fdf8",
+      "title": "666ghj/MiroFish",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/vectorize-io/hindsight",
+      "link": "https://github.com/666ghj/MiroFish",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1295,6 +1241,69 @@
       "category": "ai"
     },
     {
+      "id": "f2f8872b16ace9c13f8ad521672023dd505a9433",
+      "title": "fishaudio/fish-speech",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/fishaudio/fish-speech",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
+      "title": "NousResearch/hermes-agent",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "7e7a6ce6c81ff0b491dad3522f0eb9a3d19259e0",
+      "title": "lightpanda-io/browser",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/lightpanda-io/browser",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "fa4361846156ed467960d677c72734a959c6327d",
+      "title": "pbakaus/impeccable",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/pbakaus/impeccable",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "aeb3c7b38ab17ac14ae2f9b3c830a38b08eedc86",
+      "title": "microsoft/BitNet",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/microsoft/BitNet",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "4260c244130cf5323fa64b0b786b4c68bfe96f65",
+      "title": "vectorize-io/hindsight",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/vectorize-io/hindsight",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "ec643c90aca4ac8d3a02abbeeab6bae2e8303164",
+      "title": "msitarzewski/agency-agents",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/msitarzewski/agency-agents",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "22094f39633a83796f270ca789a7796a6d612fbc",
       "title": "volcengine/OpenViking",
       "created": "2024-01-01 00:00",
@@ -1304,10 +1313,10 @@
       "category": "ai"
     },
     {
-      "id": "add7186209e3eea0a32d1d70a91c5b5cc86cb92d",
-      "title": "666ghj/BettaFish",
+      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
+      "title": "obra/superpowers",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/666ghj/BettaFish",
+      "link": "https://github.com/obra/superpowers",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
