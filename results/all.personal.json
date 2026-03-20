@@ -3,10 +3,37 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 224,
-    "last_updated_time": "2026-03-20 21:10:55"
+    "article_num": 226,
+    "last_updated_time": "2026-03-21 02:57:45"
   },
   "article_data": [
+    {
+      "id": "819a2add4c7c33c67ec25cd22041f6d76822a719",
+      "title": "Nemotron 3 Content Safety 4B: Multimodal, Multilingual Content Moderation",
+      "created": "2026-03-21 01:00",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-3-content-safety",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "952cb115c7d656f1469d4fb536a7c7be157d0553",
+      "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
+      "created": "2026-03-20 22:14",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-libraries",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b8ebe8239bf038ea27ad2800d8bfc92f819ea767",
+      "title": "Entrix：我们如何用反熵机制治理 Vibe Coding",
+      "created": "2026-03-20 21:44",
+      "link": "http://www.phodal.com/blog/entrix-anti-entropy-vibe-coding/",
+      "author": "Phodal Huang",
+      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
+      "category": "ai"
+    },
     {
       "id": "a1c89fb9e8972c2acf420e40ee539aac6ff995ff",
       "title": "登顶全球权威榜单！浙大创业团队百卡打造开源实时世界模型，视频秒变可交互4D世界",
@@ -42,6 +69,15 @@
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
       "category": "friend"
+    },
+    {
+      "id": "07f5db30141c25a43429dad739c2b995dbb87884",
+      "title": "AI 发展太快跟不上？一张四象限图帮你做减法",
+      "created": "2026-03-20 08:00",
+      "link": "https://baoyu.io/blog/ai-learning-priority-quadrant",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
     },
     {
       "id": "1d4741b2b004f75343b4c687284c81c6aa63c479",
@@ -179,19 +215,19 @@
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -620,24 +656,6 @@
       "category": "ai"
     },
     {
-      "id": "8a9b9b76a2bf071a9b83f0fcdb507cd78926849b",
-      "title": "Journey to 1 Million Gradio Users!",
-      "created": "2025-04-04 08:00",
-      "link": "https://huggingface.co/blog/gradio-1m",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
-      "title": "The NLP Course is becoming the LLM Course",
-      "created": "2025-04-03 08:00",
-      "link": "https://huggingface.co/blog/llm-course",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
       "title": "Model Context Protocol (MCP) an overview",
       "created": "2025-04-03 08:00",
@@ -782,21 +800,21 @@
       "category": "ai"
     },
     {
-      "id": "0292d48a6afc79fe95d873eacb428e416c3560d4",
-      "title": "从梯度消失到模型过拟合：归一化、Dropout 和梯度裁剪的深度解析",
-      "created": "2025-02-23 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/02/23/dl-norm.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "0df637fa256ffa2ba859e4dd6fac7cab947a37b0",
       "title": "Deepseek GRPO 中的 KL Divergence",
       "created": "2025-02-23 08:00",
       "link": "https://mathewshen.me/blog/2025/grpo-kl/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "0292d48a6afc79fe95d873eacb428e416c3560d4",
+      "title": "从梯度消失到模型过拟合：归一化、Dropout 和梯度裁剪的深度解析",
+      "created": "2025-02-23 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/02/23/dl-norm.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
