@@ -3,10 +3,19 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 227,
-    "last_updated_time": "2026-03-21 21:00:21"
+    "article_num": 228,
+    "last_updated_time": "2026-03-22 02:43:09"
   },
   "article_data": [
+    {
+      "id": "96be181c1df1f8c0dc30887f19efcf7c7c474fab",
+      "title": "EP207: Top 12 GitHub AI Repositories",
+      "created": "2026-03-21 23:31",
+      "link": "https://blog.bytebytego.com/p/ep207-top-12-github-ai-repositories",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
     {
       "id": "1451499579f8872530956d516e7f7de4ed5d1ec1",
       "title": "LLM 算法岗 | 八股问答（3）· 强化学习与 RLHF - MoonOut",
@@ -50,6 +59,15 @@
       "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651022945&idx=3&sn=1b30d20c82eafa163aba354f9f1b8c56",
       "author": "机器之心",
       "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8410b8bf548ea909572cca871b70a85d5ce12fc8",
+      "title": "残差连接————Kimi注意力残差/字节混合注意力",
+      "created": "2026-03-21 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/03/21/attention-residuals.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -242,19 +260,19 @@
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -836,15 +854,6 @@
       "category": "ai"
     },
     {
-      "id": "0292d48a6afc79fe95d873eacb428e416c3560d4",
-      "title": "从梯度消失到模型过拟合：归一化、Dropout 和梯度裁剪的深度解析",
-      "created": "2025-02-23 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/02/23/dl-norm.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "0df637fa256ffa2ba859e4dd6fac7cab947a37b0",
       "title": "Deepseek GRPO 中的 KL Divergence",
       "created": "2025-02-23 08:00",
@@ -854,10 +863,10 @@
       "category": "ai"
     },
     {
-      "id": "b1878e0c58c52f68b8962b0e844711a988f1636a",
-      "title": "Kimi/DeepSeek最新论文MoBA与NSA阅读",
-      "created": "2025-02-21 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/02/21/Kimi-DS-Paper.html",
+      "id": "0292d48a6afc79fe95d873eacb428e416c3560d4",
+      "title": "从梯度消失到模型过拟合：归一化、Dropout 和梯度裁剪的深度解析",
+      "created": "2025-02-23 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/02/23/dl-norm.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
@@ -926,21 +935,21 @@
       "category": "ai"
     },
     {
-      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
-      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
-      "created": "2025-01-23 08:00",
-      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
       "title": "Oh-Numpy & Oh-Pytorch",
       "created": "2025-01-23 08:00",
       "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
+      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
+      "created": "2025-01-23 08:00",
+      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1070,21 +1079,21 @@
       "category": "ai"
     },
     {
-      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
-      "title": "斯坦福小镇解读",
-      "created": "2024-11-28 08:00",
-      "link": "https://mathewshen.me/blog/2024/ai-town/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
       "title": "Reward Hacking in Reinforcement Learning",
       "created": "2024-11-28 08:00",
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
