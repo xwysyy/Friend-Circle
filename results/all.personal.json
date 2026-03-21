@@ -3,10 +3,55 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 222,
-    "last_updated_time": "2026-03-21 14:53:15"
+    "article_num": 227,
+    "last_updated_time": "2026-03-21 21:00:21"
   },
   "article_data": [
+    {
+      "id": "1451499579f8872530956d516e7f7de4ed5d1ec1",
+      "title": "LLM 算法岗 | 八股问答（3）· 强化学习与 RLHF - MoonOut",
+      "created": "2026-03-21 19:13",
+      "link": "https://www.cnblogs.com/moonout/p/19749191",
+      "author": "Moon out",
+      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "bc2400ed757aafddfaeaa146208f055aca33c6ad",
+      "title": "套壳中国大模型撑起500亿美元估值？扒一扒 Cursor 的\"套壳\"疑云",
+      "created": "2026-03-21 18:19",
+      "link": "http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html",
+      "author": "阮一峰",
+      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
+      "category": "friend"
+    },
+    {
+      "id": "396fa6a92c29db18e5b4abbbe821a0d537fceab8",
+      "title": "「龙虾」爆火，token成「硬通货」后，这场AI比赛变得更重要了",
+      "created": "2026-03-21 13:01",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651022945&idx=1&sn=cffe9b496ae04a400bba539f772dfbf6",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "895362608add0b3b1103c58218a1ccd300b43b03",
+      "title": "画质革命还是AI整容？DLSS 5引爆全网争议，老黄亲自下场论战",
+      "created": "2026-03-21 13:01",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651022945&idx=2&sn=dd6270da69aeca762d147ee234a77672",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "5fcb6c9d5b4ecc92452b26c40ea51126d9edf5b4",
+      "title": "ICLR 2026 | 清华提出交叉熵分解：“误差熵”才是大模型规模定律真正的驱动项",
+      "created": "2026-03-21 13:01",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651022945&idx=3&sn=1b30d20c82eafa163aba354f9f1b8c56",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "eb21be3715116ada48b5585b9555b164826592cb",
       "title": "Turbo Pascal 3.02A, deconstructed",
@@ -197,19 +242,19 @@
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -431,21 +476,21 @@
       "category": "ai"
     },
     {
-      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
-      "title": "Qwen多模态系列论文",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
       "title": "Google Gemini LangChain Cheatsheet",
       "created": "2025-04-28 08:00",
       "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
+      "title": "Qwen多模态系列论文",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -791,21 +836,21 @@
       "category": "ai"
     },
     {
-      "id": "0df637fa256ffa2ba859e4dd6fac7cab947a37b0",
-      "title": "Deepseek GRPO 中的 KL Divergence",
-      "created": "2025-02-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/grpo-kl/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "0292d48a6afc79fe95d873eacb428e416c3560d4",
       "title": "从梯度消失到模型过拟合：归一化、Dropout 和梯度裁剪的深度解析",
       "created": "2025-02-23 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/02/23/dl-norm.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "0df637fa256ffa2ba859e4dd6fac7cab947a37b0",
+      "title": "Deepseek GRPO 中的 KL Divergence",
+      "created": "2025-02-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/grpo-kl/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -881,21 +926,21 @@
       "category": "ai"
     },
     {
-      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
-      "title": "Oh-Numpy & Oh-Pytorch",
-      "created": "2025-01-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
       "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
       "created": "2025-01-23 08:00",
       "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
