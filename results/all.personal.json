@@ -3,26 +3,35 @@
     "friends_num": 38,
     "active_num": 37,
     "error_num": 1,
-    "article_num": 217,
-    "last_updated_time": "2026-03-22 14:58:35"
+    "article_num": 220,
+    "last_updated_time": "2026-03-22 21:02:32"
   },
   "article_data": [
     {
-      "id": "277b7587c6dd680d899cf4f5191ad8db4dcda234",
-      "title": "Profiling Hacker News users based on their comments",
-      "created": "2026-03-22 07:59",
-      "link": "https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "id": "5da4724b497e6b14ccd20aa84c5ed956a8d5061b",
+      "title": "扩散语言模型总是均匀发力，华为诺亚教它「抓重点」",
+      "created": "2026-03-22 13:31",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651022970&idx=1&sn=b8597016016f826ca918c914e4af417b",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "d8c74c508e2ddb4954bc8ed152af74a1337930ac",
-      "title": "Using Git with coding agents",
-      "created": "2026-03-22 06:08",
-      "link": "https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "id": "8f09f54eb0f2539403b349fd4e79a24bfdedd5b3",
+      "title": "刚刚，马斯克启动TERAFAB项目：万亿瓦算力工厂，瞄准太空",
+      "created": "2026-03-22 13:31",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651022970&idx=2&sn=e3eccb77a7b1cecdbacc5d0f7298fe5f",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "763d3857014716b407c8f36b58e4018d0eff6593",
+      "title": "CVPR 2026 | 中科院、港中文等提出HiFi-Inpaint：无损还原物体细节，重塑Inpainting生成范式！",
+      "created": "2026-03-22 13:31",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651022970&idx=3&sn=143a4c11223060534827a2d7d0f8dd6c",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -62,6 +71,15 @@
       "category": "ai"
     },
     {
+      "id": "03394baa5bd4670aa897276499a7716f16c2888d",
+      "title": "GPT-5.4 mini 与 nano 正式发布",
+      "created": "2026-03-16 08:00",
+      "link": "https://lumina.shawnxie.top/article/gpt-5-4-mini-yu-nano-zheng-shi-fa-bu-82facc19",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
       "id": "d3ca584b07f59b86e95c94a3a9ef2052fcdcbc93",
       "title": "LLM 算法岗 | 八股题目 · 代码手撕 · 题目汇总与解析 - MoonOut",
       "created": "2026-03-15 21:57",
@@ -86,6 +104,15 @@
       "link": "https://yuanchaofa.com/post/harness-engineering-for-ai-agents",
       "author": "chao fa",
       "avatar": "https://yuanchaofa.com/img/icon.webp",
+      "category": "ai"
+    },
+    {
+      "id": "d6d5c83bf106ef9ba684c49f68b38c7ff157e70c",
+      "title": "Harness Engineering — Agent 不好用，也许不是模型的问题",
+      "created": "2026-03-14 08:00",
+      "link": "https://lumina.shawnxie.top/article/harness-engineering-agent-bu-hao-yong-ye-xu-bu-332befc0",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -467,21 +494,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -764,21 +791,21 @@
       "category": "ai"
     },
     {
-      "id": "0df637fa256ffa2ba859e4dd6fac7cab947a37b0",
-      "title": "Deepseek GRPO 中的 KL Divergence",
-      "created": "2025-02-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/grpo-kl/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "0292d48a6afc79fe95d873eacb428e416c3560d4",
       "title": "从梯度消失到模型过拟合：归一化、Dropout 和梯度裁剪的深度解析",
       "created": "2025-02-23 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/02/23/dl-norm.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "0df637fa256ffa2ba859e4dd6fac7cab947a37b0",
+      "title": "Deepseek GRPO 中的 KL Divergence",
+      "created": "2025-02-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/grpo-kl/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -845,21 +872,21 @@
       "category": "ai"
     },
     {
-      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
-      "title": "Oh-Numpy & Oh-Pytorch",
-      "created": "2025-01-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
       "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
       "created": "2025-01-23 08:00",
       "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -989,21 +1016,21 @@
       "category": "ai"
     },
     {
-      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
-      "title": "斯坦福小镇解读",
-      "created": "2024-11-28 08:00",
-      "link": "https://mathewshen.me/blog/2024/ai-town/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
       "title": "Reward Hacking in Reinforcement Learning",
       "created": "2024-11-28 08:00",
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
