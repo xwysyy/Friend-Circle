@@ -1,10 +1,10 @@
 {
   "statistical_data": {
-    "friends_num": 38,
-    "active_num": 37,
+    "friends_num": 39,
+    "active_num": 38,
     "error_num": 1,
-    "article_num": 223,
-    "last_updated_time": "2026-03-25 21:22:49"
+    "article_num": 243,
+    "last_updated_time": "2026-03-25 21:26:34"
   },
   "article_data": [
     {
@@ -32,6 +32,15 @@
       "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651023590&idx=3&sn=5648fd04079f8bb2d5e467d4df8311f0",
       "author": "机器之心",
       "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2bbebb3293a386e1cdf2b8846d7f39eb75c2c373",
+      "title": "Claude Code Auto Mode 的实现",
+      "created": "2026-03-25 09:41",
+      "link": "https://blog.sorrycc.com/claude-code-auto-mode",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
       "category": "ai"
     },
     {
@@ -107,6 +116,15 @@
       "category": "ai"
     },
     {
+      "id": "3d03993a1aa5a8309146a4419032495cf83d1185",
+      "title": "Claude Code 藏了个开关，打开后 /init 完全不一样",
+      "created": "2026-03-23 08:39",
+      "link": "https://blog.sorrycc.com/claude-code-init-hidden-switch",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
       "id": "81694f2e1c4bcb48ea24fbf78df1a9d6a6006953",
       "title": "Claude Code and Cowork can now use your computer",
       "created": "2026-03-23 08:00",
@@ -134,6 +152,51 @@
       "category": "ai"
     },
     {
+      "id": "59cf4c5e6abc0ab8e67fe0245ab4a964b76f4cf6",
+      "title": "627 - 《Claude Code Tips》",
+      "created": "2026-03-20 22:47",
+      "link": "https://blog.sorrycc.com/claude-code-tips",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "34cf51041bd55a7b3474336710e2db4adbd22114",
+      "title": "Claude Code Channel 功能实现详解",
+      "created": "2026-03-20 09:22",
+      "link": "https://blog.sorrycc.com/claude-code-channel-implementation",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "a84b592e3a7d837c4e42e59c3a1b3e2d19f78c13",
+      "title": "Claude Code Channels 详细总结",
+      "created": "2026-03-20 09:10",
+      "link": "https://blog.sorrycc.com/claude-code-channels",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "55fb9df2294acaffdf87efffb6ccd30b07a86bc0",
+      "title": "626 - 《我不再做的事》",
+      "created": "2026-03-19 16:00",
+      "link": "https://blog.sorrycc.com/things-im-not-doing-anymore",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "36ac90b9b4b34075ab5fe1fb7d94c30055780fc8",
+      "title": "625 - 《从终端到桌面：17 天做了一个 Claude Code 客户端》",
+      "created": "2026-03-19 15:23",
+      "link": "https://blog.sorrycc.com/neovate-desktop",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
       "id": "3578687cf3890e23dc5d1a9ef4befad4c5f4f8d8",
       "title": "Attention Residuals 回忆录",
       "created": "2026-03-19 10:02",
@@ -143,12 +206,30 @@
       "category": "ai"
     },
     {
+      "id": "ab60dcb311c40db08b5ca4252cc0681adbc3be1c",
+      "title": "624 - 《用 Claude Code 重写 macOS 热键 App HotApp》",
+      "created": "2026-03-18 22:26",
+      "link": "https://blog.sorrycc.com/hotapp",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
       "id": "a85f2ae7547fe956d3a1cefc715f7c67e0d1ad6c",
       "title": "LLM 算法岗 | 八股问答（7）· 多模态与主流模型架构 - MoonOut",
       "created": "2026-03-18 14:29",
       "link": "https://www.cnblogs.com/moonout/p/19733786",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "409f8391987918348cd4b0433288bd179b62e4fb",
+      "title": "623 - 《用 Claude Code 重写博客：48 个 Session 全记录》",
+      "created": "2026-03-16 23:21",
+      "link": "https://blog.sorrycc.com/rewrite-blog-with-claude-code",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
       "category": "ai"
     },
     {
@@ -221,6 +302,105 @@
       "link": "https://www.big-yellow-j.top/posts/2026/02/15/ModelDistillation.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "d29cb7bdd6baea8e815afb32bde2cfef1464a52b",
+      "title": "622 - 《AI Coding：模型自由》",
+      "created": "2026-02-06 08:23",
+      "link": "https://blog.sorrycc.com/ai-coding-model-freedom",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "e14c3e76b3db1b5c95d454c3a665eb45b40039d6",
+      "title": "621 - 《AI Coding FAQ》",
+      "created": "2026-02-05 08:01",
+      "link": "https://blog.sorrycc.com/ai-coding-faq",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "32cc958ccb1d52fd9a1d1c3055fb679d9f131268",
+      "title": "译：Karpathy：关于 Claude 编程的笔记",
+      "created": "2026-01-27 17:22",
+      "link": "https://blog.sorrycc.com/karpathy-notes-on-claude-code",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "91dd3361760797291464829d12688d3eda102b19",
+      "title": "译：我的 AGENTS.md 文件",
+      "created": "2026-01-20 06:17",
+      "link": "https://blog.sorrycc.com/my-agents-md-file",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "7d6d09aefb3f9f67acedb99b6fda63bd93afdd59",
+      "title": "译：使用 Agent 编程的最佳实践",
+      "created": "2026-01-20 05:14",
+      "link": "https://blog.sorrycc.com/agent-best-practices",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "6c346f26af1cb8a87502d0c20a34d78a2cdc32a7",
+      "title": "译：如何在一天内彻底改变你的生活",
+      "created": "2026-01-19 17:02",
+      "link": "https://blog.sorrycc.com/how-to-completely-change-your-life-in-a-day",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "6701e9977a8085659beb12c8029c009d981d8484",
+      "title": "620 - 《Agent Browser》",
+      "created": "2026-01-19 03:56",
+      "link": "https://blog.sorrycc.com/agent-browser",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "baae60f897083a4a294bab93a442e2232913fee6",
+      "title": "619 - 《Google 账号》",
+      "created": "2026-01-13 21:06",
+      "link": "https://blog.sorrycc.com/google-account",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "e6d4a5f6a9e7b57deedec58161aa95f11e5746cf",
+      "title": "618 - 《Linux DO》",
+      "created": "2026-01-13 19:29",
+      "link": "https://blog.sorrycc.com/linux-do",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "b49955ba953eb283b56abc259f224abd8be24326",
+      "title": "617 - 《如何获取 Agent 提供的能力或 Tools》",
+      "created": "2026-01-07 21:58",
+      "link": "https://blog.sorrycc.com/how-to-get-agent-tools",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "9a00114ece0c188b96feab7b4057ce1a07fe6133",
+      "title": "译：动态上下文发现",
+      "created": "2026-01-07 19:01",
+      "link": "https://blog.sorrycc.com/dynamic-context-discovery",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
       "category": "ai"
     },
     {
@@ -422,15 +602,6 @@
       "category": "ai"
     },
     {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -446,6 +617,15 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -485,21 +665,21 @@
       "category": "ai"
     },
     {
-      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
-      "title": "Qwen多模态系列论文",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
       "title": "Google Gemini LangChain Cheatsheet",
       "created": "2025-04-28 08:00",
       "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
+      "title": "Qwen多模态系列论文",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -701,21 +881,21 @@
       "category": "ai"
     },
     {
-      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
-      "title": "Model Context Protocol (MCP) an overview",
-      "created": "2025-04-03 08:00",
-      "link": "https://www.philschmid.de/mcp-introduction",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
       "title": "The NLP Course is becoming the LLM Course",
       "created": "2025-04-03 08:00",
       "link": "https://huggingface.co/blog/llm-course",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
+      "title": "Model Context Protocol (MCP) an overview",
+      "created": "2025-04-03 08:00",
+      "link": "https://www.philschmid.de/mcp-introduction",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
