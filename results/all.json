@@ -4,7 +4,7 @@
     "active_num": 38,
     "error_num": 1,
     "article_num": 598,
-    "last_updated_time": "2026-03-26 10:46:52"
+    "last_updated_time": "2026-03-26 15:17:02"
   },
   "article_data": [
     {
@@ -32,6 +32,15 @@
       "link": "https://yukinoshitasherry.github.io/26%E5%A4%96%E5%9C%B0%E9%A3%9F%E7%89%A9/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "0f0abe79e2988deaa5ebb1005cfe02d2e5b54469",
+      "title": "基于流式幂迭代的Muon实现：2. 加速",
+      "created": "2026-03-26 13:14",
+      "link": "https://kexue.fm/archives/11673",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -113,6 +122,15 @@
       "link": "https://blog.sorrycc.com/claude-code-auto-mode",
       "author": "sorrycc (云谦)",
       "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "ba4dff8e34f814d1653bc46bc652233cc1ae2542",
+      "title": "Thoughts on slowing the fuck down",
+      "created": "2026-03-25 08:00",
+      "link": "https://lumina.shawnxie.top/article/thoughts-on-slowing-the-fuck-down-5843b6b7",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -269,6 +287,15 @@
       "category": "ai"
     },
     {
+      "id": "b2fface09a6603fd29031c3f020056e614fe1a9a",
+      "title": "Combine Built-in Tools and Function Calling in the Gemini Interactions API",
+      "created": "2026-03-24 08:00",
+      "link": "https://www.philschmid.de/tool-combo",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "81766068b8377c5e22728cbf1d455835504d35b0",
       "title": "Sandboxing AI agents, 100x faster",
       "created": "2026-03-24 08:00",
@@ -320,15 +347,6 @@
       "link": "https://lumina.shawnxie.top/article/openai-qian-xia-chao-da-gui-mo-he-ju-bian-ding-359f6979",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "b2fface09a6603fd29031c3f020056e614fe1a9a",
-      "title": "Combine Built-in Tools and Function Calling in the Gemini Interactions API",
-      "created": "2026-03-24 08:00",
-      "link": "https://www.philschmid.de/tool-combo",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -458,6 +476,15 @@
       "category": "ai"
     },
     {
+      "id": "320c5cbb879dfd587bbf7aed4f3fb12871bbbb39",
+      "title": "肖恩技术周刊（第 86 期）：思路打开",
+      "created": "2026-03-23 08:00",
+      "link": "https://weekly.shawnxie.top/content/2026/86.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "category": "ai"
+    },
+    {
       "id": "81694f2e1c4bcb48ea24fbf78df1a9d6a6006953",
       "title": "Claude Code and Cowork can now use your computer",
       "created": "2026-03-23 08:00",
@@ -473,15 +500,6 @@
       "link": "https://lumina.shawnxie.top/article/use-cases-claude-8b4bbd02",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "320c5cbb879dfd587bbf7aed4f3fb12871bbbb39",
-      "title": "肖恩技术周刊（第 86 期）：思路打开",
-      "created": "2026-03-23 08:00",
-      "link": "https://weekly.shawnxie.top/content/2026/86.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -615,15 +633,6 @@
       "title": "NemoClaw：安全运行OpenClaw的参考栈",
       "created": "2026-03-22 08:00",
       "link": "https://lumina.shawnxie.top/article/nemoclaw-an-quan-yun-xing-openclaw-ffc54646",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "517f6ccaf4acc7de47105f88376ed5d583b3402e",
-      "title": "Hermes Agent：开源自改进 AI 代理系统",
-      "created": "2026-03-22 08:00",
-      "link": "https://lumina.shawnxie.top/article/hermes-agent-kai-yuan-zi-gai-jin-ai-dai-li-xi-tong-293a1934",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
@@ -2519,15 +2528,6 @@
       "category": "ai"
     },
     {
-      "id": "79f8d8ee1026a05a678c76c8810a534bbcba4b61",
-      "title": "为什么我们偏爱各向同性？基于最速下降的理解",
-      "created": "2026-01-20 19:44",
-      "link": "https://kexue.fm/archives/11549",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
       "id": "6b1f5d9b708a6a3f971e4a027781aec54622358b",
       "title": "I'm addicted to being useful",
       "created": "2026-01-20 08:00",
@@ -2834,19 +2834,19 @@
       "category": "ai"
     },
     {
-      "id": "3b471576c20b1223ee665aedd34483dfa922ca58",
-      "title": "矩阵微分热身",
+      "id": "804fa59122219d2d96cf56ce39edeb9cad3bf507",
+      "title": "矩阵微分乘法法则速记",
       "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E7%83%AD%E8%BA%AB/",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "804fa59122219d2d96cf56ce39edeb9cad3bf507",
-      "title": "矩阵微分乘法法则速记",
+      "id": "3b471576c20b1223ee665aedd34483dfa922ca58",
+      "title": "矩阵微分热身",
       "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E7%83%AD%E8%BA%AB/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -3149,21 +3149,21 @@
       "category": "ai"
     },
     {
-      "id": "27bb33e4926cc0d7552cb49e91aa04be22d38095",
-      "title": "You can't design software you don't work on",
-      "created": "2025-12-27 08:00",
-      "link": "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "4627fcf1fb4a115d4335704aeecf402d9dc1a6f2",
       "title": "王二下班之后",
       "created": "2025-12-27 08:00",
       "link": "https://mathewshen.me/blog/2025/wang-work/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "27bb33e4926cc0d7552cb49e91aa04be22d38095",
+      "title": "You can't design software you don't work on",
+      "created": "2025-12-27 08:00",
+      "link": "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -3635,21 +3635,21 @@
       "category": "ai"
     },
     {
-      "id": "d90e85d7d88f26bbb0d49d0bc6f3890e1af8a8c9",
-      "title": "肖恩技术周刊（第 71 期）：何以成事",
-      "created": "2025-11-24 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/71.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "560dff5b744098ef4b5b67e04c8ef5d6c7b7113c",
       "title": "新时代的 Google Scholar",
       "created": "2025-11-24 08:00",
       "link": "https://mathewshen.me/blog/2025/google-scholar-new-features/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "d90e85d7d88f26bbb0d49d0bc6f3890e1af8a8c9",
+      "title": "肖恩技术周刊（第 71 期）：何以成事",
+      "created": "2025-11-24 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/71.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
