@@ -3,37 +3,10 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 220,
-    "last_updated_time": "2026-03-27 10:49:28"
+    "article_num": 216,
+    "last_updated_time": "2026-03-27 15:16:04"
   },
   "article_data": [
-    {
-      "id": "7c516e55bde75d30b39f22e7a203b23b10d3b3a1",
-      "title": "We Rewrote JSONata with AI in a Day, Saved $500K/Year",
-      "created": "2026-03-27 08:35",
-      "link": "https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "de0d5c56bbc05e6973462a5f55997580966c280d",
-      "title": "My minute-by-minute response to the LiteLLM malware attack",
-      "created": "2026-03-27 07:58",
-      "link": "https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "cee4d3286a77fe7ebed2e348e6a433c870d2e679",
-      "title": "科技爱好者周刊（第 390 期）：没有语料，大模型就是智障",
-      "created": "2026-03-27 05:49",
-      "link": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html",
-      "author": "阮一峰",
-      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
-      "category": "friend"
-    },
     {
       "id": "0f0abe79e2988deaa5ebb1005cfe02d2e5b54469",
       "title": "基于流式幂迭代的Muon实现：2. 加速",
@@ -41,15 +14,6 @@
       "link": "https://kexue.fm/archives/11673",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
-      "id": "1ae19bf3ec0073aaf1653d279ef75292f305a203",
-      "title": "在中国 AI 生态圈摸底了两周，我学到了什么",
-      "created": "2026-03-26 08:00",
-      "link": "https://baoyu.io/translations/2026-03-26/what-i-learned-from-two-weeks-inside-china-s-ai-ecosystem",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -422,21 +386,21 @@
       "category": "ai"
     },
     {
-      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
-      "title": "Qwen多模态系列论文",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
       "title": "Google Gemini LangChain Cheatsheet",
       "created": "2025-04-28 08:00",
       "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
+      "title": "Qwen多模态系列论文",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
