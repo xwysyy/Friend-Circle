@@ -3,27 +3,36 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 216,
-    "last_updated_time": "2026-03-27 03:15:18"
+    "article_num": 220,
+    "last_updated_time": "2026-03-27 10:49:28"
   },
   "article_data": [
     {
-      "id": "0686663480f059f317b5e18dc3b8d782767308fe",
-      "title": "Quantization from the ground up",
-      "created": "2026-03-27 00:21",
-      "link": "https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything",
+      "id": "7c516e55bde75d30b39f22e7a203b23b10d3b3a1",
+      "title": "We Rewrote JSONata with AI in a Day, Saved $500K/Year",
+      "created": "2026-03-27 08:35",
+      "link": "https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
-      "id": "f3d6be0c8afdbf50eafb4358f50df6abc80fb1fd",
-      "title": "How to Implement API Security",
-      "created": "2026-03-26 23:31",
-      "link": "https://blog.bytebytego.com/p/how-to-implement-api-security",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "id": "de0d5c56bbc05e6973462a5f55997580966c280d",
+      "title": "My minute-by-minute response to the LiteLLM malware attack",
+      "created": "2026-03-27 07:58",
+      "link": "https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
+    },
+    {
+      "id": "cee4d3286a77fe7ebed2e348e6a433c870d2e679",
+      "title": "科技爱好者周刊（第 390 期）：没有语料，大模型就是智障",
+      "created": "2026-03-27 05:49",
+      "link": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html",
+      "author": "阮一峰",
+      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
+      "category": "friend"
     },
     {
       "id": "0f0abe79e2988deaa5ebb1005cfe02d2e5b54469",
@@ -35,21 +44,21 @@
       "category": "ai"
     },
     {
+      "id": "1ae19bf3ec0073aaf1653d279ef75292f305a203",
+      "title": "在中国 AI 生态圈摸底了两周，我学到了什么",
+      "created": "2026-03-26 08:00",
+      "link": "https://baoyu.io/translations/2026-03-26/what-i-learned-from-two-weeks-inside-china-s-ai-ecosystem",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "806d25c728e1942280e75c2b479d60dbf201302d",
       "title": "强化学习算法-3：主流算法的改进与演进",
       "created": "2026-03-26 08:00",
       "link": "https://www.big-yellow-j.top/posts/2026/03/26/RLHF-3.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b751f403643d498699651cb043a068278d8f21d4",
-      "title": "Engineers do get promoted for writing simple code",
-      "created": "2026-03-26 08:00",
-      "link": "https://seangoedecke.com/simple-work-gets-rewarded/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -845,21 +854,21 @@
       "category": "ai"
     },
     {
-      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
-      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
-      "created": "2025-01-23 08:00",
-      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
       "title": "Oh-Numpy & Oh-Pytorch",
       "created": "2025-01-23 08:00",
       "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
+      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
+      "created": "2025-01-23 08:00",
+      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1322,37 +1331,19 @@
       "category": "ai"
     },
     {
-      "id": "9ba9156b390aff049da09208fe1cd002e6b00aec",
-      "title": "Crosstalk-Solutions/project-nomad",
+      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
+      "title": "obra/superpowers",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "link": "https://github.com/obra/superpowers",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "dc61fcee9612031ee5c46ea3b9cbe31ef7b13067",
-      "title": "supermemoryai/supermemory",
+      "id": "b4ab4cbec9719ef1a5967bf7efbffc4013cce39b",
+      "title": "louis-e/arnis",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/supermemoryai/supermemory",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "6930203c93d32e6b91579286dd17e9b0309acc79",
-      "title": "jarrodwatts/claude-hud",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/jarrodwatts/claude-hud",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "1606cfe2c2a91a41cc45f731859c6869e9340b81",
-      "title": "TauricResearch/TradingAgents",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/TauricResearch/TradingAgents",
+      "link": "https://github.com/louis-e/arnis",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1367,19 +1358,46 @@
       "category": "ai"
     },
     {
-      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
-      "title": "NousResearch/hermes-agent",
+      "id": "01e478ba125afa0c8a152dffa4c867cb312e0121",
+      "title": "mvanhorn/last30days-skill",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/NousResearch/hermes-agent",
+      "link": "https://github.com/mvanhorn/last30days-skill",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
-      "title": "obra/superpowers",
+      "id": "9ba9156b390aff049da09208fe1cd002e6b00aec",
+      "title": "Crosstalk-Solutions/project-nomad",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/obra/superpowers",
+      "link": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "d48dc398c472e1861f69f3ec1f9ae8abb4e2b56d",
+      "title": "affaan-m/everything-claude-code",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/affaan-m/everything-claude-code",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "1606cfe2c2a91a41cc45f731859c6869e9340b81",
+      "title": "TauricResearch/TradingAgents",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "6930203c93d32e6b91579286dd17e9b0309acc79",
+      "title": "jarrodwatts/claude-hud",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/jarrodwatts/claude-hud",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1394,10 +1412,10 @@
       "category": "ai"
     },
     {
-      "id": "ab15f474a2763269ec4e90c6123dcec8d5ee3dbf",
-      "title": "bytedance/deer-flow",
+      "id": "dc61fcee9612031ee5c46ea3b9cbe31ef7b13067",
+      "title": "supermemoryai/supermemory",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/bytedance/deer-flow",
+      "link": "https://github.com/supermemoryai/supermemory",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1412,19 +1430,37 @@
       "category": "ai"
     },
     {
-      "id": "e02005581f0c5e59e98581d958d6df9ce73fb793",
-      "title": "opendataloader-project/opendataloader-pdf",
+      "id": "7bd1555c299489fc578f7f9ce541c4fdeff034a4",
+      "title": "hsliuping/TradingAgents-CN",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "link": "https://github.com/hsliuping/TradingAgents-CN",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "d48dc398c472e1861f69f3ec1f9ae8abb4e2b56d",
-      "title": "affaan-m/everything-claude-code",
+      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
+      "title": "NousResearch/hermes-agent",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/affaan-m/everything-claude-code",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "ab15f474a2763269ec4e90c6123dcec8d5ee3dbf",
+      "title": "bytedance/deer-flow",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/bytedance/deer-flow",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "e02005581f0c5e59e98581d958d6df9ce73fb793",
+      "title": "opendataloader-project/opendataloader-pdf",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/opendataloader-project/opendataloader-pdf",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
