@@ -3,10 +3,55 @@
     "friends_num": 39,
     "active_num": 37,
     "error_num": 2,
-    "article_num": 216,
-    "last_updated_time": "2026-03-28 15:05:04"
+    "article_num": 221,
+    "last_updated_time": "2026-03-28 21:05:56"
   },
   "article_data": [
+    {
+      "id": "0a0ed40504101b952fc79d2bc4ff6549b545b030",
+      "title": "Quoting Matt Webb",
+      "created": "2026-03-28 20:04",
+      "link": "https://simonwillison.net/2026/Mar/28/matt-webb/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "d98f1d7c68f2a748b6643f04ad3b5ee5f6c82891",
+      "title": "个人毕业设计展",
+      "created": "2026-03-28 14:45",
+      "link": "https://imqi1.com/shot/1005",
+      "author": "ImQi1",
+      "avatar": "https://imqi1.com/avatar.webp",
+      "category": "friend"
+    },
+    {
+      "id": "978d10ae253a3ebe7413b7da6194916dcdc6b880",
+      "title": "血洗内存股900亿刀的谷歌AI论文，竟涉嫌学术造假",
+      "created": "2026-03-28 14:31",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651024408&idx=1&sn=2e5b870868e54c10ba4fa75339f1d577",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "f12018aa95bbfd927774d67132e40577bbc4643e",
+      "title": "151个软件包，暗藏肉眼不可见的恶意代码，AI批量生成的？",
+      "created": "2026-03-28 14:31",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651024408&idx=2&sn=062ff322aecc7b0267d595134ece1856",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "d41cbe38303f6a78f1bc22194948445c7ba4dd1b",
+      "title": "ICRA 2026 | LLM+运筹优化：工业级多机器人协同控制软件生成新范式",
+      "created": "2026-03-28 14:31",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651024408&idx=3&sn=9500bbb79d4a97484c102284e8ebd5e3",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "9ef19b2fb3b654fe1872a93b607ed221865aa198",
       "title": "Notion 联合创始人 Simon Last：我从去年夏天起就没写过一行代码了",
@@ -14,6 +59,15 @@
       "link": "https://baoyu.io/blog/from-note-taking-app-to-ai-workspace-the-simon-last-interview",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "51a02dc6c0ff82f401b892341b4e0ebfafdd540d",
+      "title": "Liberate your OpenClaw",
+      "created": "2026-03-27 08:00",
+      "link": "https://huggingface.co/blog/liberate-your-openclaw",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -332,15 +386,6 @@
       "category": "ai"
     },
     {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -356,6 +401,15 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -467,21 +521,21 @@
       "category": "ai"
     },
     {
-      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
-      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
-      "created": "2025-04-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
       "title": "The State of Reinforcement Learning for LLM Reasoning",
       "created": "2025-04-19 08:00",
       "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
+      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
+      "created": "2025-04-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -617,15 +671,6 @@
       "link": "https://www.philschmid.de/mcp-introduction",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
-      "title": "The NLP Course is becoming the LLM Course",
-      "created": "2025-04-03 08:00",
-      "link": "https://huggingface.co/blog/llm-course",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
