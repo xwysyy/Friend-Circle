@@ -3,17 +3,44 @@
     "friends_num": 39,
     "active_num": 37,
     "error_num": 2,
-    "article_num": 217,
-    "last_updated_time": "2026-03-28 03:02:17"
+    "article_num": 219,
+    "last_updated_time": "2026-03-28 10:38:34"
   },
   "article_data": [
     {
-      "id": "c95f4e41c4eb408c26cc12917a1637a165a0e7dd",
-      "title": "LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 5 ",
-      "created": "2026-03-27 23:30",
-      "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-4da",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "id": "30c92fd818648ee9179ed43e79fa38e248da6fbc",
+      "title": "datasette-showboat 0.1a2",
+      "created": "2026-03-28 07:42",
+      "link": "https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "da6a7acabac078438b1d9c1ccf34d1d6bd58d179",
+      "title": "Quoting Richard Fontana",
+      "created": "2026-03-28 05:11",
+      "link": "https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "66bd1b208cf35b589d01eb20d8deb05ec3120d8b",
+      "title": "Vibe coding SwiftUI apps is a lot of fun",
+      "created": "2026-03-28 04:59",
+      "link": "https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "45b152e584153fe517a54e0b577278f0f665ee26",
+      "title": "Working on products people hate",
+      "created": "2026-03-27 08:00",
+      "link": "https://seangoedecke.com/working-on-products-people-hate/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -395,21 +422,21 @@
       "category": "ai"
     },
     {
-      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
-      "title": "Qwen多模态系列论文",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
       "title": "Google Gemini LangChain Cheatsheet",
       "created": "2025-04-28 08:00",
       "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
+      "title": "Qwen多模态系列论文",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -467,21 +494,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1304,37 +1331,10 @@
       "category": "ai"
     },
     {
-      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
-      "title": "obra/superpowers",
+      "id": "e02005581f0c5e59e98581d958d6df9ce73fb793",
+      "title": "opendataloader-project/opendataloader-pdf",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/obra/superpowers",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "b4ab4cbec9719ef1a5967bf7efbffc4013cce39b",
-      "title": "louis-e/arnis",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/louis-e/arnis",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "7f394544cd616fb4142931211fad3ecb1c731998",
-      "title": "FujiwaraChoki/MoneyPrinterV2",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "01e478ba125afa0c8a152dffa4c867cb312e0121",
-      "title": "mvanhorn/last30days-skill",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/mvanhorn/last30days-skill",
+      "link": "https://github.com/opendataloader-project/opendataloader-pdf",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1358,6 +1358,33 @@
       "category": "ai"
     },
     {
+      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
+      "title": "obra/superpowers",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/obra/superpowers",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "ec9a31b734036e5567d16febe78871fa11438f99",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "7f394544cd616fb4142931211fad3ecb1c731998",
+      "title": "FujiwaraChoki/MoneyPrinterV2",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "1606cfe2c2a91a41cc45f731859c6869e9340b81",
       "title": "TauricResearch/TradingAgents",
       "created": "2024-01-01 00:00",
@@ -1376,37 +1403,10 @@
       "category": "ai"
     },
     {
-      "id": "f23da9f7056c4a77b525dda30b53c37c6546155b",
-      "title": "langchain-ai/open-swe",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/langchain-ai/open-swe",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "dc61fcee9612031ee5c46ea3b9cbe31ef7b13067",
       "title": "supermemoryai/supermemory",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/supermemoryai/supermemory",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "ec9a31b734036e5567d16febe78871fa11438f99",
-      "title": "harry0703/MoneyPrinterTurbo",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "7bd1555c299489fc578f7f9ce541c4fdeff034a4",
-      "title": "hsliuping/TradingAgents-CN",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/hsliuping/TradingAgents-CN",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1421,19 +1421,37 @@
       "category": "ai"
     },
     {
-      "id": "ab15f474a2763269ec4e90c6123dcec8d5ee3dbf",
-      "title": "bytedance/deer-flow",
+      "id": "7bd1555c299489fc578f7f9ce541c4fdeff034a4",
+      "title": "hsliuping/TradingAgents-CN",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/bytedance/deer-flow",
+      "link": "https://github.com/hsliuping/TradingAgents-CN",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "e02005581f0c5e59e98581d958d6df9ce73fb793",
-      "title": "opendataloader-project/opendataloader-pdf",
+      "id": "01e478ba125afa0c8a152dffa4c867cb312e0121",
+      "title": "mvanhorn/last30days-skill",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "7544a92ef399f38dd40d67716d846b50d9b6738f",
+      "title": "letta-ai/claude-subconscious",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/letta-ai/claude-subconscious",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "ab15f474a2763269ec4e90c6123dcec8d5ee3dbf",
+      "title": "bytedance/deer-flow",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/bytedance/deer-flow",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
