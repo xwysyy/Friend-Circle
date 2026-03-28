@@ -1,73 +1,28 @@
 {
   "statistical_data": {
     "friends_num": 39,
-    "active_num": 37,
-    "error_num": 2,
-    "article_num": 221,
-    "last_updated_time": "2026-03-28 21:05:56"
+    "active_num": 38,
+    "error_num": 1,
+    "article_num": 216,
+    "last_updated_time": "2026-03-29 02:50:21"
   },
   "article_data": [
     {
-      "id": "0a0ed40504101b952fc79d2bc4ff6549b545b030",
-      "title": "Quoting Matt Webb",
-      "created": "2026-03-28 20:04",
-      "link": "https://simonwillison.net/2026/Mar/28/matt-webb/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "id": "5da4856b57ae76b0941e9e03b9ca9193ff8bb43c",
+      "title": "EP208: Load Balancer vs API Gateway",
+      "created": "2026-03-28 23:31",
+      "link": "https://blog.bytebytego.com/p/ep208-load-balancer-vs-api-gateway",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
-      "id": "d98f1d7c68f2a748b6643f04ad3b5ee5f6c82891",
-      "title": "个人毕业设计展",
-      "created": "2026-03-28 14:45",
-      "link": "https://imqi1.com/shot/1005",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
-    {
-      "id": "978d10ae253a3ebe7413b7da6194916dcdc6b880",
-      "title": "血洗内存股900亿刀的谷歌AI论文，竟涉嫌学术造假",
-      "created": "2026-03-28 14:31",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651024408&idx=1&sn=2e5b870868e54c10ba4fa75339f1d577",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "f12018aa95bbfd927774d67132e40577bbc4643e",
-      "title": "151个软件包，暗藏肉眼不可见的恶意代码，AI批量生成的？",
-      "created": "2026-03-28 14:31",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651024408&idx=2&sn=062ff322aecc7b0267d595134ece1856",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "d41cbe38303f6a78f1bc22194948445c7ba4dd1b",
-      "title": "ICRA 2026 | LLM+运筹优化：工业级多机器人协同控制软件生成新范式",
-      "created": "2026-03-28 14:31",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651024408&idx=3&sn=9500bbb79d4a97484c102284e8ebd5e3",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "9ef19b2fb3b654fe1872a93b607ed221865aa198",
-      "title": "Notion 联合创始人 Simon Last：我从去年夏天起就没写过一行代码了",
+      "id": "51e9b9b285cc31f9c25c61e6de793d3d2e506c47",
+      "title": "How Kimi, Cursor, and Chroma Train Agentic Models with RL",
       "created": "2026-03-28 08:00",
-      "link": "https://baoyu.io/blog/from-note-taking-app-to-ai-workspace-the-simon-last-interview",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "51a02dc6c0ff82f401b892341b4e0ebfafdd540d",
-      "title": "Liberate your OpenClaw",
-      "created": "2026-03-27 08:00",
-      "link": "https://huggingface.co/blog/liberate-your-openclaw",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
+      "link": "https://www.philschmid.de/kimi-composer-context",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -386,6 +341,15 @@
       "category": "ai"
     },
     {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -401,15 +365,6 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -449,21 +404,21 @@
       "category": "ai"
     },
     {
-      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
-      "title": "Qwen多模态系列论文",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
       "title": "Google Gemini LangChain Cheatsheet",
       "created": "2025-04-28 08:00",
       "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
+      "title": "Qwen多模态系列论文",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -671,6 +626,15 @@
       "link": "https://www.philschmid.de/mcp-introduction",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
+      "title": "The NLP Course is becoming the LLM Course",
+      "created": "2025-04-03 08:00",
+      "link": "https://huggingface.co/blog/llm-course",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1175,15 +1139,6 @@
       "link": "https://magazine.sebastianraschka.com/p/new-llm-pre-training-and-post-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "ae423d41c3c5aa855626e46f704b3409ef6f9d32",
-      "title": "Deploy open LLMs with Terraform and Amazon SageMaker",
-      "created": "2024-08-05 08:00",
-      "link": "https://www.philschmid.de/terraform-llm-sagemaker",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
