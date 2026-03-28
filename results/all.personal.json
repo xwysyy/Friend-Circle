@@ -3,44 +3,17 @@
     "friends_num": 39,
     "active_num": 37,
     "error_num": 2,
-    "article_num": 219,
-    "last_updated_time": "2026-03-28 10:38:34"
+    "article_num": 216,
+    "last_updated_time": "2026-03-28 15:05:04"
   },
   "article_data": [
     {
-      "id": "30c92fd818648ee9179ed43e79fa38e248da6fbc",
-      "title": "datasette-showboat 0.1a2",
-      "created": "2026-03-28 07:42",
-      "link": "https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "da6a7acabac078438b1d9c1ccf34d1d6bd58d179",
-      "title": "Quoting Richard Fontana",
-      "created": "2026-03-28 05:11",
-      "link": "https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "66bd1b208cf35b589d01eb20d8deb05ec3120d8b",
-      "title": "Vibe coding SwiftUI apps is a lot of fun",
-      "created": "2026-03-28 04:59",
-      "link": "https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "45b152e584153fe517a54e0b577278f0f665ee26",
-      "title": "Working on products people hate",
-      "created": "2026-03-27 08:00",
-      "link": "https://seangoedecke.com/working-on-products-people-hate/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "id": "9ef19b2fb3b654fe1872a93b607ed221865aa198",
+      "title": "Notion 联合创始人 Simon Last：我从去年夏天起就没写过一行代码了",
+      "created": "2026-03-28 08:00",
+      "link": "https://baoyu.io/blog/from-note-taking-app-to-ai-workspace-the-simon-last-interview",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -359,6 +332,15 @@
       "category": "ai"
     },
     {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -374,15 +356,6 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -422,21 +395,21 @@
       "category": "ai"
     },
     {
-      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
-      "title": "Google Gemini LangChain Cheatsheet",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
       "title": "Qwen多模态系列论文",
       "created": "2025-04-28 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
+      "title": "Google Gemini LangChain Cheatsheet",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -638,21 +611,21 @@
       "category": "ai"
     },
     {
-      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
-      "title": "The NLP Course is becoming the LLM Course",
-      "created": "2025-04-03 08:00",
-      "link": "https://huggingface.co/blog/llm-course",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
       "title": "Model Context Protocol (MCP) an overview",
       "created": "2025-04-03 08:00",
       "link": "https://www.philschmid.de/mcp-introduction",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
+      "title": "The NLP Course is becoming the LLM Course",
+      "created": "2025-04-03 08:00",
+      "link": "https://huggingface.co/blog/llm-course",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
