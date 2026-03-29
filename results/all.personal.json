@@ -3,60 +3,60 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 223,
-    "last_updated_time": "2026-03-29 21:06:36"
+    "article_num": 224,
+    "last_updated_time": "2026-03-30 02:51:59"
   },
   "article_data": [
     {
-      "id": "7ef5b5f30f58ab68cdfae547eb82d1ef85cf7d47",
-      "title": "GitLab创始人抗癌实录：他用创始人思维和AI救了自己",
-      "created": "2026-03-29 13:04",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651024498&idx=1&sn=ddd300548f6482ecf75a454716115611",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "id": "2f9541f41009428d700416471779e5f5bb812496",
+      "title": "肖恩技术周刊（第 87 期）：青少年社交媒体禁令",
+      "created": "2026-03-30 08:00",
+      "link": "https://weekly.shawnxie.top/content/2026/87.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
-      "id": "d6f6a9273c86708691af95c6155f1404062c8061",
-      "title": "AI 为什么不会规划？Yann LeCun团队：问题出在「时间是弯的」",
-      "created": "2026-03-29 13:04",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651024498&idx=2&sn=466a2077c0565f7414b9e922e23a37cf",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "5aac3fe610f75e0e4cc9e09b45029918aac235d9",
-      "title": "让中小团队也玩得起Deep Research：TAMU/Waterloo团队把研究智能体的训练做成了开源流水线",
-      "created": "2026-03-29 13:04",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651024498&idx=3&sn=b69cafdb54b68dc5c5bf4bfbd65b6b00",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "5e4319e426aac7deb7738da3ad1d5856e6ec87bf",
-      "title": "The Code Agent Orchestra - what makes multi-agent coding work",
+      "id": "bad1c26cc9d272f0999aa6a3785e7790a127f56c",
+      "title": "DeerFlow 2.0：字节跳动开源超级智能体框架",
       "created": "2026-03-29 08:00",
-      "link": "https://lumina.shawnxie.top/article/the-code-agent-orchestra-what-makes-multi-agent-522da5a8",
+      "link": "https://lumina.shawnxie.top/article/deerflow-2-0-zi-jie-tiao-dong-kai-yuan-chao-ji-cc2d50e5",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
-      "id": "9733f5352015a6d3abd7920c86a4b6f50c9319a1",
-      "title": "Agent Evaluation Readiness Checklist",
-      "created": "2026-03-27 08:00",
-      "link": "https://lumina.shawnxie.top/article/agent-evaluation-readiness-checklist-527203cb",
+      "id": "82c378cb0ec6b06881868e884f04052f644797ca",
+      "title": "MiniMax Skills：开发技能库",
+      "created": "2026-03-29 08:00",
+      "link": "https://lumina.shawnxie.top/article/minimax-skills-kai-fa-ji-neng-ku-c6bc884b",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
-      "id": "ab1ab1a67235d78457cf8bc6a8c928c778dcbaee",
-      "title": "How we use Abstract Syntax Trees (ASTs) to turn Workflows code into visual diagrams",
-      "created": "2026-03-27 08:00",
-      "link": "https://lumina.shawnxie.top/article/how-we-use-abstract-syntax-trees-asts-to-turn-b780871c",
+      "id": "ef924f5c38ae3a224e9fc4232f3fa191f7c814bd",
+      "title": "last30days-skill：Claude Code 社区研究插件",
+      "created": "2026-03-29 08:00",
+      "link": "https://lumina.shawnxie.top/article/last30days-skill-claude-code-she-qu-yan-jiu-cha-714e1216",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "314b9545dd376720b493a38bcaeb883a10774590",
+      "title": "claude-subconscious：Claude Code 跨会话记忆插件",
+      "created": "2026-03-29 08:00",
+      "link": "https://lumina.shawnxie.top/article/claude-subconscious-claude-code-kua-hui-hua-ji-yi-8369c576",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "af289c0e949fccb6533f36e4654119e23b0ddb06",
+      "title": "LangGraph: 智能体编排框架",
+      "created": "2026-03-29 08:00",
+      "link": "https://lumina.shawnxie.top/article/langchain-ai-langgraph-build-resilient-language-084f7bc4",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
@@ -77,6 +77,15 @@
       "link": "https://www.big-yellow-j.top/posts/2026/03/26/RLHF-3.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e0e49f96aa139eeaeb04e39fade7c911dcd49b6e",
+      "title": "Harness design for long-running application development",
+      "created": "2026-03-24 08:00",
+      "link": "https://lumina.shawnxie.top/article/harness-design-for-long-running-application-12df4acd",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -377,15 +386,6 @@
       "category": "ai"
     },
     {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -401,6 +401,15 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -656,21 +665,21 @@
       "category": "ai"
     },
     {
-      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
-      "title": "Model Context Protocol (MCP) an overview",
-      "created": "2025-04-03 08:00",
-      "link": "https://www.philschmid.de/mcp-introduction",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
       "title": "The NLP Course is becoming the LLM Course",
       "created": "2025-04-03 08:00",
       "link": "https://huggingface.co/blog/llm-course",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
+      "title": "Model Context Protocol (MCP) an overview",
+      "created": "2025-04-03 08:00",
+      "link": "https://www.philschmid.de/mcp-introduction",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -872,21 +881,21 @@
       "category": "ai"
     },
     {
-      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
-      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
-      "created": "2025-01-23 08:00",
-      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
       "title": "Oh-Numpy & Oh-Pytorch",
       "created": "2025-01-23 08:00",
       "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
+      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
+      "created": "2025-01-23 08:00",
+      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1016,21 +1025,21 @@
       "category": "ai"
     },
     {
-      "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
-      "title": "Reward Hacking in Reinforcement Learning",
-      "created": "2024-11-28 08:00",
-      "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
-      "author": "Lilian Weng",
-      "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
-      "category": "ai"
-    },
-    {
       "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
       "title": "斯坦福小镇解读",
       "created": "2024-11-28 08:00",
       "link": "https://mathewshen.me/blog/2024/ai-town/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
+      "title": "Reward Hacking in Reinforcement Learning",
+      "created": "2024-11-28 08:00",
+      "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
+      "author": "Lilian Weng",
+      "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
       "category": "ai"
     },
     {
