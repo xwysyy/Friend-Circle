@@ -3,28 +3,10 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 216,
-    "last_updated_time": "2026-03-29 02:50:21"
+    "article_num": 217,
+    "last_updated_time": "2026-03-29 10:53:12"
   },
   "article_data": [
-    {
-      "id": "5da4856b57ae76b0941e9e03b9ca9193ff8bb43c",
-      "title": "EP208: Load Balancer vs API Gateway",
-      "created": "2026-03-28 23:31",
-      "link": "https://blog.bytebytego.com/p/ep208-load-balancer-vs-api-gateway",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "51e9b9b285cc31f9c25c61e6de793d3d2e506c47",
-      "title": "How Kimi, Cursor, and Chroma Train Agentic Models with RL",
-      "created": "2026-03-28 08:00",
-      "link": "https://www.philschmid.de/kimi-composer-context",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
     {
       "id": "0f0abe79e2988deaa5ebb1005cfe02d2e5b54469",
       "title": "基于流式幂迭代的Muon实现：2. 加速",
@@ -341,15 +323,6 @@
       "category": "ai"
     },
     {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -365,6 +338,15 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -476,21 +458,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -620,21 +602,21 @@
       "category": "ai"
     },
     {
-      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
-      "title": "Model Context Protocol (MCP) an overview",
-      "created": "2025-04-03 08:00",
-      "link": "https://www.philschmid.de/mcp-introduction",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
       "title": "The NLP Course is becoming the LLM Course",
       "created": "2025-04-03 08:00",
       "link": "https://huggingface.co/blog/llm-course",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
+      "title": "Model Context Protocol (MCP) an overview",
+      "created": "2025-04-03 08:00",
+      "link": "https://www.philschmid.de/mcp-introduction",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1142,6 +1124,15 @@
       "category": "ai"
     },
     {
+      "id": "ae423d41c3c5aa855626e46f704b3409ef6f9d32",
+      "title": "Deploy open LLMs with Terraform and Amazon SageMaker",
+      "created": "2024-08-05 08:00",
+      "link": "https://www.philschmid.de/terraform-llm-sagemaker",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "c48435ecf46221f7a9f8b6f954b7bb41187ed7ee",
       "title": "链接器：第一视角深入理解 PLT 和 GOT",
       "created": "2024-07-27 12:17",
@@ -1304,19 +1295,46 @@
       "category": "ai"
     },
     {
-      "id": "e02005581f0c5e59e98581d958d6df9ce73fb793",
-      "title": "opendataloader-project/opendataloader-pdf",
+      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
+      "title": "NousResearch/hermes-agent",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "link": "https://github.com/NousResearch/hermes-agent",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "9ba9156b390aff049da09208fe1cd002e6b00aec",
-      "title": "Crosstalk-Solutions/project-nomad",
+      "id": "b33be8909763c03145e5a32c1791f93e8897e5e3",
+      "title": "hacksider/Deep-Live-Cam",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "link": "https://github.com/hacksider/Deep-Live-Cam",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "7544a92ef399f38dd40d67716d846b50d9b6738f",
+      "title": "letta-ai/claude-subconscious",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/letta-ai/claude-subconscious",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "6930203c93d32e6b91579286dd17e9b0309acc79",
+      "title": "jarrodwatts/claude-hud",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/jarrodwatts/claude-hud",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "ab15f474a2763269ec4e90c6123dcec8d5ee3dbf",
+      "title": "bytedance/deer-flow",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/bytedance/deer-flow",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1331,19 +1349,10 @@
       "category": "ai"
     },
     {
-      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
-      "title": "obra/superpowers",
+      "id": "9ba9156b390aff049da09208fe1cd002e6b00aec",
+      "title": "Crosstalk-Solutions/project-nomad",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/obra/superpowers",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "ec9a31b734036e5567d16febe78871fa11438f99",
-      "title": "harry0703/MoneyPrinterTurbo",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "link": "https://github.com/Crosstalk-Solutions/project-nomad",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1367,15 +1376,6 @@
       "category": "ai"
     },
     {
-      "id": "6930203c93d32e6b91579286dd17e9b0309acc79",
-      "title": "jarrodwatts/claude-hud",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/jarrodwatts/claude-hud",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "dc61fcee9612031ee5c46ea3b9cbe31ef7b13067",
       "title": "supermemoryai/supermemory",
       "created": "2024-01-01 00:00",
@@ -1385,10 +1385,19 @@
       "category": "ai"
     },
     {
-      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
-      "title": "NousResearch/hermes-agent",
+      "id": "ec9a31b734036e5567d16febe78871fa11438f99",
+      "title": "harry0703/MoneyPrinterTurbo",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/NousResearch/hermes-agent",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "fb1559fc483e5f3ca1187796b2cdc5c324f489a6",
+      "title": "SakanaAI/AI-Scientist-v2",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/SakanaAI/AI-Scientist-v2",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1403,6 +1412,15 @@
       "category": "ai"
     },
     {
+      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
+      "title": "obra/superpowers",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/obra/superpowers",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "01e478ba125afa0c8a152dffa4c867cb312e0121",
       "title": "mvanhorn/last30days-skill",
       "created": "2024-01-01 00:00",
@@ -1412,19 +1430,10 @@
       "category": "ai"
     },
     {
-      "id": "7544a92ef399f38dd40d67716d846b50d9b6738f",
-      "title": "letta-ai/claude-subconscious",
+      "id": "1555ed6bcb1233ac9c007e37e60bc1ee6a65594c",
+      "title": "jingyaogong/minimind",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/letta-ai/claude-subconscious",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "ab15f474a2763269ec4e90c6123dcec8d5ee3dbf",
-      "title": "bytedance/deer-flow",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/bytedance/deer-flow",
+      "link": "https://github.com/jingyaogong/minimind",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
