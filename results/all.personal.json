@@ -3,10 +3,28 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 227,
-    "last_updated_time": "2026-03-31 21:44:23"
+    "article_num": 228,
+    "last_updated_time": "2026-04-01 03:09:03"
   },
   "article_data": [
+    {
+      "id": "b7710d4cff8d925c64df5979491a87603ffa5da3",
+      "title": "How Meta Turned Debugging Into a Product",
+      "created": "2026-03-31 23:31",
+      "link": "https://blog.bytebytego.com/p/how-meta-turned-debugging-into-a",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "id": "3984d84784efff53afaa27cefe09e72c37f2a9f6",
+      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+      "created": "2026-03-31 23:10",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "aead52e31a1dea756cc3df2b04e89009486f123c",
       "title": "628 - 《不写代码的程序员 - 我怎么用 AI 编程 2026.03》",
@@ -14,6 +32,15 @@
       "link": "https://blog.sorrycc.com/programmer-without-code",
       "author": "sorrycc (云谦)",
       "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "1c062905267664a61a272578f0bf3fa433d79165",
+      "title": "Claude Code's Real Secret Sauce Isn't the Model",
+      "created": "2026-03-31 18:00",
+      "link": "https://sebastianraschka.com/blog/2026/claude-code-secret-sauce.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -68,6 +95,15 @@
       "link": "https://lumina.shawnxie.top/article/dou-dou-zhuan-zhuan-20-nian-zhang-xue-yi-dian-du-75ff9806",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "1f5256fffe0b0767138586363b3d02a7998ba3e5",
+      "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
+      "created": "2026-03-31 08:00",
+      "link": "https://huggingface.co/blog/trl-v1",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -224,19 +260,19 @@
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -395,15 +431,6 @@
       "category": "ai"
     },
     {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -419,6 +446,15 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -660,24 +696,6 @@
       "title": "Welcome Llama 4 Maverick & Scout on Hugging Face",
       "created": "2025-04-05 08:00",
       "link": "https://huggingface.co/blog/llama4-release",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "8a9b9b76a2bf071a9b83f0fcdb507cd78926849b",
-      "title": "Journey to 1 Million Gradio Users!",
-      "created": "2025-04-04 08:00",
-      "link": "https://huggingface.co/blog/gradio-1m",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
-      "title": "The NLP Course is becoming the LLM Course",
-      "created": "2025-04-03 08:00",
-      "link": "https://huggingface.co/blog/llm-course",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
@@ -1607,15 +1625,6 @@
       "link": "https://philliphaeusler.com/posts/tic_tac_toe/",
       "author": "Phillip Haeusler",
       "avatar": "https://philliphaeusler.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "001115838b91da96dc1ba1a87b6763a732f04384",
-      "title": "Optimizing LLMs From a Dataset Perspective",
-      "created": "2023-09-15 16:00",
-      "link": "https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
