@@ -3,170 +3,44 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 240,
-    "last_updated_time": "2026-03-31 03:06:29"
+    "article_num": 224,
+    "last_updated_time": "2026-03-31 10:48:34"
   },
   "article_data": [
     {
-      "id": "9eedbb9a002705195810d2858ade0126f230b12a",
-      "title": "How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds",
-      "created": "2026-03-30 23:33",
-      "link": "https://blog.bytebytego.com/p/how-roblox-uses-ai-to-translate-16",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "id": "589d80455e6b40e5fb77296a3f781d785e5e10ab",
+      "title": "中位数（Median）简介",
+      "created": "2026-03-31 10:20",
+      "link": "https://kexue.fm/archives/11693",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
-      "id": "b67df7b7b719ba95220691b8adc9304c1def8b58",
-      "title": "Harness Engineering Skill：使用 Entrix 技能开始你的代码熵治理",
-      "created": "2026-03-30 23:03",
-      "link": "http://www.phodal.com/blog/harness-engineering-skill-entrix-skill/",
-      "author": "Phodal Huang",
-      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "bf3962b618d0d5f534228735c0085db190a31930",
-      "title": "Mr. Chatterbox is a (weak) Victorian-era ethically trained model you can run on your own computer",
-      "created": "2026-03-30 22:28",
-      "link": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/#atom-everything",
+      "id": "c6895d8cea03af23bf41bec148ad63f6287a1615",
+      "title": "datasette-files 0.1a3",
+      "created": "2026-03-31 07:58",
+      "link": "https://simonwillison.net/2026/Mar/30/datasette-files/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
-      "id": "aabb76d1866652de176b549a6dc633e6207e545a",
-      "title": "llm-mrchatterbox 0.1",
-      "created": "2026-03-30 10:20",
-      "link": "https://simonwillison.net/2026/Mar/30/llm-mrchatterbox-2/#atom-everything",
+      "id": "f20708d6a02ee5d81801676d32f442bf2d6762d4",
+      "title": "Quoting Georgi Gerganov",
+      "created": "2026-03-31 05:31",
+      "link": "https://simonwillison.net/2026/Mar/30/georgi-gerganov/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
-      "id": "f52e4aedfa5c969af0689e67155629205e2b1374",
-      "title": "Echo：预测智能的一小步，通往通用智能的一大步",
-      "created": "2026-03-30 09:34",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651024564&idx=1&sn=6fb075d1ca107111ac46eeb2215716fd",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "ec279e4e88b115ae9988d35b4a899a33f272a6c1",
-      "title": "ICLR 2026 | 让多模态模型学会主动说话：主动交互从训练到评估的完整方案",
-      "created": "2026-03-30 09:34",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651024564&idx=2&sn=35264986836dd290aa3618d110aaeb85",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "2f9541f41009428d700416471779e5f5bb812496",
-      "title": "肖恩技术周刊（第 87 期）：青少年社交媒体禁令",
-      "created": "2026-03-30 08:00",
-      "link": "https://weekly.shawnxie.top/content/2026/87.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
-      "id": "c317cffea3cc04cc24d30c2f3a308ec9a96ac825",
-      "title": "Pretext",
-      "created": "2026-03-30 04:08",
-      "link": "https://simonwillison.net/2026/Mar/29/pretext/#atom-everything",
+      "id": "d8577dcf24f22729a9d8b17582ddeef9c35b9167",
+      "title": "datasette-llm 0.1a3",
+      "created": "2026-03-31 03:48",
+      "link": "https://simonwillison.net/2026/Mar/30/datasette-llm/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "25098c0f09a55d0272cee8ec7a1a7f6fb74ba47f",
-      "title": "Qwen3.5-Omni：新一代大规模原生全模态大模型",
-      "created": "2026-03-30 04:00",
-      "link": "https://qwen.ai/blog?id=qwen3.5-omni",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
-      "category": "ai"
-    },
-    {
-      "id": "7dbb8b38a001645061038e0a4502784319d10ead",
-      "title": "Pretext — Under the Hood",
-      "created": "2026-03-30 03:59",
-      "link": "https://simonwillison.net/2026/Mar/29/pretext-explainer/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "a289b4638bf4dbfb06aa4850579fdb87f04d936c",
-      "title": "Python Vulnerability Lookup",
-      "created": "2026-03-30 02:46",
-      "link": "https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "bad1c26cc9d272f0999aa6a3785e7790a127f56c",
-      "title": "DeerFlow 2.0：字节跳动开源超级智能体框架",
-      "created": "2026-03-29 08:00",
-      "link": "https://lumina.shawnxie.top/article/deerflow-2-0-zi-jie-tiao-dong-kai-yuan-chao-ji-cc2d50e5",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "82c378cb0ec6b06881868e884f04052f644797ca",
-      "title": "MiniMax Skills：开发技能库",
-      "created": "2026-03-29 08:00",
-      "link": "https://lumina.shawnxie.top/article/minimax-skills-kai-fa-ji-neng-ku-c6bc884b",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "ef924f5c38ae3a224e9fc4232f3fa191f7c814bd",
-      "title": "last30days-skill：Claude Code 社区研究插件",
-      "created": "2026-03-29 08:00",
-      "link": "https://lumina.shawnxie.top/article/last30days-skill-claude-code-she-qu-yan-jiu-cha-714e1216",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "314b9545dd376720b493a38bcaeb883a10774590",
-      "title": "claude-subconscious：Claude Code 跨会话记忆插件",
-      "created": "2026-03-29 08:00",
-      "link": "https://lumina.shawnxie.top/article/claude-subconscious-claude-code-kua-hui-hua-ji-yi-8369c576",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "af289c0e949fccb6533f36e4654119e23b0ddb06",
-      "title": "LangGraph: 智能体编排框架",
-      "created": "2026-03-29 08:00",
-      "link": "https://lumina.shawnxie.top/article/langchain-ai-langgraph-build-resilient-language-084f7bc4",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "d11227185685eafbf25c1cf19abbd6c9eec10d34",
-      "title": "飞书 CLI 开源了，为什么 AI Agent 时代，大家都在做命令行工具？",
-      "created": "2026-03-28 08:00",
-      "link": "https://baoyu.io/blog/2026-03-28/lark-cli-ai-agents",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "f6593f1453b6e1b9ffd22882ed686fa5a2424108",
-      "title": "Harness Engineering又他妈是啥？",
-      "created": "2026-03-27 08:00",
-      "link": "https://lumina.shawnxie.top/article/harness-engineeringyou-ta-ma-shi-sha-d03abe06",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -185,24 +59,6 @@
       "link": "https://www.big-yellow-j.top/posts/2026/03/26/RLHF-3.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "a37b545487c9766a0bfbc74044dd69c69d35b60a",
-      "title": "Apifox 供应链投毒攻击 — 完整技术分析",
-      "created": "2026-03-25 08:00",
-      "link": "https://lumina.shawnxie.top/article/apifox-gong-ying-lian-tou-du-gong-ji-wan-zheng-ji-616298d8",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "e0e49f96aa139eeaeb04e39fade7c911dcd49b6e",
-      "title": "Harness design for long-running application development",
-      "created": "2026-03-24 08:00",
-      "link": "https://lumina.shawnxie.top/article/harness-design-for-long-running-application-12df4acd",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -341,19 +197,19 @@
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
