@@ -4,7 +4,7 @@
     "active_num": 38,
     "error_num": 1,
     "article_num": 600,
-    "last_updated_time": "2026-04-01 21:46:39"
+    "last_updated_time": "2026-04-02 03:10:12"
   },
   "article_data": [
     {
@@ -32,6 +32,24 @@
       "link": "https://yukinoshitasherry.github.io/26%E5%A4%96%E5%9C%B0%E9%A3%9F%E7%89%A9/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "e88aa7265188590771353f79737d7086107d0fd9",
+      "title": "Holo3: Breaking the Computer Use Frontier",
+      "created": "2026-04-02 00:36",
+      "link": "https://huggingface.co/blog/Hcompany/holo3",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "fd8e6e4b4e99a37a9c95fc589cb52b214469e70a",
+      "title": "How Datadog Redefined Data Replication",
+      "created": "2026-04-01 23:31",
+      "link": "https://blog.bytebytego.com/p/how-datadog-redefined-data-replication",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
@@ -602,6 +620,15 @@
       "category": "ai"
     },
     {
+      "id": "45b152e584153fe517a54e0b577278f0f665ee26",
+      "title": "Working on products people hate",
+      "created": "2026-03-27 08:00",
+      "link": "https://seangoedecke.com/working-on-products-people-hate/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "51a02dc6c0ff82f401b892341b4e0ebfafdd540d",
       "title": "Liberate your OpenClaw",
       "created": "2026-03-27 08:00",
@@ -647,15 +674,6 @@
       "category": "ai"
     },
     {
-      "id": "45b152e584153fe517a54e0b577278f0f665ee26",
-      "title": "Working on products people hate",
-      "created": "2026-03-27 08:00",
-      "link": "https://seangoedecke.com/working-on-products-people-hate/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "cee4d3286a77fe7ebed2e348e6a433c870d2e679",
       "title": "科技爱好者周刊（第 390 期）：没有语料，大模型就是智障",
       "created": "2026-03-27 05:49",
@@ -692,6 +710,15 @@
       "category": "ai"
     },
     {
+      "id": "b751f403643d498699651cb043a068278d8f21d4",
+      "title": "Engineers do get promoted for writing simple code",
+      "created": "2026-03-26 08:00",
+      "link": "https://seangoedecke.com/simple-work-gets-rewarded/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "c919bde1987f01e22821a166e458c2ca927880e0",
       "title": "Search Live is expanding globally",
       "created": "2026-03-26 08:00",
@@ -725,15 +752,6 @@
       "link": "https://www.big-yellow-j.top/posts/2026/03/26/RLHF-3.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b751f403643d498699651cb043a068278d8f21d4",
-      "title": "Engineers do get promoted for writing simple code",
-      "created": "2026-03-26 08:00",
-      "link": "https://seangoedecke.com/simple-work-gets-rewarded/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1547,21 +1565,21 @@
       "category": "ai"
     },
     {
-      "id": "62f32a6c7f570b397da844e4ecd72610e1a71e01",
-      "title": "How Autoresearch will change Small Language Models adoption",
-      "created": "2026-03-10 08:00",
-      "link": "https://www.philschmid.de/autoresearch",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "21d6d80bd7e913620ab07b9b7b14767bd4c80201",
       "title": "AI Native 的来时路",
       "created": "2026-03-10 08:00",
       "link": "https://mathewshen.me/blog/2026/new-era/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "62f32a6c7f570b397da844e4ecd72610e1a71e01",
+      "title": "How Autoresearch will change Small Language Models adoption",
+      "created": "2026-03-10 08:00",
+      "link": "https://www.philschmid.de/autoresearch",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1616,15 +1634,6 @@
       "link": "https://mathewshen.me/blog/2026/waiting/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
-      "id": "c7c4cba0627e87ad91a0ea0ccfdfbe8ff3315af2",
-      "title": "EP205: CPU vs GPU vs TPU",
-      "created": "2026-03-08 00:31",
-      "link": "https://blog.bytebytego.com/p/ep205-cpu-vs-gpu-vs-tpu",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
@@ -2024,15 +2033,6 @@
       "category": "ai"
     },
     {
-      "id": "385625ec7d882f02a7b74bdb3c8ac1a192506645",
-      "title": "深入浅出了解生成模型-10：Flow Matching基本原理",
-      "created": "2026-02-23 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/02/23/FlowMatching.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "cad37d404e8c15e14af6deb4214fb3b6476aa9cc",
       "title": "Insider amnesia",
       "created": "2026-02-23 08:00",
@@ -2048,6 +2048,15 @@
       "link": "https://seangoedecke.com/continuous-learning/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "385625ec7d882f02a7b74bdb3c8ac1a192506645",
+      "title": "深入浅出了解生成模型-10：Flow Matching基本原理",
+      "created": "2026-02-23 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/02/23/FlowMatching.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -2150,12 +2159,12 @@
       "category": "ai"
     },
     {
-      "id": "a10c31319962675c5df2dd490085067aa96a5b61",
-      "title": "One-Shot Any Web App with Gradio's gr.HTML",
-      "created": "2026-02-18 08:00",
-      "link": "https://huggingface.co/blog/gradio-html-one-shot-apps",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
+      "id": "283f8f35757dad82c325c0208a27e7d91aae6242",
+      "title": "LLM-generated skills work, if you generate them afterwards",
+      "created": "2026-02-17 08:00",
+      "link": "https://seangoedecke.com/generate-skills-afterwards/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -2165,15 +2174,6 @@
       "link": "https://www.philschmid.de/closing-the-loop",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "283f8f35757dad82c325c0208a27e7d91aae6242",
-      "title": "LLM-generated skills work, if you generate them afterwards",
-      "created": "2026-02-17 08:00",
-      "link": "https://seangoedecke.com/generate-skills-afterwards/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -2204,21 +2204,21 @@
       "category": "ai"
     },
     {
-      "id": "b4665bae5f5e11fc9cc4c52f735b46e9c396fafd",
-      "title": "深入浅出了解生成模型-10：模型蒸馏与剪枝",
-      "created": "2026-02-15 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/02/15/ModelDistillation.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "f3c98e92299c3044e22166fde6bba83d9503e4fb",
       "title": "Two different tricks for fast LLM inference",
       "created": "2026-02-15 08:00",
       "link": "https://seangoedecke.com/fast-llm-inference/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b4665bae5f5e11fc9cc4c52f735b46e9c396fafd",
+      "title": "深入浅出了解生成模型-10：模型蒸馏与剪枝",
+      "created": "2026-02-15 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/02/15/ModelDistillation.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -2537,21 +2537,21 @@
       "category": "ai"
     },
     {
-      "id": "abf909c856ce0885020dc45b4a60f19c36472d5f",
-      "title": "肖恩技术周刊（第 80 期）：AI编程的9条心得",
-      "created": "2026-01-26 08:00",
-      "link": "https://weekly.shawnxie.top/content/2026/80.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "9ca2fa0270f940ec652b1d8bb7d440d6c8cb2fd2",
       "title": "You have to know how to drive the car",
       "created": "2026-01-26 08:00",
       "link": "https://seangoedecke.com/knowing-how-to-drive-the-car/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "abf909c856ce0885020dc45b4a60f19c36472d5f",
+      "title": "肖恩技术周刊（第 80 期）：AI编程的9条心得",
+      "created": "2026-01-26 08:00",
+      "link": "https://weekly.shawnxie.top/content/2026/80.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -2906,30 +2906,21 @@
       "category": "ai"
     },
     {
-      "id": "ddecdacb24bd0f7eeb6152205e2cf9f5e1c9e6bd",
-      "title": "肖恩技术周刊（第 77 期）：稀缺特质",
-      "created": "2026-01-05 08:00",
-      "link": "https://weekly.shawnxie.top/content/2026/77.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
-      "id": "8d90519fb1690502dd7c59a88435336cab69145e",
-      "title": "The importance of Agent Harness in 2026",
-      "created": "2026-01-05 08:00",
-      "link": "https://www.philschmid.de/agent-harness-2026",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "62c7a6997464ba9ec3203e59b814c0efd2bef855",
       "title": "The Dictator's Handbook and the politics of technical competence",
       "created": "2026-01-05 08:00",
       "link": "https://seangoedecke.com/the-dictators-handbook/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "ddecdacb24bd0f7eeb6152205e2cf9f5e1c9e6bd",
+      "title": "肖恩技术周刊（第 77 期）：稀缺特质",
+      "created": "2026-01-05 08:00",
+      "link": "https://weekly.shawnxie.top/content/2026/77.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -2975,6 +2966,15 @@
       "link": "https://blog.tomorrowdawn.cc/posts/adam%E4%B8%AD%E7%9A%84%E5%81%8F%E5%B7%AE%E4%BF%AE%E6%AD%A3%E8%B5%B7%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "8d90519fb1690502dd7c59a88435336cab69145e",
+      "title": "The importance of Agent Harness in 2026",
+      "created": "2026-01-05 08:00",
+      "link": "https://www.philschmid.de/agent-harness-2026",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -3194,15 +3194,6 @@
       "category": "ai"
     },
     {
-      "id": "b9a24d96040d69721c996a7121f4b197f6aafd26",
-      "title": "深入浅出了解生成模型-8：生成加速策略概述",
-      "created": "2025-12-29 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/12/29/SDAcceralate.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "f4b3d10b27b983aeffd563b69ad775210aa57b6e",
       "title": "TileLang笔记",
       "created": "2025-12-29 08:00",
@@ -3212,10 +3203,10 @@
       "category": "ai"
     },
     {
-      "id": "b862cd6209e171582dfddff2fa7c56ba247f57a4",
-      "title": "模型推理框架vllm-1——整体框架及使用",
-      "created": "2025-12-27 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/12/27/vllm-1.html",
+      "id": "b9a24d96040d69721c996a7121f4b197f6aafd26",
+      "title": "深入浅出了解生成模型-8：生成加速策略概述",
+      "created": "2025-12-29 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/12/29/SDAcceralate.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
@@ -3230,21 +3221,30 @@
       "category": "ai"
     },
     {
-      "id": "29a9e0b54d724362a8754e0d07d8cfa211c4d7d0",
-      "title": "无题",
-      "created": "2025-12-27 08:00",
-      "link": "https://ifuryst.github.io/blog/2025/untitled/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
-      "category": "ai"
-    },
-    {
       "id": "a6ad5b0a8920fa4399bb7d0de3ac2f5055ee26ca",
       "title": "具体一点，再具体一点",
       "created": "2025-12-27 08:00",
       "link": "https://blog.tomorrowdawn.cc/posts/%E5%85%B7%E4%BD%93%E4%B8%80%E7%82%B9-%E5%86%8D%E5%85%B7%E4%BD%93%E4%B8%80%E7%82%B9/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "b862cd6209e171582dfddff2fa7c56ba247f57a4",
+      "title": "模型推理框架vllm-1——整体框架及使用",
+      "created": "2025-12-27 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/12/27/vllm-1.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "29a9e0b54d724362a8754e0d07d8cfa211c4d7d0",
+      "title": "无题",
+      "created": "2025-12-27 08:00",
+      "link": "https://ifuryst.github.io/blog/2025/untitled/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -3599,15 +3599,6 @@
       "category": "ai"
     },
     {
-      "id": "76760614b97f499d20f031911876dbfc4d54827e",
-      "title": "Context Engineering for AI Agents: Part 2",
-      "created": "2025-12-04 08:00",
-      "link": "https://www.philschmid.de/context-engineering-part-2",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
       "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
@@ -3623,6 +3614,15 @@
       "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "76760614b97f499d20f031911876dbfc4d54827e",
+      "title": "Context Engineering for AI Agents: Part 2",
+      "created": "2025-12-04 08:00",
+      "link": "https://www.philschmid.de/context-engineering-part-2",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
