@@ -3,26 +3,71 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 228,
-    "last_updated_time": "2026-04-01 03:09:03"
+    "article_num": 226,
+    "last_updated_time": "2026-04-01 11:18:47"
   },
   "article_data": [
     {
-      "id": "b7710d4cff8d925c64df5979491a87603ffa5da3",
-      "title": "How Meta Turned Debugging Into a Product",
-      "created": "2026-03-31 23:31",
-      "link": "https://blog.bytebytego.com/p/how-meta-turned-debugging-into-a",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "id": "6c6bbb614624956f112da458ba03c62374380fd1",
+      "title": "Quoting Soohoon Choi",
+      "created": "2026-04-01 10:07",
+      "link": "https://simonwillison.net/2026/Apr/1/soohoon-choi/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
-      "id": "3984d84784efff53afaa27cefe09e72c37f2a9f6",
-      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-      "created": "2026-03-31 23:10",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
+      "id": "441293b2521055d48aa3a143f6322a02e87d2b86",
+      "title": "Supply Chain Attack on Axios Pulls Malicious Dependency from npm",
+      "created": "2026-04-01 07:28",
+      "link": "https://simonwillison.net/2026/Mar/31/supply-chain-attack-on-axios/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "fd977a866e8a943a69f8362a64b99592036a924e",
+      "title": "datasette-llm 0.1a4",
+      "created": "2026-04-01 05:17",
+      "link": "https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "b30a023d89950a389b7b2484902bb1c0acb83342",
+      "title": "llm-all-models-async 0.1",
+      "created": "2026-04-01 04:52",
+      "link": "https://simonwillison.net/2026/Mar/31/llm-all-models-async/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "ce97c831ab4b124219dcdab820a2af6a21541c37",
+      "title": "llm 0.30",
+      "created": "2026-04-01 04:35",
+      "link": "https://simonwillison.net/2026/Mar/31/llm/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "6a41792c9ed34e816ced1590d49fb6091868ec23",
+      "title": "llm-echo 0.4",
+      "created": "2026-04-01 00:48",
+      "link": "https://simonwillison.net/2026/Mar/31/llm-echo/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "f54e95b201ab45b998226ef277d385a0e2f96975",
+      "title": "llm-echo 0.3",
+      "created": "2026-03-31 23:43",
+      "link": "https://simonwillison.net/2026/Mar/31/llm-echo-2/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -32,42 +77,6 @@
       "link": "https://blog.sorrycc.com/programmer-without-code",
       "author": "sorrycc (云谦)",
       "avatar": "https://avatars.githubusercontent.com/u/35128",
-      "category": "ai"
-    },
-    {
-      "id": "1c062905267664a61a272578f0bf3fa433d79165",
-      "title": "Claude Code's Real Secret Sauce Isn't the Model",
-      "created": "2026-03-31 18:00",
-      "link": "https://sebastianraschka.com/blog/2026/claude-code-secret-sauce.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "4a9cae1ca86e8d661d40611ed2c1ecff5b65d0e2",
-      "title": "京东卷出新高度！硬刚「复杂指令」长时长、自由态数字人直播终于丝滑了",
-      "created": "2026-03-31 13:36",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651024827&idx=1&sn=4088bb4cdc7fc7efe10c2998aec79285",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "6d2697b5a2730f1a1e8921c96f4b66da1dc01735",
-      "title": "不加算力，只改一个算法：Muon在万亿MoE模型中最高2倍加速",
-      "created": "2026-03-31 13:36",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651024827&idx=2&sn=dc80269b563b462cf512c3754b935ba2",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e40a8454fc624e57b758d4107f03b3b75a0df0d9",
-      "title": "ICLR 2026 | 大模型当裁判也「翻车」？北大清华联合多校提出TrustJudge，让LLM评估更值得信赖",
-      "created": "2026-03-31 13:36",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651024827&idx=3&sn=ce5e133b7ab1863f3b633b1af0764d11",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -89,30 +98,12 @@
       "category": "ai"
     },
     {
-      "id": "d5d036cad1b35d9e3435502785e2ff801f4605b1",
-      "title": "兜兜转转 20 年，张雪一点都没变。",
-      "created": "2026-03-31 08:00",
-      "link": "https://lumina.shawnxie.top/article/dou-dou-zhuan-zhuan-20-nian-zhang-xue-yi-dian-du-75ff9806",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "1f5256fffe0b0767138586363b3d02a7998ba3e5",
-      "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
-      "created": "2026-03-31 08:00",
-      "link": "https://huggingface.co/blog/trl-v1",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "11993e5676b5edaf999d35e7a95c908ae2de9245",
-      "title": "Cursor在Windows电脑闪退处理参考",
-      "created": "2026-03-30 08:00",
-      "link": "https://yukinoshitasherry.github.io/26Cursor%E9%97%AA%E9%80%80/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "id": "7553471fa37c9cb8976437ab443720c4f4d9dee0",
+      "title": "datasette-llm 0.1a2",
+      "created": "2026-03-26 23:52",
+      "link": "https://simonwillison.net/2026/Mar/26/datasette-llm/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -260,19 +251,19 @@
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -566,21 +557,21 @@
       "category": "ai"
     },
     {
-      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
-      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
-      "created": "2025-04-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
       "title": "The State of Reinforcement Learning for LLM Reasoning",
       "created": "2025-04-19 08:00",
       "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
+      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
+      "created": "2025-04-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -696,6 +687,24 @@
       "title": "Welcome Llama 4 Maverick & Scout on Hugging Face",
       "created": "2025-04-05 08:00",
       "link": "https://huggingface.co/blog/llama4-release",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8a9b9b76a2bf071a9b83f0fcdb507cd78926849b",
+      "title": "Journey to 1 Million Gradio Users!",
+      "created": "2025-04-04 08:00",
+      "link": "https://huggingface.co/blog/gradio-1m",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
+      "title": "The NLP Course is becoming the LLM Course",
+      "created": "2025-04-03 08:00",
+      "link": "https://huggingface.co/blog/llm-course",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
@@ -1052,21 +1061,21 @@
       "category": "ai"
     },
     {
-      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
-      "title": "斯坦福小镇解读",
-      "created": "2024-11-28 08:00",
-      "link": "https://mathewshen.me/blog/2024/ai-town/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
       "title": "Reward Hacking in Reinforcement Learning",
       "created": "2024-11-28 08:00",
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1394,19 +1403,10 @@
       "category": "ai"
     },
     {
-      "id": "5171d7a0e0a9eb384fa01ce7b801f37f3d432c15",
-      "title": "pascalorg/editor",
+      "id": "b9901cf076934a21a9f14121fccba9e41d61044a",
+      "title": "microsoft/VibeVoice",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/pascalorg/editor",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "ab15f474a2763269ec4e90c6123dcec8d5ee3dbf",
-      "title": "bytedance/deer-flow",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/bytedance/deer-flow",
+      "link": "https://github.com/microsoft/VibeVoice",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1421,19 +1421,10 @@
       "category": "ai"
     },
     {
-      "id": "9ba9156b390aff049da09208fe1cd002e6b00aec",
-      "title": "Crosstalk-Solutions/project-nomad",
+      "id": "ab15f474a2763269ec4e90c6123dcec8d5ee3dbf",
+      "title": "bytedance/deer-flow",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "7f394544cd616fb4142931211fad3ecb1c731998",
-      "title": "FujiwaraChoki/MoneyPrinterV2",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+      "link": "https://github.com/bytedance/deer-flow",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1448,46 +1439,19 @@
       "category": "ai"
     },
     {
-      "id": "b9901cf076934a21a9f14121fccba9e41d61044a",
-      "title": "microsoft/VibeVoice",
+      "id": "ca89d9ff00985dc4fc22ac262328f213b8777af0",
+      "title": "Yeachan-Heo/oh-my-claudecode",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/microsoft/VibeVoice",
+      "link": "https://github.com/Yeachan-Heo/oh-my-claudecode",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "dc61fcee9612031ee5c46ea3b9cbe31ef7b13067",
-      "title": "supermemoryai/supermemory",
+      "id": "5171d7a0e0a9eb384fa01ce7b801f37f3d432c15",
+      "title": "pascalorg/editor",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/supermemoryai/supermemory",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "1606cfe2c2a91a41cc45f731859c6869e9340b81",
-      "title": "TauricResearch/TradingAgents",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/TauricResearch/TradingAgents",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "ec9a31b734036e5567d16febe78871fa11438f99",
-      "title": "harry0703/MoneyPrinterTurbo",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "7544a92ef399f38dd40d67716d846b50d9b6738f",
-      "title": "letta-ai/claude-subconscious",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/letta-ai/claude-subconscious",
+      "link": "https://github.com/pascalorg/editor",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1502,15 +1466,6 @@
       "category": "ai"
     },
     {
-      "id": "d48dc398c472e1861f69f3ec1f9ae8abb4e2b56d",
-      "title": "affaan-m/everything-claude-code",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/affaan-m/everything-claude-code",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
       "title": "obra/superpowers",
       "created": "2024-01-01 00:00",
@@ -1520,10 +1475,37 @@
       "category": "ai"
     },
     {
-      "id": "7bd1555c299489fc578f7f9ce541c4fdeff034a4",
-      "title": "hsliuping/TradingAgents-CN",
+      "id": "d48dc398c472e1861f69f3ec1f9ae8abb4e2b56d",
+      "title": "affaan-m/everything-claude-code",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/hsliuping/TradingAgents-CN",
+      "link": "https://github.com/affaan-m/everything-claude-code",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "1606cfe2c2a91a41cc45f731859c6869e9340b81",
+      "title": "TauricResearch/TradingAgents",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "7544a92ef399f38dd40d67716d846b50d9b6738f",
+      "title": "letta-ai/claude-subconscious",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/letta-ai/claude-subconscious",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "9ba9156b390aff049da09208fe1cd002e6b00aec",
+      "title": "Crosstalk-Solutions/project-nomad",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/Crosstalk-Solutions/project-nomad",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1533,15 +1515,6 @@
       "title": "jingyaogong/minimind",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/jingyaogong/minimind",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "c7f7e9fbc46c75ca057953aacad50570fd7f3037",
-      "title": "hesreallyhim/awesome-claude-code",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/hesreallyhim/awesome-claude-code",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1625,6 +1598,15 @@
       "link": "https://philliphaeusler.com/posts/tic_tac_toe/",
       "author": "Phillip Haeusler",
       "avatar": "https://philliphaeusler.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "001115838b91da96dc1ba1a87b6763a732f04384",
+      "title": "Optimizing LLMs From a Dataset Perspective",
+      "created": "2023-09-15 16:00",
+      "link": "https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
