@@ -1,12 +1,57 @@
 {
   "statistical_data": {
     "friends_num": 39,
-    "active_num": 38,
-    "error_num": 1,
-    "article_num": 226,
-    "last_updated_time": "2026-04-01 11:18:47"
+    "active_num": 37,
+    "error_num": 2,
+    "article_num": 235,
+    "last_updated_time": "2026-04-01 15:43:49"
   },
   "article_data": [
+    {
+      "id": "427e27dd016042b72afd5994977a2591a108dc7b",
+      "title": "Falcon Perception",
+      "created": "2026-04-01 15:13",
+      "link": "https://huggingface.co/blog/tiiuae/falcon-perception",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7a10dae0f2179b46e199db716246d1f4190f2ddb",
+      "title": "datasette-extract 0.3a0",
+      "created": "2026-04-01 11:32",
+      "link": "https://simonwillison.net/2026/Apr/1/datasette-extract/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "ef7c1d90f3b8742aa94a9b17ec3ad18c0f4504f1",
+      "title": "datasette-enrichments-llm 0.2a0",
+      "created": "2026-04-01 11:28",
+      "link": "https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "d35be60b237ab670fc38dac60edf6f9f423e9e2a",
+      "title": "datasette-llm-usage 0.2a0",
+      "created": "2026-04-01 11:24",
+      "link": "https://simonwillison.net/2026/Apr/1/datasette-llm-usage/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "5050500067772dba70e300ca26487807412f0cdc",
+      "title": "datasette-llm 0.1a5",
+      "created": "2026-04-01 11:11",
+      "link": "https://simonwillison.net/2026/Apr/1/datasette-llm/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "6c6bbb614624956f112da458ba03c62374380fd1",
       "title": "Quoting Soohoon Choi",
@@ -14,6 +59,15 @@
       "link": "https://simonwillison.net/2026/Apr/1/soohoon-choi/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "b7d2b8c55eaecf85ac15e77239f58db4caa59899",
+      "title": "Claude Code 源码泄漏了，但我不打算写源码分析分析文章",
+      "created": "2026-04-01 08:00",
+      "link": "https://baoyu.io/blog/2026-04-01/learn-from-open-source",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -89,10 +143,46 @@
       "category": "ai"
     },
     {
+      "id": "b7cace34eb0a300fd27fa44edce35516dbf5a37d",
+      "title": "Entire Claude Code CLI source code leaks thanks to exposed map file",
+      "created": "2026-03-31 08:00",
+      "link": "https://lumina.shawnxie.top/article/entire-claude-code-cli-source-code-leaks-thanks-b6a1db92",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "28aac75ab72a9f363e65fbfe3035d6eb02c59c58",
+      "title": "Encoding Team Standards",
+      "created": "2026-03-31 08:00",
+      "link": "https://lumina.shawnxie.top/article/encoding-team-standards-30e07579",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "656329e08e6d8b4412a618c75c93642359dab2ba",
+      "title": "Supply Chain Attack on Axios Pulls Malicious Dependency from npm",
+      "created": "2026-03-31 08:00",
+      "link": "https://lumina.shawnxie.top/article/supply-chain-attack-on-axios-pulls-malicious-b8730275",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
       "id": "6af7702754a8f1badad61b879dd3985b02f51743",
       "title": "Agentic Harness Engineering: LLMs as the New OS",
       "created": "2026-03-31 08:00",
       "link": "https://lumina.shawnxie.top/article/agentic-harness-engineering-llms-as-the-new-os-b2a6dc11",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "304fd09ddfeabd755f6616b1c9ad41f700903f8e",
+      "title": "前端已死？转型增长工程师，拿到全站 50% 流量",
+      "created": "2026-03-30 08:00",
+      "link": "https://lumina.shawnxie.top/article/zhuan-xing-jing-li-5d01e349",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
@@ -557,21 +647,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -696,15 +786,6 @@
       "title": "Journey to 1 Million Gradio Users!",
       "created": "2025-04-04 08:00",
       "link": "https://huggingface.co/blog/gradio-1m",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
-      "title": "The NLP Course is becoming the LLM Course",
-      "created": "2025-04-03 08:00",
-      "link": "https://huggingface.co/blog/llm-course",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
@@ -1061,21 +1142,21 @@
       "category": "ai"
     },
     {
-      "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
-      "title": "Reward Hacking in Reinforcement Learning",
-      "created": "2024-11-28 08:00",
-      "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
-      "author": "Lilian Weng",
-      "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
-      "category": "ai"
-    },
-    {
       "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
       "title": "斯坦福小镇解读",
       "created": "2024-11-28 08:00",
       "link": "https://mathewshen.me/blog/2024/ai-town/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
+      "title": "Reward Hacking in Reinforcement Learning",
+      "created": "2024-11-28 08:00",
+      "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
+      "author": "Lilian Weng",
+      "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
       "category": "ai"
     },
     {
