@@ -3,44 +3,35 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 222,
-    "last_updated_time": "2026-04-03 21:14:20"
+    "article_num": 221,
+    "last_updated_time": "2026-04-04 02:55:58"
   },
   "article_data": [
     {
-      "id": "07d14c15369d154bddfdb4adbe2a2f9ebadb5a94",
-      "title": "一个内测码，怎么就成UP主们的「硬通货」了？",
-      "created": "2026-04-03 12:22",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651025732&idx=1&sn=8ab8628d98fa0abd465515f61fe445a4",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "id": "5d175df8a23dd8dededcab1bf75dc56a4b1c0337",
+      "title": "Can JavaScript Escape a CSP Meta Tag Inside an Iframe?",
+      "created": "2026-04-04 00:05",
+      "link": "https://simonwillison.net/2026/Apr/3/test-csp-iframe-escape/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
-      "id": "bbd23400d421816f1977a0434420523908607c49",
-      "title": "openJiuwen：打造高可靠、自演进、多智能体原生、算力亲和的AgentOS",
-      "created": "2026-04-03 12:22",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651025732&idx=2&sn=ea6ee1eace93aca2b4e5ed60606ede5f",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "id": "911c5c7cfb77fd017df9ab43b78f993c7acf9b5b",
+      "title": "Our New Book on Behavioral Interviews Is Now Available on Amazon",
+      "created": "2026-04-03 23:31",
+      "link": "https://blog.bytebytego.com/p/our-new-book-on-behavioral-interviews",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
-      "id": "ca1b7b79e8eabdfd89fd4a710b74dc880c92c445",
-      "title": "Physion-Eval发布 | 别被「更像真的视频」骗了，AI视频生成，可能还远未真正学会物理世界",
-      "created": "2026-04-03 12:22",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651025732&idx=3&sn=c3b62087726e8dd500762103faa71edf",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "34e4468e06f35a8cc32e6f97e373bc9b5e0839a0",
-      "title": "Programming (with AI agents) as theory building",
-      "created": "2026-04-03 08:00",
-      "link": "https://seangoedecke.com/programming-with-ai-agents-as-theory-building/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "id": "dd38c83594ccd5563723b0649bd984d51292dcff",
+      "title": "The Axios supply chain attack used individually targeted social engineering",
+      "created": "2026-04-03 21:54",
+      "link": "https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -53,21 +44,21 @@
       "category": "ai"
     },
     {
+      "id": "97ece914c05d6b868201cfcec107866422436902",
+      "title": "Open Models have crossed a threshold",
+      "created": "2026-04-02 08:00",
+      "link": "https://lumina.shawnxie.top/article/open-models-have-crossed-a-threshold-5054a3ff",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
       "id": "6c63f4fd498fc7f3d7dcbfbfd5dafc6d11b7ecb9",
       "title": "X 上的 Andrej Karpathy：“LLM Knowledge Bases\n\nSomething I'm finding very useful recently: using LLMs to build personal knowledge bases for various topics of research interest. In this way, a large fraction of my recent token throughput is going less into manipulating code, and more into manipulating” / X",
       "created": "2026-04-02 08:00",
       "link": "https://lumina.shawnxie.top/article/x-shang-de-andrej-karpathy-llm-knowledge-bases-16ec07b3",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "45fe16de64ec1baf45fdf844f9e20b18b4caeb93",
-      "title": "我们是如何在AI Era飙车的",
-      "created": "2026-04-02 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/speedrunning-the-ai-era/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
