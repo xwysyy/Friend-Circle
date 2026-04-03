@@ -3,10 +3,19 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 225,
-    "last_updated_time": "2026-04-03 03:03:34"
+    "article_num": 226,
+    "last_updated_time": "2026-04-03 10:47:31"
   },
   "article_data": [
+    {
+      "id": "fe240b5dd3c20561a2a5ef9eac6106bc1b0685ba",
+      "title": "Highlights from my conversation about agentic engineering on Lenny's Podcast",
+      "created": "2026-04-03 04:40",
+      "link": "https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "cbedcff672eae6aef6fc38a32195d99db9fa1c96",
       "title": "Gemma 4: Byte for byte, the most capable open models",
@@ -278,19 +287,19 @@
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -935,21 +944,21 @@
       "category": "ai"
     },
     {
-      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
-      "title": "Oh-Numpy & Oh-Pytorch",
-      "created": "2025-01-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
       "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
       "created": "2025-01-23 08:00",
       "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1079,21 +1088,21 @@
       "category": "ai"
     },
     {
-      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
-      "title": "斯坦福小镇解读",
-      "created": "2024-11-28 08:00",
-      "link": "https://mathewshen.me/blog/2024/ai-town/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
       "title": "Reward Hacking in Reinforcement Learning",
       "created": "2024-11-28 08:00",
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1412,15 +1421,6 @@
       "category": "ai"
     },
     {
-      "id": "619b3cfc3ac9ca9b0ea1b38e97c3ed27d1060ec0",
-      "title": "luongnv89/claude-howto",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/luongnv89/claude-howto",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "b9901cf076934a21a9f14121fccba9e41d61044a",
       "title": "microsoft/VibeVoice",
       "created": "2024-01-01 00:00",
@@ -1430,10 +1430,10 @@
       "category": "ai"
     },
     {
-      "id": "01e478ba125afa0c8a152dffa4c867cb312e0121",
-      "title": "mvanhorn/last30days-skill",
+      "id": "3866d3fe1f8afde2906eb5aaca06e11d32fe446b",
+      "title": "Yeachan-Heo/oh-my-codex",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/mvanhorn/last30days-skill",
+      "link": "https://github.com/Yeachan-Heo/oh-my-codex",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1457,6 +1457,15 @@
       "category": "ai"
     },
     {
+      "id": "01e478ba125afa0c8a152dffa4c867cb312e0121",
+      "title": "mvanhorn/last30days-skill",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "fb1559fc483e5f3ca1187796b2cdc5c324f489a6",
       "title": "SakanaAI/AI-Scientist-v2",
       "created": "2024-01-01 00:00",
@@ -1466,19 +1475,19 @@
       "category": "ai"
     },
     {
-      "id": "ab15f474a2763269ec4e90c6123dcec8d5ee3dbf",
-      "title": "bytedance/deer-flow",
+      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
+      "title": "NousResearch/hermes-agent",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/bytedance/deer-flow",
+      "link": "https://github.com/NousResearch/hermes-agent",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
-      "title": "NousResearch/hermes-agent",
+      "id": "ccee48863c98b66f106f04dc4de33a533077aea8",
+      "title": "siddharthvaddem/openscreen",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/NousResearch/hermes-agent",
+      "link": "https://github.com/siddharthvaddem/openscreen",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1502,10 +1511,10 @@
       "category": "ai"
     },
     {
-      "id": "5171d7a0e0a9eb384fa01ce7b801f37f3d432c15",
-      "title": "pascalorg/editor",
+      "id": "ab15f474a2763269ec4e90c6123dcec8d5ee3dbf",
+      "title": "bytedance/deer-flow",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/pascalorg/editor",
+      "link": "https://github.com/bytedance/deer-flow",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
