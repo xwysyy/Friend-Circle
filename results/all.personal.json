@@ -3,91 +3,10 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 229,
-    "last_updated_time": "2026-04-04 10:37:19"
+    "article_num": 217,
+    "last_updated_time": "2026-04-04 15:07:52"
   },
   "article_data": [
-    {
-      "id": "f55ca2c450b7067b5a2c17859d9b62786b27be67",
-      "title": "Quoting Kyle Daigle",
-      "created": "2026-04-04 10:20",
-      "link": "https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "ee631b455159b3ff1a3cbf1ece376231af8678d3",
-      "title": "Vulnerability Research Is Cooked",
-      "created": "2026-04-04 07:59",
-      "link": "https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "1695237db7ea55b2a4e6ada76b6aaacf09de9b41",
-      "title": "The cognitive impact of coding agents",
-      "created": "2026-04-04 07:57",
-      "link": "https://simonwillison.net/2026/Apr/3/cognitive-cost/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "6fba2711a5c7965dd95baf01df0a229096718a66",
-      "title": "Quoting Willy Tarreau",
-      "created": "2026-04-04 05:48",
-      "link": "https://simonwillison.net/2026/Apr/3/willy-tarreau/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "6a8112e7b1c0de7a975f5171c011e0200d32bd95",
-      "title": "Quoting Daniel Stenberg",
-      "created": "2026-04-04 05:46",
-      "link": "https://simonwillison.net/2026/Apr/3/daniel-stenberg/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "64e951ef412f7af3db120bf010f3c5fa2989281c",
-      "title": "Quoting Greg Kroah-Hartman",
-      "created": "2026-04-04 05:44",
-      "link": "https://simonwillison.net/2026/Apr/3/greg-kroah-hartman/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "5d175df8a23dd8dededcab1bf75dc56a4b1c0337",
-      "title": "Can JavaScript Escape a CSP Meta Tag Inside an Iframe?",
-      "created": "2026-04-04 00:05",
-      "link": "https://simonwillison.net/2026/Apr/3/test-csp-iframe-escape/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "911c5c7cfb77fd017df9ab43b78f993c7acf9b5b",
-      "title": "Our New Book on Behavioral Interviews Is Now Available on Amazon",
-      "created": "2026-04-03 23:31",
-      "link": "https://blog.bytebytego.com/p/our-new-book-on-behavioral-interviews",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "dd38c83594ccd5563723b0649bd984d51292dcff",
-      "title": "The Axios supply chain attack used individually targeted social engineering",
-      "created": "2026-04-03 21:54",
-      "link": "https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
     {
       "id": "6a0ada6a69f12c99b5703733a0a1ff67896a1015",
       "title": "LLM | 项目推荐：LLM 后训练 / Agent 相关的小规模开源项目 - MoonOut",
@@ -98,39 +17,12 @@
       "category": "ai"
     },
     {
-      "id": "97ece914c05d6b868201cfcec107866422436902",
-      "title": "Open Models have crossed a threshold",
-      "created": "2026-04-02 08:00",
-      "link": "https://lumina.shawnxie.top/article/open-models-have-crossed-a-threshold-5054a3ff",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
       "id": "6c63f4fd498fc7f3d7dcbfbfd5dafc6d11b7ecb9",
       "title": "X 上的 Andrej Karpathy：“LLM Knowledge Bases\n\nSomething I'm finding very useful recently: using LLMs to build personal knowledge bases for various topics of research interest. In this way, a large fraction of my recent token throughput is going less into manipulating code, and more into manipulating” / X",
       "created": "2026-04-02 08:00",
       "link": "https://lumina.shawnxie.top/article/x-shang-de-andrej-karpathy-llm-knowledge-bases-16ec07b3",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "b7d2b8c55eaecf85ac15e77239f58db4caa59899",
-      "title": "Claude Code 源码泄漏了，但我不打算写源码分析分析文章",
-      "created": "2026-04-01 08:00",
-      "link": "https://baoyu.io/blog/2026-04-01/learn-from-open-source",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "aead52e31a1dea756cc3df2b04e89009486f123c",
-      "title": "628 - 《不写代码的程序员 - 我怎么用 AI 编程 2026.03》",
-      "created": "2026-03-31 19:07",
-      "link": "https://blog.sorrycc.com/programmer-without-code",
-      "author": "sorrycc (云谦)",
-      "avatar": "https://avatars.githubusercontent.com/u/35128",
       "category": "ai"
     },
     {
@@ -458,15 +350,6 @@
       "category": "ai"
     },
     {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -482,6 +365,15 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -521,21 +413,21 @@
       "category": "ai"
     },
     {
-      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
-      "title": "Qwen多模态系列论文",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
       "title": "Google Gemini LangChain Cheatsheet",
       "created": "2025-04-28 08:00",
       "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
+      "title": "Qwen多模态系列论文",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -593,21 +485,21 @@
       "category": "ai"
     },
     {
-      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
-      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
-      "created": "2025-04-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
       "title": "The State of Reinforcement Learning for LLM Reasoning",
       "created": "2025-04-19 08:00",
       "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
+      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
+      "created": "2025-04-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -737,21 +629,21 @@
       "category": "ai"
     },
     {
-      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
-      "title": "Model Context Protocol (MCP) an overview",
-      "created": "2025-04-03 08:00",
-      "link": "https://www.philschmid.de/mcp-introduction",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
       "title": "The NLP Course is becoming the LLM Course",
       "created": "2025-04-03 08:00",
       "link": "https://huggingface.co/blog/llm-course",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
+      "title": "Model Context Protocol (MCP) an overview",
+      "created": "2025-04-03 08:00",
+      "link": "https://www.philschmid.de/mcp-introduction",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -953,21 +845,21 @@
       "category": "ai"
     },
     {
-      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
-      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
-      "created": "2025-01-23 08:00",
-      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
       "title": "Oh-Numpy & Oh-Pytorch",
       "created": "2025-01-23 08:00",
       "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
+      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
+      "created": "2025-01-23 08:00",
+      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1097,21 +989,21 @@
       "category": "ai"
     },
     {
-      "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
-      "title": "Reward Hacking in Reinforcement Learning",
-      "created": "2024-11-28 08:00",
-      "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
-      "author": "Lilian Weng",
-      "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
-      "category": "ai"
-    },
-    {
       "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
       "title": "斯坦福小镇解读",
       "created": "2024-11-28 08:00",
       "link": "https://mathewshen.me/blog/2024/ai-town/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
+      "title": "Reward Hacking in Reinforcement Learning",
+      "created": "2024-11-28 08:00",
+      "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
+      "author": "Lilian Weng",
+      "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
       "category": "ai"
     },
     {
