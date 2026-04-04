@@ -1,28 +1,46 @@
 {
   "statistical_data": {
     "friends_num": 39,
-    "active_num": 38,
-    "error_num": 1,
-    "article_num": 219,
-    "last_updated_time": "2026-04-04 21:06:29"
+    "active_num": 36,
+    "error_num": 3,
+    "article_num": 221,
+    "last_updated_time": "2026-04-05 02:53:22"
   },
   "article_data": [
     {
-      "id": "9e0646c86803a0e1233f8a897c6f2d9584b90148",
-      "title": "全网开骂！Claude订阅「封杀」OpenClaw，想用龙虾？得加钱！",
-      "created": "2026-04-04 11:26",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651025819&idx=1&sn=08dac87a098d07bdba1f7e578e2a8bc6",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "id": "ab3217bc7bcd9e99bdb1910d28b7753fd0ea9b52",
+      "title": "ChronoFrame - 一款优雅的瀑布流相册系统",
+      "created": "2026-04-05 00:00",
+      "link": "https://blog.liushen.fun/posts/381a41ac/",
+      "author": "清羽飞扬",
+      "avatar": "https://blog.liushen.fun/info/avatar.ico",
+      "category": "friend"
+    },
+    {
+      "id": "f2db8d6014f2b8a33b3122090ad4b3ec1e34dc3b",
+      "title": "EP209: 12 Claude Code Features Every Engineer Should Know",
+      "created": "2026-04-04 23:30",
+      "link": "https://blog.bytebytego.com/p/ep209-12-claude-code-features-every",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
-      "id": "5342bba0178e06fd20fb49714d2ce40172b2ff9c",
-      "title": "大模型SFT后效果≠RL潜力！港科大、阿里提出自适应冷启动新范式",
-      "created": "2026-04-04 11:26",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651025819&idx=2&sn=f46ab8d4d0a849b90c94a224627c46a8",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "id": "d0c7d5449da94eced3ffc9778e19b2b4727153b8",
+      "title": "Components of A Coding Agent",
+      "created": "2026-04-04 19:45",
+      "link": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "ea26cf91635f7fe0938d816470a229ada5a8fba5",
+      "title": "Attention Is All You Bid: Advertising in Embedding Space",
+      "created": "2026-04-04 08:00",
+      "link": "https://subhadipmitra.com/blog/2026/attention-is-all-you-bid/",
+      "author": "Subhadip Mitra",
+      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
       "category": "ai"
     },
     {
@@ -159,6 +177,15 @@
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
       "category": "ai"
+    },
+    {
+      "id": "e27fb52c358cc9cd49ce9e23369eecd7e86c6165",
+      "title": "推荐酷鸭数据主机",
+      "created": "2026-02-26 00:00",
+      "link": "https://dusays.com/archives/855/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
     },
     {
       "id": "b4665bae5f5e11fc9cc4c52f735b46e9c396fafd",
@@ -431,21 +458,21 @@
       "category": "ai"
     },
     {
-      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
-      "title": "Google Gemini LangChain Cheatsheet",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
       "title": "Qwen多模态系列论文",
       "created": "2025-04-28 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
+      "title": "Google Gemini LangChain Cheatsheet",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -503,21 +530,21 @@
       "category": "ai"
     },
     {
-      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
-      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
-      "created": "2025-04-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
       "title": "The State of Reinforcement Learning for LLM Reasoning",
       "created": "2025-04-19 08:00",
       "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
+      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
+      "created": "2025-04-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -863,21 +890,21 @@
       "category": "ai"
     },
     {
-      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
-      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
-      "created": "2025-01-23 08:00",
-      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
       "title": "Oh-Numpy & Oh-Pytorch",
       "created": "2025-01-23 08:00",
       "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
+      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
+      "created": "2025-01-23 08:00",
+      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1241,19 +1268,19 @@
       "category": "lang"
     },
     {
-      "id": "5c65a47f7c108aa298e2cf8c69975f821df95bf8",
-      "title": "Developing an LLM: Building, Training, Finetuning",
+      "id": "f15ee17f9a180e70f51d72ddb0699517ab427690",
+      "title": "LLM Research Insights: Instruction Masking and New LoRA Finetuning Experiments?",
       "created": "2024-06-02 14:03",
-      "link": "https://magazine.sebastianraschka.com/p/llms-building-training-finetuning",
+      "link": "https://magazine.sebastianraschka.com/p/llm-research-insights-instruction",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "f15ee17f9a180e70f51d72ddb0699517ab427690",
-      "title": "LLM Research Insights: Instruction Masking and New LoRA Finetuning Experiments?",
+      "id": "5c65a47f7c108aa298e2cf8c69975f821df95bf8",
+      "title": "Developing an LLM: Building, Training, Finetuning",
       "created": "2024-06-02 14:03",
-      "link": "https://magazine.sebastianraschka.com/p/llm-research-insights-instruction",
+      "link": "https://magazine.sebastianraschka.com/p/llms-building-training-finetuning",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
@@ -1535,15 +1562,6 @@
       "link": "https://philliphaeusler.com/posts/tic_tac_toe/",
       "author": "Phillip Haeusler",
       "avatar": "https://philliphaeusler.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "001115838b91da96dc1ba1a87b6763a732f04384",
-      "title": "Optimizing LLMs From a Dataset Perspective",
-      "created": "2023-09-15 16:00",
-      "link": "https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
