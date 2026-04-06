@@ -3,186 +3,24 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 237,
-    "last_updated_time": "2026-04-06 15:52:14"
+    "article_num": 218,
+    "last_updated_time": "2026-04-06 21:21:21"
   },
   "article_data": [
     {
-      "id": "3f3f964323e27665ea5c440ba84f2a4c62d5c34d",
-      "title": "VibeVoice：微软开源的语音AI模型",
-      "created": "2026-04-06 15:10",
-      "link": "https://lumina.shawnxie.top/article/vibevoice-wei-ruan-kai-yuan-de-yu-yin-aimo-xing-c1048587",
+      "id": "e03d146db6719250c9b27c191a863ec8537479cf",
+      "title": "Industrial policy for the Intelligence Age",
+      "created": "2026-04-06 19:44",
+      "link": "https://lumina.shawnxie.top/article/industrial-policy-for-the-intelligence-age-2cf57974",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
-      "id": "4a2b1347818a1003c49c57c76344bd062e56cf97",
-      "title": "claude-code：cc逆向源码",
-      "created": "2026-04-06 15:08",
-      "link": "https://lumina.shawnxie.top/article/claude-code-ccni-xiang-yuan-ma-3939b987",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "c64fe82a9c76215a49b2f47d134c6f9839c723bf",
-      "title": "Skills：可复用开发技能库",
-      "created": "2026-04-06 15:06",
-      "link": "https://lumina.shawnxie.top/article/skills-ke-fu-yong-kai-fa-ji-neng-ku-819827a5",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "98a6b2f8c3f40675b573460c94df0ff0f6a02e41",
-      "title": "Google AI Edge Gallery",
-      "created": "2026-04-06 13:18",
-      "link": "https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "71ee4cc0723478c0944b0c4fbac84f41067f9883",
-      "title": "iPhone本地跑Gemma 4火了，0 token时代还有多远？",
-      "created": "2026-04-06 12:36",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651025994&idx=1&sn=ebda2ea9a4e2dc06e860f4ff43780524",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "410447c57be43776b9e45fa320ddbf177278ae93",
-      "title": "Karpathy强推，大厂抢着「复古」命令行，Star数全都上千了",
-      "created": "2026-04-06 12:36",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651025994&idx=2&sn=52fb28c38e3221ba1c330acf18a90c23",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "5c97b50373169c6a4f05d2dac9dc30b27d512806",
-      "title": "USC团队发布HumDex：攻克人形机器人数据瓶颈，低成本实现全身灵巧操控",
-      "created": "2026-04-06 12:36",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651025994&idx=3&sn=5956be2f313c43768ede919629f40fd1",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "5114ee33bdaa3a54c62545f2b61664916c1c8f38",
-      "title": "datasette-ports 0.2",
-      "created": "2026-04-06 11:25",
-      "link": "https://simonwillison.net/2026/Apr/6/datasette-ports-2/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "99ac6c6461adae2c6e898d8b3c25e3481844e720",
-      "title": "scan-for-secrets 0.3",
-      "created": "2026-04-06 10:59",
-      "link": "https://simonwillison.net/2026/Apr/6/scan-for-secrets/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "8af510eb040457147ee1c3810ee2b1cfacfe7901",
-      "title": "Cleanup Claude Code Paste",
-      "created": "2026-04-06 10:55",
-      "link": "https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "421f5b98fe4d941f76ca668e5e568fdaf9dc965e",
-      "title": "datasette-ports 0.1",
-      "created": "2026-04-06 08:23",
-      "link": "https://simonwillison.net/2026/Apr/6/datasette-ports/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "ae1baac3367038b020fd6bb8aa0f8b2e7dcd6fab",
-      "title": "agent-framework：微软推出的智能体框架",
-      "created": "2026-04-06 08:00",
-      "link": "https://lumina.shawnxie.top/article/agent-framework-wei-ruan-tui-chu-de-zhi-neng-ti-e12c059e",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "c00579e293b0259e94d7d22d4dcf9622a42b112a",
-      "title": "colleague-skill：将离职同事炼化为Skill",
-      "created": "2026-04-06 08:00",
-      "link": "https://lumina.shawnxie.top/article/colleague-skill-jiang-chi-zhi-tong-shi-lian-hua-00d01e84",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "fee93e0f5bd0f478b0280d34c5dd6e3bb6cfa121",
-      "title": "Eight years of wanting, three months of building with AI",
-      "created": "2026-04-06 07:54",
-      "link": "https://simonwillison.net/2026/Apr/5/building-with-ai/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "fa119d6a9be6e0c2cac01c2b9779d9f6283a3252",
-      "title": "Quoting Chengpeng Mou",
-      "created": "2026-04-06 05:47",
-      "link": "https://simonwillison.net/2026/Apr/5/chengpeng-mou/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "b2ec37a2ed5219dd13227047f6b94c38c4188023",
-      "title": "Syntaqlite Playground",
-      "created": "2026-04-06 03:32",
-      "link": "https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "a699f14abf34c080c96c1b90c845ccd1472f82bf",
-      "title": "Eight years of wanting, three months of building with AI",
-      "created": "2026-04-05 08:00",
-      "link": "https://lumina.shawnxie.top/article/eight-years-of-wanting-three-months-of-building-df5e0629",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "84bcf93f7b829ac15dba52e38ac85ccf83bed99c",
-      "title": "Continual learning for AI agents",
-      "created": "2026-04-05 08:00",
-      "link": "https://lumina.shawnxie.top/article/continual-learning-for-ai-agents-f7f227f4",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "01ff91632213baba6227a5965afbbe9dd5956914",
-      "title": "llm-wiki",
-      "created": "2026-04-05 08:00",
-      "link": "https://lumina.shawnxie.top/article/llm-wiki-5128d26b",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "fd7c0b765599f0160383543cb26ab2f492f05562",
-      "title": "Components of A Coding Agent",
-      "created": "2026-04-04 08:00",
-      "link": "https://lumina.shawnxie.top/article/components-of-a-coding-agent-17747f6a",
+      "id": "a67d37b07aa4919c3f0c479624c53517acad0b0c",
+      "title": "OpenClaw 2026.4.5 版本新增\"Dreaming\"功能",
+      "created": "2026-04-06 19:39",
+      "link": "https://lumina.shawnxie.top/article/openclaw-2026-4-5-ban-ben-xin-zeng-dreaming-gong-fb9584cb",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
@@ -203,15 +41,6 @@
       "link": "https://lumina.shawnxie.top/article/x-shang-de-andrej-karpathy-llm-knowledge-bases-16ec07b3",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "d32301ac7eee4e4438ad7398a622aa8b19b65fa4",
-      "title": "Beating CUDA with Triton: A Fused MoE Dispatch Kernel for Mixtral and DeepSeek",
-      "created": "2026-03-28 19:00",
-      "link": "https://subhadipmitra.com/blog/2026/fused-moe-dispatch-triton/",
-      "author": "Subhadip Mitra",
-      "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
       "category": "ai"
     },
     {
@@ -539,6 +368,15 @@
       "category": "ai"
     },
     {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -554,15 +392,6 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -602,21 +431,21 @@
       "category": "ai"
     },
     {
-      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
-      "title": "Google Gemini LangChain Cheatsheet",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
       "title": "Qwen多模态系列论文",
       "created": "2025-04-28 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
+      "title": "Google Gemini LangChain Cheatsheet",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -674,21 +503,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -818,21 +647,21 @@
       "category": "ai"
     },
     {
-      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
-      "title": "The NLP Course is becoming the LLM Course",
-      "created": "2025-04-03 08:00",
-      "link": "https://huggingface.co/blog/llm-course",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
       "title": "Model Context Protocol (MCP) an overview",
       "created": "2025-04-03 08:00",
       "link": "https://www.philschmid.de/mcp-introduction",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
+      "title": "The NLP Course is becoming the LLM Course",
+      "created": "2025-04-03 08:00",
+      "link": "https://huggingface.co/blog/llm-course",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1034,21 +863,21 @@
       "category": "ai"
     },
     {
-      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
-      "title": "Oh-Numpy & Oh-Pytorch",
-      "created": "2025-01-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
       "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
       "created": "2025-01-23 08:00",
       "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1178,21 +1007,21 @@
       "category": "ai"
     },
     {
-      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
-      "title": "斯坦福小镇解读",
-      "created": "2024-11-28 08:00",
-      "link": "https://mathewshen.me/blog/2024/ai-town/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
       "title": "Reward Hacking in Reinforcement Learning",
       "created": "2024-11-28 08:00",
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
