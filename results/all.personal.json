@@ -3,10 +3,100 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 223,
-    "last_updated_time": "2026-04-06 10:56:24"
+    "article_num": 237,
+    "last_updated_time": "2026-04-06 15:52:14"
   },
   "article_data": [
+    {
+      "id": "3f3f964323e27665ea5c440ba84f2a4c62d5c34d",
+      "title": "VibeVoice：微软开源的语音AI模型",
+      "created": "2026-04-06 15:10",
+      "link": "https://lumina.shawnxie.top/article/vibevoice-wei-ruan-kai-yuan-de-yu-yin-aimo-xing-c1048587",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "4a2b1347818a1003c49c57c76344bd062e56cf97",
+      "title": "claude-code：cc逆向源码",
+      "created": "2026-04-06 15:08",
+      "link": "https://lumina.shawnxie.top/article/claude-code-ccni-xiang-yuan-ma-3939b987",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "c64fe82a9c76215a49b2f47d134c6f9839c723bf",
+      "title": "Skills：可复用开发技能库",
+      "created": "2026-04-06 15:06",
+      "link": "https://lumina.shawnxie.top/article/skills-ke-fu-yong-kai-fa-ji-neng-ku-819827a5",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "98a6b2f8c3f40675b573460c94df0ff0f6a02e41",
+      "title": "Google AI Edge Gallery",
+      "created": "2026-04-06 13:18",
+      "link": "https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "71ee4cc0723478c0944b0c4fbac84f41067f9883",
+      "title": "iPhone本地跑Gemma 4火了，0 token时代还有多远？",
+      "created": "2026-04-06 12:36",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651025994&idx=1&sn=ebda2ea9a4e2dc06e860f4ff43780524",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "410447c57be43776b9e45fa320ddbf177278ae93",
+      "title": "Karpathy强推，大厂抢着「复古」命令行，Star数全都上千了",
+      "created": "2026-04-06 12:36",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651025994&idx=2&sn=52fb28c38e3221ba1c330acf18a90c23",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "5c97b50373169c6a4f05d2dac9dc30b27d512806",
+      "title": "USC团队发布HumDex：攻克人形机器人数据瓶颈，低成本实现全身灵巧操控",
+      "created": "2026-04-06 12:36",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651025994&idx=3&sn=5956be2f313c43768ede919629f40fd1",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "5114ee33bdaa3a54c62545f2b61664916c1c8f38",
+      "title": "datasette-ports 0.2",
+      "created": "2026-04-06 11:25",
+      "link": "https://simonwillison.net/2026/Apr/6/datasette-ports-2/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "99ac6c6461adae2c6e898d8b3c25e3481844e720",
+      "title": "scan-for-secrets 0.3",
+      "created": "2026-04-06 10:59",
+      "link": "https://simonwillison.net/2026/Apr/6/scan-for-secrets/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "8af510eb040457147ee1c3810ee2b1cfacfe7901",
+      "title": "Cleanup Claude Code Paste",
+      "created": "2026-04-06 10:55",
+      "link": "https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "421f5b98fe4d941f76ca668e5e568fdaf9dc965e",
       "title": "datasette-ports 0.1",
@@ -14,6 +104,24 @@
       "link": "https://simonwillison.net/2026/Apr/6/datasette-ports/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "ae1baac3367038b020fd6bb8aa0f8b2e7dcd6fab",
+      "title": "agent-framework：微软推出的智能体框架",
+      "created": "2026-04-06 08:00",
+      "link": "https://lumina.shawnxie.top/article/agent-framework-wei-ruan-tui-chu-de-zhi-neng-ti-e12c059e",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "c00579e293b0259e94d7d22d4dcf9622a42b112a",
+      "title": "colleague-skill：将离职同事炼化为Skill",
+      "created": "2026-04-06 08:00",
+      "link": "https://lumina.shawnxie.top/article/colleague-skill-jiang-chi-zhi-tong-shi-lian-hua-00d01e84",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -41,6 +149,24 @@
       "link": "https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "a699f14abf34c080c96c1b90c845ccd1472f82bf",
+      "title": "Eight years of wanting, three months of building with AI",
+      "created": "2026-04-05 08:00",
+      "link": "https://lumina.shawnxie.top/article/eight-years-of-wanting-three-months-of-building-df5e0629",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "84bcf93f7b829ac15dba52e38ac85ccf83bed99c",
+      "title": "Continual learning for AI agents",
+      "created": "2026-04-05 08:00",
+      "link": "https://lumina.shawnxie.top/article/continual-learning-for-ai-agents-f7f227f4",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -908,21 +1034,21 @@
       "category": "ai"
     },
     {
-      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
-      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
-      "created": "2025-01-23 08:00",
-      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
       "title": "Oh-Numpy & Oh-Pytorch",
       "created": "2025-01-23 08:00",
       "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
+      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
+      "created": "2025-01-23 08:00",
+      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
