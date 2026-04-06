@@ -3,10 +3,46 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 222,
-    "last_updated_time": "2026-04-06 02:53:05"
+    "article_num": 223,
+    "last_updated_time": "2026-04-06 10:56:24"
   },
   "article_data": [
+    {
+      "id": "421f5b98fe4d941f76ca668e5e568fdaf9dc965e",
+      "title": "datasette-ports 0.1",
+      "created": "2026-04-06 08:23",
+      "link": "https://simonwillison.net/2026/Apr/6/datasette-ports/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "fee93e0f5bd0f478b0280d34c5dd6e3bb6cfa121",
+      "title": "Eight years of wanting, three months of building with AI",
+      "created": "2026-04-06 07:54",
+      "link": "https://simonwillison.net/2026/Apr/5/building-with-ai/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "fa119d6a9be6e0c2cac01c2b9779d9f6283a3252",
+      "title": "Quoting Chengpeng Mou",
+      "created": "2026-04-06 05:47",
+      "link": "https://simonwillison.net/2026/Apr/5/chengpeng-mou/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "b2ec37a2ed5219dd13227047f6b94c38c4188023",
+      "title": "Syntaqlite Playground",
+      "created": "2026-04-06 03:32",
+      "link": "https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "01ff91632213baba6227a5965afbbe9dd5956914",
       "title": "llm-wiki",
@@ -377,15 +413,6 @@
       "category": "ai"
     },
     {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -401,6 +428,15 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -440,21 +476,21 @@
       "category": "ai"
     },
     {
-      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
-      "title": "Qwen多模态系列论文",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
       "title": "Google Gemini LangChain Cheatsheet",
       "created": "2025-04-28 08:00",
       "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
+      "title": "Qwen多模态系列论文",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -512,21 +548,21 @@
       "category": "ai"
     },
     {
-      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
-      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
-      "created": "2025-04-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
       "title": "The State of Reinforcement Learning for LLM Reasoning",
       "created": "2025-04-19 08:00",
       "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
+      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
+      "created": "2025-04-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -656,21 +692,21 @@
       "category": "ai"
     },
     {
-      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
-      "title": "Model Context Protocol (MCP) an overview",
-      "created": "2025-04-03 08:00",
-      "link": "https://www.philschmid.de/mcp-introduction",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
       "title": "The NLP Course is becoming the LLM Course",
       "created": "2025-04-03 08:00",
       "link": "https://huggingface.co/blog/llm-course",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
+      "title": "Model Context Protocol (MCP) an overview",
+      "created": "2025-04-03 08:00",
+      "link": "https://www.philschmid.de/mcp-introduction",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1016,21 +1052,21 @@
       "category": "ai"
     },
     {
-      "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
-      "title": "Reward Hacking in Reinforcement Learning",
-      "created": "2024-11-28 08:00",
-      "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
-      "author": "Lilian Weng",
-      "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
-      "category": "ai"
-    },
-    {
       "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
       "title": "斯坦福小镇解读",
       "created": "2024-11-28 08:00",
       "link": "https://mathewshen.me/blog/2024/ai-town/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
+      "title": "Reward Hacking in Reinforcement Learning",
+      "created": "2024-11-28 08:00",
+      "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
+      "author": "Lilian Weng",
+      "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
       "category": "ai"
     },
     {
@@ -1349,19 +1385,19 @@
       "category": "ai"
     },
     {
-      "id": "619b3cfc3ac9ca9b0ea1b38e97c3ed27d1060ec0",
-      "title": "luongnv89/claude-howto",
+      "id": "3866d3fe1f8afde2906eb5aaca06e11d32fe446b",
+      "title": "Yeachan-Heo/oh-my-codex",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/luongnv89/claude-howto",
+      "link": "https://github.com/Yeachan-Heo/oh-my-codex",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "3866d3fe1f8afde2906eb5aaca06e11d32fe446b",
-      "title": "Yeachan-Heo/oh-my-codex",
+      "id": "619b3cfc3ac9ca9b0ea1b38e97c3ed27d1060ec0",
+      "title": "luongnv89/claude-howto",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "link": "https://github.com/luongnv89/claude-howto",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1385,15 +1421,6 @@
       "category": "ai"
     },
     {
-      "id": "ca89d9ff00985dc4fc22ac262328f213b8777af0",
-      "title": "Yeachan-Heo/oh-my-claudecode",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "28dd3b77bf23ab2bd42aea3ebaf40c19cc8bbff2",
       "title": "google-research/timesfm",
       "created": "2024-01-01 00:00",
@@ -1412,19 +1439,19 @@
       "category": "ai"
     },
     {
-      "id": "b33be8909763c03145e5a32c1791f93e8897e5e3",
-      "title": "hacksider/Deep-Live-Cam",
+      "id": "af5f93b3ed221bb33708fb32511a717eb89fd006",
+      "title": "onyx-dot-app/onyx",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/hacksider/Deep-Live-Cam",
+      "link": "https://github.com/onyx-dot-app/onyx",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "af5f93b3ed221bb33708fb32511a717eb89fd006",
-      "title": "onyx-dot-app/onyx",
+      "id": "eb8e266816bcb9cd038720702f241a6a4e457c2a",
+      "title": "sherlock-project/sherlock",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/onyx-dot-app/onyx",
+      "link": "https://github.com/sherlock-project/sherlock",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1439,24 +1466,6 @@
       "category": "ai"
     },
     {
-      "id": "fb1559fc483e5f3ca1187796b2cdc5c324f489a6",
-      "title": "SakanaAI/AI-Scientist-v2",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/SakanaAI/AI-Scientist-v2",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
-      "title": "obra/superpowers",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/obra/superpowers",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "a699cca176201a64275ed75c357bbe7dd30706b5",
       "title": "asgeirtj/system_prompts_leaks",
       "created": "2024-01-01 00:00",
@@ -1466,19 +1475,19 @@
       "category": "ai"
     },
     {
-      "id": "d48dc398c472e1861f69f3ec1f9ae8abb4e2b56d",
-      "title": "affaan-m/everything-claude-code",
+      "id": "fb1559fc483e5f3ca1187796b2cdc5c324f489a6",
+      "title": "SakanaAI/AI-Scientist-v2",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/affaan-m/everything-claude-code",
+      "link": "https://github.com/SakanaAI/AI-Scientist-v2",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "eb8e266816bcb9cd038720702f241a6a4e457c2a",
-      "title": "sherlock-project/sherlock",
+      "id": "32f1cc1ea27a2d65367cc744f0a7cb46d5d5d313",
+      "title": "roboflow/supervision",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/sherlock-project/sherlock",
+      "link": "https://github.com/roboflow/supervision",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
