@@ -3,225 +3,45 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 241,
-    "last_updated_time": "2026-04-07 10:50:01"
+    "article_num": 221,
+    "last_updated_time": "2026-04-07 15:26:04"
   },
   "article_data": [
     {
-      "id": "533aca163e00e7d458a2f14075855f73fbed0336",
-      "title": "想要在任意聊天软件里面使用 kimi, claude code 这样的编程智能体？ACP 协议一键搞定！",
-      "created": "2026-04-07 08:38",
-      "link": "https://kirigaya.cn/blog/article?seq=371",
-      "author": "锦恢",
-      "avatar": "https://kirigaya.cn/favicon.png",
-      "category": "ai"
+      "id": "d17c2208a10d81c1b5a1caad4f66e68344d3192b",
+      "title": "抖音iframe代码生成器：将抖音链接转为可嵌入网页的iframe代码",
+      "created": "2026-04-07 13:59",
+      "link": "https://blog.zhheo.com/p/53f66bm1.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
+      "category": "friend"
     },
     {
-      "id": "d67c370d56a9bdec7de4abf336da609a27cfd9b6",
-      "title": "A Guide to Context Engineering for LLMs",
-      "created": "2026-04-06 23:30",
-      "link": "https://blog.bytebytego.com/p/a-guide-to-context-engineering-for",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
+      "id": "0d42508895dd5ea51ee556e503cf2327980bad14",
+      "title": "Apple Watch + AirPods 真实体验分享：那些意外里的小惊喜与小教训",
+      "created": "2026-04-07 13:22",
+      "link": "https://blog.zhheo.com/p/vcao5jjb.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
+      "category": "friend"
     },
     {
-      "id": "6fde5113fca624c9d516831005437da1a4c2beea",
-      "title": "前端性能监控",
+      "id": "73f88b3e68366147193fefef8b72269801392bab",
+      "title": "Docker 容器化入门",
       "created": "2026-04-06 22:09",
-      "link": "https://imqi1.com:443/content/30",
+      "link": "https://imqi1.com:443/content/10",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
     },
     {
-      "id": "852602febcafc497eddf8855934e04fb2c2a486d",
-      "title": "正则表达式入门",
+      "id": "3b016a7ff344604a028d6e305586c955b23d613c",
+      "title": "Git 工作流最佳实践",
       "created": "2026-04-06 22:09",
-      "link": "https://imqi1.com:443/content/29",
+      "link": "https://imqi1.com:443/content/9",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
-    },
-    {
-      "id": "1dbe5ba91bfd57e563fb8e646aac4a634d2d3b89",
-      "title": "CSS BEM 命名规范",
-      "created": "2026-04-06 22:09",
-      "link": "https://imqi1.com:443/content/28",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
-    {
-      "id": "13117b21dd1e473e8513cdf836a33b2725d12450",
-      "title": "Git 常用命令总结",
-      "created": "2026-04-06 22:09",
-      "link": "https://imqi1.com:443/content/27",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
-    {
-      "id": "9b3d9897acf49c5896067f2cee3f0aa7f6ddf21d",
-      "title": "JavaScript 异步处理",
-      "created": "2026-04-06 22:09",
-      "link": "https://imqi1.com:443/content/26",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
-    {
-      "id": "e0e6b793bbf1da76f4275c947f716f46c4e5434e",
-      "title": "移动端适配方案",
-      "created": "2026-04-06 22:09",
-      "link": "https://imqi1.com:443/content/25",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
-    {
-      "id": "f5349f5cc0dc4b0351f1fbc4c7d3356a708b8eaf",
-      "title": "前端安全防护",
-      "created": "2026-04-06 22:09",
-      "link": "https://imqi1.com:443/content/24",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
-    {
-      "id": "8503f9906d76bf33896f989a8e2cf04ab9eb312e",
-      "title": "CSS 预处理器对比",
-      "created": "2026-04-06 22:09",
-      "link": "https://imqi1.com:443/content/23",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
-    {
-      "id": "de220c3c74d4fa91e51950423694876cb9f9e02a",
-      "title": "Vue 组件通信方式",
-      "created": "2026-04-06 22:09",
-      "link": "https://imqi1.com:443/content/22",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
-    {
-      "id": "a608fff6232f879fd013309ed548f7f1ff0d08c0",
-      "title": "HTTP 缓存策略",
-      "created": "2026-04-06 22:09",
-      "link": "https://imqi1.com:443/content/21",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
-    {
-      "id": "460771ce7c083d279008faf8d65936717066d1b6",
-      "title": "Webpack 配置指南",
-      "created": "2026-04-06 22:09",
-      "link": "https://imqi1.com:443/content/20",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
-    {
-      "id": "136e59135718f29f94099de4d82b0a4119b258ca",
-      "title": "JavaScript 闭包详解",
-      "created": "2026-04-06 22:09",
-      "link": "https://imqi1.com:443/content/19",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
-    {
-      "id": "b4e47301e321203ebbbe680fdba4f6b1b7ad665f",
-      "title": "CSS 动画入门教程",
-      "created": "2026-04-06 22:09",
-      "link": "https://imqi1.com:443/content/18",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
-    {
-      "id": "71568a04d6b5fc72e2588baae6def0a717657dec",
-      "title": "WebSocket 实时通信实战",
-      "created": "2026-04-06 22:09",
-      "link": "https://imqi1.com:443/content/17",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
-    {
-      "id": "e62a84299b055116f94b8cb4c82d782cd2ed00b4",
-      "title": "Markdown 语法完全指南",
-      "created": "2026-04-06 22:09",
-      "link": "https://imqi1.com:443/content/16",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
-    {
-      "id": "d5093de4f0440f379a59ddeb596cd865bfb06c8f",
-      "title": "微前端架构实践",
-      "created": "2026-04-06 22:09",
-      "link": "https://imqi1.com:443/content/15",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
-    {
-      "id": "0570d283e405e71cb27d37e61041a680c087cf94",
-      "title": "Tailwind CSS 实战教程",
-      "created": "2026-04-06 22:09",
-      "link": "https://imqi1.com:443/content/14",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
-    {
-      "id": "16e1d81783a56ccdf4e542d0d028ab2af0a6c7bb",
-      "title": "Node.js 异步编程",
-      "created": "2026-04-06 22:09",
-      "link": "https://imqi1.com:443/content/13",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
-    {
-      "id": "2590e655014d028faddbe52f2e01c1dc0e687904",
-      "title": "React Hooks 深入解析",
-      "created": "2026-04-06 22:09",
-      "link": "https://imqi1.com:443/content/12",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
-    {
-      "id": "ec844fdeea03876cfc3139bd1b505880cda37063",
-      "title": "Web 性能优化实战",
-      "created": "2026-04-06 22:09",
-      "link": "https://imqi1.com:443/content/11",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
-    {
-      "id": "c4b0955223c32f1ec67837958203b1c22baa8f37",
-      "title": "访谈｜Codex 团队如何用自己的产品构建产品——整个 Spec 只有 10 个要点",
-      "created": "2026-04-06 08:00",
-      "link": "https://baoyu.io/blog/2026-04-06/how-openais-codex-team-builds-with-codex",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "258442015775ca745d9b41e00a34cdee680da34b",
-      "title": "肖恩技术周刊（第 88 期）：无头软件（Headless Software）",
-      "created": "2026-04-06 08:00",
-      "link": "https://weekly.shawnxie.top/content/2026/88.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
     },
     {
       "id": "6a0ada6a69f12c99b5703733a0a1ff67896a1015",
@@ -239,15 +59,6 @@
       "link": "https://lumina.shawnxie.top/article/x-shang-de-andrej-karpathy-llm-knowledge-bases-16ec07b3",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "60fb05c7798018ae731a72f49a2dc5a195649fc6",
-      "title": "Any Custom Frontend with Gradio's Backend",
-      "created": "2026-04-01 08:00",
-      "link": "https://huggingface.co/blog/introducing-gradio-server",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -404,19 +215,19 @@
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -575,6 +386,15 @@
       "category": "ai"
     },
     {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -590,15 +410,6 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -710,21 +521,21 @@
       "category": "ai"
     },
     {
-      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
-      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
-      "created": "2025-04-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
       "title": "The State of Reinforcement Learning for LLM Reasoning",
       "created": "2025-04-19 08:00",
       "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
+      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
+      "created": "2025-04-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -860,6 +671,15 @@
       "link": "https://www.philschmid.de/mcp-introduction",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
+      "title": "The NLP Course is becoming the LLM Course",
+      "created": "2025-04-03 08:00",
+      "link": "https://huggingface.co/blog/llm-course",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
