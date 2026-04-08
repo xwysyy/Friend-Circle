@@ -3,10 +3,37 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 224,
-    "last_updated_time": "2026-04-08 10:51:08"
+    "article_num": 228,
+    "last_updated_time": "2026-04-08 15:42:36"
   },
   "article_data": [
+    {
+      "id": "1731afe405905b292fed30dc06f9c822d9eb5de3",
+      "title": "GLM-5.1: Towards Long-Horizon Tasks",
+      "created": "2026-04-08 15:22",
+      "link": "https://lumina.shawnxie.top/article/glm-5-1-towards-long-horizon-tasks-fcf7cb6f",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "d0774ad2e6116d1f6a8f51edb30246b40bb48ea3",
+      "title": "MyMemory：全球最大翻译记忆库",
+      "created": "2026-04-08 15:13",
+      "link": "https://lumina.shawnxie.top/article/mymemory-quan-qiu-zui-da-fan-yi-ji-yi-ku-cce303aa",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "b02eda0f994715a1a3cee82bc658e19b1db5a9fb",
+      "title": "629 - 《从 ZeroTier 切到 Tailscale：自建 DERP 中继踩坑记》",
+      "created": "2026-04-08 13:51",
+      "link": "https://blog.sorrycc.com/zerotier-to-tailscale-derp",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
     {
       "id": "794d68db30d68ed3857683826800b5d110fb5c47",
       "title": "GLM-5.1: Towards Long-Horizon Tasks",
@@ -50,6 +77,15 @@
       "link": "https://kexue.fm/archives/11697",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "id": "de2a5f141818e1d6efc880c188d9e938812729fc",
+      "title": "Get more done with new vertical tabs and immersive reading mode in Chrome",
+      "created": "2026-04-07 15:17",
+      "link": "https://lumina.shawnxie.top/article/get-more-done-with-new-vertical-tabs-and-6eccc886",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -224,19 +260,19 @@
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -275,15 +311,6 @@
       "link": "https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-2-how-wrap-and-sm-work/",
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "cdd76750432fa113610fa866d027af89c7c21074",
-      "title": "🔥Pytorch使用-1：Pytorch计算图等概念",
-      "created": "2025-07-01 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/07/01/torch_basic.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -818,6 +845,15 @@
       "category": "ai"
     },
     {
+      "id": "670c43aeeec6f587dd9a10d35354a26c883ceb46",
+      "title": "DeepSpeed基本原理",
+      "created": "2025-02-24 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/02/24/deepspeed.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "0df637fa256ffa2ba859e4dd6fac7cab947a37b0",
       "title": "Deepseek GRPO 中的 KL Divergence",
       "created": "2025-02-23 08:00",
@@ -890,21 +926,21 @@
       "category": "ai"
     },
     {
-      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
-      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
-      "created": "2025-01-23 08:00",
-      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
       "title": "Oh-Numpy & Oh-Pytorch",
       "created": "2025-01-23 08:00",
       "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
+      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
+      "created": "2025-01-23 08:00",
+      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
