@@ -3,96 +3,24 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 227,
-    "last_updated_time": "2026-04-09 21:53:51"
+    "article_num": 218,
+    "last_updated_time": "2026-04-10 03:15:33"
   },
   "article_data": [
     {
-      "id": "4c6215ce9cc39add5b57368ac44e1ac14fc84cef",
-      "title": "所以我放弃了龙虾",
-      "created": "2026-04-10 05:30",
-      "link": "https://kirigaya.cn/blog/article?seq=372",
-      "author": "锦恢",
-      "avatar": "https://kirigaya.cn/favicon.png",
+      "id": "b6bcf76b60a416e24738c872eb89eaabb7ca776e",
+      "title": "Must-Know Cross-Cutting Concerns in API Development",
+      "created": "2026-04-09 23:30",
+      "link": "https://blog.bytebytego.com/p/must-know-cross-cutting-concerns",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
-      "id": "84c25df148b5b9fca49a163ffad3e11963a40453",
-      "title": "Anthropic 上线 Claude Managed Agents 公测版，一站式解决 AI 代理生产部署",
-      "created": "2026-04-09 20:59",
-      "link": "https://lumina.shawnxie.top/article/anthropic-shang-xian-claude-managed-agents-gong-7e3d33a4",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "1a0b684b55b4a42786df778cb0a08e21bead1e8e",
-      "title": "AI算力扩容的新瓶颈竟是铜缆，英伟达押注光互连",
-      "created": "2026-04-09 20:56",
-      "link": "https://lumina.shawnxie.top/article/ma-sheng-li-gong-ke-ji-ping-lun-aisuan-li-kuo-e23c299c",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "a598631d6c0b538dbecf61a51803e7f8408d5abe",
-      "title": "测试智能体技能在实际场景中的效果",
-      "created": "2026-04-09 20:53",
-      "link": "https://lumina.shawnxie.top/article/ce-shi-zhi-neng-ti-ji-neng-zai-shi-ji-chang-jing-8b8593c8",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "c8eae9f515380867b405e60f9378a64227311570",
-      "title": "Gate First：为你的 Agent Team 构建 Harness 防御体系",
-      "created": "2026-04-09 17:41",
-      "link": "http://www.phodal.com/blog/harness-engineering-gate-first/",
-      "author": "Phodal Huang",
-      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "b08dcf21fe76496a4d78c4f0c5700aa3c7ac2005",
-      "title": "视频压缩软件 CompressO 3.0 MacOS 免费汉化版下载",
-      "created": "2026-04-09 17:33",
-      "link": "https://blog.zhheo.com/p/9ekjlgs4.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
-      "category": "friend"
-    },
-    {
-      "id": "316fa32ea0d941785bdc188fc1a7278c8cfab50c",
-      "title": "LLM | 整理了 MiroThinker 的技术报告 / 公开资料 - MoonOut",
-      "created": "2026-04-09 17:18",
-      "link": "https://www.cnblogs.com/moonout/p/19841257",
-      "author": "Moon out",
-      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
-      "id": "89c4c4ec4b95a8e04008cb282f739d2661479188",
-      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
-      "created": "2026-04-09 08:00",
-      "link": "https://huggingface.co/blog/multimodal-sentence-transformers",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "10764befb7876eacebfb615cddc7e9000e1bb8d9",
-      "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
-      "created": "2026-04-08 20:58",
-      "link": "https://lumina.shawnxie.top/article/introducing-muse-spark-scaling-towards-personal-8a6b0f24",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "3cea4e20cfabb17282bdc4d3aeec9320cf7ec874",
-      "title": "Package Security Problems for AI Agents",
-      "created": "2026-04-08 20:37",
-      "link": "https://lumina.shawnxie.top/article/package-security-problems-for-ai-agents-1c6d777c",
+      "id": "aa6fb714f387e0928474632c5d3765ded5e75672",
+      "title": "MiniMax CLI：MiniMax官方命令行工具",
+      "created": "2026-04-09 22:34",
+      "link": "https://lumina.shawnxie.top/article/minimax-cli-minimaxguan-fang-ming-ling-xing-gong-11aa8ccd",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
@@ -129,24 +57,6 @@
       "title": "X 上的 Andrej Karpathy：“LLM Knowledge Bases\n\nSomething I'm finding very useful recently: using LLMs to build personal knowledge bases for various topics of research interest. In this way, a large fraction of my recent token throughput is going less into manipulating code, and more into manipulating” / X",
       "created": "2026-04-02 08:00",
       "link": "https://lumina.shawnxie.top/article/x-shang-de-andrej-karpathy-llm-knowledge-bases-16ec07b3",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "0360cfa379ff0855ea87828742f3cd039851652f",
-      "title": "人工智能智能体陷阱",
-      "created": "2026-03-28 21:09",
-      "link": "https://lumina.shawnxie.top/article/ren-gong-zhi-neng-zhi-neng-ti-xian-jing-a23f264b",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "110f8e7de5f19f798b83751ca6e5ac3abfbc0aad",
-      "title": "AI and the human voice: only humans can do subtle poetry",
-      "created": "2026-03-27 21:01",
-      "link": "https://lumina.shawnxie.top/article/ai-and-the-human-voice-2237c31f",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
@@ -305,19 +215,19 @@
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -746,6 +656,15 @@
       "category": "ai"
     },
     {
+      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
+      "title": "The NLP Course is becoming the LLM Course",
+      "created": "2025-04-03 08:00",
+      "link": "https://huggingface.co/blog/llm-course",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
       "title": "Model Context Protocol (MCP) an overview",
       "created": "2025-04-03 08:00",
@@ -962,21 +881,21 @@
       "category": "ai"
     },
     {
-      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
-      "title": "Oh-Numpy & Oh-Pytorch",
-      "created": "2025-01-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
       "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
       "created": "2025-01-23 08:00",
       "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1106,21 +1025,21 @@
       "category": "ai"
     },
     {
-      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
-      "title": "斯坦福小镇解读",
-      "created": "2024-11-28 08:00",
-      "link": "https://mathewshen.me/blog/2024/ai-town/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
       "title": "Reward Hacking in Reinforcement Learning",
       "created": "2024-11-28 08:00",
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
