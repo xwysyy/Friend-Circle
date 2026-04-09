@@ -3,10 +3,19 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 224,
-    "last_updated_time": "2026-04-09 03:24:47"
+    "article_num": 220,
+    "last_updated_time": "2026-04-09 10:45:43"
   },
   "article_data": [
+    {
+      "id": "f6342c364e4c1fef2e52deed965cb486084eac3c",
+      "title": "Meta's new model is Muse Spark, and meta.ai chat has some interesting tools",
+      "created": "2026-04-09 07:07",
+      "link": "https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "ef1afc6f38f5f3a5e6a20156ff1ee9e83d0656b8",
       "title": "How Spotify Ships to 675 Million Users Every Week Without Breaking Things",
@@ -404,6 +413,15 @@
       "category": "ai"
     },
     {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -419,15 +437,6 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -890,21 +899,21 @@
       "category": "ai"
     },
     {
-      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
-      "title": "Oh-Numpy & Oh-Pytorch",
-      "created": "2025-01-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
       "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
       "created": "2025-01-23 08:00",
       "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1385,24 +1394,6 @@
       "category": "ai"
     },
     {
-      "id": "28dd3b77bf23ab2bd42aea3ebaf40c19cc8bbff2",
-      "title": "google-research/timesfm",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/google-research/timesfm",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "619b3cfc3ac9ca9b0ea1b38e97c3ed27d1060ec0",
-      "title": "luongnv89/claude-howto",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/luongnv89/claude-howto",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "a9d45f10abec3fee8dfe39cc397fa82216ef9a14",
       "title": "google-ai-edge/gallery",
       "created": "2024-01-01 00:00",
@@ -1412,55 +1403,10 @@
       "category": "ai"
     },
     {
-      "id": "ca89d9ff00985dc4fc22ac262328f213b8777af0",
-      "title": "Yeachan-Heo/oh-my-claudecode",
+      "id": "28dd3b77bf23ab2bd42aea3ebaf40c19cc8bbff2",
+      "title": "google-research/timesfm",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
-      "title": "NousResearch/hermes-agent",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/NousResearch/hermes-agent",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "b9901cf076934a21a9f14121fccba9e41d61044a",
-      "title": "microsoft/VibeVoice",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/microsoft/VibeVoice",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "af5f93b3ed221bb33708fb32511a717eb89fd006",
-      "title": "onyx-dot-app/onyx",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/onyx-dot-app/onyx",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "a699cca176201a64275ed75c357bbe7dd30706b5",
-      "title": "asgeirtj/system_prompts_leaks",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/asgeirtj/system_prompts_leaks",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "eb8e266816bcb9cd038720702f241a6a4e457c2a",
-      "title": "sherlock-project/sherlock",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/sherlock-project/sherlock",
+      "link": "https://github.com/google-research/timesfm",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1475,28 +1421,46 @@
       "category": "ai"
     },
     {
-      "id": "09fda1f849607945698dd6fdefcebb74ff2ffd2d",
-      "title": "nvim-treesitter/nvim-treesitter",
+      "id": "619b3cfc3ac9ca9b0ea1b38e97c3ed27d1060ec0",
+      "title": "luongnv89/claude-howto",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/nvim-treesitter/nvim-treesitter",
+      "link": "https://github.com/luongnv89/claude-howto",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "95ce75811a5e2c2182e7c525008f290f71f2db30",
-      "title": "antinomyhq/forgecode",
+      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
+      "title": "NousResearch/hermes-agent",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/antinomyhq/forgecode",
+      "link": "https://github.com/NousResearch/hermes-agent",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "bde69db6b978c8aa7f95ffbad0da06d029698d74",
-      "title": "telegramdesktop/tdesktop",
+      "id": "af5f93b3ed221bb33708fb32511a717eb89fd006",
+      "title": "onyx-dot-app/onyx",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/telegramdesktop/tdesktop",
+      "link": "https://github.com/onyx-dot-app/onyx",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "ca89d9ff00985dc4fc22ac262328f213b8777af0",
+      "title": "Yeachan-Heo/oh-my-claudecode",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "eb8e266816bcb9cd038720702f241a6a4e457c2a",
+      "title": "sherlock-project/sherlock",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/sherlock-project/sherlock",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"

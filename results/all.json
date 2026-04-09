@@ -3,8 +3,8 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 601,
-    "last_updated_time": "2026-04-09 03:24:41"
+    "article_num": 596,
+    "last_updated_time": "2026-04-09 10:45:37"
   },
   "article_data": [
     {
@@ -32,6 +32,15 @@
       "link": "https://yukinoshitasherry.github.io/26%E5%A4%96%E5%9C%B0%E9%A3%9F%E7%89%A9/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "f6342c364e4c1fef2e52deed965cb486084eac3c",
+      "title": "Meta's new model is Muse Spark, and meta.ai chat has some interesting tools",
+      "created": "2026-04-09 07:07",
+      "link": "https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -521,15 +530,6 @@
       "category": "ai"
     },
     {
-      "id": "c4b0955223c32f1ec67837958203b1c22baa8f37",
-      "title": "访谈｜Codex 团队如何用自己的产品构建产品——整个 Spec 只有 10 个要点",
-      "created": "2026-04-06 08:00",
-      "link": "https://baoyu.io/blog/2026-04-06/how-openais-codex-team-builds-with-codex",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "072008ad64ef5bc778769649a46c42be569d5eb7",
       "title": "“去往何处？皆可成途。”",
       "created": "2026-04-06 08:00",
@@ -539,12 +539,12 @@
       "category": "ai"
     },
     {
-      "id": "258442015775ca745d9b41e00a34cdee680da34b",
-      "title": "肖恩技术周刊（第 88 期）：无头软件（Headless Software）",
+      "id": "c4b0955223c32f1ec67837958203b1c22baa8f37",
+      "title": "访谈｜Codex 团队如何用自己的产品构建产品——整个 Spec 只有 10 个要点",
       "created": "2026-04-06 08:00",
-      "link": "https://weekly.shawnxie.top/content/2026/88.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "link": "https://baoyu.io/blog/2026-04-06/how-openais-codex-team-builds-with-codex",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -563,6 +563,15 @@
       "link": "https://lumina.shawnxie.top/article/colleague-skill-jiang-chi-zhi-tong-shi-lian-hua-00d01e84",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "258442015775ca745d9b41e00a34cdee680da34b",
+      "title": "肖恩技术周刊（第 88 期）：无头软件（Headless Software）",
+      "created": "2026-04-06 08:00",
+      "link": "https://weekly.shawnxie.top/content/2026/88.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -750,15 +759,6 @@
       "title": "The cognitive impact of coding agents",
       "created": "2026-04-04 07:57",
       "link": "https://simonwillison.net/2026/Apr/3/cognitive-cost/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "6fba2711a5c7965dd95baf01df0a229096718a66",
-      "title": "Quoting Willy Tarreau",
-      "created": "2026-04-04 05:48",
-      "link": "https://simonwillison.net/2026/Apr/3/willy-tarreau/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
@@ -1565,21 +1565,21 @@
       "category": "friend"
     },
     {
-      "id": "a59710f87739ce4fe26003561ca2d89b4b0e6110",
-      "title": "构建 Claude Code 的经验：我们如何使用 Skills",
-      "created": "2026-03-17 08:00",
-      "link": "https://baoyu.io/translations/2026-03-17/claude-code-skills-lessons",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "c4aa244a884eca6276c6ad05bf1d18eb4b60873b",
       "title": "职场常用英语",
       "created": "2026-03-17 08:00",
       "link": "https://yukinoshitasherry.github.io/%E8%81%8C%E5%9C%BA%E5%B8%B8%E7%94%A8%E8%8B%B1%E8%AF%AD/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "a59710f87739ce4fe26003561ca2d89b4b0e6110",
+      "title": "构建 Claude Code 的经验：我们如何使用 Skills",
+      "created": "2026-03-17 08:00",
+      "link": "https://baoyu.io/translations/2026-03-17/claude-code-skills-lessons",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -2006,6 +2006,15 @@
       "category": "ai"
     },
     {
+      "id": "b87b07820b66b900f80465b494966d434bd05f8e",
+      "title": "SFT 监督微调",
+      "created": "2026-03-05 08:00",
+      "link": "https://yukinoshitasherry.github.io/SFT/",
+      "author": "秋月春风的书房",
+      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
       "id": "ef975331dc01ae88ed35086e7c13e7ccd125d8a7",
       "title": "我用 AI 翻译的三个阶段：提示词时代 → 推理模型时代 → Agent 时代",
       "created": "2026-03-05 08:00",
@@ -2021,15 +2030,6 @@
       "link": "https://baoyu.io/blog/2026-03-04/ai-merge-drafts-into-skills",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b87b07820b66b900f80465b494966d434bd05f8e",
-      "title": "SFT 监督微调",
-      "created": "2026-03-05 08:00",
-      "link": "https://yukinoshitasherry.github.io/SFT/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
       "category": "ai"
     },
     {
@@ -2357,21 +2357,21 @@
       "category": "ai"
     },
     {
-      "id": "b8cca878bea9f51a281f84db40da371dd7d859cf",
-      "title": "Agents: Inner Loop vs Outer Loop",
-      "created": "2026-02-20 08:00",
-      "link": "https://www.philschmid.de/inner-loop-vs-outer-loop",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "a6418b25d679ca65f34ae87a88acdba8fd1ccaec",
       "title": "模型训练分析-1：Loss以及Grad Norm分析",
       "created": "2026-02-20 08:00",
       "link": "https://www.big-yellow-j.top/posts/2026/02/20/ModelTraining.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b8cca878bea9f51a281f84db40da371dd7d859cf",
+      "title": "Agents: Inner Loop vs Outer Loop",
+      "created": "2026-02-20 08:00",
+      "link": "https://www.philschmid.de/inner-loop-vs-outer-loop",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -3104,15 +3104,6 @@
       "category": "ai"
     },
     {
-      "id": "64a885263404a75b6fda56d21ec2d331d683cc60",
-      "title": "梯度速降",
-      "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E6%A2%AF%E5%BA%A6%E9%80%9F%E9%99%8D/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
       "id": "804fa59122219d2d96cf56ce39edeb9cad3bf507",
       "title": "矩阵微分乘法法则速记",
       "created": "2026-01-05 08:00",
@@ -3126,6 +3117,15 @@
       "title": "矩阵微分热身",
       "created": "2026-01-05 08:00",
       "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E7%83%AD%E8%BA%AB/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "64a885263404a75b6fda56d21ec2d331d683cc60",
+      "title": "梯度速降",
+      "created": "2026-01-05 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E6%A2%AF%E5%BA%A6%E9%80%9F%E9%99%8D/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -3725,21 +3725,21 @@
       "category": "friend"
     },
     {
-      "id": "560dff5b744098ef4b5b67e04c8ef5d6c7b7113c",
-      "title": "新时代的 Google Scholar",
-      "created": "2025-11-24 08:00",
-      "link": "https://mathewshen.me/blog/2025/google-scholar-new-features/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "d90e85d7d88f26bbb0d49d0bc6f3890e1af8a8c9",
       "title": "肖恩技术周刊（第 71 期）：何以成事",
       "created": "2025-11-24 08:00",
       "link": "https://weekly.shawnxie.top/content/2025/71.html",
       "author": "肖恩技术周刊",
       "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "category": "ai"
+    },
+    {
+      "id": "560dff5b744098ef4b5b67e04c8ef5d6c7b7113c",
+      "title": "新时代的 Google Scholar",
+      "created": "2025-11-24 08:00",
+      "link": "https://mathewshen.me/blog/2025/google-scholar-new-features/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -4904,24 +4904,6 @@
       "category": "ai"
     },
     {
-      "id": "28dd3b77bf23ab2bd42aea3ebaf40c19cc8bbff2",
-      "title": "google-research/timesfm",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/google-research/timesfm",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "619b3cfc3ac9ca9b0ea1b38e97c3ed27d1060ec0",
-      "title": "luongnv89/claude-howto",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/luongnv89/claude-howto",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "a9d45f10abec3fee8dfe39cc397fa82216ef9a14",
       "title": "google-ai-edge/gallery",
       "created": "2024-01-01 00:00",
@@ -4931,55 +4913,10 @@
       "category": "ai"
     },
     {
-      "id": "ca89d9ff00985dc4fc22ac262328f213b8777af0",
-      "title": "Yeachan-Heo/oh-my-claudecode",
+      "id": "28dd3b77bf23ab2bd42aea3ebaf40c19cc8bbff2",
+      "title": "google-research/timesfm",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
-      "title": "NousResearch/hermes-agent",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/NousResearch/hermes-agent",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "b9901cf076934a21a9f14121fccba9e41d61044a",
-      "title": "microsoft/VibeVoice",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/microsoft/VibeVoice",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "af5f93b3ed221bb33708fb32511a717eb89fd006",
-      "title": "onyx-dot-app/onyx",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/onyx-dot-app/onyx",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "a699cca176201a64275ed75c357bbe7dd30706b5",
-      "title": "asgeirtj/system_prompts_leaks",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/asgeirtj/system_prompts_leaks",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "eb8e266816bcb9cd038720702f241a6a4e457c2a",
-      "title": "sherlock-project/sherlock",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/sherlock-project/sherlock",
+      "link": "https://github.com/google-research/timesfm",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -4994,28 +4931,46 @@
       "category": "ai"
     },
     {
-      "id": "09fda1f849607945698dd6fdefcebb74ff2ffd2d",
-      "title": "nvim-treesitter/nvim-treesitter",
+      "id": "619b3cfc3ac9ca9b0ea1b38e97c3ed27d1060ec0",
+      "title": "luongnv89/claude-howto",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/nvim-treesitter/nvim-treesitter",
+      "link": "https://github.com/luongnv89/claude-howto",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "95ce75811a5e2c2182e7c525008f290f71f2db30",
-      "title": "antinomyhq/forgecode",
+      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
+      "title": "NousResearch/hermes-agent",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/antinomyhq/forgecode",
+      "link": "https://github.com/NousResearch/hermes-agent",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "bde69db6b978c8aa7f95ffbad0da06d029698d74",
-      "title": "telegramdesktop/tdesktop",
+      "id": "af5f93b3ed221bb33708fb32511a717eb89fd006",
+      "title": "onyx-dot-app/onyx",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/telegramdesktop/tdesktop",
+      "link": "https://github.com/onyx-dot-app/onyx",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "ca89d9ff00985dc4fc22ac262328f213b8777af0",
+      "title": "Yeachan-Heo/oh-my-claudecode",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "eb8e266816bcb9cd038720702f241a6a4e457c2a",
+      "title": "sherlock-project/sherlock",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/sherlock-project/sherlock",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
