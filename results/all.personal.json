@@ -3,26 +3,35 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 218,
-    "last_updated_time": "2026-04-10 03:15:33"
+    "article_num": 219,
+    "last_updated_time": "2026-04-10 10:57:33"
   },
   "article_data": [
     {
-      "id": "b6bcf76b60a416e24738c872eb89eaabb7ca776e",
-      "title": "Must-Know Cross-Cutting Concerns in API Development",
-      "created": "2026-04-09 23:30",
-      "link": "https://blog.bytebytego.com/p/must-know-cross-cutting-concerns",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "id": "4a63f134f84c73afbc116b801e8ca6fe7d8703db",
+      "title": "GitHub Repo Size",
+      "created": "2026-04-10 05:31",
+      "link": "https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
-      "id": "aa6fb714f387e0928474632c5d3765ded5e75672",
-      "title": "MiniMax CLI：MiniMax官方命令行工具",
-      "created": "2026-04-09 22:34",
-      "link": "https://lumina.shawnxie.top/article/minimax-cli-minimaxguan-fang-ming-ling-xing-gong-11aa8ccd",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "id": "794caf4b8783b23c9f66f36d72be3a0124fe2610",
+      "title": "asgi-gzip 0.3",
+      "created": "2026-04-09 11:54",
+      "link": "https://simonwillison.net/2026/Apr/9/asgi-gzip/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "a3ef54c12f07ae5b04c5cf10a5947faf48b24934",
+      "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+      "created": "2026-04-09 08:00",
+      "link": "https://huggingface.co/blog/waypoint-1-5",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -512,21 +521,21 @@
       "category": "ai"
     },
     {
-      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
-      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
-      "created": "2025-04-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
       "title": "The State of Reinforcement Learning for LLM Reasoning",
       "created": "2025-04-19 08:00",
       "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
+      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
+      "created": "2025-04-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -651,15 +660,6 @@
       "title": "Journey to 1 Million Gradio Users!",
       "created": "2025-04-04 08:00",
       "link": "https://huggingface.co/blog/gradio-1m",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
-      "title": "The NLP Course is becoming the LLM Course",
-      "created": "2025-04-03 08:00",
-      "link": "https://huggingface.co/blog/llm-course",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
@@ -1358,6 +1358,15 @@
       "category": "ai"
     },
     {
+      "id": "a9d45f10abec3fee8dfe39cc397fa82216ef9a14",
+      "title": "google-ai-edge/gallery",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/google-ai-edge/gallery",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "3866d3fe1f8afde2906eb5aaca06e11d32fe446b",
       "title": "Yeachan-Heo/oh-my-codex",
       "created": "2024-01-01 00:00",
@@ -1376,19 +1385,10 @@
       "category": "ai"
     },
     {
-      "id": "a9d45f10abec3fee8dfe39cc397fa82216ef9a14",
-      "title": "google-ai-edge/gallery",
+      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
+      "title": "NousResearch/hermes-agent",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/google-ai-edge/gallery",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "28dd3b77bf23ab2bd42aea3ebaf40c19cc8bbff2",
-      "title": "google-research/timesfm",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/google-research/timesfm",
+      "link": "https://github.com/NousResearch/hermes-agent",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1403,19 +1403,10 @@
       "category": "ai"
     },
     {
-      "id": "619b3cfc3ac9ca9b0ea1b38e97c3ed27d1060ec0",
-      "title": "luongnv89/claude-howto",
+      "id": "f9173bb79a9aefe76fd9781bc78573a9f35efe5b",
+      "title": "HKUDS/DeepTutor",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/luongnv89/claude-howto",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
-      "title": "NousResearch/hermes-agent",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/NousResearch/hermes-agent",
+      "link": "https://github.com/HKUDS/DeepTutor",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1430,19 +1421,37 @@
       "category": "ai"
     },
     {
-      "id": "ca89d9ff00985dc4fc22ac262328f213b8777af0",
-      "title": "Yeachan-Heo/oh-my-claudecode",
+      "id": "28dd3b77bf23ab2bd42aea3ebaf40c19cc8bbff2",
+      "title": "google-research/timesfm",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "link": "https://github.com/google-research/timesfm",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "eb8e266816bcb9cd038720702f241a6a4e457c2a",
-      "title": "sherlock-project/sherlock",
+      "id": "d61bd428f3f32fd5c4ac22a50f92d26d6f1d54a0",
+      "title": "NVIDIA/personaplex",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/sherlock-project/sherlock",
+      "link": "https://github.com/NVIDIA/personaplex",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "619b3cfc3ac9ca9b0ea1b38e97c3ed27d1060ec0",
+      "title": "luongnv89/claude-howto",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/luongnv89/claude-howto",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "f27e1e5b7a64ef755c3de72b65c2d828dbd5ce56",
+      "title": "forrestchang/andrej-karpathy-skills",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/forrestchang/andrej-karpathy-skills",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
