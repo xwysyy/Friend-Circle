@@ -1,64 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 39,
-    "active_num": 37,
-    "error_num": 2,
-    "article_num": 221,
-    "last_updated_time": "2026-04-11 21:11:11"
+    "active_num": 38,
+    "error_num": 1,
+    "article_num": 217,
+    "last_updated_time": "2026-04-12 02:53:39"
   },
   "article_data": [
     {
-      "id": "f588ce13960e0218ae20edc8d7ed85824d604574",
-      "title": "「10万小时人类数据」不搞对齐只靠规模，灵初智能Psi-R2登顶MolmoSpaces！",
-      "created": "2026-04-11 09:14",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651027052&idx=1&sn=08f7ffbc8190aeec32634a76c269af38",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b35bcaa5b585060d68f4980cab296ff347d0f4e3",
-      "title": "突发！奥特曼家被扔燃烧弹，OpenAI星际之门也出问题了",
-      "created": "2026-04-11 09:14",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651027052&idx=2&sn=20f97920244beff9add64df1e870004c",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "7aeaaf0d49f7e031b3dc914275591f99154ca107",
-      "title": "CVPR Highlight｜让无人机学会自己认路+锁位目标，国防科大给出一套新解法",
-      "created": "2026-04-11 09:14",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651027052&idx=3&sn=6964f830ec73f3ff21fee892a19ac8b7",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "d34c7f440f9c9b2162ddfc0fd36a71edc636e713",
-      "title": "Generalist爆火背后：具身智能真正的竞争，已不在模型",
-      "created": "2026-04-10 18:18",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651026977&idx=1&sn=c28ed343f67058124f4c89d3cff0e36b",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "3faf69613bbd781321d1a15d9bd75bc987894fe2",
-      "title": "龙虾连Gemma 4，只需三步，谷歌官方教程出炉，不再花钱买token",
-      "created": "2026-04-10 18:18",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651026977&idx=2&sn=31e760bbf6287464bfa70431b75f0e3d",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "fd9380d61aab44395a9574c822c3dc8897885322",
-      "title": "CVPR 2026 | 20步也能稳住画质，这个扩散加速方法不一样",
-      "created": "2026-04-10 18:18",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651026977&idx=3&sn=706efc2a22e98809d60669a85905269c",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "id": "51c7440cf722c36d6406d524dbc91c5f7e31825a",
+      "title": "EP210: Monolithic vs Microservices vs Serverless",
+      "created": "2026-04-11 23:30",
+      "link": "https://blog.bytebytego.com/p/ep210-monolithic-vs-microservices",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
@@ -68,6 +23,15 @@
       "link": "https://www.cnblogs.com/moonout/p/19836058",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "439bd22aab85ac088174cb3abd1cbf0a7d5ec450",
+      "title": "基于流式幂迭代的Muon实现：3. 雕琢",
+      "created": "2026-04-07 15:41",
+      "link": "https://kexue.fm/archives/11697",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -86,6 +50,15 @@
       "link": "https://lumina.shawnxie.top/article/x-shang-de-andrej-karpathy-llm-knowledge-bases-16ec07b3",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "0f0abe79e2988deaa5ebb1005cfe02d2e5b54469",
+      "title": "基于流式幂迭代的Muon实现：2. 加速",
+      "created": "2026-03-26 13:14",
+      "link": "https://kexue.fm/archives/11673",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -113,6 +86,15 @@
       "link": "https://www.big-yellow-j.top/posts/2026/03/21/attention-residuals.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "3578687cf3890e23dc5d1a9ef4befad4c5f4f8d8",
+      "title": "Attention Residuals 回忆录",
+      "created": "2026-03-19 10:02",
+      "link": "https://kexue.fm/archives/11664",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -177,24 +159,6 @@
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
       "category": "ai"
-    },
-    {
-      "id": "29d072b415a7c3347f3d4977862601313d6b2154",
-      "title": "基础乐理、五度圈与中古调式",
-      "created": "2026-03-11 08:00",
-      "link": "https://yukinoshitasherry.github.io/%E4%B9%90%E7%90%86%E5%9F%BA%E7%A1%80/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "e27fb52c358cc9cd49ce9e23369eecd7e86c6165",
-      "title": "推荐酷鸭数据主机",
-      "created": "2026-02-26 00:00",
-      "link": "https://dusays.com/archives/855/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png",
-      "category": "friend"
     },
     {
       "id": "b4665bae5f5e11fc9cc4c52f735b46e9c396fafd",
