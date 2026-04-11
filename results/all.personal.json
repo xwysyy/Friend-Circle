@@ -1,37 +1,28 @@
 {
   "statistical_data": {
     "friends_num": 39,
-    "active_num": 38,
-    "error_num": 1,
+    "active_num": 36,
+    "error_num": 3,
     "article_num": 219,
-    "last_updated_time": "2026-04-11 03:01:23"
+    "last_updated_time": "2026-04-11 10:43:22"
   },
   "article_data": [
     {
-      "id": "b34b2b1c9808dbd355d53e51d0135812e16fece6",
-      "title": "ChatGPT voice mode is a weaker model",
-      "created": "2026-04-10 23:56",
-      "link": "https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "54459754149c2bdac5ce974d4d8c07a358c3b7f6",
-      "title": "🔥Pytorch使用-1：Pytorch计算图等概念",
-      "created": "2026-04-10 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/04/10/torch_basic.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "26c8875b53fdbbf2ab5548ebea74c5f4d2f1c7e6",
-      "title": "Token经济学七问——一份关于AI新经济的入门地图",
-      "created": "2026-04-09 21:24",
-      "link": "https://lumina.shawnxie.top/article/tokenjing-ji-xue-qi-wen-yi-fen-guan-yu-aixin-jing-8e84d727",
+      "id": "f6e07fa69728d5078c7aef3bb539f7b2b52c9074",
+      "title": "linux/Documentation/process/coding-assistants.rst at master · torvalds/linux",
+      "created": "2026-04-11 10:02",
+      "link": "https://lumina.shawnxie.top/article/linux-documentation-process-coding-assistants-rst-b2fb188c",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "503ae9de44a245736816fb9cc97bf97153616bf7",
+      "title": "Kākāpō parrots",
+      "created": "2026-04-11 03:07",
+      "link": "https://simonwillison.net/2026/Apr/10/kakapo/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -386,6 +377,15 @@
       "category": "ai"
     },
     {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -401,15 +401,6 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -521,21 +512,21 @@
       "category": "ai"
     },
     {
-      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
-      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
-      "created": "2025-04-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
       "title": "The State of Reinforcement Learning for LLM Reasoning",
       "created": "2025-04-19 08:00",
       "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
+      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
+      "created": "2025-04-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -665,21 +656,21 @@
       "category": "ai"
     },
     {
-      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
-      "title": "The NLP Course is becoming the LLM Course",
-      "created": "2025-04-03 08:00",
-      "link": "https://huggingface.co/blog/llm-course",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
       "title": "Model Context Protocol (MCP) an overview",
       "created": "2025-04-03 08:00",
       "link": "https://www.philschmid.de/mcp-introduction",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
+      "title": "The NLP Course is becoming the LLM Course",
+      "created": "2025-04-03 08:00",
+      "link": "https://huggingface.co/blog/llm-course",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -804,6 +795,15 @@
       "title": "LLM 生成策略全解析-1：llm模型输出控制",
       "created": "2025-02-27 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/02/27/LLM-OUT.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "670c43aeeec6f587dd9a10d35354a26c883ceb46",
+      "title": "DeepSpeed基本原理",
+      "created": "2025-02-24 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/02/24/deepspeed.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
@@ -1367,19 +1367,10 @@
       "category": "ai"
     },
     {
-      "id": "3866d3fe1f8afde2906eb5aaca06e11d32fe446b",
-      "title": "Yeachan-Heo/oh-my-codex",
+      "id": "f9173bb79a9aefe76fd9781bc78573a9f35efe5b",
+      "title": "HKUDS/DeepTutor",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Yeachan-Heo/oh-my-codex",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "ccee48863c98b66f106f04dc4de33a533077aea8",
-      "title": "siddharthvaddem/openscreen",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/siddharthvaddem/openscreen",
+      "link": "https://github.com/HKUDS/DeepTutor",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1403,10 +1394,37 @@
       "category": "ai"
     },
     {
-      "id": "f9173bb79a9aefe76fd9781bc78573a9f35efe5b",
-      "title": "HKUDS/DeepTutor",
+      "id": "d3e15fd66da7c2df86e6192781ed7a22aa2e9424",
+      "title": "multica-ai/multica",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/HKUDS/DeepTutor",
+      "link": "https://github.com/multica-ai/multica",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "ccee48863c98b66f106f04dc4de33a533077aea8",
+      "title": "siddharthvaddem/openscreen",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/siddharthvaddem/openscreen",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "f27e1e5b7a64ef755c3de72b65c2d828dbd5ce56",
+      "title": "forrestchang/andrej-karpathy-skills",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "d61bd428f3f32fd5c4ac22a50f92d26d6f1d54a0",
+      "title": "NVIDIA/personaplex",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/NVIDIA/personaplex",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1430,28 +1448,10 @@
       "category": "ai"
     },
     {
-      "id": "d61bd428f3f32fd5c4ac22a50f92d26d6f1d54a0",
-      "title": "NVIDIA/personaplex",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/NVIDIA/personaplex",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "619b3cfc3ac9ca9b0ea1b38e97c3ed27d1060ec0",
       "title": "luongnv89/claude-howto",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/luongnv89/claude-howto",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "f27e1e5b7a64ef755c3de72b65c2d828dbd5ce56",
-      "title": "forrestchang/andrej-karpathy-skills",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/forrestchang/andrej-karpathy-skills",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
