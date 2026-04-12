@@ -3,17 +3,26 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 217,
-    "last_updated_time": "2026-04-12 02:53:39"
+    "article_num": 219,
+    "last_updated_time": "2026-04-12 11:20:09"
   },
   "article_data": [
     {
-      "id": "51c7440cf722c36d6406d524dbc91c5f7e31825a",
-      "title": "EP210: Monolithic vs Microservices vs Serverless",
-      "created": "2026-04-11 23:30",
-      "link": "https://blog.bytebytego.com/p/ep210-monolithic-vs-microservices",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "id": "e6ad343778f17c9de888229b58845e9a6d9da04f",
+      "title": "SQLite 3.53.0",
+      "created": "2026-04-12 03:56",
+      "link": "https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "50ee36de32e5f59e2e0a295e4aed556aefb09446",
+      "title": "SQLite Query Result Formatter Demo",
+      "created": "2026-04-12 03:35",
+      "link": "https://simonwillison.net/2026/Apr/11/sqlite-qrf/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -494,21 +503,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1340,15 +1349,6 @@
       "category": "ai"
     },
     {
-      "id": "a9d45f10abec3fee8dfe39cc397fa82216ef9a14",
-      "title": "google-ai-edge/gallery",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/google-ai-edge/gallery",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "f9173bb79a9aefe76fd9781bc78573a9f35efe5b",
       "title": "HKUDS/DeepTutor",
       "created": "2024-01-01 00:00",
@@ -1367,10 +1367,10 @@
       "category": "ai"
     },
     {
-      "id": "fb2a73df4e77779e38df14ed0db4175b07187b26",
-      "title": "google-ai-edge/LiteRT-LM",
+      "id": "a9d45f10abec3fee8dfe39cc397fa82216ef9a14",
+      "title": "google-ai-edge/gallery",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/google-ai-edge/LiteRT-LM",
+      "link": "https://github.com/google-ai-edge/gallery",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1385,19 +1385,19 @@
       "category": "ai"
     },
     {
-      "id": "ccee48863c98b66f106f04dc4de33a533077aea8",
-      "title": "siddharthvaddem/openscreen",
+      "id": "f27e1e5b7a64ef755c3de72b65c2d828dbd5ce56",
+      "title": "forrestchang/andrej-karpathy-skills",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/siddharthvaddem/openscreen",
+      "link": "https://github.com/forrestchang/andrej-karpathy-skills",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "f27e1e5b7a64ef755c3de72b65c2d828dbd5ce56",
-      "title": "forrestchang/andrej-karpathy-skills",
+      "id": "fb2a73df4e77779e38df14ed0db4175b07187b26",
+      "title": "google-ai-edge/LiteRT-LM",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "link": "https://github.com/google-ai-edge/LiteRT-LM",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1412,28 +1412,46 @@
       "category": "ai"
     },
     {
-      "id": "af5f93b3ed221bb33708fb32511a717eb89fd006",
-      "title": "onyx-dot-app/onyx",
+      "id": "8d319652f14e2c9b8e52876942138d38a8ba7725",
+      "title": "microsoft/markitdown",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/onyx-dot-app/onyx",
+      "link": "https://github.com/microsoft/markitdown",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "28dd3b77bf23ab2bd42aea3ebaf40c19cc8bbff2",
-      "title": "google-research/timesfm",
+      "id": "ccee48863c98b66f106f04dc4de33a533077aea8",
+      "title": "siddharthvaddem/openscreen",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/google-research/timesfm",
+      "link": "https://github.com/siddharthvaddem/openscreen",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "619b3cfc3ac9ca9b0ea1b38e97c3ed27d1060ec0",
-      "title": "luongnv89/claude-howto",
+      "id": "f34f4dbecb6a77eed9c33e45d6463239607c2019",
+      "title": "TheCraigHewitt/seomachine",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/luongnv89/claude-howto",
+      "link": "https://github.com/TheCraigHewitt/seomachine",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "3866d3fe1f8afde2906eb5aaca06e11d32fe446b",
+      "title": "Yeachan-Heo/oh-my-codex",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "e4fbfae87319cbc0006ec1eb9a5baae2c93e9a1e",
+      "title": "aaif-goose/goose",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/aaif-goose/goose",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
