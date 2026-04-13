@@ -3,27 +3,36 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 219,
-    "last_updated_time": "2026-04-13 21:50:58"
+    "article_num": 220,
+    "last_updated_time": "2026-04-14 03:20:25"
   },
   "article_data": [
     {
-      "id": "4dd27ca2dab4a5a5013161395898007bef3502fb",
-      "title": "「不是哥们，遇到功能不知道咋用，先问 AI 再问我呀」deepwiki 使用教程",
-      "created": "2026-04-14 01:06",
-      "link": "https://kirigaya.cn/blog/article?seq=373",
-      "author": "锦恢",
-      "avatar": "https://kirigaya.cn/favicon.png",
+      "id": "e96e06e88c0ba0816a9f2390d9e41b0613d8b308",
+      "title": "How LinkedIn Feed Uses LLMs to Serve 1.3 Billion Users",
+      "created": "2026-04-13 23:31",
+      "link": "https://blog.bytebytego.com/p/how-linkedin-feed-uses-llms-to-serve",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
-      "id": "7a0abcc28a52c587d70d165fab3bcbc5095f81be",
-      "title": "我的 Nuxt 版网站即将上线了",
-      "created": "2026-04-13 20:24",
-      "link": "https://imqi1.com/note/1007",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
+      "id": "709a79e06860ba4d1772b853e152c96174c365f3",
+      "title": "Exploring the new `servo` crate",
+      "created": "2026-04-13 23:04",
+      "link": "https://simonwillison.net/2026/Apr/13/servo-crate-exploration/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "28a551e06a3e9e9a78c9da17ec01b0f6f08f9d40",
+      "title": "基于流式幂迭代的Muon实现：4. 原理",
+      "created": "2026-04-13 23:03",
+      "link": "https://kexue.fm/archives/11710",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
     },
     {
       "id": "756c8565cf726e78c236601a1387db6577ce87af",
@@ -32,6 +41,15 @@
       "link": "https://yukinoshitasherry.github.io/harness_eng/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "27cba25cd5080a4fe0989563316d832464129490",
+      "title": "8 Tips for Writing Agent Skills",
+      "created": "2026-04-13 08:00",
+      "link": "https://www.philschmid.de/agent-skills-tips",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -440,21 +458,21 @@
       "category": "ai"
     },
     {
-      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
-      "title": "Google Gemini LangChain Cheatsheet",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
       "title": "Qwen多模态系列论文",
       "created": "2025-04-28 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
+      "title": "Google Gemini LangChain Cheatsheet",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1184,15 +1202,6 @@
       "link": "https://magazine.sebastianraschka.com/p/new-llm-pre-training-and-post-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "ae423d41c3c5aa855626e46f704b3409ef6f9d32",
-      "title": "Deploy open LLMs with Terraform and Amazon SageMaker",
-      "created": "2024-08-05 08:00",
-      "link": "https://www.philschmid.de/terraform-llm-sagemaker",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
