@@ -3,17 +3,44 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 218,
-    "last_updated_time": "2026-04-15 03:23:56"
+    "article_num": 224,
+    "last_updated_time": "2026-04-15 10:56:09"
   },
   "article_data": [
     {
-      "id": "a16b72740e9966893d29590aca586a26be88589c",
-      "title": "Figma Design to Code, Code to Design: Clearly Explained",
-      "created": "2026-04-14 23:31",
-      "link": "https://blog.bytebytego.com/p/figma-design-to-code-code-to-design",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "id": "adbfca3e458d03aaf4787e57bef09454a2fc882d",
+      "title": "Zig 0.16.0 release notes: \"Juicy Main\"",
+      "created": "2026-04-15 09:59",
+      "link": "https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "e970965350ed078a1266dac107eca308c2acb2ff",
+      "title": "datasette PR #2689: Replace token-based CSRF with Sec-Fetch-Site header protection",
+      "created": "2026-04-15 07:58",
+      "link": "https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "26c8781143faee6e40279c93b38aa9a4831e66c2",
+      "title": "Trusted access for the next era of cyber defense",
+      "created": "2026-04-15 05:23",
+      "link": "https://simonwillison.net/2026/Apr/14/trusted-access-openai/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "fc3cbf4811982398802cc5baeb6d20ad974f6eb3",
+      "title": "Cybersecurity Looks Like Proof of Work Now",
+      "created": "2026-04-15 03:41",
+      "link": "https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -512,21 +539,21 @@
       "category": "ai"
     },
     {
-      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
-      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
-      "created": "2025-04-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
       "title": "The State of Reinforcement Learning for LLM Reasoning",
       "created": "2025-04-19 08:00",
       "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
+      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
+      "created": "2025-04-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -881,21 +908,21 @@
       "category": "ai"
     },
     {
-      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
-      "title": "Oh-Numpy & Oh-Pytorch",
-      "created": "2025-01-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
       "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
       "created": "2025-01-23 08:00",
       "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1025,21 +1052,21 @@
       "category": "ai"
     },
     {
-      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
-      "title": "斯坦福小镇解读",
-      "created": "2024-11-28 08:00",
-      "link": "https://mathewshen.me/blog/2024/ai-town/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
       "title": "Reward Hacking in Reinforcement Learning",
       "created": "2024-11-28 08:00",
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1385,19 +1412,19 @@
       "category": "ai"
     },
     {
-      "id": "f9173bb79a9aefe76fd9781bc78573a9f35efe5b",
-      "title": "HKUDS/DeepTutor",
+      "id": "991b9b5c85c35c480a85053441e0cff17af0ebf6",
+      "title": "coleam00/Archon",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/HKUDS/DeepTutor",
+      "link": "https://github.com/coleam00/Archon",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "991b9b5c85c35c480a85053441e0cff17af0ebf6",
-      "title": "coleam00/Archon",
+      "id": "f9173bb79a9aefe76fd9781bc78573a9f35efe5b",
+      "title": "HKUDS/DeepTutor",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/coleam00/Archon",
+      "link": "https://github.com/HKUDS/DeepTutor",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1421,10 +1448,37 @@
       "category": "ai"
     },
     {
-      "id": "fb2a73df4e77779e38df14ed0db4175b07187b26",
-      "title": "google-ai-edge/LiteRT-LM",
+      "id": "b8da10635efbda0c4c165e7fe1eeef9cfbfe64a1",
+      "title": "thedotmack/claude-mem",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/google-ai-edge/LiteRT-LM",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "61b578d12f25bdf0a2b6b869d7b72bb6fa1ae160",
+      "title": "TapXWorld/ChinaTextbook",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/TapXWorld/ChinaTextbook",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "f34f4dbecb6a77eed9c33e45d6463239607c2019",
+      "title": "TheCraigHewitt/seomachine",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/TheCraigHewitt/seomachine",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "3b23309d9289b25299848236293eff0d27b5ce0e",
+      "title": "virattt/ai-hedge-fund",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/virattt/ai-hedge-fund",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1439,10 +1493,10 @@
       "category": "ai"
     },
     {
-      "id": "f34f4dbecb6a77eed9c33e45d6463239607c2019",
-      "title": "TheCraigHewitt/seomachine",
+      "id": "17b935c33dc7c82a8c07d586fde939f265f5ffb6",
+      "title": "jo-inc/camofox-browser",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/TheCraigHewitt/seomachine",
+      "link": "https://github.com/jo-inc/camofox-browser",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
