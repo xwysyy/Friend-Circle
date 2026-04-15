@@ -3,105 +3,42 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 231,
-    "last_updated_time": "2026-04-15 15:56:06"
+    "article_num": 225,
+    "last_updated_time": "2026-04-15 21:49:58"
   },
   "article_data": [
     {
-      "id": "ee7da049edcbbaaf42c71ce7cfc38d88148234bf",
-      "title": "洪绘压图发布！Mac上的批量转图片格式，批量压缩图片工具",
-      "created": "2026-04-15 12:52",
-      "link": "https://blog.zhheo.com/p/bp85fpdb.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
-      "category": "friend"
-    },
-    {
-      "id": "3a583684dc305cab54413854fb52f4aa90e91548",
-      "title": "实测参考生之王Vidu Q3：这已经不叫AI生成了，这叫AI驱动整个剧组",
-      "created": "2026-04-15 12:21",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651027815&idx=1&sn=ae947e65b36eee8d4e14fd7ed62cbb07",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "85eb8fcc746efe5fbc4e6c4d2f305c54fab3d7d5",
-      "title": "刚刚，李飞飞世界模型开源了个渲染神器",
-      "created": "2026-04-15 12:21",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651027815&idx=2&sn=deedfb56322150d7db37f6f1ca1851f5",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "69227e193463222ba74bcb55cf8be5b88d1342d8",
-      "title": "北大联合Llama-Factory推出DataFlex：工业级数据动态训练系统",
-      "created": "2026-04-15 12:21",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651027815&idx=3&sn=9302e6c59afe49dde69068eb89da0c66",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "adbfca3e458d03aaf4787e57bef09454a2fc882d",
-      "title": "Zig 0.16.0 release notes: \"Juicy Main\"",
-      "created": "2026-04-15 09:59",
-      "link": "https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "438c29fd36a11712c27e054e7c17364cabdc516e",
-      "title": "Vibe Coding 是中年男人的钓鱼",
-      "created": "2026-04-15 08:00",
-      "link": "https://baoyu.io/blog/2026-04-14/vibe-coding-and-fishing",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e970965350ed078a1266dac107eca308c2acb2ff",
-      "title": "datasette PR #2689: Replace token-based CSRF with Sec-Fetch-Site header protection",
-      "created": "2026-04-15 07:58",
-      "link": "https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "26c8781143faee6e40279c93b38aa9a4831e66c2",
-      "title": "Trusted access for the next era of cyber defense",
-      "created": "2026-04-15 05:23",
-      "link": "https://simonwillison.net/2026/Apr/14/trusted-access-openai/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "fc3cbf4811982398802cc5baeb6d20ad974f6eb3",
-      "title": "Cybersecurity Looks Like Proof of Work Now",
-      "created": "2026-04-15 03:41",
-      "link": "https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "1516b65c59d5b5a441a835e0fb4a15d32dc82361",
-      "title": "Cybersecurity Looks Like Proof of Work Now",
-      "created": "2026-04-14 11:32",
-      "link": "https://lumina.shawnxie.top/article/cybersecurity-looks-like-proof-of-work-now-0bb7bd4d",
+      "id": "f8cf4684bb7677077d1ac9fd3ae11c61bed45b1f",
+      "title": "人工智能指数报告",
+      "created": "2026-04-15 20:37",
+      "link": "https://lumina.shawnxie.top/article/ren-gong-zhi-neng-zhi-shu-bao-gao-4e241852",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
-      "id": "94a5249aca31ec418a20ec2b134683a04425ce67",
-      "title": "Trusted access for the next era of cyber defense",
-      "created": "2026-04-14 11:28",
-      "link": "https://lumina.shawnxie.top/article/trusted-access-for-the-next-era-of-cyber-defense-5bde62b1",
+      "id": "3977e92d92e9930f07857e36d6e81d10368f1ec3",
+      "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+      "created": "2026-04-15 17:25",
+      "link": "https://huggingface.co/blog/Hcompany/holotab",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "5ba302562b356bbef0d96b93836198c6f9636610",
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "created": "2026-04-14 20:19",
+      "link": "https://lumina.shawnxie.top/article/turn-your-best-ai-prompts-into-one-click-tools-in-1c2275f7",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "5dc647f3afbd2515684ff1402bdfddfd21eadbef",
+      "title": "Introducing routines in Claude Code",
+      "created": "2026-04-14 20:18",
+      "link": "https://lumina.shawnxie.top/article/introducing-routines-in-claude-code-ca2f909f",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
@@ -113,6 +50,15 @@
       "link": "https://kexue.fm/archives/11710",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "id": "bf26b47235d893d9df8ba9d26085b42a03d8ec02",
+      "title": "AI时代，文科还有出路吗？",
+      "created": "2026-04-13 20:24",
+      "link": "https://lumina.shawnxie.top/article/aishi-dai-wen-ke-huan-you-chu-lu-ma-42d88c5b",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -140,6 +86,15 @@
       "link": "https://kexue.fm/archives/11697",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "id": "9208b1efc84044618337d89f3378b7906335c405",
+      "title": "或许，万物的未来皆为谎言",
+      "created": "2026-04-06 20:36",
+      "link": "https://lumina.shawnxie.top/article/huo-xu-mo-wu-de-wei-lai-jie-wei-huang-yan-5d1d79f0",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -305,19 +260,19 @@
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -746,15 +701,6 @@
       "category": "ai"
     },
     {
-      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
-      "title": "The NLP Course is becoming the LLM Course",
-      "created": "2025-04-03 08:00",
-      "link": "https://huggingface.co/blog/llm-course",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
       "title": "Model Context Protocol (MCP) an overview",
       "created": "2025-04-03 08:00",
@@ -1115,21 +1061,21 @@
       "category": "ai"
     },
     {
-      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
-      "title": "斯坦福小镇解读",
-      "created": "2024-11-28 08:00",
-      "link": "https://mathewshen.me/blog/2024/ai-town/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
       "title": "Reward Hacking in Reinforcement Learning",
       "created": "2024-11-28 08:00",
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
