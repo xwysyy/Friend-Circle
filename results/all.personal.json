@@ -3,53 +3,80 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 241,
-    "last_updated_time": "2026-04-16 21:58:57"
+    "article_num": 244,
+    "last_updated_time": "2026-04-17 03:23:19"
   },
   "article_data": [
     {
-      "id": "206d9007a2518b163be142e34980f0374577fd8e",
+      "id": "0f341caccb1cb7c3773b73e91b8cae20c744eaf9",
+      "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+      "created": "2026-04-17 01:16",
+      "link": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "3a8eec4193eadb6eed8f47ab8c543ae1d24e46b6",
+      "title": "Introducing Claude Opus 4.7",
+      "created": "2026-04-17 00:02",
+      "link": "https://lumina.shawnxie.top/article/introducing-claude-opus-4-7-c2672011",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "a0ed33545c5738a5bcd7ff74cb198791d84f0efb",
+      "title": "Cursor 学习教程",
+      "created": "2026-04-16 23:52",
+      "link": "https://lumina.shawnxie.top/article/cursor-xue-xi-01fd525b",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "8db0b57ccb21c179ddcff9cbf4808b2fb15ad87b",
+      "title": "A Guide to Relational Database Design",
+      "created": "2026-04-16 23:31",
+      "link": "https://blog.bytebytego.com/p/a-guide-to-relational-database-design",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "id": "3759aec4a0548f2e177baa2eec2f6c5f3170101c",
+      "title": "《动手学大模型》",
+      "created": "2026-04-16 22:09",
+      "link": "https://lumina.shawnxie.top/article/dong-shou-xue-da-mo-xing-7dd7d589",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "970712ab675ca808122a33a985cd873c7449d513",
+      "title": "Your AI Isn't \"Stupid\" — It Just Needs a Better Harness",
+      "created": "2026-04-16 22:07",
+      "link": "https://lumina.shawnxie.top/article/your-ai-isn-t-stupid-it-just-needs-a-better-5ec178ce",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "3dc813158dec5e9db0cb075e3d9d431a5d933b3c",
       "title": "彻底换到新的 CMS 了，Glass 主题介绍",
       "created": "2026-04-16 18:02",
-      "link": "https://imqi1.com:443/content/1008",
+      "link": "https://imqi1.com/content/note/1008",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
     },
     {
-      "id": "2b010d3a1c759d59c0a0f3000e185cb1b93d17c7",
-      "title": "632 - 《装了啥 2026》",
-      "created": "2026-04-16 17:57",
-      "link": "https://blog.sorrycc.com/zhuang-2026",
-      "author": "sorrycc (云谦)",
-      "avatar": "https://avatars.githubusercontent.com/u/35128",
-      "category": "ai"
-    },
-    {
-      "id": "5c2c3e5a06657c29dedfbce394d60193fa7db720",
-      "title": "631 - 《也聊 Harness》",
-      "created": "2026-04-16 17:17",
-      "link": "https://blog.sorrycc.com/on-harness",
-      "author": "sorrycc (云谦)",
-      "avatar": "https://avatars.githubusercontent.com/u/35128",
-      "category": "ai"
-    },
-    {
-      "id": "cda2d0b1dc422da5efc72263634d799b8b98e545",
-      "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "id": "48afc81fb0a9c7dcafd3ee74c0c304a4cd0ff83c",
+      "title": "The PR you would have opened yourself",
       "created": "2026-04-16 08:00",
-      "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+      "link": "https://huggingface.co/blog/transformers-to-mlx",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "13141fd23dc1a3eb85038c25ea0dacf2f377f8d5",
-      "title": "Qwen3.6-35B-A3B：智能体编程利器，现已开源",
-      "created": "2026-04-15 10:00",
-      "link": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
       "category": "ai"
     },
     {
@@ -62,10 +89,10 @@
       "category": "ai"
     },
     {
-      "id": "15d3bffdadf8933f358319be74456415c397b8d8",
+      "id": "83f271cb8df035336b125b3a29cda69d389f442d",
       "title": "我的 Nuxt 版网站即将上线了",
       "created": "2026-04-13 20:29",
-      "link": "https://imqi1.com:443/content/1007",
+      "link": "https://imqi1.com/content/note/1007",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
@@ -116,10 +143,10 @@
       "category": "ai"
     },
     {
-      "id": "7177c306dc21e43b5bdbe9813d38e85ab6feb554",
+      "id": "2b3c1159cf7b07928c191b7122e4c014f294ed2c",
       "title": "个人毕业设计展",
       "created": "2026-03-28 22:45",
-      "link": "https://imqi1.com:443/content/1005",
+      "link": "https://imqi1.com/content/shot/1005",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
@@ -143,10 +170,10 @@
       "category": "ai"
     },
     {
-      "id": "482e66ce05098c81b815ab5afc886fe1388d33a4",
+      "id": "d7efd8e9cfe83a74b29963a1d09c582dd263c687",
       "title": "尝试从情绪中走出",
       "created": "2026-03-24 01:13",
-      "link": "https://imqi1.com:443/content/998",
+      "link": "https://imqi1.com/content/note/998",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
@@ -251,19 +278,19 @@
       "category": "ai"
     },
     {
-      "id": "830eb148dc57debfba212568d9af7fd68ebaa3be",
+      "id": "0ee86d3b73cd2aa5d29fa6f39592b3dcf8e9e3c3",
       "title": "更新到Ty1.3，顺便维护一些插件",
       "created": "2026-01-19 21:16",
-      "link": "https://imqi1.com:443/content/990",
+      "link": "https://imqi1.com/content/note/990",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
     },
     {
-      "id": "c6a9c37e834be0680d3d27255ccc13f0eb5c8d2d",
+      "id": "deb037b2e7e61b8c50a43e04b3e94d02da20890b",
       "title": "没想到现在的编程AI已经这么好用了",
       "created": "2026-01-09 02:58",
-      "link": "https://imqi1.com:443/content/969",
+      "link": "https://imqi1.com/content/tech/969",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
@@ -278,10 +305,10 @@
       "category": "ai"
     },
     {
-      "id": "8cfe7ffee36da1b0b4ebf1a4a0ca518c272cd11e",
+      "id": "1183e2e72f3d85c8de92c9bdbe6af4163c4b1f8e",
       "title": "Typecho 图床从USS迁移至COS",
       "created": "2025-12-30 05:07",
-      "link": "https://imqi1.com:443/content/891",
+      "link": "https://imqi1.com/content/tech/891",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
@@ -305,37 +332,37 @@
       "category": "ai"
     },
     {
-      "id": "b207e83a92f066c4c1ce189d0a90b8470351578f",
+      "id": "41ac8a30c352ee6494c9be3734b8b43f113e9405",
       "title": "ChatGPT年度总结，卖号纠纷，代码块新样式",
       "created": "2025-12-24 22:16",
-      "link": "https://imqi1.com:443/content/877",
+      "link": "https://imqi1.com/content/note/877",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
     },
     {
-      "id": "54b9ccb9a83f57b930bcee97a0c78db7be52c89c",
+      "id": "86fb29ca8426f4e7119440cda2bbb1a837b56c6e",
       "title": "近期拍摄的新照片",
       "created": "2025-12-24 20:27",
-      "link": "https://imqi1.com:443/content/872",
+      "link": "https://imqi1.com/content/shot/872",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
     },
     {
-      "id": "4380f5eca9a9c0b9e6e9c2c0a9688effacfd33b8",
+      "id": "24c4c20bdf8b0d6cc80d43576ac399097928bda8",
       "title": "zai-org / Open-AutoGLM 已开源，体验一下",
       "created": "2025-12-24 20:03",
-      "link": "https://imqi1.com:443/content/862",
+      "link": "https://imqi1.com/content/tech/862",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
     },
     {
-      "id": "226e582d451e57fa90caee3ae668a80a729c9463",
+      "id": "574537373341030360b181308ba31f497c5df4be",
       "title": "12月近况，实况照片功能",
       "created": "2025-12-18 23:32",
-      "link": "https://imqi1.com:443/content/853",
+      "link": "https://imqi1.com/content/note/853",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
@@ -377,46 +404,46 @@
       "category": "ai"
     },
     {
-      "id": "5d6745aa77e6cdfbdca12cca746b6b127124d942",
+      "id": "b13dc231cddb170829f71981e72ce688794de963",
       "title": "理想的未来和现实的现在",
       "created": "2025-11-15 23:56",
-      "link": "https://imqi1.com:443/content/851",
+      "link": "https://imqi1.com/content/note/851",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
     },
     {
-      "id": "c0c4b30b62487be198bd2a16e6bcd9949bec4e7d",
+      "id": "1648112cfe2af36ce3d8584955945c29c5c768fd",
       "title": "4000公里首摔，真是当头一棒",
       "created": "2025-11-03 17:34",
-      "link": "https://imqi1.com:443/content/847",
+      "link": "https://imqi1.com/content/note/847",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
     },
     {
-      "id": "62e9b325799e2fdb08a6c75c3777163cf9e9e5f9",
+      "id": "8588bfa6aade726bcc3c5bc253b59cf9055f25df",
       "title": "属实是信息差了，没想到现在的手机生态这么完善",
       "created": "2025-10-23 06:55",
-      "link": "https://imqi1.com:443/content/845",
+      "link": "https://imqi1.com/content/note/845",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
     },
     {
-      "id": "66c82ca08a6cc1767f3b429b7f81efc244be5c6a",
+      "id": "9622e28a7440e829b1f4f5ccbe7d4f82a4594292",
       "title": "比较是快乐的小偷",
       "created": "2025-09-28 04:21",
-      "link": "https://imqi1.com:443/content/836",
+      "link": "https://imqi1.com/content/discuss/836",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
     },
     {
-      "id": "86be58912145457505134b4bc8708d93e00ca6d0",
+      "id": "86c03ce4ed84072f05dc6800ee511bd40af54f9c",
       "title": "搬家，新车，父亲手术",
       "created": "2025-09-16 19:47",
-      "link": "https://imqi1.com:443/content/835",
+      "link": "https://imqi1.com/content/note/835",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
@@ -431,10 +458,10 @@
       "category": "ai"
     },
     {
-      "id": "d046fa1452e0f6ab309c667cb0439db5858fe54c",
+      "id": "fd66ce2b919fc37925d2c5a4a4ff6e7e993be117",
       "title": "花了几百块给电动车换了半身义体",
       "created": "2025-08-16 19:49",
-      "link": "https://imqi1.com:443/content/830",
+      "link": "https://imqi1.com/content/note/830",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
@@ -449,28 +476,28 @@
       "category": "ai"
     },
     {
-      "id": "36715caeaad94771e7c7e8cefb3d3a3924eac37f",
+      "id": "15d921cfcb887c3c13eb2199f15b25ea3a21be2e",
       "title": "分享一些增强访客幸福感的一些技巧",
       "created": "2025-08-07 00:40",
-      "link": "https://imqi1.com:443/content/821",
+      "link": "https://imqi1.com/content/tech/821",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
     },
     {
-      "id": "f1565837dbf1eabf6d53520f78bb7786ceebdf28",
+      "id": "82d4c8cb7c45a088cf7b08a7f4c2f5fad521e440",
       "title": "主页翻新，真是一项大工程",
       "created": "2025-07-29 07:52",
-      "link": "https://imqi1.com:443/content/819",
+      "link": "https://imqi1.com/content/note/819",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
     },
     {
-      "id": "b52dfb01aa3d41b143936b1ccc7483e342a69c8e",
+      "id": "8f9efd5930c7233acd5eeb65fc725342f279474e",
       "title": "冒着酷暑去仙螺岛乘坐缆车",
       "created": "2025-07-28 06:45",
-      "link": "https://imqi1.com:443/content/818",
+      "link": "https://imqi1.com/content/note/818",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
@@ -584,6 +611,15 @@
       "category": "ai"
     },
     {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -599,15 +635,6 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -1079,21 +1106,21 @@
       "category": "ai"
     },
     {
-      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
-      "title": "Oh-Numpy & Oh-Pytorch",
-      "created": "2025-01-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
       "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
       "created": "2025-01-23 08:00",
       "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1223,21 +1250,21 @@
       "category": "ai"
     },
     {
-      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
-      "title": "斯坦福小镇解读",
-      "created": "2024-11-28 08:00",
-      "link": "https://mathewshen.me/blog/2024/ai-town/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
       "title": "Reward Hacking in Reinforcement Learning",
       "created": "2024-11-28 08:00",
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
