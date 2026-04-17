@@ -1,19 +1,100 @@
 {
   "statistical_data": {
     "friends_num": 39,
-    "active_num": 37,
-    "error_num": 2,
-    "article_num": 236,
-    "last_updated_time": "2026-04-17 11:19:31"
+    "active_num": 38,
+    "error_num": 1,
+    "article_num": 246,
+    "last_updated_time": "2026-04-17 15:57:16"
   },
   "article_data": [
     {
-      "id": "bac472d342459f16aed21067d677342bc4104968",
-      "title": "llm-anthropic 0.25",
-      "created": "2026-04-17 04:37",
-      "link": "https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything",
+      "id": "87dd11765b5447e4a00ea1a6f5577f2734b65b2d",
+      "title": "基于流式幂迭代的Muon实现：5. 延伸",
+      "created": "2026-04-17 15:01",
+      "link": "https://kexue.fm/archives/11719",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "id": "94f48a61b324608fb0639ddb75872cd46b5fb1c5",
+      "title": "633 - 《我的前半生流水账》",
+      "created": "2026-04-17 13:57",
+      "link": "https://blog.sorrycc.com/life-timeline",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "c7dfed2ab71ecb1375654e8a2768ec9bfbf8edf2",
+      "title": "datasette 1.0a28",
+      "created": "2026-04-17 12:01",
+      "link": "https://simonwillison.net/2026/Apr/17/datasette/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "0e66e1b7f741d0d2cbc0b6a79f3fda9ba48a3214",
+      "title": "π0.6和GEN-1谁代表未来？乾坤未定，但这条底层赛道浮出水面",
+      "created": "2026-04-17 11:03",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651028221&idx=1&sn=38628e0cd0dc1142f40eb4d98f2542d0",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "5be9abb31e57ab677cbbb45a6dd5928aeada71c9",
+      "title": "DeepSeek悄悄更新：Mega MoE、FP4 Indexer来了",
+      "created": "2026-04-17 11:03",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651028221&idx=2&sn=f96e5f62f82072350fa07825eb9f2298",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b629c8d5fc2bc1c704ea0bf98c76511c1fac20da",
+      "title": "ACL 2026 | OPeRA Dataset: LLM真的能模仿人类行为了吗？首次系统评估LLM的人类行为模拟能力",
+      "created": "2026-04-17 11:03",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651028221&idx=3&sn=6c138ed9ec5211b7968b253618de7062",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b741f6cf460b02d67928b0b062c5fd475ca83823",
+      "title": "科技爱好者周刊（第 393 期）：脑腐状态",
+      "created": "2026-04-17 07:20",
+      "link": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html",
+      "author": "阮一峰",
+      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
+      "category": "friend"
+    },
+    {
+      "id": "92ef1b57fce6a3883219f390f53f34e530613397",
+      "title": "当AI迈入Harness时代：以MiniMax为样本看智能体云端新基建",
+      "created": "2026-04-16 18:12",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651028135&idx=1&sn=2e4f293dda94036c97d6145bb940dd4b",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8699067a12545e234086530ac260be70b92b600d",
+      "title": "数据限制具身？觅蜂杀进场破局：高质量数据水电一样即取即用",
+      "created": "2026-04-16 18:12",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651028135&idx=2&sn=d464915cd3a109d9ec259ea8e8902944",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e4921145a32cbdc151279f16eebcac977a18d294",
+      "title": "TPAMI 2026 | 北大彭宇新团队提出CPL++框架，实现视觉定位模型的「自知之明」和「自我纠错」",
+      "created": "2026-04-16 18:12",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651028135&idx=3&sn=7ba2faf4b884a950dd1aa45a46ffaf9e",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -59,6 +140,15 @@
       "link": "https://www.cnblogs.com/moonout/p/19811804",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "6c63f4fd498fc7f3d7dcbfbfd5dafc6d11b7ecb9",
+      "title": "X 上的 Andrej Karpathy：“LLM Knowledge Bases\n\nSomething I'm finding very useful recently: using LLMs to build personal knowledge bases for various topics of research interest. In this way, a large fraction of my recent token throughput is going less into manipulating code, and more into manipulating” / X",
+      "created": "2026-04-02 08:00",
+      "link": "https://lumina.shawnxie.top/article/x-shang-de-andrej-karpathy-llm-knowledge-bases-16ec07b3",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -791,21 +881,21 @@
       "category": "ai"
     },
     {
-      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
-      "title": "The NLP Course is becoming the LLM Course",
-      "created": "2025-04-03 08:00",
-      "link": "https://huggingface.co/blog/llm-course",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
       "title": "Model Context Protocol (MCP) an overview",
       "created": "2025-04-03 08:00",
       "link": "https://www.philschmid.de/mcp-introduction",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
+      "title": "The NLP Course is becoming the LLM Course",
+      "created": "2025-04-03 08:00",
+      "link": "https://huggingface.co/blog/llm-course",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1160,21 +1250,21 @@
       "category": "ai"
     },
     {
-      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
-      "title": "斯坦福小镇解读",
-      "created": "2024-11-28 08:00",
-      "link": "https://mathewshen.me/blog/2024/ai-town/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
       "title": "Reward Hacking in Reinforcement Learning",
       "created": "2024-11-28 08:00",
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
