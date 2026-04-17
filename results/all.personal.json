@@ -3,10 +3,64 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 237,
-    "last_updated_time": "2026-04-17 21:41:34"
+    "article_num": 244,
+    "last_updated_time": "2026-04-18 03:08:45"
   },
   "article_data": [
+    {
+      "id": "a51525335ebcd3126ced5af03bd6b19ba50febdd",
+      "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
+      "created": "2026-04-18 00:17",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "ed4ec0193234dae9eb2b09ec71bb45c0334a1816",
+      "title": "OpenAI Agents SDK：轻量级多智能体工作流框架",
+      "created": "2026-04-17 23:42",
+      "link": "https://lumina.shawnxie.top/article/openai-agents-sdk-qing-liang-ji-duo-zhi-neng-ti-20403159",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "6a54cb1f93ae8470a17857f70959a46544ee25e5",
+      "title": "How I run multiple $10K MRR companies on a $20/month tech stack",
+      "created": "2026-04-17 23:33",
+      "link": "https://lumina.shawnxie.top/article/how-i-run-multiple-10k-mrr-companies-on-a-20-ca466295",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "45ec20b646cdc7ca5902386d10d4ceede6fef1cd",
+      "title": "Personal Computer is here",
+      "created": "2026-04-17 23:24",
+      "link": "https://lumina.shawnxie.top/article/iw4qazoc2-b27225d6",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "be5f233edaaa10e922856a02a5c1dc7d10d629a6",
+      "title": "Linux · Ubuntu · VSCode |（已解决）VSCode 服务器下载失败，下载一直卡住，无法打开文件夹（补档） - MoonOut",
+      "created": "2026-04-17 23:24",
+      "link": "https://www.cnblogs.com/moonout/p/19885819",
+      "author": "Moon out",
+      "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "5b7d77be635dc269f4555a801ce46db568e8d2c2",
+      "title": "Codex for (almost) everything",
+      "created": "2026-04-17 22:11",
+      "link": "https://lumina.shawnxie.top/article/codex-for-almost-everything-c9300b47",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
     {
       "id": "87dd11765b5447e4a00ea1a6f5577f2734b65b2d",
       "title": "基于流式幂迭代的Muon实现：5. 延伸",
@@ -17,12 +71,12 @@
       "category": "ai"
     },
     {
-      "id": "cfdeed39e5626485322cefd4ffe054cf4f6563bd",
-      "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
-      "created": "2026-04-16 08:00",
-      "link": "https://huggingface.co/blog/ecom-rlve",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
+      "id": "ad1867c341718e683460596e458ae888cb2d538d",
+      "title": "Qwen3.6-35B-A3B：智能体编程利器，现已开源",
+      "created": "2026-04-15 23:38",
+      "link": "https://lumina.shawnxie.top/article/qwen3-6-35b-a3b-zhi-neng-ti-bian-cheng-li-qi-xian-f296a0b1",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -41,6 +95,15 @@
       "link": "https://yukinoshitasherry.github.io/harness_eng/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "fe0f91a200cd8c37f25c0ada00d44dd1bc39803d",
+      "title": "The Brainrot Industrial Complex",
+      "created": "2026-04-12 23:43",
+      "link": "https://lumina.shawnxie.top/article/the-brainrot-industrial-complex-636ef56e",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -530,15 +593,6 @@
       "category": "ai"
     },
     {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -554,6 +608,15 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -665,21 +728,21 @@
       "category": "ai"
     },
     {
-      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
-      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
-      "created": "2025-04-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
       "title": "The State of Reinforcement Learning for LLM Reasoning",
       "created": "2025-04-19 08:00",
       "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
+      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
+      "created": "2025-04-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -1025,21 +1088,21 @@
       "category": "ai"
     },
     {
-      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
-      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
-      "created": "2025-01-23 08:00",
-      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
       "title": "Oh-Numpy & Oh-Pytorch",
       "created": "2025-01-23 08:00",
       "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
+      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
+      "created": "2025-01-23 08:00",
+      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
