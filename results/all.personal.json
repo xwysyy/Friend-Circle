@@ -3,8 +3,8 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 246,
-    "last_updated_time": "2026-04-17 15:57:16"
+    "article_num": 237,
+    "last_updated_time": "2026-04-17 21:41:34"
   },
   "article_data": [
     {
@@ -17,84 +17,12 @@
       "category": "ai"
     },
     {
-      "id": "94f48a61b324608fb0639ddb75872cd46b5fb1c5",
-      "title": "633 - 《我的前半生流水账》",
-      "created": "2026-04-17 13:57",
-      "link": "https://blog.sorrycc.com/life-timeline",
-      "author": "sorrycc (云谦)",
-      "avatar": "https://avatars.githubusercontent.com/u/35128",
-      "category": "ai"
-    },
-    {
-      "id": "c7dfed2ab71ecb1375654e8a2768ec9bfbf8edf2",
-      "title": "datasette 1.0a28",
-      "created": "2026-04-17 12:01",
-      "link": "https://simonwillison.net/2026/Apr/17/datasette/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "0e66e1b7f741d0d2cbc0b6a79f3fda9ba48a3214",
-      "title": "π0.6和GEN-1谁代表未来？乾坤未定，但这条底层赛道浮出水面",
-      "created": "2026-04-17 11:03",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651028221&idx=1&sn=38628e0cd0dc1142f40eb4d98f2542d0",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "5be9abb31e57ab677cbbb45a6dd5928aeada71c9",
-      "title": "DeepSeek悄悄更新：Mega MoE、FP4 Indexer来了",
-      "created": "2026-04-17 11:03",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651028221&idx=2&sn=f96e5f62f82072350fa07825eb9f2298",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b629c8d5fc2bc1c704ea0bf98c76511c1fac20da",
-      "title": "ACL 2026 | OPeRA Dataset: LLM真的能模仿人类行为了吗？首次系统评估LLM的人类行为模拟能力",
-      "created": "2026-04-17 11:03",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651028221&idx=3&sn=6c138ed9ec5211b7968b253618de7062",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b741f6cf460b02d67928b0b062c5fd475ca83823",
-      "title": "科技爱好者周刊（第 393 期）：脑腐状态",
-      "created": "2026-04-17 07:20",
-      "link": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html",
-      "author": "阮一峰",
-      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
-      "category": "friend"
-    },
-    {
-      "id": "92ef1b57fce6a3883219f390f53f34e530613397",
-      "title": "当AI迈入Harness时代：以MiniMax为样本看智能体云端新基建",
-      "created": "2026-04-16 18:12",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651028135&idx=1&sn=2e4f293dda94036c97d6145bb940dd4b",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "8699067a12545e234086530ac260be70b92b600d",
-      "title": "数据限制具身？觅蜂杀进场破局：高质量数据水电一样即取即用",
-      "created": "2026-04-16 18:12",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651028135&idx=2&sn=d464915cd3a109d9ec259ea8e8902944",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e4921145a32cbdc151279f16eebcac977a18d294",
-      "title": "TPAMI 2026 | 北大彭宇新团队提出CPL++框架，实现视觉定位模型的「自知之明」和「自我纠错」",
-      "created": "2026-04-16 18:12",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651028135&idx=3&sn=7ba2faf4b884a950dd1aa45a46ffaf9e",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "id": "cfdeed39e5626485322cefd4ffe054cf4f6563bd",
+      "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+      "created": "2026-04-16 08:00",
+      "link": "https://huggingface.co/blog/ecom-rlve",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -602,6 +530,15 @@
       "category": "ai"
     },
     {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -617,15 +554,6 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -665,21 +593,21 @@
       "category": "ai"
     },
     {
-      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
-      "title": "Google Gemini LangChain Cheatsheet",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
       "title": "Qwen多模态系列论文",
       "created": "2025-04-28 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
+      "title": "Google Gemini LangChain Cheatsheet",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -737,21 +665,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -887,15 +815,6 @@
       "link": "https://www.philschmid.de/mcp-introduction",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
-      "title": "The NLP Course is becoming the LLM Course",
-      "created": "2025-04-03 08:00",
-      "link": "https://huggingface.co/blog/llm-course",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1106,21 +1025,21 @@
       "category": "ai"
     },
     {
-      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
-      "title": "Oh-Numpy & Oh-Pytorch",
-      "created": "2025-01-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
       "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
       "created": "2025-01-23 08:00",
       "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1250,21 +1169,21 @@
       "category": "ai"
     },
     {
-      "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
-      "title": "Reward Hacking in Reinforcement Learning",
-      "created": "2024-11-28 08:00",
-      "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
-      "author": "Lilian Weng",
-      "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
-      "category": "ai"
-    },
-    {
       "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
       "title": "斯坦福小镇解读",
       "created": "2024-11-28 08:00",
       "link": "https://mathewshen.me/blog/2024/ai-town/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
+      "title": "Reward Hacking in Reinforcement Learning",
+      "created": "2024-11-28 08:00",
+      "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
+      "author": "Lilian Weng",
+      "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
       "category": "ai"
     },
     {
