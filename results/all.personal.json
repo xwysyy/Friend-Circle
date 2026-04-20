@@ -3,10 +3,46 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 243,
-    "last_updated_time": "2026-04-20 11:27:17"
+    "article_num": 249,
+    "last_updated_time": "2026-04-20 16:18:15"
   },
   "article_data": [
+    {
+      "id": "7205b2942281bfdbcfb2750a54be461516ae99d7",
+      "title": "从写清 Spec 到看懂功能：在 Session 历史中使用 Routa 重建需求全景",
+      "created": "2026-04-20 15:41",
+      "link": "http://www.phodal.com/blog/routa-feature-explorer/",
+      "author": "Phodal Huang",
+      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "3e6f78b7f5c5c5005c003c4c2e3a29d8c74c3014",
+      "title": "636 - 《Claude Code 账号》",
+      "created": "2026-04-20 15:40",
+      "link": "https://blog.sorrycc.com/claude-code-account",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "7e9b2829ae89a774f6a0ac23b5325648bab4aee5",
+      "title": "MCP 存在系统性命令注入漏洞",
+      "created": "2026-04-20 14:06",
+      "link": "https://lumina.shawnxie.top/article/mcp-cun-zai-xi-tong-xing-ming-ling-zhu-ru-lou-dong-77088c07",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "e3975da5d619fcda487ee32392a8e810aae054a9",
+      "title": "How we lost the living Now",
+      "created": "2026-04-20 14:01",
+      "link": "https://lumina.shawnxie.top/article/how-we-lost-the-living-now-9778c382",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
     {
       "id": "3dacc037e89cdb6f3a24cbd91032896e96d67945",
       "title": "锦恢的 AI Agent 小白教程（二）关于大模型，小白必须知道的一些通识知识",
@@ -15,6 +51,15 @@
       "author": "锦恢",
       "avatar": "https://kirigaya.cn/favicon.png",
       "category": "ai"
+    },
+    {
+      "id": "6c5490c827ac50eb96b628492d7850c5b35f7638",
+      "title": "龙虾与微信聊天记录结合：群内容总结、整理和提取关键内容实在是太方便",
+      "created": "2026-04-20 12:47",
+      "link": "https://blog.zhheo.com/p/2muck4bk.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
+      "category": "friend"
     },
     {
       "id": "02a3eac9bf12741b49d6a921c949cd37ea228fa3",
@@ -41,6 +86,15 @@
       "link": "https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "26bac509a21fa15c0f66d54821ceb31eddabcde8",
+      "title": "Qwen3.6-Max-Preview：更强知识，更强编程，持续进化",
+      "created": "2026-04-18 10:00",
+      "link": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+      "author": "Qwen",
+      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
       "category": "ai"
     },
     {
@@ -566,6 +620,15 @@
       "category": "ai"
     },
     {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -581,15 +644,6 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -845,21 +899,21 @@
       "category": "ai"
     },
     {
-      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
-      "title": "The NLP Course is becoming the LLM Course",
-      "created": "2025-04-03 08:00",
-      "link": "https://huggingface.co/blog/llm-course",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
       "title": "Model Context Protocol (MCP) an overview",
       "created": "2025-04-03 08:00",
       "link": "https://www.philschmid.de/mcp-introduction",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
+      "title": "The NLP Course is becoming the LLM Course",
+      "created": "2025-04-03 08:00",
+      "link": "https://huggingface.co/blog/llm-course",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
