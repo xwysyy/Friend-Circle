@@ -3,98 +3,62 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 249,
-    "last_updated_time": "2026-04-20 16:18:15"
+    "article_num": 245,
+    "last_updated_time": "2026-04-20 21:53:41"
   },
   "article_data": [
     {
-      "id": "7205b2942281bfdbcfb2750a54be461516ae99d7",
-      "title": "从写清 Spec 到看懂功能：在 Session 历史中使用 Routa 重建需求全景",
-      "created": "2026-04-20 15:41",
-      "link": "http://www.phodal.com/blog/routa-feature-explorer/",
-      "author": "Phodal Huang",
-      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
+      "id": "68594d11e8346394805897a4ce909c2ffcfeb31d",
+      "title": "Multica：托管式AI智能体平台",
+      "created": "2026-04-20 21:22",
+      "link": "https://lumina.shawnxie.top/article/multica-tuo-guan-shi-aizhi-neng-ti-ping-tai-4491b042",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
-      "id": "3e6f78b7f5c5c5005c003c4c2e3a29d8c74c3014",
-      "title": "636 - 《Claude Code 账号》",
-      "created": "2026-04-20 15:40",
-      "link": "https://blog.sorrycc.com/claude-code-account",
+      "id": "2241598c188b0ddf3864e8ea7c06fd80aca65b5e",
+      "title": "637 - 《AI 时代的工程师团队》",
+      "created": "2026-04-20 20:34",
+      "link": "https://blog.sorrycc.com/ai-era-engineering-team",
       "author": "sorrycc (云谦)",
       "avatar": "https://avatars.githubusercontent.com/u/35128",
       "category": "ai"
     },
     {
-      "id": "7e9b2829ae89a774f6a0ac23b5325648bab4aee5",
-      "title": "MCP 存在系统性命令注入漏洞",
-      "created": "2026-04-20 14:06",
-      "link": "https://lumina.shawnxie.top/article/mcp-cun-zai-xi-tong-xing-ming-ling-zhu-ru-lou-dong-77088c07",
+      "id": "9fa502a67a41eed454407ba319dc9434f45b9b7a",
+      "title": "Agent Harness Engineering",
+      "created": "2026-04-20 20:01",
+      "link": "https://lumina.shawnxie.top/article/agent-harness-engineering-2badef13",
       "author": "肖恩子的知识花园",
       "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
-      "id": "e3975da5d619fcda487ee32392a8e810aae054a9",
-      "title": "How we lost the living Now",
-      "created": "2026-04-20 14:01",
-      "link": "https://lumina.shawnxie.top/article/how-we-lost-the-living-now-9778c382",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "id": "020c852d25b79881587d9df48011aedff032742e",
+      "title": "「部署态」元年，这家公司就把落地方案卷到了七种",
+      "created": "2026-04-20 12:06",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651028728&idx=1&sn=221f324b370ba9515a761fa36c5b9f96",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "3dacc037e89cdb6f3a24cbd91032896e96d67945",
-      "title": "锦恢的 AI Agent 小白教程（二）关于大模型，小白必须知道的一些通识知识",
-      "created": "2026-04-20 13:26",
-      "link": "https://kirigaya.cn/blog/article?seq=374",
-      "author": "锦恢",
-      "avatar": "https://kirigaya.cn/favicon.png",
+      "id": "121dd859930ae245f41738e3268ade1960de52e2",
+      "title": "如何正确Vibe Coding？这是来自Anthropic编程智能体负责人的大师课",
+      "created": "2026-04-20 12:06",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651028728&idx=2&sn=da63a2e1b8efd8ded5b369187dbf970b",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "6c5490c827ac50eb96b628492d7850c5b35f7638",
-      "title": "龙虾与微信聊天记录结合：群内容总结、整理和提取关键内容实在是太方便",
-      "created": "2026-04-20 12:47",
-      "link": "https://blog.zhheo.com/p/2muck4bk.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
-      "category": "friend"
-    },
-    {
-      "id": "02a3eac9bf12741b49d6a921c949cd37ea228fa3",
-      "title": "SQL functions in Google Sheets to fetch data from Datasette",
-      "created": "2026-04-20 10:33",
-      "link": "https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "62876d1e30b9c3e31ee35b36a20ba29e41e221c9",
-      "title": "Claude Token Counter, now with model comparisons",
-      "created": "2026-04-20 08:50",
-      "link": "https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "eb2f87f24c0c214570f1a145c27e16804f6f1d1e",
-      "title": "Headless everything for personal AI",
-      "created": "2026-04-20 05:46",
-      "link": "https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "26bac509a21fa15c0f66d54821ceb31eddabcde8",
-      "title": "Qwen3.6-Max-Preview：更强知识，更强编程，持续进化",
-      "created": "2026-04-18 10:00",
-      "link": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-      "author": "Qwen",
-      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
+      "id": "32fd86148d9ce6fff8764fbc5b5c333fef5340c8",
+      "title": "CVPR 2026｜突破3D空间推理瓶颈：北大联合南科大提出QuatRoPE，让大模型精准理解三维物体关系",
+      "created": "2026-04-20 12:06",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651028728&idx=3&sn=47e0887d67e1f7a1368bb26e66f6b74d",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1115,21 +1079,21 @@
       "category": "ai"
     },
     {
-      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
-      "title": "Oh-Numpy & Oh-Pytorch",
-      "created": "2025-01-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
       "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
       "created": "2025-01-23 08:00",
       "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1259,21 +1223,21 @@
       "category": "ai"
     },
     {
-      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
-      "title": "斯坦福小镇解读",
-      "created": "2024-11-28 08:00",
-      "link": "https://mathewshen.me/blog/2024/ai-town/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
       "title": "Reward Hacking in Reinforcement Learning",
       "created": "2024-11-28 08:00",
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
