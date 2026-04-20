@@ -3,35 +3,44 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 242,
-    "last_updated_time": "2026-04-20 02:58:52"
+    "article_num": 243,
+    "last_updated_time": "2026-04-20 11:27:17"
   },
   "article_data": [
     {
-      "id": "ad79cef29a21bc3a72f67bdd36fc2d5a8d2b0b66",
-      "title": "肖恩技术周刊（第 90 期）：过程即护城河",
-      "created": "2026-04-20 08:00",
-      "link": "https://weekly.shawnxie.top/content/2026/90.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "id": "3dacc037e89cdb6f3a24cbd91032896e96d67945",
+      "title": "锦恢的 AI Agent 小白教程（二）关于大模型，小白必须知道的一些通识知识",
+      "created": "2026-04-20 13:26",
+      "link": "https://kirigaya.cn/blog/article?seq=374",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
       "category": "ai"
     },
     {
-      "id": "4fc00ef4ad55f0d1dd30fb806fc931b968d5a156",
-      "title": "635 - 《Release Sokki：因为 Espanso 把我原文吃了》",
-      "created": "2026-04-19 21:33",
-      "link": "https://blog.sorrycc.com/release-sokki",
-      "author": "sorrycc (云谦)",
-      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "id": "02a3eac9bf12741b49d6a921c949cd37ea228fa3",
+      "title": "SQL functions in Google Sheets to fetch data from Datasette",
+      "created": "2026-04-20 10:33",
+      "link": "https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
-      "id": "08d82b53d71043d3e760d8be642429f2473f7d01",
-      "title": "My Workflow for Understanding LLM Architectures",
-      "created": "2026-04-18 19:24",
-      "link": "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
+      "id": "62876d1e30b9c3e31ee35b36a20ba29e41e221c9",
+      "title": "Claude Token Counter, now with model comparisons",
+      "created": "2026-04-20 08:50",
+      "link": "https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "eb2f87f24c0c214570f1a145c27e16804f6f1d1e",
+      "title": "Headless everything for personal AI",
+      "created": "2026-04-20 05:46",
+      "link": "https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -77,15 +86,6 @@
       "link": "https://kexue.fm/archives/11697",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
-      "id": "3313ff139b0c98a2a15674cb51880e5acb3102d9",
-      "title": "The Anatomy of an Agent Harness",
-      "created": "2026-04-06 14:43",
-      "link": "https://lumina.shawnxie.top/article/1-the-orchestration-loop-5d11bde0",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -323,19 +323,19 @@
       "category": "friend"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -566,15 +566,6 @@
       "category": "ai"
     },
     {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -590,6 +581,15 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -701,21 +701,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -845,21 +845,21 @@
       "category": "ai"
     },
     {
-      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
-      "title": "Model Context Protocol (MCP) an overview",
-      "created": "2025-04-03 08:00",
-      "link": "https://www.philschmid.de/mcp-introduction",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
       "title": "The NLP Course is becoming the LLM Course",
       "created": "2025-04-03 08:00",
       "link": "https://huggingface.co/blog/llm-course",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
+      "title": "Model Context Protocol (MCP) an overview",
+      "created": "2025-04-03 08:00",
+      "link": "https://www.philschmid.de/mcp-introduction",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1538,10 +1538,10 @@
       "category": "ai"
     },
     {
-      "id": "b6773085f128113787ff8ca878b4f02a86e90bbe",
-      "title": "multica-ai/andrej-karpathy-skills",
+      "id": "f27e1e5b7a64ef755c3de72b65c2d828dbd5ce56",
+      "title": "forrestchang/andrej-karpathy-skills",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "link": "https://github.com/forrestchang/andrej-karpathy-skills",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1551,6 +1551,33 @@
       "title": "NousResearch/hermes-agent",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/NousResearch/hermes-agent",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "b8da10635efbda0c4c165e7fe1eeef9cfbfe64a1",
+      "title": "thedotmack/claude-mem",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "93964280a3288b667b21ae6f15029523a9609c5a",
+      "title": "EvoMap/evolver",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/EvoMap/evolver",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "0dbd88f1eb90a96304930330fa5ae003272d6570",
+      "title": "lsdefine/GenericAgent",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/lsdefine/GenericAgent",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1574,10 +1601,10 @@
       "category": "ai"
     },
     {
-      "id": "b8da10635efbda0c4c165e7fe1eeef9cfbfe64a1",
-      "title": "thedotmack/claude-mem",
+      "id": "3b23309d9289b25299848236293eff0d27b5ce0e",
+      "title": "virattt/ai-hedge-fund",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/thedotmack/claude-mem",
+      "link": "https://github.com/virattt/ai-hedge-fund",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1592,55 +1619,10 @@
       "category": "ai"
     },
     {
-      "id": "0d88eaa1830b5f5119b854718441aa33e86a80a8",
-      "title": "OpenBMB/VoxCPM",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/OpenBMB/VoxCPM",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "0dbd88f1eb90a96304930330fa5ae003272d6570",
-      "title": "lsdefine/GenericAgent",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/lsdefine/GenericAgent",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "3b23309d9289b25299848236293eff0d27b5ce0e",
-      "title": "virattt/ai-hedge-fund",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/virattt/ai-hedge-fund",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "93964280a3288b667b21ae6f15029523a9609c5a",
-      "title": "EvoMap/evolver",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/EvoMap/evolver",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "03532acae388f74862ec19df1089d0401d7c6284",
       "title": "Lordog/dive-into-llms",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/Lordog/dive-into-llms",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "991b9b5c85c35c480a85053441e0cff17af0ebf6",
-      "title": "coleam00/Archon",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/coleam00/Archon",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1655,10 +1637,19 @@
       "category": "ai"
     },
     {
-      "id": "83bf25300c1643f8ea77881d53dafedb2e4e370f",
-      "title": "steipete/wacli",
+      "id": "0d88eaa1830b5f5119b854718441aa33e86a80a8",
+      "title": "OpenBMB/VoxCPM",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/steipete/wacli",
+      "link": "https://github.com/OpenBMB/VoxCPM",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "e836450f0c16fab3cae9a636ad70363053148b7a",
+      "title": "SimoneAvogadro/android-reverse-engineering-skill",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1668,6 +1659,15 @@
       "title": "addyosmani/agent-skills",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/addyosmani/agent-skills",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "0a88cdac1db8296b6ff988d06d771ad1f376a0de",
+      "title": "BasedHardware/omi",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/BasedHardware/omi",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1751,6 +1751,15 @@
       "link": "https://philliphaeusler.com/posts/tic_tac_toe/",
       "author": "Phillip Haeusler",
       "avatar": "https://philliphaeusler.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "001115838b91da96dc1ba1a87b6763a732f04384",
+      "title": "Optimizing LLMs From a Dataset Perspective",
+      "created": "2023-09-15 16:00",
+      "link": "https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
