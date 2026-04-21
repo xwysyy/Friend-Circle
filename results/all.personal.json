@@ -3,8 +3,8 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 239,
-    "last_updated_time": "2026-04-21 11:18:44"
+    "article_num": 240,
+    "last_updated_time": "2026-04-21 16:01:04"
   },
   "article_data": [
     {
@@ -14,6 +14,15 @@
       "link": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "ba87ec62646e164fdc47c4c627a3a132eb392639",
+      "title": "解决问题的原始冲动",
+      "created": "2026-04-21 08:00",
+      "link": "https://ifuryst.github.io/blog/2026/the-urge-to-solve/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -602,21 +611,21 @@
       "category": "ai"
     },
     {
-      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
-      "title": "Google Gemini LangChain Cheatsheet",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
       "title": "Qwen多模态系列论文",
       "created": "2025-04-28 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
+      "title": "Google Gemini LangChain Cheatsheet",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -665,21 +674,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
