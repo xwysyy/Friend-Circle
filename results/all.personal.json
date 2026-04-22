@@ -3,51 +3,24 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 243,
-    "last_updated_time": "2026-04-22 03:20:15"
+    "article_num": 244,
+    "last_updated_time": "2026-04-22 11:17:28"
   },
   "article_data": [
     {
-      "id": "88d503f3824ac3a7a351ed42785939b65b97d57d",
-      "title": "Quoting Andreas Påhlsson-Notini",
-      "created": "2026-04-22 00:39",
-      "link": "https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything",
+      "id": "0ffdd40f3091baf9354388780da5b5196eaf37d5",
+      "title": "Is Claude Code going to cost $100/month? Probably not - it's all very confusing",
+      "created": "2026-04-22 10:07",
+      "link": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
-      "id": "bcf73f730e5580fa552297a051ce7f208e58abe1",
-      "title": "scosman/pelicans_riding_bicycles",
-      "created": "2026-04-21 23:54",
-      "link": "https://simonwillison.net/2026/Apr/21/scosman/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "3e144c9cab15bdcb1fb32bb7f600d0fc09922ded",
-      "title": "How DoorDash Launches a New Country in One Week",
-      "created": "2026-04-21 23:30",
-      "link": "https://blog.bytebytego.com/p/how-doordash-launches-a-new-country",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "cd40c18e81f21c668f26c0507f7578c739d7758d",
-      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
-      "created": "2026-04-21 08:00",
-      "link": "https://huggingface.co/blog/cybersecurity-openness",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "7c2ce92887d1a04445a61dbc31a1a46a97ddacd1",
-      "title": "llm-openrouter 0.6",
-      "created": "2026-04-21 02:00",
-      "link": "https://simonwillison.net/2026/Apr/20/llm-openrouter/#atom-everything",
+      "id": "e719285f78a71267c17a54c58e5edd4919887d1e",
+      "title": "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
+      "created": "2026-04-22 04:32",
+      "link": "https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
@@ -701,21 +674,21 @@
       "category": "ai"
     },
     {
-      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
-      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
-      "created": "2025-04-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
       "title": "The State of Reinforcement Learning for LLM Reasoning",
       "created": "2025-04-19 08:00",
       "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
+      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
+      "created": "2025-04-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -851,6 +824,15 @@
       "link": "https://www.philschmid.de/mcp-introduction",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
+      "title": "The NLP Course is becoming the LLM Course",
+      "created": "2025-04-03 08:00",
+      "link": "https://huggingface.co/blog/llm-course",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1061,21 +1043,21 @@
       "category": "ai"
     },
     {
-      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
-      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
-      "created": "2025-01-23 08:00",
-      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
       "title": "Oh-Numpy & Oh-Pytorch",
       "created": "2025-01-23 08:00",
       "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
+      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
+      "created": "2025-01-23 08:00",
+      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1547,24 +1529,6 @@
       "category": "ai"
     },
     {
-      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
-      "title": "NousResearch/hermes-agent",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/NousResearch/hermes-agent",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "b8da10635efbda0c4c165e7fe1eeef9cfbfe64a1",
-      "title": "thedotmack/claude-mem",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/thedotmack/claude-mem",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "0dbd88f1eb90a96304930330fa5ae003272d6570",
       "title": "lsdefine/GenericAgent",
       "created": "2024-01-01 00:00",
@@ -1583,10 +1547,46 @@
       "category": "ai"
     },
     {
+      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
+      "title": "NousResearch/hermes-agent",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "b8da10635efbda0c4c165e7fe1eeef9cfbfe64a1",
+      "title": "thedotmack/claude-mem",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "03532acae388f74862ec19df1089d0401d7c6284",
       "title": "Lordog/dive-into-llms",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/Lordog/dive-into-llms",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "e836450f0c16fab3cae9a636ad70363053148b7a",
+      "title": "SimoneAvogadro/android-reverse-engineering-skill",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "c04b1b26ea96ff46a8a29229cabfd571309e6616",
+      "title": "jamiepine/voicebox",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/jamiepine/voicebox",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1610,10 +1610,37 @@
       "category": "ai"
     },
     {
-      "id": "c04b1b26ea96ff46a8a29229cabfd571309e6616",
-      "title": "jamiepine/voicebox",
+      "id": "0a88cdac1db8296b6ff988d06d771ad1f376a0de",
+      "title": "BasedHardware/omi",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/jamiepine/voicebox",
+      "link": "https://github.com/BasedHardware/omi",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "a1e2c5f2d56aedaabcf2e6e824f35abe1d7c25f9",
+      "title": "openai/openai-agents-python",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/openai/openai-agents-python",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "a9bca652f0af07292e56786810a9175a58bfe137",
+      "title": "Tracer-Cloud/opensre",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/Tracer-Cloud/opensre",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "f04bd69e6d4a31ad9d408b63627b5ffc179ffdd4",
+      "title": "z-lab/dflash",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/z-lab/dflash",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1628,19 +1655,10 @@
       "category": "ai"
     },
     {
-      "id": "e836450f0c16fab3cae9a636ad70363053148b7a",
-      "title": "SimoneAvogadro/android-reverse-engineering-skill",
+      "id": "d6623eebee71ab6683c80fe42da4142d3a6a09d7",
+      "title": "warproxxx/poly_data",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "0a88cdac1db8296b6ff988d06d771ad1f376a0de",
-      "title": "BasedHardware/omi",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/BasedHardware/omi",
+      "link": "https://github.com/warproxxx/poly_data",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1650,15 +1668,6 @@
       "title": "microsoft/markitdown",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/microsoft/markitdown",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "ac9c2ae4e1b39823f02c9ba4d1e7425cdaa6865b",
-      "title": "chrislgarry/Apollo-11",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/chrislgarry/Apollo-11",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
