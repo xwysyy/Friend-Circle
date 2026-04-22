@@ -3,62 +3,125 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 248,
-    "last_updated_time": "2026-04-22 15:57:44"
+    "article_num": 255,
+    "last_updated_time": "2026-04-22 21:54:52"
   },
   "article_data": [
     {
-      "id": "1870bfdb3c78163c153b9341f1c6e820161fa4fc",
-      "title": "任务自适应 Harness：从 Trace 到多 Coding Agent 的协作记忆",
-      "created": "2026-04-22 15:54",
-      "link": "http://www.phodal.com/blog/task-adaptive-harness/",
-      "author": "Phodal Huang",
-      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
+      "id": "e8629c66823d191a9d6b9cd79f842874ad91adaa",
+      "title": "Preventing extinction from ASI on a $50M yearly budget",
+      "created": "2026-04-22 18:04",
+      "link": "https://lumina.shawnxie.top/article/preventing-extinction-from-asi-on-a-50m-yearly-32d9cc0b",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
-      "id": "d5920097c11b062fd6d973d8bf0498e589347efc",
-      "title": "Quoting Bobby Holley",
-      "created": "2026-04-22 13:40",
-      "link": "https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "id": "1632a6920c8adbd45fadbc23f1ff19444d44e21a",
+      "title": "638 - 《编写 AI Agent 友好的 CLI》",
+      "created": "2026-04-22 17:17",
+      "link": "https://blog.sorrycc.com/agent-friendly-cli",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
       "category": "ai"
     },
     {
-      "id": "94c66990736b42bb20f7930c276a7f43ccbb844c",
-      "title": "Changes to GitHub Copilot Individual plans",
+      "id": "e9f80cb4dea60127bcc907e2b2ee0482704cce0f",
+      "title": "爆改漫画师？OpenAI 发布 ChatGPT Images 2.0，单次可生成8张连贯图像",
+      "created": "2026-04-22 16:10",
+      "link": "https://lumina.shawnxie.top/article/bao-gai-man-hua-shi-openai-fa-bu-chatgpt-images-2-017e4ca9",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "77bf8227ee952d9ad032ae470bca0f61c43d3d75",
+      "title": "SpaceX 拟以600亿美元收购 AI 编程平台 Cursor，或支付100亿美元高额合作费",
+      "created": "2026-04-22 16:10",
+      "link": "https://lumina.shawnxie.top/article/spacex-ni-yi-600yi-mei-yuan-shou-gou-ai-bian-5472b7b0",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "234dd9bf7403a9422109d1e9901e0e284e2f03cf",
+      "title": "千万养虾人的终极梦想！全球首个「养虾本」带你懒人养虾开箱即食",
       "created": "2026-04-22 11:30",
-      "link": "https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651029279&idx=1&sn=47c7b33ad56722023e91b56f418b0e9f",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "0ffdd40f3091baf9354388780da5b5196eaf37d5",
-      "title": "Is Claude Code going to cost $100/month? Probably not - it's all very confusing",
-      "created": "2026-04-22 10:07",
-      "link": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "id": "7632db9a8174e51f842584091a6ef0225265e309",
+      "title": "Transformer可以改装成Mamba了：苹果把推理成本直接打成线性",
+      "created": "2026-04-22 11:30",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651029279&idx=2&sn=5a0e44d0677bd29c08923906bf7ba28d",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "d2b55ecf5b5a4e561a05bf3f2b7d7b80f89a14cb",
-      "title": "Luddites and AI datacenters",
-      "created": "2026-04-22 08:00",
-      "link": "https://seangoedecke.com/luddites-and-ai-datacenters/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "id": "5d2030735a98bfe218efe70b42b98992f04918c5",
+      "title": "ICLR 2026 | ProSafePrune：一剪见效，告别大模型过度防御",
+      "created": "2026-04-22 11:30",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651029279&idx=3&sn=02bdb72b39ffa9f625eb23a58db2e4e7",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "e719285f78a71267c17a54c58e5edd4919887d1e",
-      "title": "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
-      "created": "2026-04-22 04:32",
-      "link": "https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "id": "345895944935c926ae4cb576e5de8749dfa2cbaf",
+      "title": "Qwen3.6-27B：270亿参数稠密模型，旗舰级编程能力",
+      "created": "2026-04-22 10:00",
+      "link": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "author": "Qwen",
+      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
+      "category": "ai"
+    },
+    {
+      "id": "355e0b598fc305d5238383ffaefc620e965e3a6b",
+      "title": "拒绝透露姓名，却拿了两个世界第一：具身圈大佬们都在打听它是谁",
+      "created": "2026-04-21 21:09",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651029195&idx=1&sn=90ba2a003fb32072b2ac188a63243ec2",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "3898a5717b602dd9e7fed236e7469624d47f6b6d",
+      "title": "谢尔盖·布林重启「创始人模式」？谷歌组建「突击队」，重押「AI编程」",
+      "created": "2026-04-21 21:09",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651029195&idx=2&sn=bd8df065aa57e01ab590ed8ef906919d",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "4865eca807b52d1a733198712e6444c0e7719ef0",
+      "title": "Monet：赋予多模态大模型如人类一般的抽象视觉思考能力",
+      "created": "2026-04-21 21:09",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651029195&idx=3&sn=70aac86fca04a898838192b56c6e9a4d",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "1493246ae0b8d32ca5e6be40345e8285dc5e4c17",
+      "title": "Deep Research Max: a step change for autonomous research agents",
+      "created": "2026-04-21 16:07",
+      "link": "https://lumina.shawnxie.top/article/deep-research-max-a-step-change-for-autonomous-98fc38bd",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "27120ce5a61dc68cef8f8eb068023d9af5579eb9",
+      "title": "Less human AI agents, please.",
+      "created": "2026-04-20 16:11",
+      "link": "https://lumina.shawnxie.top/article/less-human-ai-agents-please-8da06421",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -341,19 +404,19 @@
       "category": "friend"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -584,15 +647,6 @@
       "category": "ai"
     },
     {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -608,6 +662,15 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -710,21 +773,21 @@
       "category": "ai"
     },
     {
-      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
-      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
-      "created": "2025-04-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
       "title": "The State of Reinforcement Learning for LLM Reasoning",
       "created": "2025-04-19 08:00",
       "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
+      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
+      "created": "2025-04-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -854,21 +917,21 @@
       "category": "ai"
     },
     {
-      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
-      "title": "Model Context Protocol (MCP) an overview",
-      "created": "2025-04-03 08:00",
-      "link": "https://www.philschmid.de/mcp-introduction",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
       "title": "The NLP Course is becoming the LLM Course",
       "created": "2025-04-03 08:00",
       "link": "https://huggingface.co/blog/llm-course",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
+      "title": "Model Context Protocol (MCP) an overview",
+      "created": "2025-04-03 08:00",
+      "link": "https://www.philschmid.de/mcp-introduction",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1223,21 +1286,21 @@
       "category": "ai"
     },
     {
-      "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
-      "title": "Reward Hacking in Reinforcement Learning",
-      "created": "2024-11-28 08:00",
-      "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
-      "author": "Lilian Weng",
-      "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
-      "category": "ai"
-    },
-    {
       "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
       "title": "斯坦福小镇解读",
       "created": "2024-11-28 08:00",
       "link": "https://mathewshen.me/blog/2024/ai-town/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
+      "title": "Reward Hacking in Reinforcement Learning",
+      "created": "2024-11-28 08:00",
+      "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
+      "author": "Lilian Weng",
+      "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
       "category": "ai"
     },
     {
