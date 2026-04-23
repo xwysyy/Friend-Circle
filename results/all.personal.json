@@ -1,30 +1,12 @@
 {
   "statistical_data": {
     "friends_num": 39,
-    "active_num": 38,
-    "error_num": 1,
-    "article_num": 243,
-    "last_updated_time": "2026-04-23 03:22:01"
+    "active_num": 37,
+    "error_num": 2,
+    "article_num": 238,
+    "last_updated_time": "2026-04-23 11:22:13"
   },
   "article_data": [
-    {
-      "id": "d1f8324a5fa3b84b6e80b60cbbbe2f43fa770bd5",
-      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-      "created": "2026-04-23 00:45",
-      "link": "https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "f43124cab998d8b29e45c99b5efe8e3585daa93a",
-      "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
-      "created": "2026-04-22 23:40",
-      "link": "https://huggingface.co/blog/nvidia/gemma4",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
     {
       "id": "87dd11765b5447e4a00ea1a6f5577f2734b65b2d",
       "title": "基于流式幂迭代的Muon实现：5. 延伸",
@@ -77,15 +59,6 @@
       "link": "https://www.cnblogs.com/moonout/p/19811804",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
-      "id": "6c63f4fd498fc7f3d7dcbfbfd5dafc6d11b7ecb9",
-      "title": "X 上的 Andrej Karpathy：“LLM Knowledge Bases\n\nSomething I'm finding very useful recently: using LLMs to build personal knowledge bases for various topics of research interest. In this way, a large fraction of my recent token throughput is going less into manipulating code, and more into manipulating” / X",
-      "created": "2026-04-02 08:00",
-      "link": "https://lumina.shawnxie.top/article/x-shang-de-andrej-karpathy-llm-knowledge-bases-16ec07b3",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -305,19 +278,19 @@
       "category": "friend"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -611,21 +584,21 @@
       "category": "ai"
     },
     {
-      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
-      "title": "Google Gemini LangChain Cheatsheet",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
       "title": "Qwen多模态系列论文",
       "created": "2025-04-28 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
+      "title": "Google Gemini LangChain Cheatsheet",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -674,21 +647,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -813,6 +786,15 @@
       "title": "Journey to 1 Million Gradio Users!",
       "created": "2025-04-04 08:00",
       "link": "https://huggingface.co/blog/gradio-1m",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
+      "title": "The NLP Course is becoming the LLM Course",
+      "created": "2025-04-03 08:00",
+      "link": "https://huggingface.co/blog/llm-course",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
@@ -1520,19 +1502,19 @@
       "category": "ai"
     },
     {
-      "id": "0dbd88f1eb90a96304930330fa5ae003272d6570",
-      "title": "lsdefine/GenericAgent",
+      "id": "93964280a3288b667b21ae6f15029523a9609c5a",
+      "title": "EvoMap/evolver",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/lsdefine/GenericAgent",
+      "link": "https://github.com/EvoMap/evolver",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "93964280a3288b667b21ae6f15029523a9609c5a",
-      "title": "EvoMap/evolver",
+      "id": "0dbd88f1eb90a96304930330fa5ae003272d6570",
+      "title": "lsdefine/GenericAgent",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/EvoMap/evolver",
+      "link": "https://github.com/lsdefine/GenericAgent",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1556,19 +1538,19 @@
       "category": "ai"
     },
     {
-      "id": "03532acae388f74862ec19df1089d0401d7c6284",
-      "title": "Lordog/dive-into-llms",
+      "id": "a1e2c5f2d56aedaabcf2e6e824f35abe1d7c25f9",
+      "title": "openai/openai-agents-python",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Lordog/dive-into-llms",
+      "link": "https://github.com/openai/openai-agents-python",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "e836450f0c16fab3cae9a636ad70363053148b7a",
-      "title": "SimoneAvogadro/android-reverse-engineering-skill",
+      "id": "03532acae388f74862ec19df1089d0401d7c6284",
+      "title": "Lordog/dive-into-llms",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+      "link": "https://github.com/Lordog/dive-into-llms",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1583,15 +1565,6 @@
       "category": "ai"
     },
     {
-      "id": "3b23309d9289b25299848236293eff0d27b5ce0e",
-      "title": "virattt/ai-hedge-fund",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/virattt/ai-hedge-fund",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "d3e15fd66da7c2df86e6192781ed7a22aa2e9424",
       "title": "multica-ai/multica",
       "created": "2024-01-01 00:00",
@@ -1601,19 +1574,10 @@
       "category": "ai"
     },
     {
-      "id": "0a88cdac1db8296b6ff988d06d771ad1f376a0de",
-      "title": "BasedHardware/omi",
+      "id": "7bc251a9a7a26d6c859bf1c540a9c86b82907cb1",
+      "title": "vercel-labs/open-agents",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/BasedHardware/omi",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "a1e2c5f2d56aedaabcf2e6e824f35abe1d7c25f9",
-      "title": "openai/openai-agents-python",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/openai/openai-agents-python",
+      "link": "https://github.com/vercel-labs/open-agents",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1628,6 +1592,15 @@
       "category": "ai"
     },
     {
+      "id": "0a88cdac1db8296b6ff988d06d771ad1f376a0de",
+      "title": "BasedHardware/omi",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/BasedHardware/omi",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "f04bd69e6d4a31ad9d408b63627b5ffc179ffdd4",
       "title": "z-lab/dflash",
       "created": "2024-01-01 00:00",
@@ -1637,37 +1610,19 @@
       "category": "ai"
     },
     {
-      "id": "a16249fcac5d25f1046aecb6f0597fc341abd4f7",
-      "title": "shiyu-coder/Kronos",
+      "id": "83bf25300c1643f8ea77881d53dafedb2e4e370f",
+      "title": "steipete/wacli",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/shiyu-coder/Kronos",
+      "link": "https://github.com/steipete/wacli",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "d6623eebee71ab6683c80fe42da4142d3a6a09d7",
-      "title": "warproxxx/poly_data",
+      "id": "3b23309d9289b25299848236293eff0d27b5ce0e",
+      "title": "virattt/ai-hedge-fund",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/warproxxx/poly_data",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "8d319652f14e2c9b8e52876942138d38a8ba7725",
-      "title": "microsoft/markitdown",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/microsoft/markitdown",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "0d88eaa1830b5f5119b854718441aa33e86a80a8",
-      "title": "OpenBMB/VoxCPM",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/OpenBMB/VoxCPM",
+      "link": "https://github.com/virattt/ai-hedge-fund",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
