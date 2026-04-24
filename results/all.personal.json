@@ -3,10 +3,55 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 251,
-    "last_updated_time": "2026-04-24 16:12:03"
+    "article_num": 259,
+    "last_updated_time": "2026-04-24 21:47:48"
   },
   "article_data": [
+    {
+      "id": "af14250d96f76f818e2f62afe271ac99030c1e2b",
+      "title": "最近火遍创作圈的 GPT Image2 是夯是拉？我给你们盘点了常用的使用场景，确实很夯！",
+      "created": "2026-04-25 03:42",
+      "link": "https://kirigaya.cn/blog/article?seq=375",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "ae45162f6599e5b553c78bc5eb796a244db4aa2d",
+      "title": "639 - 《从想法到上线，一到两天》",
+      "created": "2026-04-24 18:23",
+      "link": "https://blog.sorrycc.com/ai-era-product-development",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "9564d2ccbc4c6d6ecbe63f615c0781613e436141",
+      "title": "机器人马拉松超越人类之后：本体走到尽头，智能成为下半场",
+      "created": "2026-04-24 17:06",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651029959&idx=1&sn=2aa3285bd8c85d42d7f6c5bc5143cdde",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "417bf9282269a200dce16f50e9287170cd833806",
+      "title": "Anthropic实锤Claude Code「降智」：就是这三个Bug造成的",
+      "created": "2026-04-24 17:06",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651029959&idx=2&sn=cad859337e0776186778017f4b568dd8",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "c60f243aadc5845b4d6870455d719490516a315b",
+      "title": "记得住、答得快、用得省：HERMES 让流式视频理解实时响应提速10倍",
+      "created": "2026-04-24 17:06",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651029959&idx=3&sn=727974231a8a62b512461c7b6c148c9d",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "1a6129c8dccffbdb13dfb85605b8e8887e54b009",
       "title": "GPT Image 2 精选提示词",
@@ -107,12 +152,57 @@
       "category": "ai"
     },
     {
+      "id": "012d659d266f103d353f778d4106add411341b9b",
+      "title": "迁移公告",
+      "created": "2026-04-24 08:00",
+      "link": "https://weekly.shawnxie.top/content/2026/migration.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "category": "ai"
+    },
+    {
+      "id": "b2ff62f993e156901e2aede1046e3d29e09b5016",
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "created": "2026-04-24 08:00",
+      "link": "https://huggingface.co/blog/deepseekv4",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "3353ad3d74ef1669cd822d4a88cb4d5a0f2d602e",
       "title": "llm-openai-via-codex 0.1a0",
       "created": "2026-04-24 03:22",
       "link": "https://simonwillison.net/2026/Apr/23/llm-openai-via-codex/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "ef3069f8366ab98bce73a04b0227ffdb7d77ccb1",
+      "title": "姚顺雨带队、Hy3 preview上线！腾讯现在适合上车吗？",
+      "created": "2026-04-23 19:09",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651029762&idx=1&sn=d93a219f9f0f24656ea9b16a02c98f3a",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "fac8d6f563a71bf12f2eea395dcebe53f79e777e",
+      "title": "刚刚，DeepSeek开始频繁更新：Tile Kernels、DeepEP V2",
+      "created": "2026-04-23 19:09",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651029762&idx=2&sn=5d7c0e89feb7b58401c82f3d8f6bd592",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "31b6a68f7cdedeff16a5310652e28ed92fb2c34b",
+      "title": "首篇「Attention Sink」综述：从利用、理解到消除，Transformer中的注意力「汇聚」全景解析",
+      "created": "2026-04-23 19:09",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651029762&idx=3&sn=ce8d8aea229c9dc6bc2b36ef0ce0adc1",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -647,6 +737,15 @@
       "category": "ai"
     },
     {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -662,15 +761,6 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -710,21 +800,21 @@
       "category": "ai"
     },
     {
-      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
-      "title": "Google Gemini LangChain Cheatsheet",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
       "title": "Qwen多模态系列论文",
       "created": "2025-04-28 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
+      "title": "Google Gemini LangChain Cheatsheet",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -773,21 +863,21 @@
       "category": "ai"
     },
     {
-      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
-      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
-      "created": "2025-04-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
       "title": "The State of Reinforcement Learning for LLM Reasoning",
       "created": "2025-04-19 08:00",
       "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
+      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
+      "created": "2025-04-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -903,15 +993,6 @@
       "title": "Welcome Llama 4 Maverick & Scout on Hugging Face",
       "created": "2025-04-05 08:00",
       "link": "https://huggingface.co/blog/llama4-release",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "8a9b9b76a2bf071a9b83f0fcdb507cd78926849b",
-      "title": "Journey to 1 Million Gradio Users!",
-      "created": "2025-04-04 08:00",
-      "link": "https://huggingface.co/blog/gradio-1m",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
@@ -2255,15 +2336,6 @@
       "link": "https://mathewshen.me/blog/2019/chance/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
-      "id": "28eb5184a3388820d8cec797a34ee0f861a126fc",
-      "title": "No title",
-      "created": "1970-01-01 08:00",
-      "link": "https://seangoedecke.com/luddites-and-ai-datacenters/notes/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     }
   ]
