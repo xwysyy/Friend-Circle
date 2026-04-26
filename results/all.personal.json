@@ -1,75 +1,12 @@
 {
   "statistical_data": {
-    "friends_num": 39,
+    "friends_num": 40,
     "active_num": 38,
-    "error_num": 1,
-    "article_num": 246,
-    "last_updated_time": "2026-04-26 03:01:28"
+    "error_num": 2,
+    "article_num": 239,
+    "last_updated_time": "2026-04-26 10:15:45"
   },
   "article_data": [
-    {
-      "id": "b65d0fe3d915fb909fa22d4fc131d1907da465ad",
-      "title": "WHY ARE YOU LIKE THIS",
-      "created": "2026-04-26 00:44",
-      "link": "https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "cc4c8f742f12e41f5ec7906db39f49375ad354eb",
-      "title": "EP212: Data Warehouse vs Data Lake vs Data Mesh",
-      "created": "2026-04-25 23:30",
-      "link": "https://blog.bytebytego.com/p/ep212-data-warehouse-vs-data-lake",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "1cd8419ab3ee3e1ff87516d0c17d3b7c5494c245",
-      "title": "Quoting Romain Huet",
-      "created": "2026-04-25 20:06",
-      "link": "https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "7d213e98088ca5876406d34d3fefdc47456dc87c",
-      "title": "开源模型横扫21个科学发现任务！宽德Will联手斯坦福清北，把试错变成武器",
-      "created": "2026-04-25 14:09",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651030044&idx=1&sn=c6d601d9858550fe608c565b0882bedb",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "0d89241ab6a9afa1465b141d50da8ae9d13a2e1e",
-      "title": "ICLR 2026获奖论文揭晓：两篇杰出论文，大神Alec Radford经典工作获时间检验奖",
-      "created": "2026-04-25 14:09",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651030044&idx=2&sn=da0c58395de86f4f6ab5cfda9b320e8f",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "480d04eea16738e10192684cb9177952c8800b22",
-      "title": "前馈式3D的终极路线图来了！五大核心战线，一文看清未来三维重建该往哪走",
-      "created": "2026-04-25 14:09",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651030044&idx=3&sn=2cf95d045acd16de91d6b7fc0b70388a",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "a66bee3db76f1eb4c2f1751b4ee891d43b93502b",
-      "title": "GPT-5.5 prompting guide",
-      "created": "2026-04-25 12:13",
-      "link": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
     {
       "id": "43e6e7241434e1703c2f83c4b72903ccb6c53dad",
       "title": "MuP之上：4. 坚守参数的稳定性",
@@ -77,6 +14,15 @@
       "link": "https://kexue.fm/archives/11729",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "id": "8affeffd93ea0200d114b665617039478b951aa2",
+      "title": "为 Agent 设计产品",
+      "created": "2026-04-24 08:00",
+      "link": "https://baoyu.io/blog/2026-04-24/teddy-riker-2047312986696454584",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -593,6 +539,15 @@
       "category": "ai"
     },
     {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -608,15 +563,6 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -863,21 +809,21 @@
       "category": "ai"
     },
     {
-      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
-      "title": "The NLP Course is becoming the LLM Course",
-      "created": "2025-04-03 08:00",
-      "link": "https://huggingface.co/blog/llm-course",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
       "title": "Model Context Protocol (MCP) an overview",
       "created": "2025-04-03 08:00",
       "link": "https://www.philschmid.de/mcp-introduction",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
+      "title": "The NLP Course is becoming the LLM Course",
+      "created": "2025-04-03 08:00",
+      "link": "https://huggingface.co/blog/llm-course",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1565,6 +1511,15 @@
       "category": "ai"
     },
     {
+      "id": "d1aa340a643527c9458f562f06b6497685c99bdd",
+      "title": "Alishahryar1/free-claude-code",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/Alishahryar1/free-claude-code",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "f27e1e5b7a64ef755c3de72b65c2d828dbd5ce56",
       "title": "forrestchang/andrej-karpathy-skills",
       "created": "2024-01-01 00:00",
@@ -1574,19 +1529,10 @@
       "category": "ai"
     },
     {
-      "id": "e836450f0c16fab3cae9a636ad70363053148b7a",
-      "title": "SimoneAvogadro/android-reverse-engineering-skill",
+      "id": "31c54463d9003885f651567afda4a1e255433234",
+      "title": "thunderbird/thunderbolt",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "d1aa340a643527c9458f562f06b6497685c99bdd",
-      "title": "Alishahryar1/free-claude-code",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/Alishahryar1/free-claude-code",
+      "link": "https://github.com/thunderbird/thunderbolt",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1610,19 +1556,19 @@
       "category": "ai"
     },
     {
-      "id": "93964280a3288b667b21ae6f15029523a9609c5a",
-      "title": "EvoMap/evolver",
+      "id": "e836450f0c16fab3cae9a636ad70363053148b7a",
+      "title": "SimoneAvogadro/android-reverse-engineering-skill",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/EvoMap/evolver",
+      "link": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "a1e2c5f2d56aedaabcf2e6e824f35abe1d7c25f9",
-      "title": "openai/openai-agents-python",
+      "id": "0b64e1e23f90be95b3f11dc47b62993e96931e28",
+      "title": "tractorjuice/arc-kit",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/openai/openai-agents-python",
+      "link": "https://github.com/tractorjuice/arc-kit",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1637,37 +1583,10 @@
       "category": "ai"
     },
     {
-      "id": "d3e15fd66da7c2df86e6192781ed7a22aa2e9424",
-      "title": "multica-ai/multica",
+      "id": "a1e2c5f2d56aedaabcf2e6e824f35abe1d7c25f9",
+      "title": "openai/openai-agents-python",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/multica-ai/multica",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
-      "title": "NousResearch/hermes-agent",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/NousResearch/hermes-agent",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "b8da10635efbda0c4c165e7fe1eeef9cfbfe64a1",
-      "title": "thedotmack/claude-mem",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/thedotmack/claude-mem",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "c4764ac37ccdddc8e7717cba92f01f19c175907a",
-      "title": "mksglu/context-mode",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/mksglu/context-mode",
+      "link": "https://github.com/openai/openai-agents-python",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1682,19 +1601,37 @@
       "category": "ai"
     },
     {
-      "id": "c04b1b26ea96ff46a8a29229cabfd571309e6616",
-      "title": "jamiepine/voicebox",
+      "id": "d3e15fd66da7c2df86e6192781ed7a22aa2e9424",
+      "title": "multica-ai/multica",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/jamiepine/voicebox",
+      "link": "https://github.com/multica-ai/multica",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "03532acae388f74862ec19df1089d0401d7c6284",
-      "title": "Lordog/dive-into-llms",
+      "id": "d7eaf7c180c92bcbb50236afa969edf664a6753d",
+      "title": "Z4nzu/hackingtool",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Lordog/dive-into-llms",
+      "link": "https://github.com/Z4nzu/hackingtool",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "930dd1342c71cfa2fa9008eac30a767a3b58b981",
+      "title": "NousResearch/hermes-agent",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "1647e421b056e2c5346c1ee585083e943f042f64",
+      "title": "Anil-matcha/Open-Generative-AI",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/Anil-matcha/Open-Generative-AI",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
