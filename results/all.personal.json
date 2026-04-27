@@ -3,10 +3,46 @@
     "friends_num": 40,
     "active_num": 38,
     "error_num": 2,
-    "article_num": 236,
-    "last_updated_time": "2026-04-27 11:34:13"
+    "article_num": 239,
+    "last_updated_time": "2026-04-27 16:33:33"
   },
   "article_data": [
+    {
+      "id": "c65ad3eb455f2d6d7176ae6faa10917797f0fc41",
+      "title": "洪绘切图发布！如何将一个图片平均切图？按照固定距离或者网格切图？",
+      "created": "2026-04-27 14:54",
+      "link": "https://blog.zhheo.com/p/zg5upnsy.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
+      "category": "friend"
+    },
+    {
+      "id": "dfdb88a5f8d0e22a548309861913b97a3b35ba29",
+      "title": "为了一个女孩，我哭了一整晚",
+      "created": "2026-04-27 13:39",
+      "link": "https://imqi1.com/content/note/1009",
+      "author": "ImQi1",
+      "avatar": "https://imqi1.com/avatar.webp",
+      "category": "friend"
+    },
+    {
+      "id": "6571a583db6cdbad8715ea1e8e3ec2c8a336171a",
+      "title": "ReadropsForLumina：支持 Lumina 同步的 RSS 阅读器",
+      "created": "2026-04-27 13:34",
+      "link": "https://lumina.shawnxie.top/article/readropsforlumina-zhi-chi-lumina-tong-bu-de-rss-013becf0",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "1b42e30d4220200ac877faef4190c6bac6755afe",
+      "title": "Infinitum：基于 RSS 的资讯聚合工作台",
+      "created": "2026-04-27 13:29",
+      "link": "https://lumina.shawnxie.top/article/infinitum-ji-yu-rss-de-zi-xun-ju-he-gong-zuo-tai-ce8f7965",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
     {
       "id": "a435e5857b5b38d9c60f1d6d46f1dc9ac2c64858",
       "title": "让UPS接入OpenWrt软路由，创建UPS NUT服务器教程",
@@ -395,15 +431,6 @@
       "category": "friend"
     },
     {
-      "id": "8f9efd5930c7233acd5eeb65fc725342f279474e",
-      "title": "冒着酷暑去仙螺岛乘坐缆车",
-      "created": "2025-07-28 06:45",
-      "link": "https://imqi1.com/content/note/818",
-      "author": "ImQi1",
-      "avatar": "https://imqi1.com/avatar.webp",
-      "category": "friend"
-    },
-    {
       "id": "1e9d0c3988dcb92a31de9a661ecf891968aa9c2f",
       "title": "勇气的奥秘——从赢走向赢",
       "created": "2025-06-11 08:00",
@@ -638,21 +665,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -782,21 +809,21 @@
       "category": "ai"
     },
     {
-      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
-      "title": "Model Context Protocol (MCP) an overview",
-      "created": "2025-04-03 08:00",
-      "link": "https://www.philschmid.de/mcp-introduction",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
       "title": "The NLP Course is becoming the LLM Course",
       "created": "2025-04-03 08:00",
       "link": "https://huggingface.co/blog/llm-course",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
+      "title": "Model Context Protocol (MCP) an overview",
+      "created": "2025-04-03 08:00",
+      "link": "https://www.philschmid.de/mcp-introduction",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
