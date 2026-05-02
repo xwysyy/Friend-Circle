@@ -9,10 +9,12 @@
   - `feed.go`: RSS/Atom feed parsing via `gofeed` + time normalization.
   - `rewriter.go`: Link rewriting (prefix + regex).
 - `config/`: Config and friend list
-  - `conf.yaml`: Spider settings (`json_url`, `article_count`, `enable`).
-  - `*.json`: Friend lists (each file = a category).
+  - `conf.yaml`: Spider settings (`enable`, `json_url`, `article_count`, `max_workers`, optional `ignore_url`, optional `link_rewrites`).
+  - `*.json`: Friend lists (each file = a category; merged when `json_url` points at a local path).
 - `results/`: Runtime outputs (generated)
-  - `all.json`, `errors.json`, `all.personal.json`, `errors.personal.json`, `grab.log`
+  - `all.json` / `errors.json`: full scrape.
+  - `all.personal.json` / `errors.personal.json`: second pass that skips IDs from `ignore_url` (or env `FRIEND_CIRCLE_IGNORE_URL`); falls back to the full scrape when the ignore list is empty/unreachable.
+  - `grab.log`: run log (gitignored).
 
 ## Build and Development Commands
 - Build: `go build .`
@@ -26,14 +28,13 @@
 - Tests have been removed from this repository.
 
 ## Commit & Pull Request Guidelines
-- Conventional Commits enforced via hook:
+- Conventional Commits:
   - Format: `type(scope)!: subject`
   - Types: `build|chore|ci|docs|feat|fix|perf|refactor|revert|style|test`
-  - Enable local hooks: `git config core.hooksPath .githooks`
-  - CI uses message `chore: update RSS feeds`
+  - CI uses message `chore: update rss feeds`
 - PRs include: clear description, linked issues, config changes, sample commands/endpoints, and screenshots/log snippets when relevant.
 
 ## Security & Configuration Tips
 - Keep secrets out of `config/conf.yaml`; use reachable `json_url` and realistic `article_count`.
 - Respect timeouts; reuse `http.Client` (connection pooling via Transport).
-- Don’t commit large run artifacts; `results/` is generated and should be gitignored.
+- `results/` JSON outputs are committed (CI publishes them); only `results/grab.log` is gitignored.
