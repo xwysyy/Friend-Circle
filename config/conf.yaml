@@ -1,0 +1,23 @@
+# 爬虫相关配置
+# 解释：抓取友链文章并写入根目录 all.json；每条友链必须提供 feed_url（friend.json 第 4 项）
+#   enable:             是否启用爬虫
+#   json_url:           请填写对应格式 JSON 的地址（本地路径或 http(s) 地址）
+#   article_count:      请填写每个博客需要获取的最大文章数量
+#   max_workers:        最大并发数，建议不超过20
+spider_settings:
+  enable: true
+  json_url: "config/friend.json"
+  article_count: 20
+  max_workers: 5
+  # 可选：忽略列表来源（用于生成 all.personal.json，忽略的文章会在抓取阶段跳过并向更旧文章补位）
+  # - 支持 http(s) 地址或本地 json 文件路径
+  # - 后端默认导出接口：GET /api/v1/friend-circle/ignore/export
+  ignore_url: "https://blog-api.xwysyy.cn/api/v1/friend-circle/ignore/export"
+  # 可选：文章链接改写（按友链名或域名匹配，执行前缀/正则替换）
+  link_rewrites:
+    - match:
+        name: "锦恢"           # 与 friend.json 第一列一致
+      rules:
+        - type: "prefix"
+          from: "https://kirigaya.cn/api/rss/blog"
+          to:   "https://kirigaya.cn/blog/article"
