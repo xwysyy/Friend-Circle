@@ -1,0 +1,12 @@
+# Copy this file to wrangler.toml after forking the template, then customize.
+# Each adapter gets its own worker instance — name should be unique per site.
+
+name = "your-site-rss"
+main = "src/index.ts"
+compatibility_date = "2025-09-01"
+
+# Optional KV cache (recommended for high-traffic feeds):
+#
+# [[kv_namespaces]]
+# binding = "FEED_CACHE"
+# id = "<run: npx wrangler kv:namespace create FEED_CACHE>"

@@ -1,0 +1,16 @@
+{
+  "name": "agentic-rss-template",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240909.0",
+    "typescript": "^5.4.0",
+    "wrangler": "^3.80.0"
+  }
+}
