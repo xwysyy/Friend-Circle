@@ -1,14 +1,14 @@
 # Agentic RSS Adapter — Node.js Runtime
 
-部署在你**自己的机器**（VPS / 树莓派 / 家里 NAS）上的 RSS 适配器。
+部署在自托管机器（VPS / 树莓派 / 家里 NAS）上的 RSS 适配器。
 
-适用场景：
-1. **源站有 RSS 但 CF Worker 段也被反爬** —— 用这台机器的 IP 出口去抓
-2. **源站完全没 RSS** —— 复杂 HTML 解析（`cheerio` / `jsdom`）放在 Node.js 比 Worker 自由
+两种情况下用它：源站有 RSS 但 CF Worker 段也被反爬，需要换出口 IP；或者源站没 RSS，要做较重的 HTML 解析（cheerio、jsdom 一类），Worker 的 CPU 预算撑不住。
 
-不适用：源站有 RSS、且 CF Worker 段没被反爬 —— 那种用 `runtime-worker/` 更轻、零运维。
+如果源站有 RSS、CF 段又能过，用 `runtime-worker/` 更轻、不用维护机器。
 
-## 部署（Docker，推荐）
+## 部署
+
+推荐 Docker。
 
 ```bash
 # 1. 在 cp 出来的目录里填好 src/adapter.ts（按 prompts/adapter-author.md 让 AI 生成）
@@ -23,9 +23,9 @@ curl http://localhost:8080/feed          # → RSS XML
 
 ## 暴露给公网
 
-如果消费方需要从公网拉取，三种方式按可用性排：
+如果消费方要从公网拉，三种做法按可用性排：
 
-### 方式 A：Cloudflare Tunnel（最简，零端口转发）
+Cloudflare Tunnel 最简单，零端口转发：
 
 ```bash
 docker run -d --restart unless-stopped --network host \
@@ -35,7 +35,7 @@ docker run -d --restart unless-stopped --network host \
 
 在 CF Zero Trust 控制台把 tunnel 路由到 `http://localhost:8080`，得到 `https://<subdomain>.<your-domain>`。
 
-### 方式 B：Caddy 反代 + Let's Encrypt（如有公网 IP）
+如果有公网 IP，Caddy 反代加 Let's Encrypt 也够用：
 
 ```caddy
 <subdomain>.<your-domain> {
@@ -43,13 +43,11 @@ docker run -d --restart unless-stopped --network host \
 }
 ```
 
-### 方式 C：直接用 IP+端口（仅 LAN）
-
-不推荐——公网消费方访问家里 IP 通常不行（NAT/防火墙），且 IP 变动后要改消费方配置。
+直接用 IP+端口仅 LAN 内能跑——公网消费方一般过不了 NAT/防火墙，IP 变了还要改消费方配置。不推荐。
 
 ## 接入消费方
 
-部署得到 RSS endpoint 后，把消费方源列表里对应行的 URL 改成它：
+部署得到 RSS endpoint 后，把消费方源列表里那一行的 URL 改成它：
 
 ```diff
 - "https://<old-feed-url>"
@@ -64,6 +62,6 @@ npm run dev      # tsx watch 热重启
 npm run typecheck
 ```
 
-## 与 runtime-worker 的关系
+## 跟 runtime-worker 的关系
 
-两个 runtime 共享 `src/types.ts`、`src/lib/rss.ts` 的设计（同源不同构）。`adapter.ts` 接口完全一致——AI 生成的 adapter 代码可以在两个 runtime 间无改动迁移，只是 import 路径细节（worker 不带 `.js`，nodejs NodeNext 必须带 `.js`）由 AI 在生成时自适应。
+两个 runtime 共用 `src/types.ts` 和 `src/lib/rss.ts` 的设计——同源不同构。`adapter.ts` 接口完全一致，AI 生成的 adapter 代码在两个 runtime 间迁移不用改逻辑，只是 import 路径细节不同：worker 不带 `.js`、NodeNext 必须带 `.js`，AI 在生成时自己处理。
