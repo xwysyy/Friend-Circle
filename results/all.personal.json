@@ -1,12 +1,21 @@
 {
   "statistical_data": {
     "friends_num": 40,
-    "active_num": 38,
-    "error_num": 2,
-    "article_num": 229,
-    "last_updated_time": "2026-05-03 12:33:00"
+    "active_num": 39,
+    "error_num": 1,
+    "article_num": 249,
+    "last_updated_time": "2026-05-03 12:38:08"
   },
   "article_data": [
+    {
+      "id": "e077c895a75465c549d17f8876c9f3bbc6d20a1b",
+      "title": "pi-context：一个让 AI 自己管记忆的小工具",
+      "created": "2026-04-25 20:00",
+      "link": "https://axi.moe/posts/picontex/",
+      "author": "NolanHo",
+      "avatar": "https://axi.moe/assets/icon.jpg",
+      "category": "ai"
+    },
     {
       "id": "43e6e7241434e1703c2f83c4b72903ccb6c53dad",
       "title": "MuP之上：4. 坚守参数的稳定性",
@@ -14,6 +23,24 @@
       "link": "https://kexue.fm/archives/11729",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "id": "eb22dd50841c859011d40d799dd6c2920ba1e42f",
+      "title": "终端的语义层叠：几种终端方案的底层原理",
+      "created": "2026-04-20 08:00",
+      "link": "https://axi.moe/posts/tstack01/",
+      "author": "NolanHo",
+      "avatar": "https://axi.moe/assets/icon.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "e4a112a4bcde460f81ae9674089103cd9a6612c6",
+      "title": "我为什么选 WezTerm",
+      "created": "2026-04-20 08:00",
+      "link": "https://axi.moe/posts/whywez01/",
+      "author": "NolanHo",
+      "avatar": "https://axi.moe/assets/icon.jpg",
       "category": "ai"
     },
     {
@@ -188,6 +215,24 @@
       "category": "ai"
     },
     {
+      "id": "23a2559daa442b5f48c4b148cf63fa46c323e9e8",
+      "title": "长期亲密关系的动力学建模",
+      "created": "2026-02-21 03:14",
+      "link": "https://axi.moe/posts/9b3ptcn5/",
+      "author": "NolanHo",
+      "avatar": "https://axi.moe/assets/icon.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "4f0e9f87967fcff625ead260075c5587ee4cd8aa",
+      "title": "AI Coding 对软件开发组织协作的二阶效应",
+      "created": "2026-02-18 02:51",
+      "link": "https://axi.moe/posts/02hfe6gy/",
+      "author": "NolanHo",
+      "avatar": "https://axi.moe/assets/icon.jpg",
+      "category": "ai"
+    },
+    {
       "id": "b4665bae5f5e11fc9cc4c52f735b46e9c396fafd",
       "title": "深入浅出了解生成模型-10：模型蒸馏与剪枝",
       "created": "2026-02-15 08:00",
@@ -197,12 +242,30 @@
       "category": "ai"
     },
     {
+      "id": "34cce56f997c1d5f16bfc54772140640ba531fb9",
+      "title": "RL算法笔记 WIP",
+      "created": "2026-01-26 07:02",
+      "link": "https://axi.moe/posts/kf6ea3bu/",
+      "author": "NolanHo",
+      "avatar": "https://axi.moe/assets/icon.jpg",
+      "category": "ai"
+    },
+    {
       "id": "c0a073b7c644f2009554544a0c6f52785c1203f7",
       "title": "自主 Agent / 上下文工程资料索引",
       "created": "2026-01-04 00:00",
       "link": "https://ninehills.tech/articles/150.html",
       "author": "九原山博客",
       "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "4c955fa0667683f3c73b9d39b626b11998e70a21",
+      "title": "在 RAG 和 Agentic 搜索下做结果融合的一些思路",
+      "created": "2025-12-28 08:29",
+      "link": "https://axi.moe/posts/rn9lt25e/",
+      "author": "NolanHo",
+      "avatar": "https://axi.moe/assets/icon.jpg",
       "category": "ai"
     },
     {
@@ -260,12 +323,21 @@
       "category": "friend"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
-      "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "id": "c024de93bd212abb4392d0b0ee3d92223d3b56c9",
+      "title": "mem0 源码阅读：一个工程化记忆系统",
+      "created": "2025-12-09 09:26",
+      "link": "https://axi.moe/posts/9sof0224/",
+      "author": "NolanHo",
+      "avatar": "https://axi.moe/assets/icon.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "d4f615466c4df9e15ed811429fcba0ef41046097",
+      "title": "对 COLMA 认知分层记忆架构的工程化重构与思考",
+      "created": "2025-12-07 11:57",
+      "link": "https://axi.moe/posts/5vhbfhkc/",
+      "author": "NolanHo",
+      "avatar": "https://axi.moe/assets/icon.jpg",
       "category": "ai"
     },
     {
@@ -275,6 +347,33 @@
       "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
+      "created": "2025-12-04 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "f943991da80606926695d7443797a406d07181cd",
+      "title": "宏观经济学-新凯恩斯综合",
+      "created": "2025-12-01 00:56",
+      "link": "https://axi.moe/posts/pedfwn5y/",
+      "author": "NolanHo",
+      "avatar": "https://axi.moe/assets/icon.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "5d03fdb16e4e4ae5a4e15225d3b3465c240ef379",
+      "title": "经济分析史",
+      "created": "2025-11-24 01:00",
+      "link": "https://axi.moe/posts/m6ok5fzg/",
+      "author": "NolanHo",
+      "avatar": "https://axi.moe/assets/icon.jpg",
       "category": "ai"
     },
     {
@@ -323,6 +422,15 @@
       "category": "friend"
     },
     {
+      "id": "2bcf65b65f387e7b8e67e5636d2e77b16c04937a",
+      "title": "在AI时代，我们如何思考？——从数独、哲学开始进化",
+      "created": "2025-10-01 14:12",
+      "link": "https://axi.moe/posts/13bbhp7j/",
+      "author": "NolanHo",
+      "avatar": "https://axi.moe/assets/icon.jpg",
+      "category": "ai"
+    },
+    {
       "id": "9622e28a7440e829b1f4f5ccbe7d4f82a4594292",
       "title": "比较是快乐的小偷",
       "created": "2025-09-28 04:21",
@@ -330,6 +438,15 @@
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
       "category": "friend"
+    },
+    {
+      "id": "d5aa9958c095f8add273bab7193560fac083f082",
+      "title": "VMware 虚拟机性能优化：CPU Stuck 问题",
+      "created": "2025-09-21 00:59",
+      "link": "https://axi.moe/posts/fyx0ohwb/",
+      "author": "NolanHo",
+      "avatar": "https://axi.moe/assets/icon.jpg",
+      "category": "ai"
     },
     {
       "id": "86c03ce4ed84072f05dc6800ee511bd40af54f9c",
@@ -347,6 +464,33 @@
       "link": "https://ninehills.tech/articles/133.html",
       "author": "九原山博客",
       "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "f39a34b81853cbccdff1a8817f78166b379d7cf7",
+      "title": "K8s 持久化 Pod 控制台日志到节点本地：使用 Fluent Bit",
+      "created": "2025-08-31 04:21",
+      "link": "https://axi.moe/posts/s7z75nvl/",
+      "author": "NolanHo",
+      "avatar": "https://axi.moe/assets/icon.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "4de6313aea8addb0e998efa6c40228e21818cc44",
+      "title": "哲学路线图",
+      "created": "2025-08-31 00:54",
+      "link": "https://axi.moe/posts/unejwh8x/",
+      "author": "NolanHo",
+      "avatar": "https://axi.moe/assets/icon.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "2cf7448c26804cecf5497b66bf5c36e7099d604a",
+      "title": "《人格心理学》读书笔记",
+      "created": "2025-08-17 10:38",
+      "link": "https://axi.moe/posts/hi3q2hu5/",
+      "author": "NolanHo",
+      "avatar": "https://axi.moe/assets/icon.jpg",
       "category": "ai"
     },
     {
@@ -368,6 +512,15 @@
       "category": "ai"
     },
     {
+      "id": "5edab5afb7716ff3264b5a131c1102f77c53307f",
+      "title": "arch安装笔记",
+      "created": "2025-08-08 05:28",
+      "link": "https://axi.moe/posts/0mmwg442/",
+      "author": "NolanHo",
+      "avatar": "https://axi.moe/assets/icon.jpg",
+      "category": "ai"
+    },
+    {
       "id": "15d921cfcb887c3c13eb2199f15b25ea3a21be2e",
       "title": "分享一些增强访客幸福感的一些技巧",
       "created": "2025-08-07 00:40",
@@ -386,12 +539,30 @@
       "category": "friend"
     },
     {
+      "id": "64c7a229c58f3941a2174456361a58c7f34da344",
+      "title": "从面试题开始的Golang map",
+      "created": "2025-06-28 19:52",
+      "link": "https://axi.moe/posts/8phjex9s/",
+      "author": "NolanHo",
+      "avatar": "https://axi.moe/assets/icon.jpg",
+      "category": "ai"
+    },
+    {
       "id": "1e9d0c3988dcb92a31de9a661ecf891968aa9c2f",
       "title": "勇气的奥秘——从赢走向赢",
       "created": "2025-06-11 08:00",
       "link": "https://blog.tomorrowdawn.cc/posts/%E5%8B%87%E6%B0%94%E7%9A%84%E5%A5%A5%E7%A7%98-%E4%BB%8E%E8%B5%A2%E8%B5%B0%E5%90%91%E8%B5%A2/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "f2755f8f91c835009a8c24119bd106d6b39ccc05",
+      "title": "《社会分层十五讲》读书笔记",
+      "created": "2025-06-09 04:57",
+      "link": "https://axi.moe/posts/oybo4yek/",
+      "author": "NolanHo",
+      "avatar": "https://axi.moe/assets/icon.jpg",
       "category": "ai"
     },
     {
@@ -428,6 +599,15 @@
       "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "880a87b090694c20eb09be0eabdf1004d51ac838",
+      "title": "Python 更新记录",
+      "created": "2025-06-02 02:44",
+      "link": "https://axi.moe/posts/m8is8z4h/",
+      "author": "NolanHo",
+      "avatar": "https://axi.moe/assets/icon.jpg",
       "category": "ai"
     },
     {
@@ -620,21 +800,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
