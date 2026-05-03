@@ -1,7 +1,7 @@
 import type { Adapter } from "./types";
 
 /**
- * Replace this file when forking the template.
+ * Replace this file when forking the runtime-worker template.
  *
  * Two common patterns:
  *

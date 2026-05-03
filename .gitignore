@@ -5,3 +5,8 @@ results/grab.log*
 
 # Go
 Friend-Circle
+
+# Node tooling artifacts inside agentic-rss/* templates
+agentic-rss/**/node_modules/
+agentic-rss/**/dist/
+agentic-rss/**/package-lock.json

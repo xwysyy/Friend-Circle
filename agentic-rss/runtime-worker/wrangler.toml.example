@@ -1,4 +1,4 @@
-# Copy this file to wrangler.toml after forking the template, then customize.
+# Copy this file to wrangler.toml after forking the runtime-worker template, then customize.
 # Each adapter gets its own worker instance — name should be unique per site.
 
 name = "your-site-rss"
