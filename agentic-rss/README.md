@@ -1,16 +1,15 @@
 # Agentic RSS
 
-让 AI 给"没 RSS 或 RSS 被反爬"的站点写一份适配器代码，部署后输出标准 RSS，供下游消费方拉取。
+让 AI 给没有稳定 RSS 的站点写适配器代码。部署后输出标准 RSS，供下游消费方拉取。
 
-不是自动化系统，是「人 + AI 」的一次性手工流程。
+这里放的是适配器模板和编写说明。
 
-## 两类问题
+## 适用范围
 
-一类是博客根本没 RSS：协议适配缺失，要靠 AI 看 HTML 或 JSON 推断结构、生成抽取代码。
+- 站点没有 RSS，需要从 HTML 或 JSON 接口生成 RSS。
+- 站点有 RSS，但结构不标准、时间格式异常或抓取不稳定。
 
-另一类是博客有 RSS 但被反爬：网络出口问题，换 IP 段就行——CF Worker、自托管机器、商业代理任选。这一类不用 AI 判断结构，只用挑对部署位置。
-
-## 4 种 adapter 模式
+## Adapter 模式
 
 AI 探查站点后选一个：
 
@@ -21,34 +20,50 @@ AI 探查站点后选一个：
 | C. HTML Scrape | 没 RSS，但列表页 DOM 规则 |
 | D. JSON API | 没 RSS，XHR 暴露文章数组 |
 
-完整决策树见 `prompts/adapter-author.md`。
+决策树见 `prompts/adapter-author.md`。
 
-## 2 种 runtime
+## Runtime
 
-按出口 IP 决定。
+按部署位置和解析成本选择 runtime。
 
 | Runtime | 部署位置 | 出口 IP | 适用 |
 |---|---|---|---|
 | `runtime-worker/` | Cloudflare 边缘 | Cloudflare ASN | 默认，无运维 |
 | `runtime-nodejs/` | 自托管机器（VPS / NAS / 树莓派） | 你机器的 IP | CF 段被反爬、需要重型解析库、需要长状态 |
 
-两个 runtime 共用同一份 `Adapter` 接口（`fetch() → Article[]`）。同一份 adapter 逻辑可以两边迁移，差异只在 import 路径细节——worker 不带 `.js`，NodeNext 必须带 `.js`，AI 在生成时会自己处理。
+两个 runtime 共用同一份 `FeedAdapter` 接口：
+
+```ts
+interface FeedAdapter {
+  build(ctx: AdapterContext): Promise<string>;
+}
+```
+
+`build` 返回 RSS XML 字符串。adapter 通常先生成 `Article[]`，再调用 `renderRss(meta, articles)`。
 
 ## 用法
 
-把 `prompts/adapter-author.md` 和目标 URL 一起喂给 AI，AI 会探查站点、选模式、选 runtime，输出 adapter 代码和部署命令。把模板拷到仓外目录、粘贴 adapter 代码：
+把 `prompts/adapter-author.md` 和目标 URL 一起给 AI。输出应包含：adapter 模式、runtime、`src/adapter.ts`、部署命令、消费方 URL 修改。
 
-```
+先把模板拷到仓外目录，再填入 adapter：
+
+```bash
 # worker
-npx wrangler deploy   → https://<slug>.<account>.workers.dev
+cp -r agentic-rss/runtime-worker/ ~/agentic-rss-instances/<site>/
+cd ~/agentic-rss-instances/<site>/
+mv wrangler.toml.example wrangler.toml
+npm install
+npm run deploy
 
 # nodejs
-docker compose up -d  → http://your-host:8080/feed
+cp -r agentic-rss/runtime-nodejs/ ~/agentic-rss-instances/<site>/
+cd ~/agentic-rss-instances/<site>/
+docker compose up -d --build
 ```
 
-最后改下游消费方的源列表里那一行 URL。
+部署完成后，把下游源列表里的原 URL 改为新 endpoint。
 
-每次部署的 adapter 代码是一次性产物，留在你自己的 Cloudflare 账户或 Docker host 上，不入仓。仓内只保留 runtime 模板和给 AI 看的操作手册。
+仓内保留公共模板和编写说明。具体站点的 adapter 实例放在仓外。
 
 ## 目录
 
@@ -56,29 +71,22 @@ docker compose up -d  → http://your-host:8080/feed
 agentic-rss/
 ├── README.md
 ├── prompts/
-│   └── adapter-author.md        # 给 AI 的探查→选模式→选 runtime→出代码全流程
-├── runtime-worker/              # CF Worker template（4 模式都能跑）
+│   └── adapter-author.md        # 适配器编写说明
+├── runtime-worker/              # Cloudflare Worker runtime
 │   ├── src/{index,adapter,types}.ts + lib/{fetch,rss,passthrough}.ts
 │   ├── wrangler.toml.example
 │   └── package.json + tsconfig.json
-└── runtime-nodejs/              # Self-hosted Docker template
+└── runtime-nodejs/              # Node.js runtime
     ├── src/{server,adapter,types}.ts + lib/{fetch,rss}.ts
     ├── Dockerfile + docker-compose.yml
     └── package.json + tsconfig.json
 ```
 
-## 跟 RSSHub 的差别
+## Runtime 约束
 
-| | RSSHub | Agentic RSS |
-|---|---|---|
-| 适配器来源 | 社区 PR | AI 现场推断 |
-| 部署粒度 | 单个大 service | 每站点一个独立实例 |
-| 反爬处理 | 看部署服务那台机器 | 选对 runtime 即可 |
-| 失效后 | 等 PR | 重跑一次 prompt |
-| 用途 | 通用聚合 | 个人订阅补漏 |
-
-不是替代 RSSHub。RSSHub 没收录或不便部署时，这套是更轻的自助方式。
-
-## 都不行的时候
-
-A/B/C/D 任一模式 + 任一 runtime 都失败的情形是有的——某些站点对所有非住宅 IP、所有结构化路径都打 challenge。这时工程方案已经穷尽，应该考虑联系作者要 allowlist、放弃这个源、或者商业住宅代理。`prompts/adapter-author.md § Step 6` 明确要求 AI 不要在这种时候硬塞代码。
+- `Article.id` 必须稳定，优先使用文章链接。
+- `published` 只能写入有效 `Date`。
+- 单次返回条数建议不超过 30。
+- 不把 secret 写进源码。
+- 默认只改 `src/adapter.ts`；公共 runtime 文件保持一致。
+- Worker import 不带 `.js` 后缀；Node.js runtime 使用 `.js` 后缀。

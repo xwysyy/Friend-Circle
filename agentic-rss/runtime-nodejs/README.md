@@ -2,9 +2,9 @@
 
 部署在自托管机器（VPS / 树莓派 / 家里 NAS）上的 RSS 适配器。
 
-两种情况下用它：源站有 RSS 但 CF Worker 段也被反爬，需要换出口 IP；或者源站没 RSS，要做较重的 HTML 解析（cheerio、jsdom 一类），Worker 的 CPU 预算撑不住。
+适合自托管出口、较重 HTML/JSON 解析。
 
-如果源站有 RSS、CF 段又能过，用 `runtime-worker/` 更轻、不用维护机器。
+轻量解析优先用 `runtime-worker/`。
 
 ## 部署
 
@@ -23,7 +23,7 @@ curl http://localhost:8080/feed          # → RSS XML
 
 ## 暴露给公网
 
-如果消费方要从公网拉，三种做法按可用性排：
+公网消费方可以用以下入口：
 
 Cloudflare Tunnel 最简单，零端口转发：
 
@@ -35,7 +35,7 @@ docker run -d --restart unless-stopped --network host \
 
 在 CF Zero Trust 控制台把 tunnel 路由到 `http://localhost:8080`，得到 `https://<subdomain>.<your-domain>`。
 
-如果有公网 IP，Caddy 反代加 Let's Encrypt 也够用：
+公网 IP 场景可用 Caddy 反代加 Let's Encrypt：
 
 ```caddy
 <subdomain>.<your-domain> {
@@ -43,7 +43,7 @@ docker run -d --restart unless-stopped --network host \
 }
 ```
 
-直接用 IP+端口仅 LAN 内能跑——公网消费方一般过不了 NAT/防火墙，IP 变了还要改消费方配置。不推荐。
+直接用 IP+端口通常只适合内网。公网消费方需要稳定入口。
 
 ## 接入消费方
 
@@ -64,4 +64,4 @@ npm run typecheck
 
 ## 跟 runtime-worker 的关系
 
-两个 runtime 用同一份 `FeedAdapter` 接口（`build(ctx) → string`），同一组 `Article` / `FeedMeta` 数据形态，`ctx` 暴露同样的 `request` 和 `fetchUrl`。差别只在 import 路径：worker 不带 `.js`，NodeNext 必须带 `.js`。
+两个 runtime 共用 `FeedAdapter` 接口（`build(ctx) -> string`）。`Article` / `FeedMeta` 数据形态一致，`ctx` 暴露 `request` 和 `fetchUrl`。Worker import 不带 `.js`，Node.js runtime 使用 `.js` 后缀。

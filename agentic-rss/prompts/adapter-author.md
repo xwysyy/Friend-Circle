@@ -2,7 +2,7 @@
 
 > Audience：AI agent（Claude / Codex / GPT），被人类要求把一个没 RSS 或 RSS 被反爬的站点变成可订阅的 RSS endpoint，供下游 RSS 消费方拉取。
 >
-> Output：完整的 adapter 代码 + runtime 选择 + 部署命令清单。
+> Output：adapter 代码 + runtime 选择 + 部署命令清单。
 
 ## 你拿到的输入
 
@@ -10,7 +10,7 @@
 
 ## 你要交付的输出
 
-一份可执行清单：adapter 模式判断（A/B/C/D）、runtime 选择（worker / nodejs）、完整的 `src/adapter.ts` 代码、部署命令、消费方源列表里那一行 URL 的 diff。
+一份可执行清单：adapter 模式判断（A/B/C/D）、runtime 选择（worker / nodejs）、`src/adapter.ts` 代码、部署命令、消费方源列表里那一行 URL 的 diff。
 
 ---
 
@@ -72,7 +72,7 @@ export interface AdapterContext {
 }
 
 export interface FeedAdapter {
-  build(ctx: AdapterContext): Promise<string>;  // 返回完整 RSS 2.0 XML body
+  build(ctx: AdapterContext): Promise<string>;  // 返回 RSS 2.0 XML body
 }
 ```
 
@@ -243,7 +243,7 @@ async function build(ctx) {
 }
 ```
 
-记得把 `cheerio` 加到 `package.json` 的 `dependencies` 而不是 `devDependencies`。
+记得把 `cheerio` 加到 `package.json` 的 `dependencies`，别放 `devDependencies`。
 
 ---
 
@@ -276,7 +276,7 @@ async function build(ctx) {
 - 选定 runtime：<worker / nodejs>，理由：<一句话>
 
 代码：<runtime>/src/adapter.ts
-<完整文件，包括 imports>
+<文件内容，包括 imports>
 
 部署命令
 # worker:

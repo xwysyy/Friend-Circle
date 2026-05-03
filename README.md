@@ -10,22 +10,22 @@
 ![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/xwysyy/Friend-Circle)
 
-一个简洁稳健的「友链文章聚合器」，用 Go 编写。从 `config/*.json` 读取友链列表，并发抓取 RSS/Atom，输出统一 JSON 到 `results/` 目录。
+一个用 Go 写的友链文章聚合器。从 `config/*.json` 读取友链列表，并发抓取 RSS/Atom，输出 JSON 到 `results/`。`agentic-rss/` 存放 RSS adapter 模板，处理没有稳定 RSS 的站点。
 
 </div>
 
 ---
 
-## 🚀 特性亮点
+## 🚀 功能
 
-- ⚡ 并发抓取：`max_workers` 可调，HTTP/2 + 连接池复用。
-- 🔁 请求重试：指数回退，覆盖 429 / 5xx 等可重试状态码。
-- 🧭 时间统一：输出 `YYYY-MM-DD HH:MM`，缺失时合理兜底并按时间排序。
-- 🧩 RSS/Atom 兼容：基于 [`gofeed`](https://github.com/mmcdole/gofeed) 解析为统一结构。
-- 🗂 多分类聚合：同目录多个 JSON 自动合并，文件名作为 `category`。
-- 🙈 个人忽略列表：可选 `ignore_url`，二次输出 `all.personal.json`。
-- ✂️ 链接改写：按友链名 / 域名做前缀或正则替换，统一文章链接。
-- 🛰️ 自动化：GitHub Actions 每 6 小时定时更新，可手动触发。
+- 并发抓取：`max_workers` 控制并发数，HTTP 客户端复用连接并启用 HTTP/2。
+- 请求重试：对 403、408、425、429、5xx 等状态码做指数回退重试。
+- 时间统一：文章时间输出为 `YYYY-MM-DD HH:MM`，按时间倒序排列。
+- RSS/Atom 解析：通过 [`gofeed`](https://github.com/mmcdole/gofeed) 转成统一结构。
+- 多分类聚合：`json_url` 指向本地文件时，会合并同目录全部 `*.json`，文件名写入 `category`。
+- 个人忽略列表：可选 `ignore_url` 或 `FRIEND_CIRCLE_IGNORE_URL`，生成 `all.personal.json`。
+- 链接改写：可按友链名或域名匹配，执行前缀或正则替换。
+- 自动更新：GitHub Actions 每 6 小时运行一次，也支持手动触发。
 
 ## 📦 快速开始
 
@@ -41,7 +41,7 @@ go run .
 
 完成后在 `results/` 下生成：`all.json`、`errors.json`、`all.personal.json`、`errors.personal.json`、`grab.log`。
 
-## 🔧 配置详解（`config/conf.yaml`）
+## 🔧 配置（`config/conf.yaml`）
 
 ```yaml
 spider_settings:
@@ -94,7 +94,7 @@ config/
 
 ## 📤 运行产物（`results/`）
 
-- `all.json` / `errors.json`：完整抓取结果，及失败友链的原始 4 元组列表。
+- `all.json` / `errors.json`：全量抓取结果，及失败友链的原始 4 元组列表。
 - `all.personal.json` / `errors.personal.json`：当 `ignore_url` 可达且非空时再跑一遍，跳过命中条目；否则与 `all.json` / `errors.json` 一致。
 - `grab.log`：运行日志（`.gitignore` 中已忽略）。
 
@@ -129,12 +129,23 @@ config/
 
 - `/all.json`、`/errors.json` → `results/...`
 - `/all.personal.json`、`/errors.personal.json` → `results/...`
+- `/friend.json` → `config/friend.json`
 
-直接以仓库为静态站点部署即可消费这些 JSON。
+把仓库部署为静态站点后，可以直接消费这些 JSON。
+
+## 🧰 Agentic RSS
+
+`agentic-rss/` 存放 RSS adapter 模板。目标站点缺少 RSS、RSS 结构异常或抓取不稳定时，可以用这些模板生成独立 RSS endpoint。
+
+- `agentic-rss/prompts/adapter-author.md`：给 AI 的适配器编写说明。
+- `agentic-rss/runtime-worker/`：Cloudflare Worker runtime。
+- `agentic-rss/runtime-nodejs/`：自托管 Node.js runtime。
+
+两个 runtime 使用同一份 `FeedAdapter` 接口：`build(ctx) -> RSS XML string`。用法见 `agentic-rss/README.md`。
 
 ## 🗓️ 自动化（GitHub Actions）
 
-工作流 `.github/workflows/friend_circle.yml` 每 6 小时运行一次（也支持 `workflow_dispatch`），抓取结果以 `chore: update rss feeds` 提交回仓库。Fork 后需在仓库 secrets 配置 `PAT_TOKEN`。
+工作流 `.github/workflows/friend_circle.yml` 每 6 小时运行一次，也支持 `workflow_dispatch`。抓取结果以 `chore: update rss feeds` 提交回仓库。Fork 后需要在仓库 secrets 配置 `PAT_TOKEN`。
 
 ## 🧱 项目结构
 
@@ -151,15 +162,20 @@ config/
 │   ├── conf.yaml          # 抓取配置
 │   └── *.json             # 各分类友链列表
 ├── results/               # 运行产物（提交入库；仅日志被忽略）
+├── agentic-rss/           # RSS adapter 编写提示与运行时模板
+│   ├── prompts/
+│   ├── runtime-worker/
+│   └── runtime-nodejs/
 ├── vercel.json            # 静态路径 rewrites
-└── .github/workflows/     # 定时抓取
+└── .github/workflows/     # friend_circle.yml 定时抓取
 ```
 
 ## ❓ FAQ
 
 - **没数据？** 检查 `json_url` 可达、`friend.json` 结构正确、`feed_url` 可访问。
 - **某站抓取失败？** 查 `results/grab.log` 与 `errors.json`，必要时更新该站点 `feed_url`。
-- **`all.personal.json` 与 `all.json` 完全一致？** 说明 `ignore_url` 不可达或返回空列表，已退化为单段输出。
+- **`all.personal.json` 与 `all.json` 一致？** 说明忽略列表不可用或为空，程序会复制全量抓取结果。
+- **某站没有可用 RSS？** 先看 `agentic-rss/README.md`，用 runtime 模板生成一个 RSS endpoint，再把该 endpoint 写入对应 `config/*.json` 的第 4 项。
 
 ## 📝 提交规范
 
@@ -174,5 +190,3 @@ MIT，详见 `LICENSE`。
 This project was originally inspired by [Qinyang Liu's project](https://github.com/willow-god/Friend-Circle-Lite) (MIT License), which provided the early scaffolding.
 
 ---
-
-如果你觉得有用，欢迎点亮 ⭐ Star、提 Issue/PR！
