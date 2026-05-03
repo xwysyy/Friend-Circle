@@ -2,11 +2,11 @@ import type { Article, FeedMeta } from "../types.js";
 
 function escapeXml(s: string): string {
   return s
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;")
-    .replace(/'/g, "&apos;");
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&apos;");
 }
 
 function rfc822(date: Date): string {
@@ -21,8 +21,11 @@ export function renderRss(meta: FeedMeta, articles: Article[]): string {
         `<link>${escapeXml(a.link)}</link>`,
         `<guid isPermaLink="false">${escapeXml(a.id)}</guid>`,
       ];
-      if (a.published) lines.push(`<pubDate>${rfc822(a.published)}</pubDate>`);
+      if (a.published && !Number.isNaN(a.published.getTime())) {
+        lines.push(`<pubDate>${rfc822(a.published)}</pubDate>`);
+      }
       if (a.author) lines.push(`<author>${escapeXml(a.author)}</author>`);
+      if (a.category) lines.push(`<category>${escapeXml(a.category)}</category>`);
       if (a.summary) {
         lines.push(`<description>${escapeXml(a.summary)}</description>`);
       }
@@ -39,7 +42,7 @@ export function renderRss(meta: FeedMeta, articles: Article[]): string {
 <channel>
 <title>${escapeXml(meta.title)}</title>
 <link>${escapeXml(meta.link)}</link>
-<description>${escapeXml(meta.description ?? meta.title)}</description>
+<description>${escapeXml(meta.description)}</description>
 ${lang}
 <lastBuildDate>${rfc822(new Date())}</lastBuildDate>
 ${items}

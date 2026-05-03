@@ -89,6 +89,8 @@ func DiscoverJSONSources(jsonURL string) []JSONSource {
 	return sources
 }
 
+const MaxJSONBodyBytes = 4 * 1024 * 1024
+
 // LoadFriends reads and parses a friends JSON file (local or remote).
 func LoadFriends(source string, client *http.Client) ([][]string, error) {
 	var data []byte
@@ -107,9 +109,12 @@ func LoadFriends(source string, client *http.Client) ([][]string, error) {
 		if resp.StatusCode >= 400 {
 			return nil, fmt.Errorf("HTTP %d: %s", resp.StatusCode, resp.Status)
 		}
-		data, err = io.ReadAll(resp.Body)
+		data, err = io.ReadAll(io.LimitReader(resp.Body, MaxJSONBodyBytes+1))
 		if err != nil {
 			return nil, fmt.Errorf("读取响应体失败: %w", err)
+		}
+		if int64(len(data)) > MaxJSONBodyBytes {
+			return nil, fmt.Errorf("响应体超出 %d 字节上限", MaxJSONBodyBytes)
 		}
 	} else {
 		var err error
@@ -154,9 +159,13 @@ func FetchIgnoreIDs(source string, client *http.Client) map[string]struct{} {
 			return ids
 		}
 		var readErr error
-		data, readErr = io.ReadAll(resp.Body)
+		data, readErr = io.ReadAll(io.LimitReader(resp.Body, MaxJSONBodyBytes+1))
 		if readErr != nil {
 			log.Printf("读取忽略列表响应体失败：%s；错误：%v", source, readErr)
+			return ids
+		}
+		if int64(len(data)) > MaxJSONBodyBytes {
+			log.Printf("忽略列表响应体超出 %d 字节上限：%s", MaxJSONBodyBytes, source)
 			return ids
 		}
 	} else {

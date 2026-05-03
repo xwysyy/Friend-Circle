@@ -4,7 +4,7 @@
 
 [![CI - Friend Circle](https://github.com/xwysyy/Friend-Circle/actions/workflows/friend_circle.yml/badge.svg)](https://github.com/xwysyy/Friend-Circle/actions/workflows/friend_circle.yml)
 ![RSS](https://img.shields.io/badge/RSS-Feed-FFA500?logo=rss&logoColor=white)
-![Go](https://img.shields.io/badge/Go-1.22%2B-00ADD8?logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-1.24%2B-00ADD8?logo=go&logoColor=white)
 ![Last commit](https://img.shields.io/github/last-commit/xwysyy/Friend-Circle?color=57A64A)
 <br>
 ![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel)
@@ -29,7 +29,7 @@
 
 ## 📦 快速开始
 
-需要 Go 1.22+。
+需要 Go 1.24+。
 
 ```bash
 # 拉依赖

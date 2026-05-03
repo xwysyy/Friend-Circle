@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/json"
+	"fmt"
 	"log"
 	"net/http"
 	"os"
@@ -53,8 +54,16 @@ func main() {
 	// --- First pass: all.json + errors.json ---
 	result, errorEntries := collectFromConfig(cfg, client, nil)
 
-	writeJSON(filepath.Join(resultsDir, "all.json"), result)
-	writeJSON(filepath.Join(resultsDir, "errors.json"), errorEntries)
+	if result.StatisticalData.ActiveNum == 0 {
+		log.Fatalf("active_num=0，中止")
+	}
+
+	if err := writeJSON(filepath.Join(resultsDir, "all.json"), result); err != nil {
+		log.Fatalf("写入 all.json 失败: %v", err)
+	}
+	if err := writeJSON(filepath.Join(resultsDir, "errors.json"), errorEntries); err != nil {
+		log.Fatalf("写入 errors.json 失败: %v", err)
+	}
 	log.Println("抓取与写入完成：all.json, errors.json")
 
 	// --- Second pass: personal (with ignore list) ---
@@ -67,12 +76,23 @@ func main() {
 	if len(ignoreIDs) > 0 {
 		log.Printf("已加载忽略列表，共 %d 条，将生成 all.personal.json", len(ignoreIDs))
 		personalResult, personalErrors := collectFromConfig(cfg, client, ignoreIDs)
-		writeJSON(filepath.Join(resultsDir, "all.personal.json"), personalResult)
-		writeJSON(filepath.Join(resultsDir, "errors.personal.json"), personalErrors)
+		if personalResult.StatisticalData.ActiveNum == 0 {
+			log.Fatalf("personal active_num=0，中止")
+		}
+		if err := writeJSON(filepath.Join(resultsDir, "all.personal.json"), personalResult); err != nil {
+			log.Fatalf("写入 all.personal.json 失败: %v", err)
+		}
+		if err := writeJSON(filepath.Join(resultsDir, "errors.personal.json"), personalErrors); err != nil {
+			log.Fatalf("写入 errors.personal.json 失败: %v", err)
+		}
 	} else {
 		log.Println("忽略列表为空（或不可用），all.personal.json 将与 all.json 相同")
-		writeJSON(filepath.Join(resultsDir, "all.personal.json"), result)
-		writeJSON(filepath.Join(resultsDir, "errors.personal.json"), errorEntries)
+		if err := writeJSON(filepath.Join(resultsDir, "all.personal.json"), result); err != nil {
+			log.Fatalf("写入 all.personal.json 失败: %v", err)
+		}
+		if err := writeJSON(filepath.Join(resultsDir, "errors.personal.json"), errorEntries); err != nil {
+			log.Fatalf("写入 errors.personal.json 失败: %v", err)
+		}
 	}
 	log.Println("抓取与写入完成：all.personal.json, errors.personal.json")
 }
@@ -136,19 +156,33 @@ func collectFromConfig(
 	return aggregated, allErrors
 }
 
-// writeJSON marshals data to JSON and writes to a file.
-func writeJSON(path string, data any) {
-	f, err := os.Create(path)
+func writeJSON(path string, data any) error {
+	tmp := path + ".tmp"
+	f, err := os.Create(tmp)
 	if err != nil {
-		log.Printf("创建文件失败 %s: %v", path, err)
-		return
+		return fmt.Errorf("create %s: %w", tmp, err)
 	}
-	defer f.Close()
 
 	enc := json.NewEncoder(f)
 	enc.SetIndent("", "  ")
 	enc.SetEscapeHTML(false)
 	if err := enc.Encode(data); err != nil {
-		log.Printf("写入 JSON 失败 %s: %v", path, err)
+		f.Close()
+		os.Remove(tmp)
+		return fmt.Errorf("encode %s: %w", tmp, err)
 	}
+	if err := f.Sync(); err != nil {
+		f.Close()
+		os.Remove(tmp)
+		return fmt.Errorf("sync %s: %w", tmp, err)
+	}
+	if err := f.Close(); err != nil {
+		os.Remove(tmp)
+		return fmt.Errorf("close %s: %w", tmp, err)
+	}
+	if err := os.Rename(tmp, path); err != nil {
+		os.Remove(tmp)
+		return fmt.Errorf("rename %s -> %s: %w", tmp, path, err)
+	}
+	return nil
 }

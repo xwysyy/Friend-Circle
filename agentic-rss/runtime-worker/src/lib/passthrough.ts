@@ -1,32 +1,16 @@
 import { safeFetch } from "./fetch";
 
-/**
- * 把源站 RSS/XML 原样转发，仅替换/补充 CORS 与 cache 头。
- *
- * 适用场景：源站本身有合法 RSS，只是 GitHub Runner IP 被反爬。
- * Worker 用 Cloudflare 边缘 IP 拉一次 → 透传给消费方。
- */
-export async function proxyFeed(
-  url: string,
-  init?: RequestInit,
-): Promise<Response> {
-  const upstream = await safeFetch(url, init);
-  if (!upstream.ok) {
-    return new Response(`upstream ${upstream.status}`, {
-      status: 502,
-      headers: { "content-type": "text/plain; charset=utf-8" },
-    });
+const VALID_FEED_CT_RE = /(rss|atom|xml)/i;
+const FEED_SNIFF_RE = /^[\s﻿]*(<\?xml|<rss|<feed|<atom)/i;
+const SNIFF_BYTES = 256;
+
+export async function passthrough(url: string): Promise<string> {
+  const resp = await safeFetch(url, { totalTimeoutMs: 12000, retries: 1 });
+  if (!resp.ok) throw new Error(`upstream HTTP ${resp.status}`);
+  const ct = resp.headers.get("content-type") ?? "";
+  const body = await resp.text();
+  if (!VALID_FEED_CT_RE.test(ct) && !FEED_SNIFF_RE.test(body.slice(0, SNIFF_BYTES))) {
+    throw new Error("upstream returned non-feed content");
   }
-  const body = await upstream.text();
-  const ct =
-    upstream.headers.get("content-type") ??
-    "application/rss+xml; charset=utf-8";
-  return new Response(body, {
-    headers: {
-      "content-type": ct,
-      "cache-control": "public, max-age=600",
-      "access-control-allow-origin": "*",
-      "x-agentic-rss-source": url,
-    },
-  });
+  return body;
 }

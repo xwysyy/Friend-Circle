@@ -9,8 +9,8 @@
       "destination": "/results/$1.personal.json"
     },
     {
-      "source": "/friends.json",
-      "destination": "/config/friends.json"
+      "source": "/friend.json",
+      "destination": "/config/friend.json"
     }
   ]
 }

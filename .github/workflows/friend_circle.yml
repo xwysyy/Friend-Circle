@@ -48,4 +48,9 @@ jobs:
           exit 0
         fi
         git commit -m "chore: update rss feeds"
+        for attempt in 1 2 3; do
+          if git push origin master; then exit 0; fi
+          echo "push attempt $attempt failed, rebasing"
+          git pull --rebase origin master
+        done
         git push origin master

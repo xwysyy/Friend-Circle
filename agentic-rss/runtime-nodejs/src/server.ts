@@ -1,6 +1,6 @@
 import { createServer } from "node:http";
 import adapter from "./adapter.js";
-import { renderRss } from "./lib/rss.js";
+import { safeFetch } from "./lib/fetch.js";
 
 const PORT = Number(process.env.PORT ?? 8080);
 
@@ -16,7 +16,8 @@ const server = createServer(async (req, res) => {
     return;
   }
 
-  const path = (req.url ?? "/").split("?")[0]?.replace(/\/+$/, "") || "/";
+  const rawUrl = req.url ?? "/";
+  const path = rawUrl.split("?")[0]?.replace(/\/+$/, "") || "/";
 
   if (path === "/health") {
     res.writeHead(200, {
@@ -38,11 +39,9 @@ const server = createServer(async (req, res) => {
 
   const t0 = Date.now();
   try {
-    const articles = await adapter.fetch();
-    const xml = renderRss(adapter.meta, articles);
-    console.log(
-      `feed.served items=${articles.length} elapsed=${Date.now() - t0}ms`,
-    );
+    const request = new Request(`http://localhost${rawUrl}`, { method });
+    const body = await adapter.build({ request, fetchUrl: safeFetch });
+    console.log(`feed.served bytes=${body.length} elapsed=${Date.now() - t0}ms`);
     res.writeHead(200, {
       "content-type": "application/rss+xml; charset=utf-8",
       "cache-control": "public, max-age=900",
@@ -52,13 +51,11 @@ const server = createServer(async (req, res) => {
     if (method === "HEAD") {
       res.end();
     } else {
-      res.end(xml);
+      res.end(body);
     }
   } catch (err) {
     const msg = err instanceof Error ? err.message : String(err);
-    console.error(
-      `feed.error elapsed=${Date.now() - t0}ms err=${msg}`,
-    );
+    console.error(`feed.error elapsed=${Date.now() - t0}ms err=${msg}`);
     res.writeHead(502, {
       "content-type": "text/plain; charset=utf-8",
       "cache-control": "no-store",
@@ -68,5 +65,5 @@ const server = createServer(async (req, res) => {
 });
 
 server.listen(PORT, () => {
-  console.log(`agentic-rss runtime-nodejs listening on :${PORT}`);
+  console.log(`agentic-rss listening on :${PORT}`);
 });

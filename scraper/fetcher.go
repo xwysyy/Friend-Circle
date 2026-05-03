@@ -17,7 +17,8 @@ import (
 const (
 	maxRetries    = 3
 	backoffFactor = 0.6
-	requestTimeout = 50 * time.Second
+	requestTimeout   = 50 * time.Second
+	MaxFeedBodyBytes = 8 * 1024 * 1024
 )
 
 var retryStatusCodes = map[int]bool{
@@ -115,10 +116,14 @@ func FetchWithRetry(ctx context.Context, client *http.Client, url string, useAlt
 			continue
 		}
 
-		body, readErr := io.ReadAll(resp.Body)
+		body, readErr := io.ReadAll(io.LimitReader(resp.Body, MaxFeedBodyBytes+1))
 		resp.Body.Close()
 		if readErr != nil {
 			lastErr = fmt.Errorf("读取响应失败: %w", readErr)
+			continue
+		}
+		if int64(len(body)) > MaxFeedBodyBytes {
+			lastErr = fmt.Errorf("响应体超出 %d 字节上限", MaxFeedBodyBytes)
 			continue
 		}
 

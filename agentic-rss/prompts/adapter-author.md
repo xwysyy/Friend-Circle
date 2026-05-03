@@ -16,12 +16,12 @@
 
 ## Step 1：探查站点
 
-按优先级试，找到能用的就停。不必每条都跑。
+按优先级试，找到能用的就停。
 
 ```
 1. <site>/rss.xml, /feed, /atom.xml, /index.xml, /feed.xml      ← 已知 RSS 路径
-2. <site>/sitemap.xml, /sitemap_index.xml                        ← sitemap 列出文章
-3. 抓 <site>/ 主页，grep '<link rel="alternate" type="application/(rss|atom)+xml"'  ← HTML 头可能藏 RSS 路径
+2. <site>/sitemap.xml, /sitemap_index.xml, /sitemap-0.xml        ← sitemap 列出文章
+3. 抓 <site>/ 主页，grep '<link rel="alternate" type="application/(rss|atom)+xml"'
 4. <site>/blog, /posts, /articles, /writings                    ← 列表页是否结构规则
 5. F12 / curl 主页查 XHR，找 /api/posts.json /api/feed 等        ← JSON API 最稳
 6. 在 GitHub 搜 "site-domain.com user:<author>"                 ← 作者博客 source 可能开源
@@ -39,12 +39,12 @@
 
 | 模式 | 触发条件 | 工作量 |
 |---|---|---|
-| A. RSS Proxy | 源站有合法 RSS + 出口友好 | XS（10 行） |
+| A. RSS Proxy | 源站有合法 RSS + 出口友好 | XS（3 行） |
 | B. RSS Parse + rebuild | 源站 RSS 结构破损 / 时间格式非标准 / 编码乱 | S（30 行解析） |
 | C. HTML Scrape | 源站没 RSS，但列表页 DOM 规则 | M（cheerio / regex 抽 selector） |
 | D. JSON API | 源站没 RSS，但 XHR 暴露文章数组 | XS-S（直接 fetch + map） |
 
-优先级 A > D > B > C。HTML scrape 是最后选——脆弱、易失效、上游改版直接挂。
+优先级 A > D > B > C。
 
 ---
 
@@ -56,72 +56,114 @@
 | 运维 | 无（serverless） | 要维护机器、Docker、反代 |
 | CPU 预算 | free 10ms / paid 30s 单请求 | 不限 |
 | 复杂解析（cheerio / playwright） | 难（free CPU 撑不住） | 适合 |
-| 冷启动 | < 100ms | 持续运行 |
 | 公网暴露 | 自动（`*.workers.dev`） | 需要 Cloudflare Tunnel / Caddy / 公网 IP |
 
-默认选 worker。改选 nodejs 的情形有三种：CF 段被反爬（A 模式但 worker 出口 429）、HTML scrape 要重型解析库（cheerio / jsdom）、需要长状态或大缓存。
+默认选 worker。改选 nodejs 的情形：CF 段被反爬、HTML scrape 要重型解析库、需要长状态。
 
 ---
 
-## Step 4：生成代码
-
-### 4.1 worker runtime（默认）
-
-把 `agentic-rss/runtime-worker/` 完整拷到仓外目录，改 `src/adapter.ts`。imports 不带 `.js` 扩展（worker bundler 处理）。
-
-#### 模式 A 模板（RSS Proxy via passthrough）
+## Step 4：Adapter 接口（两 runtime 完全一致）
 
 ```ts
-// runtime-worker/src/adapter.ts
-import { proxyFeed } from "./lib/passthrough";
+// types.ts (两个 runtime 同形态)
+export interface AdapterContext {
+  request: Request;
+  fetchUrl: (url: string, opts?: SafeFetchOptions) => Promise<Response>;
+}
 
-// 注意：proxy 模式直接覆盖 index.ts 的 fetch handler。
-// 不走 adapter.ts + renderRss 链路；直接转发上游 XML。
-// → 在 src/index.ts 顶层把 default export 改成：
-//
-//   export default {
-//     async fetch(_request: Request): Promise<Response> {
-//       return proxyFeed("https://<site>/rss.xml");
-//     },
-//   };
+export interface FeedAdapter {
+  build(ctx: AdapterContext): Promise<string>;  // 返回完整 RSS 2.0 XML body
+}
 ```
 
-#### 模式 C 模板（HTML Scrape）
+填 `src/adapter.ts`：
+
+- worker imports 不带 `.js`：`import type { FeedAdapter } from "./types";`
+- nodejs imports 带 `.js`：`import type { FeedAdapter } from "./types.js";`
+
+这是两个 runtime 间唯一差异。`build(ctx)` 签名、可用工具（`ctx.fetchUrl`、`renderRss`、`passthrough`）完全相同。
+
+---
+
+## Step 5：四种模式代码模板
+
+### 模式 A：RSS Proxy
 
 ```ts
-// runtime-worker/src/adapter.ts
-import type { Adapter, Article } from "./types";
-import { safeFetch } from "./lib/fetch";
+import type { FeedAdapter } from "./types";
+import { passthrough } from "./lib/passthrough";
 
-const adapter: Adapter = {
-  meta: {
-    title: "<site title>",
-    link: "https://<site>",
-    language: "zh-CN",  // or "en"
+const adapter: FeedAdapter = {
+  build(_ctx) {
+    return passthrough("https://<site>/rss.xml");
   },
+};
 
-  async fetch(ctx) {
+export default adapter;
+```
+
+### 模式 B：RSS Parse + rebuild
+
+```ts
+import type { FeedAdapter, Article } from "./types";
+import { renderRss } from "./lib/rss";
+
+const adapter: FeedAdapter = {
+  async build(ctx) {
+    const resp = await ctx.fetchUrl("https://<site>/rss.xml");
+    if (!resp.ok) throw new Error(`upstream HTTP ${resp.status}`);
+    const xml = await resp.text();
+    const items = parseUpstreamItems(xml);  // 自己写解析
+    return renderRss(
+      { title: "<site title>", link: "https://<site>", description: "" },
+      items,
+    );
+  },
+};
+
+function parseUpstreamItems(_xml: string): Article[] {
+  // 自定义 RSS/Atom 解析
+  return [];
+}
+
+export default adapter;
+```
+
+### 模式 C：HTML Scrape
+
+```ts
+import type { FeedAdapter, Article } from "./types";
+import { renderRss } from "./lib/rss";
+
+const adapter: FeedAdapter = {
+  async build(ctx) {
     const resp = await ctx.fetchUrl("https://<site>/blog");
+    if (!resp.ok) throw new Error(`upstream HTTP ${resp.status}`);
     const html = await resp.text();
-    return extractArticles(html);
+    return renderRss(
+      { title: "<site title>", link: "https://<site>", description: "", language: "zh-CN" },
+      extractArticles(html),
+    );
   },
 };
 
 function extractArticles(html: string): Article[] {
-  // 优先用 HTMLRewriter（worker 原生，无依赖、流式）。
-  // 但跨 chunk 状态比较绕，简单站点用 regex 更快出代码。
   const items: Article[] = [];
   const re = /<article[^>]*>[\s\S]*?<a[^>]*href="([^"]+)"[^>]*>([^<]+)<\/a>[\s\S]*?<time[^>]*datetime="([^"]+)"/gi;
   let m: RegExpExecArray | null;
   while ((m = re.exec(html)) !== null && items.length < 30) {
     const [, link, title, datetime] = m;
     if (!link || !title) continue;
-    items.push({
-      id: link,                               // link 即稳定 id
+    const article: Article = {
+      id: link,
       title: title.trim(),
       link: link.startsWith("http") ? link : `https://<site>${link}`,
-      published: new Date(datetime ?? ""),    // 解析失败 → Invalid Date → 由 renderRss 跳过
-    });
+    };
+    if (datetime) {
+      const d = new Date(datetime);
+      if (!Number.isNaN(d.getTime())) article.published = d;
+    }
+    items.push(article);
   }
   return items;
 }
@@ -129,11 +171,11 @@ function extractArticles(html: string): Article[] {
 export default adapter;
 ```
 
-#### 模式 D 模板（JSON API）
+### 模式 D：JSON API
 
 ```ts
-// runtime-worker/src/adapter.ts
-import type { Adapter } from "./types";
+import type { FeedAdapter, Article } from "./types";
+import { renderRss } from "./lib/rss";
 
 interface ApiPost {
   slug: string;
@@ -143,95 +185,88 @@ interface ApiPost {
   excerpt?: string;
 }
 
-const adapter: Adapter = {
-  meta: {
-    title: "<site title>",
-    link: "https://<site>",
-    language: "zh-CN",
-  },
-
-  async fetch(ctx) {
-    const resp = await ctx.fetchUrl("https://<site>/api/posts.json");
+const adapter: FeedAdapter = {
+  async build(ctx) {
+    const resp = await ctx.fetchUrl("https://<site>/api/posts.json", {
+      headers: { Accept: "application/json" },
+    });
+    if (!resp.ok) throw new Error(`upstream HTTP ${resp.status}`);
     const data = (await resp.json()) as { posts: ApiPost[] };
-    return data.posts.slice(0, 30).map((p) => ({
-      id: p.slug,
-      title: p.title,
-      link: `https://<site>/posts/${p.slug}`,
-      published: new Date(p.published_at),
-      author: p.author,
-      summary: p.excerpt,
-    }));
+    const articles: Article[] = data.posts.slice(0, 30).map((p) => {
+      const a: Article = {
+        id: p.slug,
+        title: p.title,
+        link: `https://<site>/posts/${p.slug}`,
+      };
+      const d = new Date(p.published_at);
+      if (!Number.isNaN(d.getTime())) a.published = d;
+      if (p.author) a.author = p.author;
+      if (p.excerpt) a.summary = p.excerpt;
+      return a;
+    });
+    return renderRss(
+      { title: "<site title>", link: "https://<site>", description: "" },
+      articles,
+    );
   },
 };
 
 export default adapter;
 ```
 
-### 4.2 nodejs runtime（CF 段被打 / 重解析）
-
-把 `agentic-rss/runtime-nodejs/` 完整拷到仓外目录，改 `src/adapter.ts`。imports 必须带 `.js` 扩展（NodeNext 要求）。
-
-```ts
-// runtime-nodejs/src/adapter.ts
-import type { Adapter } from "./types.js";
-import { safeFetch } from "./lib/fetch.js";
-
-const adapter: Adapter = {
-  meta: { ... },
-  async fetch() {                  // 注意：nodejs 版没有 ctx 参数
-    const resp = await safeFetch("https://<site>/rss.xml");
-    // 同模式 A/B/C/D 之一
-    return [];
-  },
-};
-
-export default adapter;
-```
-
-要 cheerio 做 HTML scrape：
+### nodejs runtime 用 cheerio
 
 ```bash
-cd runtime-nodejs/<your-instance>
 npm install cheerio
 ```
 
 ```ts
 import * as cheerio from "cheerio";
 
-async function fetch() {
-  const resp = await safeFetch("https://<site>/blog");
+async function build(ctx) {
+  const resp = await ctx.fetchUrl("https://<site>/blog");
   const $ = cheerio.load(await resp.text());
-  return $("article.post").slice(0, 30).map((_, el) => ({
-    id: $(el).find("a").attr("href")!,
-    title: $(el).find("h2").text().trim(),
-    link: new URL($(el).find("a").attr("href")!, "https://<site>").toString(),
-    published: new Date($(el).find("time").attr("datetime") ?? ""),
-  })).get();
+  const articles = $("article.post").slice(0, 30).map((_, el) => {
+    const href = $(el).find("a").attr("href") ?? "";
+    const link = new URL(href, "https://<site>").toString();
+    const datetime = $(el).find("time").attr("datetime") ?? "";
+    const article: any = {
+      id: link,
+      title: $(el).find("h2").text().trim(),
+      link,
+    };
+    const d = new Date(datetime);
+    if (!Number.isNaN(d.getTime())) article.published = d;
+    return article;
+  }).get();
+  // wrap with renderRss(meta, articles)
 }
 ```
 
+记得把 `cheerio` 加到 `package.json` 的 `dependencies` 而不是 `devDependencies`。
+
 ---
 
-## Step 5：硬约束（不管哪个 runtime、哪个模式都得遵守）
+## Step 6：硬约束
 
-- `Article.id` 必须稳定：用 link 或 sha1(link)。不要用 timestamp 或随机数，消费方按 id 去重
-- `Article.published` 解析失败时留空。不要塞 `new Date()`，那会让所有文章都被标"刚发"，污染时间排序
-- 条数 ≤ 30，单次响应不要过大
+- `Article.id` 必须稳定：用 link 或 sha1(link)，不要用 timestamp / 随机数
+- `published` 解析失败时不要赋值：`new Date("")` 是 Invalid Date，会被 `renderRss` 跳过；你的代码在赋值前必须 `!Number.isNaN(d.getTime())` 检查
+- 条数 ≤ 30
 - 25s 内必须返回（worker wall-time / 反代 timeout）
-- 不改公共代码：`lib/fetch.ts`、`lib/rss.ts`、`types.ts`、`server.ts`、`index.ts`、`passthrough.ts`，这些归 agentic-rss 模板维护，改了未来 instance 都受影响
-- secret 不硬编码：worker 用 `wrangler secret put`，nodejs 用环境变量加 `docker compose` 的 `environment:` 字段
+- 不改公共代码：`lib/fetch.ts`、`lib/rss.ts`、`lib/passthrough.ts`、`types.ts`、`server.ts`、`index.ts`
+- secret 不硬编码：worker 用 `wrangler secret put`，nodejs 用环境变量加 `docker compose` 的 `environment:`
 
 ---
 
-## Step 6：都不行的时候
+## Step 7：都不行的时候
 
-如果 Step 1 的诊断显示 A/B/C/D 全部不通——任意 IP、任意路径都被反爬，或者站点根本没结构化数据——直接告诉人类工程方案已穷尽，推荐选项是联系作者要白名单、接受现状从源列表移除、或商业住宅代理。
+如果 Step 1 的诊断显示 A/B/C/D 全部不通——任意 IP、任意路径都被反爬，或站点没结构化数据——直接告诉人类工程方案已穷尽。推荐选项：联系作者要白名单、放弃、商业住宅代理。
 
-不要把 50% 把握的代码塞给人类还说"应该能跑"。
+不要把没把握的代码塞给人类还说"应该能跑"。
 
 ---
 
-## Step 7：输出格式
+## Step 8：输出格式
 
 ```
 探查诊断
@@ -242,9 +277,6 @@ async function fetch() {
 
 代码：<runtime>/src/adapter.ts
 <完整文件，包括 imports>
-
-配置：<runtime>/wrangler.toml or docker-compose.yml
-<填好 name / port 等>
 
 部署命令
 # worker:
@@ -257,12 +289,10 @@ npm install && npx wrangler deploy
 # nodejs:
 cp -r agentic-rss/runtime-nodejs/ ~/agentic-rss-instances/<slug>/
 cd ~/agentic-rss-instances/<slug>/
-# (paste adapter.ts)
+# (paste adapter.ts; 如需 cheerio 等，加进 package.json dependencies)
 docker compose up -d --build
-# 公网暴露见 runtime-nodejs/README.md
 
 消费方接入
-在下游消费方源列表里改一行：
 - "https://<old-feed-url>"
 + "https://<new-endpoint>"
 ```

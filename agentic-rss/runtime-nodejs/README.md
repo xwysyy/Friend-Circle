@@ -64,4 +64,4 @@ npm run typecheck
 
 ## 跟 runtime-worker 的关系
 
-两个 runtime 共用 `src/types.ts` 和 `src/lib/rss.ts` 的设计——同源不同构。`adapter.ts` 接口完全一致，AI 生成的 adapter 代码在两个 runtime 间迁移不用改逻辑，只是 import 路径细节不同：worker 不带 `.js`、NodeNext 必须带 `.js`，AI 在生成时自己处理。
+两个 runtime 用同一份 `FeedAdapter` 接口（`build(ctx) → string`），同一组 `Article` / `FeedMeta` 数据形态，`ctx` 暴露同样的 `request` 和 `fetchUrl`。差别只在 import 路径：worker 不带 `.js`，NodeNext 必须带 `.js`。
