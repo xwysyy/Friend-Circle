@@ -51,6 +51,6 @@ jobs:
         for attempt in 1 2 3; do
           if git push origin master; then exit 0; fi
           echo "push attempt $attempt failed, rebasing"
-          git pull --rebase origin master
+          git pull --rebase -X theirs origin master
         done
         git push origin master
