@@ -1,30 +1,12 @@
 {
   "statistical_data": {
     "friends_num": 40,
-    "active_num": 37,
-    "error_num": 3,
-    "article_num": 233,
-    "last_updated_time": "2026-05-03 03:09:14"
+    "active_num": 38,
+    "error_num": 2,
+    "article_num": 229,
+    "last_updated_time": "2026-05-03 11:42:00"
   },
   "article_data": [
-    {
-      "id": "85906f191a7d20efe576440418a18e9f884d7a13",
-      "title": "Sightings",
-      "created": "2026-05-03 01:26",
-      "link": "https://simonwillison.net/2026/May/2/sightings/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "448fdee9ae00cb57a6982b182dda6e5d1efd2f8a",
-      "title": "EP213: MCP vs Skills, Clearly Explained",
-      "created": "2026-05-02 23:30",
-      "link": "https://blog.bytebytego.com/p/ep213-mcp-vs-skills-clearly-explained",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
     {
       "id": "43e6e7241434e1703c2f83c4b72903ccb6c53dad",
       "title": "MuP之上：4. 坚守参数的稳定性",
@@ -512,15 +494,6 @@
       "category": "ai"
     },
     {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -536,6 +509,15 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -575,21 +557,21 @@
       "category": "ai"
     },
     {
-      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
-      "title": "Qwen多模态系列论文",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
       "title": "Google Gemini LangChain Cheatsheet",
       "created": "2025-04-28 08:00",
       "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
+      "title": "Qwen多模态系列论文",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -638,21 +620,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -782,21 +764,21 @@
       "category": "ai"
     },
     {
-      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
-      "title": "Model Context Protocol (MCP) an overview",
-      "created": "2025-04-03 08:00",
-      "link": "https://www.philschmid.de/mcp-introduction",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
       "title": "The NLP Course is becoming the LLM Course",
       "created": "2025-04-03 08:00",
       "link": "https://huggingface.co/blog/llm-course",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
+      "title": "Model Context Protocol (MCP) an overview",
+      "created": "2025-04-03 08:00",
+      "link": "https://www.philschmid.de/mcp-introduction",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1007,21 +989,21 @@
       "category": "ai"
     },
     {
-      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
-      "title": "Oh-Numpy & Oh-Pytorch",
-      "created": "2025-01-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
       "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
       "created": "2025-01-23 08:00",
       "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1502,10 +1484,10 @@
       "category": "ai"
     },
     {
-      "id": "f05b330747f21181d360dcf8eb0d360ac4310e9e",
-      "title": "CJackHwang/ds2api",
+      "id": "1606cfe2c2a91a41cc45f731859c6869e9340b81",
+      "title": "TauricResearch/TradingAgents",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/CJackHwang/ds2api",
+      "link": "https://github.com/TauricResearch/TradingAgents",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1520,6 +1502,15 @@
       "category": "ai"
     },
     {
+      "id": "f05b330747f21181d360dcf8eb0d360ac4310e9e",
+      "title": "CJackHwang/ds2api",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/CJackHwang/ds2api",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "f27e1e5b7a64ef755c3de72b65c2d828dbd5ce56",
       "title": "forrestchang/andrej-karpathy-skills",
       "created": "2024-01-01 00:00",
@@ -1529,28 +1520,10 @@
       "category": "ai"
     },
     {
-      "id": "612df4c77681065953c9d46308be0b32bad980ae",
-      "title": "huggingface/ml-intern",
+      "id": "e0f906740cdeb2118a3131dc90c7f1b8bb929dc1",
+      "title": "soxoj/maigret",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/huggingface/ml-intern",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "1606cfe2c2a91a41cc45f731859c6869e9340b81",
-      "title": "TauricResearch/TradingAgents",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/TauricResearch/TradingAgents",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "03d9c2ce3223603f52df2a9ca5b3220309c7a44e",
-      "title": "AIDC-AI/Pixelle-Video",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/AIDC-AI/Pixelle-Video",
+      "link": "https://github.com/soxoj/maigret",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1565,19 +1538,10 @@
       "category": "ai"
     },
     {
-      "id": "c4764ac37ccdddc8e7717cba92f01f19c175907a",
-      "title": "mksglu/context-mode",
+      "id": "03d9c2ce3223603f52df2a9ca5b3220309c7a44e",
+      "title": "AIDC-AI/Pixelle-Video",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/mksglu/context-mode",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "0dbd88f1eb90a96304930330fa5ae003272d6570",
-      "title": "lsdefine/GenericAgent",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/lsdefine/GenericAgent",
+      "link": "https://github.com/AIDC-AI/Pixelle-Video",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
