@@ -4,7 +4,7 @@
     "active_num": 39,
     "error_num": 0,
     "article_num": 620,
-    "last_updated_time": "2026-05-03 13:37:12"
+    "last_updated_time": "2026-05-03 14:03:58"
   },
   "article_data": [
     {
@@ -404,6 +404,15 @@
       "category": "ai"
     },
     {
+      "id": "a89e6f10b7acf2139166c39d0a16abc516493b21",
+      "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+      "created": "2026-04-29 08:00",
+      "link": "https://huggingface.co/blog/inference-providers-deepinfra",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "ace26a865a7eae55454283b1bb91edc9b7798866",
       "title": "Karpathy 最新访谈：Vibe Coding 只是开始，真正重要的是 Agentic Engineering",
       "created": "2026-04-29 08:00",
@@ -419,15 +428,6 @@
       "link": "https://baoyu.io/blog/2026-04-29/manthanguptaa-2034849672985288957",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "a89e6f10b7acf2139166c39d0a16abc516493b21",
-      "title": "DeepInfra on Hugging Face Inference Providers 🔥",
-      "created": "2026-04-29 08:00",
-      "link": "https://huggingface.co/blog/inference-providers-deepinfra",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -773,6 +773,15 @@
       "category": "ai"
     },
     {
+      "id": "b2ff62f993e156901e2aede1046e3d29e09b5016",
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "created": "2026-04-24 08:00",
+      "link": "https://huggingface.co/blog/deepseekv4",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "8affeffd93ea0200d114b665617039478b951aa2",
       "title": "为 Agent 设计产品",
       "created": "2026-04-24 08:00",
@@ -800,15 +809,6 @@
       "category": "ai"
     },
     {
-      "id": "b2ff62f993e156901e2aede1046e3d29e09b5016",
-      "title": "DeepSeek-V4: a million-token context that agents can actually use",
-      "created": "2026-04-24 08:00",
-      "link": "https://huggingface.co/blog/deepseekv4",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "bd915e6415de8037c5bbb9df547a651cebcaa363",
       "title": "科技爱好者周刊（第 394 期）：第二次 API 开放浪潮",
       "created": "2026-04-24 07:43",
@@ -827,15 +827,6 @@
       "category": "ai"
     },
     {
-      "id": "6d08cefd102658270351e24f5d0eb3914c16ed8d",
-      "title": "Cat Wu 面试了几百个 PM 候选人，几乎没人答对一个问题：AI 产品经理到底应该干什么？",
-      "created": "2026-04-23 08:00",
-      "link": "https://baoyu.io/blog/building-agi-pilled-products-cat-wu-head-of-product-claude-code",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "bbe46f346ed578abca5d1c05aff9e639de668d48",
       "title": "制造业的5种模式：OEM 、ODM、OBM 、JDM、CMT",
       "created": "2026-04-23 08:00",
@@ -851,6 +842,15 @@
       "link": "https://huggingface.co/blog/transformersjs-chrome-extension",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6d08cefd102658270351e24f5d0eb3914c16ed8d",
+      "title": "Cat Wu 面试了几百个 PM 候选人，几乎没人答对一个问题：AI 产品经理到底应该干什么？",
+      "created": "2026-04-23 08:00",
+      "link": "https://baoyu.io/blog/building-agi-pilled-products-cat-wu-head-of-product-claude-code",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -1322,21 +1322,21 @@
       "category": "ai"
     },
     {
-      "id": "67c375e2820f6f35f26b0019cf7ef43a7ba26d9c",
-      "title": "为什么你的\"AI 优先\"战略可能大错特错？",
-      "created": "2026-04-13 08:00",
-      "link": "https://baoyu.io/blog/2026-04-13/ai-first",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "756c8565cf726e78c236601a1387db6577ce87af",
       "title": "Harness Engineering 学习笔记",
       "created": "2026-04-13 08:00",
       "link": "https://yukinoshitasherry.github.io/harness_eng/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "67c375e2820f6f35f26b0019cf7ef43a7ba26d9c",
+      "title": "为什么你的\"AI 优先\"战略可能大错特错？",
+      "created": "2026-04-13 08:00",
+      "link": "https://baoyu.io/blog/2026-04-13/ai-first",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -1367,21 +1367,21 @@
       "category": "ai"
     },
     {
-      "id": "2bd2bead1d95e98d9298e47de973733b9ce49487",
-      "title": "“多智能体协作指南：五种主流模式怎么选、怎么用？”",
-      "created": "2026-04-12 08:00",
-      "link": "https://baoyu.io/translations/2026-04-11/multi-agent-coordination-patterns",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "16ac650ff263ca59da750c507a7503f525a7fe8c",
       "title": "和弦基础知识",
       "created": "2026-04-12 08:00",
       "link": "https://yukinoshitasherry.github.io/%E4%B9%90%E7%90%86%E5%92%8C%E5%BC%A6%E5%9F%BA%E7%A1%80/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "2bd2bead1d95e98d9298e47de973733b9ce49487",
+      "title": "“多智能体协作指南：五种主流模式怎么选、怎么用？”",
+      "created": "2026-04-12 08:00",
+      "link": "https://baoyu.io/translations/2026-04-11/multi-agent-coordination-patterns",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -1637,6 +1637,15 @@
       "category": "ai"
     },
     {
+      "id": "072008ad64ef5bc778769649a46c42be569d5eb7",
+      "title": "“去往何处？皆可成途。”",
+      "created": "2026-04-06 08:00",
+      "link": "https://yukinoshitasherry.github.io/2604%E5%BC%82%E5%9B%BD%E6%97%A5%E8%AE%B0/",
+      "author": "秋月春风的书房",
+      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
       "id": "41cf8b07511b56605da860d6f01729376acbbbb5",
       "title": "Claude Code 省 Token 指南：慎用 1M 上下文，不开新会话或者总是开新会话都不对",
       "created": "2026-04-06 08:00",
@@ -1652,15 +1661,6 @@
       "link": "https://baoyu.io/blog/2026-04-06/how-openais-codex-team-builds-with-codex",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "072008ad64ef5bc778769649a46c42be569d5eb7",
-      "title": "“去往何处？皆可成途。”",
-      "created": "2026-04-06 08:00",
-      "link": "https://yukinoshitasherry.github.io/2604%E5%BC%82%E5%9B%BD%E6%97%A5%E8%AE%B0/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
       "category": "ai"
     },
     {
@@ -1817,24 +1817,6 @@
       "category": "ai"
     },
     {
-      "id": "f99a1d713d2fc1a53f4e1c401de0fadf23d9ae5a",
-      "title": "OpenAI 总裁 Greg Brockman：AI 自我改进、Super App 豪赌、通往 AGI 之路、算力扩张",
-      "created": "2026-04-01 08:00",
-      "link": "https://baoyu.io/blog/openai-president-greg-brockman-ai-self-improvement-the-superapp-bet-path-to-agi-scaling-compute",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b7d2b8c55eaecf85ac15e77239f58db4caa59899",
-      "title": "Claude Code 源码泄漏了，但我不打算写源码分析分析文章",
-      "created": "2026-04-01 08:00",
-      "link": "https://baoyu.io/blog/2026-04-01/learn-from-open-source",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "e60cf7e1834d90f21d1a7939cc9be7aec5d5dff2",
       "title": "Claude Code 2026-03-31 开源笔记整理",
       "created": "2026-04-01 08:00",
@@ -1850,6 +1832,24 @@
       "link": "https://huggingface.co/blog/introducing-gradio-server",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "f99a1d713d2fc1a53f4e1c401de0fadf23d9ae5a",
+      "title": "OpenAI 总裁 Greg Brockman：AI 自我改进、Super App 豪赌、通往 AGI 之路、算力扩张",
+      "created": "2026-04-01 08:00",
+      "link": "https://baoyu.io/blog/openai-president-greg-brockman-ai-self-improvement-the-superapp-bet-path-to-agi-scaling-compute",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b7d2b8c55eaecf85ac15e77239f58db4caa59899",
+      "title": "Claude Code 源码泄漏了，但我不打算写源码分析分析文章",
+      "created": "2026-04-01 08:00",
+      "link": "https://baoyu.io/blog/2026-04-01/learn-from-open-source",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -3545,21 +3545,21 @@
       "category": "ai"
     },
     {
-      "id": "f4b3d10b27b983aeffd563b69ad775210aa57b6e",
-      "title": "TileLang笔记",
-      "created": "2025-12-29 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/tilelang%E7%AC%94%E8%AE%B0/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
       "id": "b9a24d96040d69721c996a7121f4b197f6aafd26",
       "title": "深入浅出了解生成模型-8：生成加速策略概述",
       "created": "2025-12-29 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/12/29/SDAcceralate.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "f4b3d10b27b983aeffd563b69ad775210aa57b6e",
+      "title": "TileLang笔记",
+      "created": "2025-12-29 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/tilelang%E7%AC%94%E8%AE%B0/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
