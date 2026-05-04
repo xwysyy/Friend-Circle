@@ -3,28 +3,10 @@
     "friends_num": 39,
     "active_num": 39,
     "error_num": 0,
-    "article_num": 235,
-    "last_updated_time": "2026-05-04 11:40:24"
+    "article_num": 229,
+    "last_updated_time": "2026-05-04 16:35:59"
   },
   "article_data": [
-    {
-      "id": "3349fac97521f452ea460d2baac1b5e22769d776",
-      "title": "如何更科学地估计矩阵的谱范数？",
-      "created": "2026-05-04 10:18",
-      "link": "https://kexue.fm/archives/11736",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
-      "id": "aab34ffb59907b4edcdd3bb870e6f813040ca9ed",
-      "title": "大多数公司根本没有为 AI 做好准备",
-      "created": "2026-05-03 08:00",
-      "link": "https://baoyu.io/blog/2026-05-03/danielmiessler-status-2050666594188304484",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
     {
       "id": "e077c895a75465c549d17f8876c9f3bbc6d20a1b",
       "title": "pi-context：一个让 AI 自己管记忆的小工具",
@@ -32,15 +14,6 @@
       "link": "https://axi.moe/posts/picontex/",
       "author": "NolanHo",
       "avatar": "https://axi.moe/assets/icon.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "43e6e7241434e1703c2f83c4b72903ccb6c53dad",
-      "title": "MuP之上：4. 坚守参数的稳定性",
-      "created": "2026-04-24 10:30",
-      "link": "https://kexue.fm/archives/11729",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -62,24 +35,6 @@
       "category": "ai"
     },
     {
-      "id": "87dd11765b5447e4a00ea1a6f5577f2734b65b2d",
-      "title": "基于流式幂迭代的Muon实现：5. 延伸",
-      "created": "2026-04-17 15:01",
-      "link": "https://kexue.fm/archives/11719",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
-      "id": "28a551e06a3e9e9a78c9da17ec01b0f6f08f9d40",
-      "title": "基于流式幂迭代的Muon实现：4. 原理",
-      "created": "2026-04-13 23:03",
-      "link": "https://kexue.fm/archives/11710",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
       "id": "756c8565cf726e78c236601a1387db6577ce87af",
       "title": "Harness Engineering 学习笔记",
       "created": "2026-04-13 08:00",
@@ -95,15 +50,6 @@
       "link": "https://www.cnblogs.com/moonout/p/19836058",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
-      "id": "439bd22aab85ac088174cb3abd1cbf0a7d5ec450",
-      "title": "基于流式幂迭代的Muon实现：3. 雕琢",
-      "created": "2026-04-07 15:41",
-      "link": "https://kexue.fm/archives/11697",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -557,15 +503,6 @@
       "category": "ai"
     },
     {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -581,6 +518,15 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
