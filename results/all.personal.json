@@ -3,35 +3,26 @@
     "friends_num": 39,
     "active_num": 39,
     "error_num": 0,
-    "article_num": 233,
-    "last_updated_time": "2026-05-04 03:07:04"
+    "article_num": 235,
+    "last_updated_time": "2026-05-04 11:40:24"
   },
   "article_data": [
     {
-      "id": "1722432180f0faf0facfd79de06078e01b194a41",
-      "title": "Quoting Anthropic",
-      "created": "2026-05-03 23:13",
-      "link": "https://simonwillison.net/2026/May/3/anthropic/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "id": "3349fac97521f452ea460d2baac1b5e22769d776",
+      "title": "如何更科学地估计矩阵的谱范数？",
+      "created": "2026-05-04 10:18",
+      "link": "https://kexue.fm/archives/11736",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
-      "id": "04d79e67e780f801ca457a80ce1d4db33295e85d",
-      "title": "CTO不香了？百亿公司高管们为何集体转身，去Anthropic当工程师",
-      "created": "2026-05-03 13:35",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031312&idx=1&sn=e4dda1171530c70f5af29a18d581d9f0",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "71bb585cd0fd15333857e964812eca363ad4c7f5",
-      "title": "CVPR 2026 Highlight | 超越传统检索方法！我们的激光雷达重定位方法在精度和效率上双丰收",
-      "created": "2026-05-03 13:35",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031312&idx=2&sn=31dfe612b76e57bfe539febf75841ce9",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "id": "aab34ffb59907b4edcdd3bb870e6f813040ca9ed",
+      "title": "大多数公司根本没有为 AI 做好准备",
+      "created": "2026-05-03 08:00",
+      "link": "https://baoyu.io/blog/2026-05-03/danielmiessler-status-2050666594188304484",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -566,6 +557,15 @@
       "category": "ai"
     },
     {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -581,15 +581,6 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -1511,6 +1502,24 @@
       "category": "ai"
     },
     {
+      "id": "1606cfe2c2a91a41cc45f731859c6869e9340b81",
+      "title": "TauricResearch/TradingAgents",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "2bee53db4df5c0a79e4371e8459c048baa5c2d36",
+      "title": "ComposioHQ/awesome-codex-skills",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "d1aa340a643527c9458f562f06b6497685c99bdd",
       "title": "Alishahryar1/free-claude-code",
       "created": "2024-01-01 00:00",
@@ -1520,10 +1529,19 @@
       "category": "ai"
     },
     {
-      "id": "1606cfe2c2a91a41cc45f731859c6869e9340b81",
-      "title": "TauricResearch/TradingAgents",
+      "id": "3028b0699ef1c7ba41c6aafcc144e1398b82506c",
+      "title": "refactoringhq/tolaria",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/TauricResearch/TradingAgents",
+      "link": "https://github.com/refactoringhq/tolaria",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "e0f906740cdeb2118a3131dc90c7f1b8bb929dc1",
+      "title": "soxoj/maigret",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/soxoj/maigret",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1547,19 +1565,10 @@
       "category": "ai"
     },
     {
-      "id": "f27e1e5b7a64ef755c3de72b65c2d828dbd5ce56",
-      "title": "forrestchang/andrej-karpathy-skills",
+      "id": "c289dc3d991e222b970344c35cf58dc3763342a2",
+      "title": "ruvnet/ruflo",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/forrestchang/andrej-karpathy-skills",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "e0f906740cdeb2118a3131dc90c7f1b8bb929dc1",
-      "title": "soxoj/maigret",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/soxoj/maigret",
+      "link": "https://github.com/ruvnet/ruflo",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1569,6 +1578,15 @@
       "title": "abhigyanpatwari/GitNexus",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/abhigyanpatwari/GitNexus",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "f27e1e5b7a64ef755c3de72b65c2d828dbd5ce56",
+      "title": "forrestchang/andrej-karpathy-skills",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/forrestchang/andrej-karpathy-skills",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
