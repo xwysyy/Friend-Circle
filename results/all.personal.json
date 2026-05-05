@@ -3,10 +3,91 @@
     "friends_num": 39,
     "active_num": 39,
     "error_num": 0,
-    "article_num": 228,
-    "last_updated_time": "2026-05-05 16:18:26"
+    "article_num": 236,
+    "last_updated_time": "2026-05-06 03:28:20"
   },
   "article_data": [
+    {
+      "id": "730149a9a16be5d1b4cb97e6e829212693e648ec",
+      "title": "How Instacart Built a Search for Billions of Products",
+      "created": "2026-05-05 23:31",
+      "link": "https://blog.bytebytego.com/p/how-instacart-built-a-search-for",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "id": "1597602f4362ca2b628e83a1f800d35855cc1eed",
+      "title": "Agentic Coding is a Trap",
+      "created": "2026-05-05 22:22",
+      "link": "https://lumina.shawnxie.top/article/agentic-coding-is-a-trap-lars-faye-790d49bd",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "b6d7763414fac562ed408b58608b220a482c8a50",
+      "title": "Anthropic联创定下deadline：2028年AI实现自我进化，没有人类了",
+      "created": "2026-05-05 11:59",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031346&idx=1&sn=95a7f4e3da2158aca6bfde400b0daec9",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "dd452ca6766117e28e4918836fd97f0ddcff0917",
+      "title": "大型挂机现场：马斯克的55万英伟达GPU，利用率才11%",
+      "created": "2026-05-05 11:59",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031346&idx=2&sn=868e92d74f06c9a2d5cdb11adaed90e1",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "bca718eb5cd5fa88dd49c07042c6df03b7c37329",
+      "title": "Agent-World：扩展真实世界环境，让智能体与环境协同进化！",
+      "created": "2026-05-05 11:59",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031346&idx=3&sn=40ac6c7a7ac8a91fdcee5da9a07f31af",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "09439920b0f5e343e9ac4043617f24ef71b0ed0b",
+      "title": "datasette-llm 0.1a7",
+      "created": "2026-05-05 09:56",
+      "link": "https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "a1637227bed393c7c56e490f7cf7f2e46546e7f4",
+      "title": "llm-echo 0.5a0",
+      "created": "2026-05-05 09:31",
+      "link": "https://simonwillison.net/2026/May/5/llm-echo/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "a7e2bc3b3439ecc5217ce9ca45402f8ddda7794c",
+      "title": "Boris Cherny：Claude Code 之后，写代码正在变成“管理 Agent”",
+      "created": "2026-05-05 08:00",
+      "link": "https://baoyu.io/blog/anthropics-boris-cherny-why-coding-is-solved-and-what-comes-next",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "af3b0a3b920651ae44a4fd3c38df917a3f40bf4c",
+      "title": "How Agents Manage Other Agents: Four Subagents Patterns in 2026",
+      "created": "2026-05-05 08:00",
+      "link": "https://www.philschmid.de/subagent-patterns-2026",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "e077c895a75465c549d17f8876c9f3bbc6d20a1b",
       "title": "pi-context：一个让 AI 自己管记忆的小工具",
@@ -638,21 +719,21 @@
       "category": "ai"
     },
     {
-      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
-      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
-      "created": "2025-04-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
       "title": "The State of Reinforcement Learning for LLM Reasoning",
       "created": "2025-04-19 08:00",
       "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
+      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
+      "created": "2025-04-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -1301,15 +1382,6 @@
       "link": "https://magazine.sebastianraschka.com/p/new-llm-pre-training-and-post-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "ae423d41c3c5aa855626e46f704b3409ef6f9d32",
-      "title": "Deploy open LLMs with Terraform and Amazon SageMaker",
-      "created": "2024-08-05 08:00",
-      "link": "https://www.philschmid.de/terraform-llm-sagemaker",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
