@@ -3,71 +3,53 @@
     "friends_num": 39,
     "active_num": 39,
     "error_num": 0,
-    "article_num": 236,
-    "last_updated_time": "2026-05-05 03:46:58"
+    "article_num": 233,
+    "last_updated_time": "2026-05-05 11:26:50"
   },
   "article_data": [
     {
-      "id": "375b3d26ea022606a8c7bfd51afd004cfca39a73",
-      "title": "TRE Python binding — ReDoS robustness demo",
-      "created": "2026-05-05 01:52",
-      "link": "https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything",
+      "id": "4e6aab6c5261fee3d7e76218c25f83e1f448eead",
+      "title": "642 - 《如何自动发布 npm 包》",
+      "created": "2026-05-05 10:35",
+      "link": "https://blog.sorrycc.com/auto-publish-npm",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "ca300f940cc4c3243d2165a91d584ed5e466d694",
+      "title": "Quoting John Gruber",
+      "created": "2026-05-05 08:46",
+      "link": "https://simonwillison.net/2026/May/5/john-gruber/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
-      "id": "9338c82257de4a492aab0a5e7405f4680e3ebc6d",
-      "title": "Redis Array Playground",
-      "created": "2026-05-04 23:53",
-      "link": "https://simonwillison.net/2026/May/4/redis-array/#atom-everything",
+      "id": "e1f875fa052c8ca37c8f0fb18c2bc36fab8da7ff",
+      "title": "Granite 4.1 3B SVG Pelican Gallery",
+      "created": "2026-05-05 07:49",
+      "link": "https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
-      "id": "d94c6e74d75fe3a2862f97cd5a2ce549ba4da888",
-      "title": "Connecting LLMs to the Real World: Tool Use, Function Calling, and MCP",
-      "created": "2026-05-04 23:30",
-      "link": "https://blog.bytebytego.com/p/connecting-llms-to-the-real-world",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "id": "15cc65d7fd8504a787492e87774b9be05c5ab48e",
+      "title": "Quoting Andy Masley",
+      "created": "2026-05-05 06:51",
+      "link": "https://simonwillison.net/2026/May/4/andy-masley/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
-      "id": "be8f4d71fd027c90b38e9dc03f63fd9921354954",
-      "title": "黔山赴夏，清风入怀",
-      "created": "2026-05-04 20:50",
-      "link": "https://blog.liushen.fun/posts/1968ba6c/",
-      "author": "清羽飞扬",
-      "avatar": "https://blog.liushen.fun/info/avatar.ico",
-      "category": "friend"
-    },
-    {
-      "id": "5a4264ac57bd0eeacc37ef65c9abd22acbbeabb7",
-      "title": "黄仁勋点名Anthropic达里奥，别一当CEO，就开「上帝视角」",
-      "created": "2026-05-04 12:06",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031323&idx=1&sn=8b72029d40895f8dd13a1351a475ecf6",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "9572501557e56e3a8778866d5b5de69afcfd2c00",
-      "title": "ACL 2026｜AI for聋哑群体，港理工开源思考型手语翻译模型",
-      "created": "2026-05-04 12:06",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031323&idx=2&sn=7d9ecbd8fd6cb0ecf80e6a7ec5dc81ae",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "9e1e8065df6eca8b50a2a48ac02c17ec637bb808",
-      "title": "Introducing the IBM Granite 4.1 family of models",
-      "created": "2026-04-29 20:41",
-      "link": "https://lumina.shawnxie.top/article/introducing-the-ibm-granite-4-1-family-of-models-bdd532d9",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "id": "be2e8e207ae49d06819f3c4d2b5e6d30b0aa1aed",
+      "title": "April 2026 newsletter",
+      "created": "2026-05-05 06:38",
+      "link": "https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -566,6 +548,15 @@
       "category": "ai"
     },
     {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -581,15 +572,6 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -845,21 +827,21 @@
       "category": "ai"
     },
     {
-      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
-      "title": "The NLP Course is becoming the LLM Course",
-      "created": "2025-04-03 08:00",
-      "link": "https://huggingface.co/blog/llm-course",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
       "title": "Model Context Protocol (MCP) an overview",
       "created": "2025-04-03 08:00",
       "link": "https://www.philschmid.de/mcp-introduction",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
+      "title": "The NLP Course is becoming the LLM Course",
+      "created": "2025-04-03 08:00",
+      "link": "https://huggingface.co/blog/llm-course",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1520,33 +1502,6 @@
       "category": "ai"
     },
     {
-      "id": "2bee53db4df5c0a79e4371e8459c048baa5c2d36",
-      "title": "ComposioHQ/awesome-codex-skills",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/ComposioHQ/awesome-codex-skills",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "d1aa340a643527c9458f562f06b6497685c99bdd",
-      "title": "Alishahryar1/free-claude-code",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/Alishahryar1/free-claude-code",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "3028b0699ef1c7ba41c6aafcc144e1398b82506c",
-      "title": "refactoringhq/tolaria",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/refactoringhq/tolaria",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "e0f906740cdeb2118a3131dc90c7f1b8bb929dc1",
       "title": "soxoj/maigret",
       "created": "2024-01-01 00:00",
@@ -1556,19 +1511,10 @@
       "category": "ai"
     },
     {
-      "id": "d7eaf7c180c92bcbb50236afa969edf664a6753d",
-      "title": "Z4nzu/hackingtool",
+      "id": "2bee53db4df5c0a79e4371e8459c048baa5c2d36",
+      "title": "ComposioHQ/awesome-codex-skills",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Z4nzu/hackingtool",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "f05b330747f21181d360dcf8eb0d360ac4310e9e",
-      "title": "CJackHwang/ds2api",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/CJackHwang/ds2api",
+      "link": "https://github.com/ComposioHQ/awesome-codex-skills",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1583,19 +1529,28 @@
       "category": "ai"
     },
     {
-      "id": "ca08b1c29b3dcb3dce5103e7b5f099ded6d5bf31",
-      "title": "abhigyanpatwari/GitNexus",
+      "id": "d1aa340a643527c9458f562f06b6497685c99bdd",
+      "title": "Alishahryar1/free-claude-code",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/abhigyanpatwari/GitNexus",
+      "link": "https://github.com/Alishahryar1/free-claude-code",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "f27e1e5b7a64ef755c3de72b65c2d828dbd5ce56",
-      "title": "forrestchang/andrej-karpathy-skills",
+      "id": "f05b330747f21181d360dcf8eb0d360ac4310e9e",
+      "title": "CJackHwang/ds2api",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "link": "https://github.com/CJackHwang/ds2api",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "3028b0699ef1c7ba41c6aafcc144e1398b82506c",
+      "title": "refactoringhq/tolaria",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/refactoringhq/tolaria",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1605,6 +1560,24 @@
       "title": "AIDC-AI/Pixelle-Video",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/AIDC-AI/Pixelle-Video",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "d7eaf7c180c92bcbb50236afa969edf664a6753d",
+      "title": "Z4nzu/hackingtool",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/Z4nzu/hackingtool",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "ca08b1c29b3dcb3dce5103e7b5f099ded6d5bf31",
+      "title": "abhigyanpatwari/GitNexus",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/abhigyanpatwari/GitNexus",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
