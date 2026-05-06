@@ -3,89 +3,35 @@
     "friends_num": 39,
     "active_num": 39,
     "error_num": 0,
-    "article_num": 239,
-    "last_updated_time": "2026-05-06 22:26:21"
+    "article_num": 233,
+    "last_updated_time": "2026-05-07 03:52:13"
   },
   "article_data": [
     {
-      "id": "cdd434610d08e080331d838d0f85ba18f10b2e7e",
-      "title": "DeepSeek-TUI：DeepSeek V4 编码智能体",
-      "created": "2026-05-06 18:31",
-      "link": "https://lumina.shawnxie.top/article/deepseek-tui-deepseek-v4-bian-ma-zhi-neng-ti-70b4132d",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "83e4ccc7eb0b460b0545be74e323a16bce746e8b",
-      "title": "Understand-Anything：开源的代码库与知识库可视化工具",
-      "created": "2026-05-06 18:29",
-      "link": "https://lumina.shawnxie.top/article/understand-anything-kai-yuan-de-dai-ma-ku-yu-zhi-6ca798c9",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "7bbfecdc7c23ce6973cbcb710d7ed83075b6169b",
-      "title": "agency-agents：AI智能体集合库",
-      "created": "2026-05-06 18:27",
-      "link": "https://lumina.shawnxie.top/article/agency-agents-aizhi-neng-ti-ji-he-ku-7aa44039",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "ac55fd4aa3f49b816f0c3a76d9f4d054972d8209",
-      "title": "国产双开源：让Mac成为你的私人AI工作站",
-      "created": "2026-05-06 12:07",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031464&idx=1&sn=9c345be57f7ae7a14ff081ab1296ce50",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e7fcff7f3fea0c7237cc7a6e1fd41190f1dc1cee",
-      "title": "DeepSeek版Claude Code登顶热榜：8700星，鲸鱼哥火了",
-      "created": "2026-05-06 12:07",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031464&idx=2&sn=add32722ef0e5b18e2f83c85e9712d8c",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e931ddc1c70606b48ece84f95ce700c51ea01b42",
-      "title": "阿里开源PromptEcho：用冻结多模态大模型为文生图训练提供高质量Reward",
-      "created": "2026-05-06 12:07",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031464&idx=3&sn=1403f06cf74aec5f22aae0b31717230f",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "351d00366b56e172244301721160e3ddc488dd01",
-      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-      "created": "2026-05-06 08:00",
-      "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+      "id": "08c10eedccbd3d4b0c4e2841d0e40f6a6ba7099f",
+      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+      "created": "2026-05-07 03:06",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "fcf3c21fdaeebd2768e453f6890f2fba72129ec0",
-      "title": "Voice Agents 101: The Architecture Behind AI That Talks Back",
-      "created": "2026-05-05 18:23",
-      "link": "https://lumina.shawnxie.top/article/voice-agents-101-the-architecture-behind-ai-that-b560f3f6",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "id": "388ec99527c0298c086841a73f368af684460a4f",
+      "title": "Live blog: Code w/ Claude 2026",
+      "created": "2026-05-06 23:58",
+      "link": "https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
-      "id": "df13e4a04a91d5f3f7738d868321882a6dc3d78f",
-      "title": "First desktop computer: Datapoint 2200",
-      "created": "2026-05-05 18:17",
-      "link": "https://lumina.shawnxie.top/article/first-desktop-computer-datapoint-2200-9b5f1b3f",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "id": "839f5e0b5c1d8233fb64d9c9fbec66f354c0f503",
+      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+      "created": "2026-05-06 22:24",
+      "link": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -113,6 +59,15 @@
       "link": "https://axi.moe/posts/whywez01/",
       "author": "NolanHo",
       "avatar": "https://axi.moe/assets/icon.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "474a050ed104a493dd13ffae9eb5a787782a16d3",
+      "title": "🔥Pytorch使用-3：Pytorch中分布式训练-1",
+      "created": "2026-04-20 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/04/20/torch-basic-distribute-1.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -647,21 +602,21 @@
       "category": "ai"
     },
     {
-      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
-      "title": "Qwen多模态系列论文",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
       "title": "Google Gemini LangChain Cheatsheet",
       "created": "2025-04-28 08:00",
       "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
+      "title": "Qwen多模态系列论文",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -719,21 +674,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -998,15 +953,6 @@
       "category": "ai"
     },
     {
-      "id": "670c43aeeec6f587dd9a10d35354a26c883ceb46",
-      "title": "DeepSpeed基本原理",
-      "created": "2025-02-24 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/02/24/deepspeed.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "0df637fa256ffa2ba859e4dd6fac7cab947a37b0",
       "title": "Deepseek GRPO 中的 KL Divergence",
       "created": "2025-02-23 08:00",
@@ -1079,21 +1025,21 @@
       "category": "ai"
     },
     {
-      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
-      "title": "Oh-Numpy & Oh-Pytorch",
-      "created": "2025-01-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
       "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
       "created": "2025-01-23 08:00",
       "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
