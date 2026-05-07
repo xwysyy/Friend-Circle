@@ -3,10 +3,64 @@
     "friends_num": 39,
     "active_num": 39,
     "error_num": 0,
-    "article_num": 232,
-    "last_updated_time": "2026-05-07 16:40:48"
+    "article_num": 238,
+    "last_updated_time": "2026-05-07 22:26:41"
   },
   "article_data": [
+    {
+      "id": "11c8bd29bd41d0178c3d7a4b9b4035d89953817b",
+      "title": "644 - 《Awesome Skills & Plugins》",
+      "created": "2026-05-07 22:22",
+      "link": "https://blog.sorrycc.com/awesome-skills-plugins",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "ebb41618ab1b7023dbe98a9b4a06ed3448e5ba66",
+      "title": "643 - 《Release Helm》",
+      "created": "2026-05-07 17:39",
+      "link": "https://blog.sorrycc.com/release-helm",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "35af62fb342c5aca75b6af8f2db2448aa8ebd0bb",
+      "title": "刚刚，马斯克官宣xAI解散，22万张GPU算力租给Anthropic",
+      "created": "2026-05-07 10:05",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031726&idx=1&sn=e6eca005d102e4a279d9b460dfa0d35d",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "1ea5c25de9012b35562694c18cfbd7448a66eb5e",
+      "title": "0%完成率！Claude、GPT、Gemini 全灭，SWE-Bench作者新作把AI圈干沉默了",
+      "created": "2026-05-07 10:05",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031726&idx=2&sn=105ca19f31b4709f958795a3a73bc0ca",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6d9f265525c016a03860e49cf176f19a27be59dc",
+      "title": "TACO: 让 CLI Agent 在自主迭代中学会丢掉无用上下文",
+      "created": "2026-05-07 10:05",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031726&idx=3&sn=43bc79f6487a4bbfb12e9b76ada48d52",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "f7e1c52353e79f4485683a340a66f06b087e7e99",
+      "title": "Why hasn't longer-horizon training slowed AI progress?",
+      "created": "2026-05-07 08:00",
+      "link": "https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "e077c895a75465c549d17f8876c9f3bbc6d20a1b",
       "title": "pi-context：一个让 AI 自己管记忆的小工具",
@@ -32,15 +86,6 @@
       "link": "https://axi.moe/posts/whywez01/",
       "author": "NolanHo",
       "avatar": "https://axi.moe/assets/icon.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "474a050ed104a493dd13ffae9eb5a787782a16d3",
-      "title": "🔥Pytorch使用-3：Pytorch中分布式训练-1",
-      "created": "2026-04-20 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/04/20/torch-basic-distribute-1.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -512,6 +557,15 @@
       "category": "ai"
     },
     {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -527,15 +581,6 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -791,21 +836,21 @@
       "category": "ai"
     },
     {
-      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
-      "title": "The NLP Course is becoming the LLM Course",
-      "created": "2025-04-03 08:00",
-      "link": "https://huggingface.co/blog/llm-course",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
       "title": "Model Context Protocol (MCP) an overview",
       "created": "2025-04-03 08:00",
       "link": "https://www.philschmid.de/mcp-introduction",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
+      "title": "The NLP Course is becoming the LLM Course",
+      "created": "2025-04-03 08:00",
+      "link": "https://huggingface.co/blog/llm-course",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -935,6 +980,15 @@
       "category": "ai"
     },
     {
+      "id": "670c43aeeec6f587dd9a10d35354a26c883ceb46",
+      "title": "DeepSpeed基本原理",
+      "created": "2025-02-24 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/02/24/deepspeed.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "0df637fa256ffa2ba859e4dd6fac7cab947a37b0",
       "title": "Deepseek GRPO 中的 KL Divergence",
       "created": "2025-02-23 08:00",
@@ -1007,21 +1061,21 @@
       "category": "ai"
     },
     {
-      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
-      "title": "Oh-Numpy & Oh-Pytorch",
-      "created": "2025-01-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
       "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
       "created": "2025-01-23 08:00",
       "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
