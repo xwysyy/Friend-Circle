@@ -3,17 +3,44 @@
     "friends_num": 39,
     "active_num": 39,
     "error_num": 0,
-    "article_num": 234,
-    "last_updated_time": "2026-05-08 22:01:33"
+    "article_num": 242,
+    "last_updated_time": "2026-05-09 03:25:20"
   },
   "article_data": [
     {
-      "id": "55ae1c0600d9928a9bbea047b8e0213fd38d7f24",
-      "title": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required",
-      "created": "2026-05-08 15:54",
-      "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa",
+      "id": "3187cc1bdbb56d9029809210a1ea82ba63d64f96",
+      "title": "送给全体年轻人：学生创业的 10 道坎（适用于互联网、软件、AI方向的创业）",
+      "created": "2026-05-09 10:53",
+      "link": "https://kirigaya.cn/blog/article?seq=377",
+      "author": "锦恢",
+      "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "4862d0651ed0666cfd7d10944b06e4e9ff92cf11",
+      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+      "created": "2026-05-09 01:41",
+      "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "a40b2ba2d440123f7f8b9aac8830ea80292b02c3",
+      "title": "EMO: Pretraining mixture of experts for emergent modularity",
+      "created": "2026-05-09 00:03",
+      "link": "https://huggingface.co/blog/allenai/emo",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6b869c8b58e27ba95efa227941c0275006c2ea2f",
+      "title": "Become an AI Engineer | Enrollment Ends Soon ",
+      "created": "2026-05-08 23:31",
+      "link": "https://blog.bytebytego.com/p/enrollment-ends-soon-become-an-ai",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
@@ -23,6 +50,60 @@
       "link": "https://kexue.fm/archives/11738",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "id": "aea1305c09050bfda382974000468f18acb653f2",
+      "title": "全新功能:从每个任务中学习的 Project",
+      "created": "2026-05-06 23:01",
+      "link": "https://lumina.shawnxie.top/article/quan-xin-gong-neng-cong-mei-ge-ren-wu-zhong-xue-fb12f1e1",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "01645724ca8f4f7f5d64da11b5247e14c57da7c4",
+      "title": "Appearing Productive in The Workplace — No One's Happy",
+      "created": "2026-05-06 22:59",
+      "link": "https://lumina.shawnxie.top/article/appearing-productive-in-the-workplace-no-one-s-3a39db1e",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "8cd29b7c282d205d7a75d6a3461dca80e76b32ea",
+      "title": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration",
+      "created": "2026-05-06 22:56",
+      "link": "https://lumina.shawnxie.top/article/new-in-claude-managed-agents-dreaming-outcomes-404de666",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "b80dbae2d984b10e9e94265cb02fd8462f18e1c0",
+      "title": "Cognitive Surrender",
+      "created": "2026-05-05 23:10",
+      "link": "https://lumina.shawnxie.top/article/cognitive-surrender-7c9f1c65",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "47d6f4f35f0f9b07af4310f2b2f6307c0f0861b5",
+      "title": "I'm Scared About Biological Computing",
+      "created": "2026-05-05 22:55",
+      "link": "https://lumina.shawnxie.top/article/i-m-scared-about-biological-computing-4582c237",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "fb4006b701845cb1d86eb6d765a117a3ce7ebd3b",
+      "title": "Accelerating Gemma 4: faster inference with  multi-token prediction drafters",
+      "created": "2026-05-05 22:53",
+      "link": "https://lumina.shawnxie.top/article/accelerating-gemma-4-faster-inference-with-multi-b94ea7f8",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -521,15 +602,6 @@
       "category": "ai"
     },
     {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -545,6 +617,15 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -584,21 +665,21 @@
       "category": "ai"
     },
     {
-      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
-      "title": "Google Gemini LangChain Cheatsheet",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
       "title": "Qwen多模态系列论文",
       "created": "2025-04-28 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
+      "title": "Google Gemini LangChain Cheatsheet",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -656,21 +737,21 @@
       "category": "ai"
     },
     {
-      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
-      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
-      "created": "2025-04-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
       "title": "The State of Reinforcement Learning for LLM Reasoning",
       "created": "2025-04-19 08:00",
       "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
+      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
+      "created": "2025-04-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -786,15 +867,6 @@
       "title": "Welcome Llama 4 Maverick & Scout on Hugging Face",
       "created": "2025-04-05 08:00",
       "link": "https://huggingface.co/blog/llama4-release",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "8a9b9b76a2bf071a9b83f0fcdb507cd78926849b",
-      "title": "Journey to 1 Million Gradio Users!",
-      "created": "2025-04-04 08:00",
-      "link": "https://huggingface.co/blog/gradio-1m",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
