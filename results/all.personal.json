@@ -3,107 +3,26 @@
     "friends_num": 39,
     "active_num": 39,
     "error_num": 0,
-    "article_num": 243,
-    "last_updated_time": "2026-05-08 03:46:58"
+    "article_num": 235,
+    "last_updated_time": "2026-05-08 11:31:53"
   },
   "article_data": [
     {
-      "id": "1fa9b224d7e0fa35e6c34293ac1f661a4c2c8167",
-      "title": "Big Words",
-      "created": "2026-05-08 02:47",
-      "link": "https://simonwillison.net/2026/May/7/big-words/#atom-everything",
+      "id": "8f918ac73c9ea3d6a7f670d5ef232fd5bfe1db22",
+      "title": "科技爱好者周刊（第 395 期）：软件开发的第三种方式",
+      "created": "2026-05-08 07:40",
+      "link": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html",
+      "author": "阮一峰",
+      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
+      "category": "friend"
+    },
+    {
+      "id": "0f21b20dc0988ff5de062224004b833d7e9ec840",
+      "title": "llm-gemini 0.31",
+      "created": "2026-05-08 03:57",
+      "link": "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "c7baf15e1fc3f7078e93d09f2820cd1cce77bfce",
-      "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
-      "created": "2026-05-08 01:56",
-      "link": "https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "30a6f436192f005b671206baa45cb90bb62f37c9",
-      "title": "Notes on the xAI/Anthropic data center deal",
-      "created": "2026-05-08 01:09",
-      "link": "https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "3d58ceda971993c906de7f122dd3b83b0681bb9b",
-      "title": "Container Design Patterns for Distributed Systems",
-      "created": "2026-05-07 23:31",
-      "link": "https://blog.bytebytego.com/p/container-design-patterns-for-distributed",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "11c8bd29bd41d0178c3d7a4b9b4035d89953817b",
-      "title": "644 - 《Awesome Skills & Plugins》",
-      "created": "2026-05-07 22:22",
-      "link": "https://blog.sorrycc.com/awesome-skills-plugins",
-      "author": "sorrycc (云谦)",
-      "avatar": "https://avatars.githubusercontent.com/u/35128",
-      "category": "ai"
-    },
-    {
-      "id": "ebb41618ab1b7023dbe98a9b4a06ed3448e5ba66",
-      "title": "643 - 《Release Helm》",
-      "created": "2026-05-07 17:39",
-      "link": "https://blog.sorrycc.com/release-helm",
-      "author": "sorrycc (云谦)",
-      "avatar": "https://avatars.githubusercontent.com/u/35128",
-      "category": "ai"
-    },
-    {
-      "id": "8a1cb49280e464c6aaa15f9e6bef8c3121d77dc0",
-      "title": "GitHub Repo Stats",
-      "created": "2026-05-07 15:25",
-      "link": "https://simonwillison.net/2026/May/7/github-repo-stats/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "35af62fb342c5aca75b6af8f2db2448aa8ebd0bb",
-      "title": "刚刚，马斯克官宣xAI解散，22万张GPU算力租给Anthropic",
-      "created": "2026-05-07 10:05",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031726&idx=1&sn=e6eca005d102e4a279d9b460dfa0d35d",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "1ea5c25de9012b35562694c18cfbd7448a66eb5e",
-      "title": "0%完成率！Claude、GPT、Gemini 全灭，SWE-Bench作者新作把AI圈干沉默了",
-      "created": "2026-05-07 10:05",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031726&idx=2&sn=105ca19f31b4709f958795a3a73bc0ca",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "6d9f265525c016a03860e49cf176f19a27be59dc",
-      "title": "TACO: 让 CLI Agent 在自主迭代中学会丢掉无用上下文",
-      "created": "2026-05-07 10:05",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031726&idx=3&sn=43bc79f6487a4bbfb12e9b76ada48d52",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "f7e1c52353e79f4485683a340a66f06b087e7e99",
-      "title": "Why hasn't longer-horizon training slowed AI progress?",
-      "created": "2026-05-07 08:00",
-      "link": "https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -602,15 +521,6 @@
       "category": "ai"
     },
     {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -626,6 +536,15 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -665,21 +584,21 @@
       "category": "ai"
     },
     {
-      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
-      "title": "Qwen多模态系列论文",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
       "title": "Google Gemini LangChain Cheatsheet",
       "created": "2025-04-28 08:00",
       "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
+      "title": "Qwen多模态系列论文",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -737,21 +656,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1241,21 +1160,21 @@
       "category": "ai"
     },
     {
-      "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
-      "title": "Reward Hacking in Reinforcement Learning",
-      "created": "2024-11-28 08:00",
-      "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
-      "author": "Lilian Weng",
-      "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
-      "category": "ai"
-    },
-    {
       "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
       "title": "斯坦福小镇解读",
       "created": "2024-11-28 08:00",
       "link": "https://mathewshen.me/blog/2024/ai-town/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
+      "title": "Reward Hacking in Reinforcement Learning",
+      "created": "2024-11-28 08:00",
+      "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
+      "author": "Lilian Weng",
+      "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
       "category": "ai"
     },
     {
@@ -1538,28 +1457,10 @@
       "category": "ai"
     },
     {
-      "id": "95ae361f3deba13ec5ec852e7595cfb3a1a551c1",
-      "title": "warpdotdev/warp",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/warpdotdev/warp",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "1606cfe2c2a91a41cc45f731859c6869e9340b81",
       "title": "TauricResearch/TradingAgents",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/TauricResearch/TradingAgents",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "76608378b66475536688ea5d246bea079805f62f",
-      "title": "mattpocock/skills",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/mattpocock/skills",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1574,10 +1475,28 @@
       "category": "ai"
     },
     {
+      "id": "76608378b66475536688ea5d246bea079805f62f",
+      "title": "mattpocock/skills",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/mattpocock/skills",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "e0f906740cdeb2118a3131dc90c7f1b8bb929dc1",
       "title": "soxoj/maigret",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/soxoj/maigret",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "95ae361f3deba13ec5ec852e7595cfb3a1a551c1",
+      "title": "warpdotdev/warp",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/warpdotdev/warp",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1592,15 +1511,6 @@
       "category": "ai"
     },
     {
-      "id": "03d9c2ce3223603f52df2a9ca5b3220309c7a44e",
-      "title": "AIDC-AI/Pixelle-Video",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/AIDC-AI/Pixelle-Video",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "318e4c96184b9fdbd116640195176c8b32f3a321",
       "title": "virattt/dexter",
       "created": "2024-01-01 00:00",
@@ -1610,10 +1520,19 @@
       "category": "ai"
     },
     {
-      "id": "2bee53db4df5c0a79e4371e8459c048baa5c2d36",
-      "title": "ComposioHQ/awesome-codex-skills",
+      "id": "6e9a00bdff8c3e044bcbc504abaca2f109cc9c3b",
+      "title": "anthropics/financial-services",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "link": "https://github.com/anthropics/financial-services",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "03d9c2ce3223603f52df2a9ca5b3220309c7a44e",
+      "title": "AIDC-AI/Pixelle-Video",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/AIDC-AI/Pixelle-Video",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1637,37 +1556,46 @@
       "category": "ai"
     },
     {
-      "id": "63198bc1c93ef7db98560c5a5fed2266b6607e9e",
-      "title": "HunxByts/GhostTrack",
+      "id": "11e754f2ecb4b5bcea18dc3970d8ed3dab1b7449",
+      "title": "openai/symphony",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/HunxByts/GhostTrack",
+      "link": "https://github.com/openai/symphony",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "bfa9b4aac3ebac4d5d03261686f59b5216c98e95",
-      "title": "zed-industries/zed",
+      "id": "409354dab0f20df8282080e11f78a01fed385c8d",
+      "title": "LearningCircuit/local-deep-research",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/zed-industries/zed",
+      "link": "https://github.com/LearningCircuit/local-deep-research",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "d1aa340a643527c9458f562f06b6497685c99bdd",
-      "title": "Alishahryar1/free-claude-code",
+      "id": "b17fe165b2f7f76b826d5e010cb0b3be9de7286a",
+      "title": "cocoindex-io/cocoindex",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Alishahryar1/free-claude-code",
+      "link": "https://github.com/cocoindex-io/cocoindex",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "2f697f94cde4c427048751b6bca2cb778e4c3b24",
-      "title": "Flowseal/zapret-discord-youtube",
+      "id": "4e8db7183d41f8ca1a0cd79482d157a67bba0c98",
+      "title": "fspecii/ace-step-ui",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Flowseal/zapret-discord-youtube",
+      "link": "https://github.com/fspecii/ace-step-ui",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "2bee53db4df5c0a79e4371e8459c048baa5c2d36",
+      "title": "ComposioHQ/awesome-codex-skills",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/ComposioHQ/awesome-codex-skills",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
