@@ -3,10 +3,19 @@
     "friends_num": 39,
     "active_num": 39,
     "error_num": 0,
-    "article_num": 237,
-    "last_updated_time": "2026-05-08 15:47:53"
+    "article_num": 234,
+    "last_updated_time": "2026-05-08 22:01:33"
   },
   "article_data": [
+    {
+      "id": "55ae1c0600d9928a9bbea047b8e0213fd38d7f24",
+      "title": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required",
+      "created": "2026-05-08 15:54",
+      "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
     {
       "id": "a49fbb566011e4bdc95f150429ce071b686e005e",
       "title": "直接以FID为Loss：从梯度计算到流式训练",
@@ -14,33 +23,6 @@
       "link": "https://kexue.fm/archives/11738",
       "author": "苏剑林",
       "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
-      "id": "e462005b6125055f7a0e7ee1e533d1e52454f7f1",
-      "title": "Notes on incidents",
-      "created": "2026-05-08 08:00",
-      "link": "https://seangoedecke.com/notes-on-incidents/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "8f918ac73c9ea3d6a7f670d5ef232fd5bfe1db22",
-      "title": "科技爱好者周刊（第 395 期）：软件开发的第三种方式",
-      "created": "2026-05-08 07:40",
-      "link": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html",
-      "author": "阮一峰",
-      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
-      "category": "friend"
-    },
-    {
-      "id": "0f21b20dc0988ff5de062224004b833d7e9ec840",
-      "title": "llm-gemini 0.31",
-      "created": "2026-05-08 03:57",
-      "link": "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -539,6 +521,15 @@
       "category": "ai"
     },
     {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -554,15 +545,6 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -813,15 +795,6 @@
       "title": "Journey to 1 Million Gradio Users!",
       "created": "2025-04-04 08:00",
       "link": "https://huggingface.co/blog/gradio-1m",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
-      "title": "The NLP Course is becoming the LLM Course",
-      "created": "2025-04-03 08:00",
-      "link": "https://huggingface.co/blog/llm-course",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
