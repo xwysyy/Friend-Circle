@@ -3,71 +3,35 @@
     "friends_num": 39,
     "active_num": 39,
     "error_num": 0,
-    "article_num": 238,
-    "last_updated_time": "2026-05-09 21:27:02"
+    "article_num": 233,
+    "last_updated_time": "2026-05-10 03:10:05"
   },
   "article_data": [
     {
-      "id": "4d4cebe94cbbc55502ed28a9f00791558f240197",
-      "title": "OpenAI翁家翌：梯度之外，下一个AI训练范式有着落了？",
-      "created": "2026-05-09 10:59",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032137&idx=1&sn=ceb9f4f7a5c07999b758ee6181866f38",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "id": "a66112d74e6036162f96a45ba6922fa5d9f71305",
+      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+      "created": "2026-05-10 02:09",
+      "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "54c90564ecf9c11daeb95afe168bf1e5ceed1f9f",
-      "title": "曝DeepSeek融资500亿元：梁文锋自掏四成，估值飙至3500亿",
-      "created": "2026-05-09 10:59",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032137&idx=2&sn=ab6bbc0ffb08c67ae77db58b722f9c3a",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "id": "33dd6dad274b4c8ff9341a3b178fd6dab5e4c7b6",
+      "title": "645 - 《最近买的东西们（9）》",
+      "created": "2026-05-09 23:31",
+      "link": "https://blog.sorrycc.com/buy-09",
+      "author": "sorrycc (云谦)",
+      "avatar": "https://avatars.githubusercontent.com/u/35128",
       "category": "ai"
     },
     {
-      "id": "f74e814842c1f098ebd0d1665d4a85a68c13f83b",
-      "title": "VLA的PyTorch时刻已至！港科大联手社区开源StarVLA：一个框架揭秘所有主流VLA",
-      "created": "2026-05-09 10:59",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032137&idx=3&sn=1190f732a6b4a0a8db217b922cce733f",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "7c11565d1f8dabade290b13d73d3c608d99677f0",
-      "title": "Browser Use详解",
-      "created": "2026-05-09 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/open-browser-use/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
-      "category": "ai"
-    },
-    {
-      "id": "3427cfdbc75e4fd3425ddb4d517acca357ad3837",
-      "title": "拿下1亿美元种子轮！SGLang团队创立RadixArk，打造下一代开放AI基础设施",
-      "created": "2026-05-08 17:06",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032082&idx=1&sn=0edd0911ca751491929d5984faf7a701",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "5b9ed147e486019f37ecd6736aa66ed32020c17f",
-      "title": "OpenAI官方CLI上线，跟复杂的SDK说拜拜",
-      "created": "2026-05-08 17:06",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032082&idx=2&sn=27559e9afe2e7e6407e3ae4ece6dc2a0",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "2d149b218516dc4b8ec14d30cf65c39a668a9509",
-      "title": "ICLR 2026 I 英伟达 & 普渡大学用agent闭环实现文生3D",
-      "created": "2026-05-08 17:06",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032082&idx=3&sn=2fe6091fbcc78fd7646491f8c8f965d4",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "id": "115ed7596c9d88cc97dce25e8711a5408d60b61d",
+      "title": "EP214: Claude Code vs. OpenClaw: 5 Design Dimensions",
+      "created": "2026-05-09 23:31",
+      "link": "https://blog.bytebytego.com/p/ep214-claude-code-vs-openclaw-5-design",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
@@ -314,19 +278,19 @@
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -503,15 +467,6 @@
       "category": "ai"
     },
     {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -527,6 +482,15 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -842,15 +806,6 @@
       "link": "https://www.philschmid.de/mcp-introduction",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
-      "title": "The NLP Course is becoming the LLM Course",
-      "created": "2025-04-03 08:00",
-      "link": "https://huggingface.co/blog/llm-course",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
