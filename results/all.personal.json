@@ -3,26 +3,53 @@
     "friends_num": 39,
     "active_num": 39,
     "error_num": 0,
-    "article_num": 237,
-    "last_updated_time": "2026-05-11 11:57:45"
+    "article_num": 240,
+    "last_updated_time": "2026-05-11 17:50:08"
   },
   "article_data": [
     {
-      "id": "fdaf19544702bb3413cfa1f891bb007d9cc8f738",
-      "title": "Quoting New York Times Editors’ Note",
-      "created": "2026-05-11 07:58",
-      "link": "https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "id": "886a19704bff2b1b83623887865bea867bcdd228",
+      "title": "洪绘响度发布：测量视频LUFS工具，并支持转换视频到指定LUFS",
+      "created": "2026-05-11 14:40",
+      "link": "https://blog.zhheo.com/p/bvj6caeg.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
+      "category": "friend"
+    },
+    {
+      "id": "0b18fc040ad55cd10500e500da80f405137daa8b",
+      "title": "Tripo：AI驱动3D生成平台",
+      "created": "2026-05-11 13:41",
+      "link": "https://lumina.shawnxie.top/article/tripo-aiqu-dong-3dsheng-cheng-ping-tai-1d81b5ea",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
-      "id": "08dc63f3090713ea3f13129426e3bab3a6820861",
-      "title": "深度拆解：AI Agent Harness 的构造",
-      "created": "2026-05-10 08:00",
-      "link": "https://baoyu.io/translations/2026-05-10/akshay-pachaar-2041146899319971922",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
+      "id": "f82075dd1c2d57ffcb24bf70f425b61ba951cd49",
+      "title": "Suno不再是唯一答案，企业开始选择这个国产AI音乐",
+      "created": "2026-05-11 12:09",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032226&idx=1&sn=8b0b0279fffcdd26914c53dddad77166",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "9dcc58a1fa7b01fc030343c169e00ccf8eb2298b",
+      "title": "ICML 2026｜拒绝大力出奇迹，PRISM框架让dLLM也能高效Test-Time Scaling",
+      "created": "2026-05-11 12:09",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032226&idx=2&sn=772b44d2bf16aac0a694b87df0a929e2",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "f70567e2d8135d1cea7d579133776bf33ec9abce",
+      "title": "AI4S 引领材料革新｜5月张江AI创新小镇，邀您共赴这场 AI for Materials 闭门之约",
+      "created": "2026-05-11 12:09",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032226&idx=3&sn=0617c0bf08bdbee15f907cd012d8340d",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -269,19 +296,19 @@
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -1151,21 +1178,21 @@
       "category": "ai"
     },
     {
-      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
-      "title": "斯坦福小镇解读",
-      "created": "2024-11-28 08:00",
-      "link": "https://mathewshen.me/blog/2024/ai-town/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
       "title": "Reward Hacking in Reinforcement Learning",
       "created": "2024-11-28 08:00",
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
