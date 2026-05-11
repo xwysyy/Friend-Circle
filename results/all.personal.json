@@ -3,35 +3,26 @@
     "friends_num": 39,
     "active_num": 39,
     "error_num": 0,
-    "article_num": 234,
-    "last_updated_time": "2026-05-11 03:12:14"
+    "article_num": 237,
+    "last_updated_time": "2026-05-11 11:57:45"
   },
   "article_data": [
     {
-      "id": "116105217784c106b0c609bd77ceb5abd02c3ca7",
-      "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
-      "created": "2026-05-11 02:44",
-      "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "95424f2dd12061884c3eb327161a55cca6182cd1",
-      "title": "Quoting Andrew Quinn",
-      "created": "2026-05-10 22:59",
-      "link": "https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything",
+      "id": "fdaf19544702bb3413cfa1f891bb007d9cc8f738",
+      "title": "Quoting New York Times Editors’ Note",
+      "created": "2026-05-11 07:58",
+      "link": "https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
-      "id": "ea83a6313973cf71ff2d079e1cf15ce994bbdfd0",
-      "title": "Agent 应该如何解决繁杂任务：从 /goal 到长时间运行",
-      "created": "2026-05-10 22:13",
-      "link": "http://www.phodal.com/blog/from-loop-to-goal/",
-      "author": "Phodal Huang",
-      "avatar": "https://www.phodal.com/static/phodal/images/phodal.jpg",
+      "id": "08dc63f3090713ea3f13129426e3bab3a6820861",
+      "title": "深度拆解：AI Agent Harness 的构造",
+      "created": "2026-05-10 08:00",
+      "link": "https://baoyu.io/translations/2026-05-10/akshay-pachaar-2041146899319971922",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -278,19 +269,19 @@
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -602,21 +593,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -795,6 +786,15 @@
       "title": "Journey to 1 Million Gradio Users!",
       "created": "2025-04-04 08:00",
       "link": "https://huggingface.co/blog/gradio-1m",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
+      "title": "The NLP Course is becoming the LLM Course",
+      "created": "2025-04-03 08:00",
+      "link": "https://huggingface.co/blog/llm-course",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
@@ -1448,6 +1448,15 @@
       "category": "ai"
     },
     {
+      "id": "d9569cde07a3e5857e400abc5bcb0e464f021f29",
+      "title": "Hmbown/DeepSeek-TUI",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/Hmbown/DeepSeek-TUI",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "6e9a00bdff8c3e044bcbc504abaca2f109cc9c3b",
       "title": "anthropics/financial-services",
       "created": "2024-01-01 00:00",
@@ -1466,6 +1475,15 @@
       "category": "ai"
     },
     {
+      "id": "cca5da9a5439b6fbd2f8f5a519b20120f0b381cd",
+      "title": "docusealco/docuseal",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/docusealco/docuseal",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "1606cfe2c2a91a41cc45f731859c6869e9340b81",
       "title": "TauricResearch/TradingAgents",
       "created": "2024-01-01 00:00",
@@ -1475,10 +1493,10 @@
       "category": "ai"
     },
     {
-      "id": "cca5da9a5439b6fbd2f8f5a519b20120f0b381cd",
-      "title": "docusealco/docuseal",
+      "id": "409354dab0f20df8282080e11f78a01fed385c8d",
+      "title": "LearningCircuit/local-deep-research",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/docusealco/docuseal",
+      "link": "https://github.com/LearningCircuit/local-deep-research",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1493,10 +1511,10 @@
       "category": "ai"
     },
     {
-      "id": "e0f906740cdeb2118a3131dc90c7f1b8bb929dc1",
-      "title": "soxoj/maigret",
+      "id": "9440088458c602451356760034724cb62ab23b54",
+      "title": "decolua/9router",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/soxoj/maigret",
+      "link": "https://github.com/decolua/9router",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1511,15 +1529,6 @@
       "category": "ai"
     },
     {
-      "id": "b17fe165b2f7f76b826d5e010cb0b3be9de7286a",
-      "title": "cocoindex-io/cocoindex",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/cocoindex-io/cocoindex",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "03d9c2ce3223603f52df2a9ca5b3220309c7a44e",
       "title": "AIDC-AI/Pixelle-Video",
       "created": "2024-01-01 00:00",
@@ -1529,10 +1538,10 @@
       "category": "ai"
     },
     {
-      "id": "76608378b66475536688ea5d246bea079805f62f",
-      "title": "mattpocock/skills",
+      "id": "b17fe165b2f7f76b826d5e010cb0b3be9de7286a",
+      "title": "cocoindex-io/cocoindex",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/mattpocock/skills",
+      "link": "https://github.com/cocoindex-io/cocoindex",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1547,19 +1556,37 @@
       "category": "ai"
     },
     {
-      "id": "9440088458c602451356760034724cb62ab23b54",
-      "title": "decolua/9router",
+      "id": "76608378b66475536688ea5d246bea079805f62f",
+      "title": "mattpocock/skills",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/decolua/9router",
+      "link": "https://github.com/mattpocock/skills",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "11e754f2ecb4b5bcea18dc3970d8ed3dab1b7449",
-      "title": "openai/symphony",
+      "id": "9f093b1fafebec97596b64bf82d600a99132a6d6",
+      "title": "bytedance/UI-TARS-desktop",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/openai/symphony",
+      "link": "https://github.com/bytedance/UI-TARS-desktop",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "8c5e64f73a8b41baf718a19234d74d47d10425b9",
+      "title": "withastro/flue",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/withastro/flue",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "2e74d0228d63bddb2160d88b164fe5cb75af4408",
+      "title": "addyosmani/agent-skills",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/addyosmani/agent-skills",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1574,19 +1601,19 @@
       "category": "ai"
     },
     {
-      "id": "4e8db7183d41f8ca1a0cd79482d157a67bba0c98",
-      "title": "fspecii/ace-step-ui",
+      "id": "11e754f2ecb4b5bcea18dc3970d8ed3dab1b7449",
+      "title": "openai/symphony",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/fspecii/ace-step-ui",
+      "link": "https://github.com/openai/symphony",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "6d7dbf0755b38fbcb2fd55f480d1bbbb46b77d59",
-      "title": "Q00/ouroboros",
+      "id": "2732fee73e8306fda2c433ff02be970b033c06b7",
+      "title": "VectifyAI/PageIndex",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Q00/ouroboros",
+      "link": "https://github.com/VectifyAI/PageIndex",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
