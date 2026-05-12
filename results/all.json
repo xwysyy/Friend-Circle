@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 39,
-    "active_num": 37,
-    "error_num": 2,
-    "article_num": 599,
-    "last_updated_time": "2026-05-12 22:36:21"
+    "active_num": 38,
+    "error_num": 1,
+    "article_num": 619,
+    "last_updated_time": "2026-05-13 04:00:10"
   },
   "article_data": [
     {
@@ -32,6 +32,15 @@
       "link": "https://yukinoshitasherry.github.io/26%E5%A4%96%E5%9C%B0%E9%A3%9F%E7%89%A9/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "9c8847d21b0672962c50122570abe058f11a3e5c",
+      "title": "How Figma Upgraded Data Pipeline from Multi-Day Latency to Real-Time",
+      "created": "2026-05-12 23:31",
+      "link": "https://blog.bytebytego.com/p/how-figma-upgraded-data-pipeline",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
@@ -971,21 +980,21 @@
       "category": "ai"
     },
     {
-      "id": "a89e6f10b7acf2139166c39d0a16abc516493b21",
-      "title": "DeepInfra on Hugging Face Inference Providers 🔥",
-      "created": "2026-04-29 08:00",
-      "link": "https://huggingface.co/blog/inference-providers-deepinfra",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "ef369ddf20613531db47acc4947fc2397e89e7b7",
       "title": "How to use Deep Research with the Gemini API",
       "created": "2026-04-29 08:00",
       "link": "https://www.philschmid.de/deep-research-update",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "a89e6f10b7acf2139166c39d0a16abc516493b21",
+      "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+      "created": "2026-04-29 08:00",
+      "link": "https://huggingface.co/blog/inference-providers-deepinfra",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1061,21 +1070,21 @@
       "category": "friend"
     },
     {
-      "id": "e548e0e285fcb13e64f04396e6ee347619208bec",
-      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
-      "created": "2026-04-27 08:00",
-      "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "4bbb2c88cf07a92b4c9b3dffa9099dbb57652ed2",
       "title": "How to correctly use MCP servers with your AI Agents",
       "created": "2026-04-27 08:00",
       "link": "https://www.philschmid.de/use-mcp-servers",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e548e0e285fcb13e64f04396e6ee347619208bec",
+      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+      "created": "2026-04-27 08:00",
+      "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1187,21 +1196,21 @@
       "category": "ai"
     },
     {
-      "id": "4a3a5411219d4e01d9911ddb92aabdb491bfa6fa",
-      "title": "How to Use Transformers.js in a Chrome Extension",
-      "created": "2026-04-23 08:00",
-      "link": "https://huggingface.co/blog/transformersjs-chrome-extension",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "bbe46f346ed578abca5d1c05aff9e639de668d48",
       "title": "制造业的5种模式：OEM 、ODM、OBM 、JDM、CMT",
       "created": "2026-04-23 08:00",
       "link": "https://yukinoshitasherry.github.io/%E5%88%B6%E9%80%A0%E4%B8%9A%E7%9A%845%E7%A7%8D%E6%A8%A1%E5%BC%8F/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "4a3a5411219d4e01d9911ddb92aabdb491bfa6fa",
+      "title": "How to Use Transformers.js in a Chrome Extension",
+      "created": "2026-04-23 08:00",
+      "link": "https://huggingface.co/blog/transformersjs-chrome-extension",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1277,21 +1286,21 @@
       "category": "ai"
     },
     {
-      "id": "cd40c18e81f21c668f26c0507f7578c739d7758d",
-      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
-      "created": "2026-04-21 08:00",
-      "link": "https://huggingface.co/blog/cybersecurity-openness",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "ba87ec62646e164fdc47c4c627a3a132eb392639",
       "title": "解决问题的原始冲动",
       "created": "2026-04-21 08:00",
       "link": "https://ifuryst.github.io/blog/2026/the-urge-to-solve/",
       "author": "ifuryst",
       "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "cd40c18e81f21c668f26c0507f7578c739d7758d",
+      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+      "created": "2026-04-21 08:00",
+      "link": "https://huggingface.co/blog/cybersecurity-openness",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1349,6 +1358,15 @@
       "category": "ai"
     },
     {
+      "id": "474a050ed104a493dd13ffae9eb5a787782a16d3",
+      "title": "🔥Pytorch使用-3：常见的分布式训练及其实现",
+      "created": "2026-04-20 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/04/20/torch-basic-distribute-1.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "eb22dd50841c859011d40d799dd6c2920ba1e42f",
       "title": "终端的语义层叠：几种终端方案的底层原理",
       "created": "2026-04-20 08:00",
@@ -1364,15 +1382,6 @@
       "link": "https://axi.moe/posts/whywez01/",
       "author": "NolanHo",
       "avatar": "https://axi.moe/assets/icon.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "474a050ed104a493dd13ffae9eb5a787782a16d3",
-      "title": "🔥Pytorch使用-3：常见的分布式训练及其实现",
-      "created": "2026-04-20 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/04/20/torch-basic-distribute-1.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -1691,21 +1700,21 @@
       "category": "ai"
     },
     {
-      "id": "756c8565cf726e78c236601a1387db6577ce87af",
-      "title": "Harness Engineering 学习笔记",
-      "created": "2026-04-13 08:00",
-      "link": "https://yukinoshitasherry.github.io/harness_eng/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
-      "category": "ai"
-    },
-    {
       "id": "27cba25cd5080a4fe0989563316d832464129490",
       "title": "8 Tips for Writing Agent Skills",
       "created": "2026-04-13 08:00",
       "link": "https://www.philschmid.de/agent-skills-tips",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "756c8565cf726e78c236601a1387db6577ce87af",
+      "title": "Harness Engineering 学习笔记",
+      "created": "2026-04-13 08:00",
+      "link": "https://yukinoshitasherry.github.io/harness_eng/",
+      "author": "秋月春风的书房",
+      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
       "category": "ai"
     },
     {
@@ -1724,15 +1733,6 @@
       "link": "https://yukinoshitasherry.github.io/%E4%B9%90%E7%90%86%E5%92%8C%E5%BC%A6%E5%9F%BA%E7%A1%80/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "51c7440cf722c36d6406d524dbc91c5f7e31825a",
-      "title": "EP210: Monolithic vs Microservices vs Serverless",
-      "created": "2026-04-11 23:30",
-      "link": "https://blog.bytebytego.com/p/ep210-monolithic-vs-microservices",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
@@ -2807,6 +2807,15 @@
       "category": "ai"
     },
     {
+      "id": "e27fb52c358cc9cd49ce9e23369eecd7e86c6165",
+      "title": "推荐酷鸭数据主机",
+      "created": "2026-02-26 00:00",
+      "link": "https://dusays.com/archives/855/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
+    },
+    {
       "id": "088abfef82a50aba56ac4ffdb42d2ff5cff64edc",
       "title": "A Dream of Spring for Open-Weight LLMs: 10 Architectures from Jan-Feb 2026",
       "created": "2026-02-25 16:15",
@@ -2996,21 +3005,21 @@
       "category": "ai"
     },
     {
-      "id": "7d86a3a27813e0cb4a3a211e04eb61a1acc3523b",
-      "title": "大模型参数与显存",
-      "created": "2026-02-13 08:00",
-      "link": "https://yukinoshitasherry.github.io/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E4%B8%8E%E6%98%BE%E5%AD%98/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
-      "category": "ai"
-    },
-    {
       "id": "748820cd95f0b5ec380802a0797f0c29fed8d917",
       "title": "Multimodal Function Calling with Gemini 3 and Interactions API",
       "created": "2026-02-13 08:00",
       "link": "https://www.philschmid.de/interactions-multimodal-fc",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7d86a3a27813e0cb4a3a211e04eb61a1acc3523b",
+      "title": "大模型参数与显存",
+      "created": "2026-02-13 08:00",
+      "link": "https://yukinoshitasherry.github.io/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E4%B8%8E%E6%98%BE%E5%AD%98/",
+      "author": "秋月春风的书房",
+      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
       "category": "ai"
     },
     {
@@ -3437,6 +3446,15 @@
       "category": "ai"
     },
     {
+      "id": "3877ac88f31d67a1f3f6c1fd5541dfba1551fcf1",
+      "title": "Minecraft 生存服务器来啦「1.21.8 版」",
+      "created": "2026-01-02 00:00",
+      "link": "https://dusays.com/archives/845/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
+    },
+    {
       "id": "928b7829cd250008c9e13b0edbecb9a6ac433721",
       "title": "Qwen-Image-2512: 更细腻，更真实",
       "created": "2025-12-31 13:08",
@@ -3482,21 +3500,21 @@
       "category": "ai"
     },
     {
-      "id": "f4b3d10b27b983aeffd563b69ad775210aa57b6e",
-      "title": "TileLang笔记",
-      "created": "2025-12-29 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/tilelang%E7%AC%94%E8%AE%B0/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
       "id": "b9a24d96040d69721c996a7121f4b197f6aafd26",
       "title": "深入浅出了解生成模型-8：生成加速策略概述",
       "created": "2025-12-29 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/12/29/SDAcceralate.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "f4b3d10b27b983aeffd563b69ad775210aa57b6e",
+      "title": "TileLang笔记",
+      "created": "2025-12-29 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/tilelang%E7%AC%94%E8%AE%B0/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
@@ -3716,6 +3734,15 @@
       "category": "ai"
     },
     {
+      "id": "8e2eaedb69495564b96ddbbf6f98f4dee299b0aa",
+      "title": "快速部署 Nexus Terminal 打造高颜值远程管理终端",
+      "created": "2025-12-09 00:00",
+      "link": "https://dusays.com/archives/841/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
+    },
+    {
       "id": "2d93d46358590aa4bf908610e443acbe9f073aa8",
       "title": "From Random Forests to RLVR: A Short History of ML/AI Hello Worlds",
       "created": "2025-12-08 08:20",
@@ -3779,6 +3806,15 @@
       "category": "ai"
     },
     {
+      "id": "03ef85da6f27eb86b76eadb2e2d430fd4233102c",
+      "title": "DEB 和 RPM 有什么区别",
+      "created": "2025-12-03 00:00",
+      "link": "https://dusays.com/archives/840/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
+    },
+    {
       "id": "8067bdad1fa389ea816b053c2cc94eb8a2f14175",
       "title": "肖恩技术周刊（第 72 期）：有趣的C语言谜题",
       "created": "2025-12-01 08:00",
@@ -3786,6 +3822,15 @@
       "author": "肖恩技术周刊",
       "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
+    },
+    {
+      "id": "43a5874e2c18982152c419b27c24026a154f0e5d",
+      "title": "ima 任务模式邀请码分享",
+      "created": "2025-11-27 00:00",
+      "link": "https://dusays.com/archives/839/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
     },
     {
       "id": "560dff5b744098ef4b5b67e04c8ef5d6c7b7113c",
@@ -3824,6 +3869,15 @@
       "category": "ai"
     },
     {
+      "id": "8cd6d9efaed5430cbce42176f9ad8a638e622372",
+      "title": "Temp Mail 兼具隐私和便捷性的最佳临时电子邮件服务",
+      "created": "2025-11-21 00:00",
+      "link": "https://dusays.com/archives/838/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
+    },
+    {
       "id": "c110723119151dc9b73ccbc74b99b00007336e87",
       "title": "GPU 微架构之旅 | 第五天：术业有专攻——那些“特种兵”单元",
       "created": "2025-11-16 23:13",
@@ -3851,6 +3905,15 @@
       "category": "friend"
     },
     {
+      "id": "1d21358664a195952f01f1d4c8901274eba7017e",
+      "title": "Dockerd 日志太多？磁盘爆了？一篇教您搞定容器日志问题",
+      "created": "2025-11-15 00:00",
+      "link": "https://dusays.com/archives/837/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
+    },
+    {
       "id": "698fc9a8a750c43722af57ce6d3a1180c6807b9c",
       "title": "Recommendations for Getting the Most Out of a Technical Book",
       "created": "2025-11-12 08:08",
@@ -3867,6 +3930,15 @@
       "author": "chao fa",
       "avatar": "https://yuanchaofa.com/img/icon.webp",
       "category": "ai"
+    },
+    {
+      "id": "2e82af4ed8a432c4e557182c81e3b357cb2dd456",
+      "title": "二手手机值得买吗？数码爱好者的省钱换机经验",
+      "created": "2025-11-09 00:00",
+      "link": "https://dusays.com/archives/836/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
     },
     {
       "id": "c389a4203305e254a63dafd528b811fd77a74499",
@@ -3905,6 +3977,15 @@
       "category": "friend"
     },
     {
+      "id": "de1c0836a4d687a44fbdbcf7158d6e83ed411a1d",
+      "title": "最近总觉得脑子不够用？杜老师的脑力不足自救实录",
+      "created": "2025-11-03 00:00",
+      "link": "https://dusays.com/archives/835/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
+    },
+    {
       "id": "a1037cf1f587733fd88dfe259ec5a0193d7b6147",
       "title": "从Moments迁移到Ech0",
       "created": "2025-11-02 22:00",
@@ -3930,6 +4011,15 @@
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
+    },
+    {
+      "id": "3d704ca82a804be5201109bd15ea6b0b2b657ca6",
+      "title": "一站式操作系统 ISO 下载平台",
+      "created": "2025-10-28 00:00",
+      "link": "https://dusays.com/archives/834/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
     },
     {
       "id": "7570158bfd506c05195842f52f2e5677a1c6ff90",
@@ -3959,6 +4049,15 @@
       "category": "ai"
     },
     {
+      "id": "381551d55aaf21382702068d14e9c83c86efd4cf",
+      "title": "MinIO 社区版 Web 管理界面被删事件全解析",
+      "created": "2025-10-22 00:00",
+      "link": "https://dusays.com/archives/833/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
+    },
+    {
       "id": "ccfa2dff70692360cee8da222a4a335f4eb7acc0",
       "title": "Butterfly主题实现赞赏页面及侧边卡片",
       "created": "2025-10-19 17:10",
@@ -3977,6 +4076,15 @@
       "category": "ai"
     },
     {
+      "id": "656439fdc0e524769f8f6337229a1d9818b3adf8",
+      "title": "如何使用 PHP 脚本筛选去不图床已到期用户邮箱",
+      "created": "2025-10-16 00:00",
+      "link": "https://dusays.com/archives/832/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
+    },
+    {
       "id": "fb60acad6ce6f2b83844a5c11c42007ab4986f1e",
       "title": "模型量化操作————GPTQ和AWQ量化",
       "created": "2025-10-11 08:00",
@@ -3984,6 +4092,15 @@
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
+    },
+    {
+      "id": "56623488424517a2e9bb48171e1a542ef08f04b0",
+      "title": "Focalboard 开源项目管理的有力工具",
+      "created": "2025-10-10 00:00",
+      "link": "https://dusays.com/archives/831/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
     },
     {
       "id": "1c9e4a3a2fc36cdaae750ad0db973881f0e8e285",
@@ -4022,6 +4139,15 @@
       "category": "ai"
     },
     {
+      "id": "1618658121fb1913329188ce708f19a23dc489a4",
+      "title": "NodePass 开源的隧道工具重新定义内网穿透",
+      "created": "2025-10-04 00:00",
+      "link": "https://dusays.com/archives/830/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
+    },
+    {
       "id": "30d1c72002238ed59cdb6c303d949c0f8bb46f5b",
       "title": "不同姿势部署Anheyu-App应用",
       "created": "2025-09-30 23:59",
@@ -4037,6 +4163,15 @@
       "link": "https://imqi1.com/content/discuss/836",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp",
+      "category": "friend"
+    },
+    {
+      "id": "e3e6d0b0cc2b442f5b828376cb2e631dc72e1772",
+      "title": "探索网络实验的神器 Mininet",
+      "created": "2025-09-28 00:00",
+      "link": "https://dusays.com/archives/829/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
       "category": "friend"
     },
     {
@@ -4056,6 +4191,15 @@
       "author": "九原山博客",
       "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
       "category": "ai"
+    },
+    {
+      "id": "2061020037c01d1386d4af9c0c60c5f1bb68422d",
+      "title": "Ubuntu 系统无法通过 pip 命令安装 Python 库问题解决",
+      "created": "2025-09-22 00:00",
+      "link": "https://dusays.com/archives/828/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
     },
     {
       "id": "d5aa9958c095f8add273bab7193560fac083f082",
@@ -4103,6 +4247,24 @@
       "category": "ai"
     },
     {
+      "id": "7804b8f96a1fb5821422fdcc05ce143f0ff2a034",
+      "title": "使用 Python 脚本实现图片相似度匹配",
+      "created": "2025-09-16 00:00",
+      "link": "https://dusays.com/archives/827/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
+    },
+    {
+      "id": "bdcbf29e8a5b5b2ba927742984fe0814032b6beb",
+      "title": "几种通过 FFmpeg 无损压缩视频的方法",
+      "created": "2025-09-10 00:00",
+      "link": "https://dusays.com/archives/826/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
+    },
+    {
       "id": "ae0a8f7c043af2637278cf670a849fb32e2977ca",
       "title": "血证未泯，山河已立",
       "created": "2025-09-09 13:50",
@@ -4137,6 +4299,15 @@
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
+    },
+    {
+      "id": "18d78af32dde92b57413c042299f76f4296fdc5f",
+      "title": "天津游记「多图预警」",
+      "created": "2025-09-04 00:00",
+      "link": "https://dusays.com/archives/825/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
     },
     {
       "id": "2830b2f2445f6958609ee85e5d2a59f14917e59b",
@@ -4182,6 +4353,15 @@
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
+    },
+    {
+      "id": "1090fc46ddc3c45b130ab5c3c16aca3607c09719",
+      "title": "合肥游记「多图预警」",
+      "created": "2025-08-29 00:00",
+      "link": "https://dusays.com/archives/824/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "category": "friend"
     },
     {
       "id": "bc7dd08ccca251eaa2ee3967aa8e766476803ccb",
