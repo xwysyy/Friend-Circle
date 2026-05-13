@@ -3,143 +3,53 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 247,
-    "last_updated_time": "2026-05-13 11:52:13"
+    "article_num": 238,
+    "last_updated_time": "2026-05-13 16:52:33"
   },
   "article_data": [
     {
-      "id": "4f7fd3e5d410297e68c4e95e12d459ad84b7a329",
-      "title": "datasette 1.0a29",
-      "created": "2026-05-13 07:41",
-      "link": "https://simonwillison.net/2026/May/12/datasette/#atom-everything",
+      "id": "bad92684dadf13c8769ac535c29783864e393ddb",
+      "title": "CSP Allow-list Experiment",
+      "created": "2026-05-13 12:50",
+      "link": "https://simonwillison.net/2026/May/13/csp-allow/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
-      "id": "dbc4f908477160ee7932a10ac209faaaaacd3434",
-      "title": "Quoting Mo Bitar",
-      "created": "2026-05-13 06:59",
-      "link": "https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "8f1404f549b0547dac4606430f9966b2b4d3e031",
-      "title": "Quoting Mitchell Hashimoto",
-      "created": "2026-05-13 06:21",
-      "link": "https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "f6cdc92adccd9f17467e36e054bcff7523c7cd61",
-      "title": "llm 0.32a2",
-      "created": "2026-05-13 01:45",
-      "link": "https://simonwillison.net/2026/May/12/llm/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "9c8847d21b0672962c50122570abe058f11a3e5c",
-      "title": "How Figma Upgraded Data Pipeline from Multi-Day Latency to Real-Time",
-      "created": "2026-05-12 23:31",
-      "link": "https://blog.bytebytego.com/p/how-figma-upgraded-data-pipeline",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "b96e43fb2d4036d373000cc2037610b0a42c639e",
-      "title": "Thinking Machines and interaction models",
-      "created": "2026-05-12 08:00",
-      "link": "https://seangoedecke.com/interaction-models/",
+      "id": "c54cc5891401e693af5ee829b586a951b3e8fc7d",
+      "title": "AI datacenters in space do not have a cooling problem",
+      "created": "2026-05-13 08:00",
+      "link": "https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "d886987181ce48d21464b6ea6c33816ba249d147",
-      "title": "AI 时代到底该怎么管一个工程团队",
-      "created": "2026-05-12 08:00",
-      "link": "https://baoyu.io/blog/2026-05-12/running-an-ai-native-engineering-org",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
+      "id": "f49b21cc05f9865e291b9544a9449e64f228dd8a",
+      "title": "光轮智能与谷歌、英伟达共同定义物理AI仿真标准",
+      "created": "2026-05-12 19:29",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032531&idx=1&sn=c52806b42194a35cb3220da73ce1ee37",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "b08efaa00443a93f2ada17e88ff02794827495c6",
-      "title": "Thoughts on GitLab's workforce reduction\" and \"structural and strategic decisions\"",
-      "created": "2026-05-12 07:58",
-      "link": "https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "id": "de7a703b80db9dd8898bcacb41b28b152057160d",
+      "title": "宇树造了款民用高达！390万元起",
+      "created": "2026-05-12 19:29",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032531&idx=2&sn=c6900503aba2065f25b448294c953772",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "ce49fe8e0cb4aba73fd3bc5baa09f488e6e13e6d",
-      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
-      "created": "2026-05-12 07:18",
-      "link": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "016664074c31501b2face9965e19169b654d96a8",
-      "title": "Quoting James Shore",
-      "created": "2026-05-12 03:48",
-      "link": "https://simonwillison.net/2026/May/11/james-shore/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "608d9206911fec7ca3e7a5879d02a02fb5fefa61",
-      "title": "Your AI Use Is Breaking My Brain",
-      "created": "2026-05-12 03:21",
-      "link": "https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "d1b0467c32cd4f5e190841c6cb5f3ed454a02297",
-      "title": "Using LLM in the shebang line of a script",
-      "created": "2026-05-12 02:48",
-      "link": "https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "af3b18e61db2cb7d13e2382e834d20dc88e6b666",
-      "title": "Learning on the Shop floor",
-      "created": "2026-05-11 23:46",
-      "link": "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "6c66fd7f427bc402a1820313b619b354a4f80bbe",
-      "title": "How Pinterest Built a Production MCP Ecosystem",
-      "created": "2026-05-11 23:31",
-      "link": "https://blog.bytebytego.com/p/how-pinterest-built-a-production",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "846c8049bd2ff5425882192697cc76e1f88dedb4",
-      "title": "Codex 的野心，MCP 和 Skill 的下一步",
-      "created": "2026-05-11 08:00",
-      "link": "https://baoyu.io/blog/2026-05-11/skill-next-codex",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
+      "id": "d7e37632a467b8a3055be0e3b4960ae0cb29d6a3",
+      "title": "告别云端依赖！字节开源新作DreamLite让手机秒变 AI 画板",
+      "created": "2026-05-12 19:29",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032531&idx=3&sn=d20164b0e4bf6329393c57e669f68886",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -710,21 +620,21 @@
       "category": "ai"
     },
     {
-      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
-      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
-      "created": "2025-04-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
       "title": "The State of Reinforcement Learning for LLM Reasoning",
       "created": "2025-04-19 08:00",
       "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
+      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
+      "created": "2025-04-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -903,6 +813,15 @@
       "title": "Journey to 1 Million Gradio Users!",
       "created": "2025-04-04 08:00",
       "link": "https://huggingface.co/blog/gradio-1m",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
+      "title": "The NLP Course is becoming the LLM Course",
+      "created": "2025-04-03 08:00",
+      "link": "https://huggingface.co/blog/llm-course",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
