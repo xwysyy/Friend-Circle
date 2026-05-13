@@ -3,10 +3,46 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 245,
-    "last_updated_time": "2026-05-13 04:01:03"
+    "article_num": 247,
+    "last_updated_time": "2026-05-13 11:52:13"
   },
   "article_data": [
+    {
+      "id": "4f7fd3e5d410297e68c4e95e12d459ad84b7a329",
+      "title": "datasette 1.0a29",
+      "created": "2026-05-13 07:41",
+      "link": "https://simonwillison.net/2026/May/12/datasette/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "dbc4f908477160ee7932a10ac209faaaaacd3434",
+      "title": "Quoting Mo Bitar",
+      "created": "2026-05-13 06:59",
+      "link": "https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "8f1404f549b0547dac4606430f9966b2b4d3e031",
+      "title": "Quoting Mitchell Hashimoto",
+      "created": "2026-05-13 06:21",
+      "link": "https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "f6cdc92adccd9f17467e36e054bcff7523c7cd61",
+      "title": "llm 0.32a2",
+      "created": "2026-05-13 01:45",
+      "link": "https://simonwillison.net/2026/May/12/llm/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "9c8847d21b0672962c50122570abe058f11a3e5c",
       "title": "How Figma Upgraded Data Pipeline from Multi-Day Latency to Real-Time",
@@ -17,21 +53,21 @@
       "category": "ai"
     },
     {
-      "id": "d886987181ce48d21464b6ea6c33816ba249d147",
-      "title": "AI 时代到底该怎么管一个工程团队",
-      "created": "2026-05-12 08:00",
-      "link": "https://baoyu.io/blog/2026-05-12/running-an-ai-native-engineering-org",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b96e43fb2d4036d373000cc2037610b0a42c639e",
       "title": "Thinking Machines and interaction models",
       "created": "2026-05-12 08:00",
       "link": "https://seangoedecke.com/interaction-models/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "d886987181ce48d21464b6ea6c33816ba249d147",
+      "title": "AI 时代到底该怎么管一个工程团队",
+      "created": "2026-05-12 08:00",
+      "link": "https://baoyu.io/blog/2026-05-12/running-an-ai-native-engineering-org",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -674,21 +710,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1520,15 +1556,6 @@
       "category": "ai"
     },
     {
-      "id": "d9569cde07a3e5857e400abc5bcb0e464f021f29",
-      "title": "Hmbown/DeepSeek-TUI",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/Hmbown/DeepSeek-TUI",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "6e9a00bdff8c3e044bcbc504abaca2f109cc9c3b",
       "title": "anthropics/financial-services",
       "created": "2024-01-01 00:00",
@@ -1538,10 +1565,10 @@
       "category": "ai"
     },
     {
-      "id": "c289dc3d991e222b970344c35cf58dc3763342a2",
-      "title": "ruvnet/ruflo",
+      "id": "d9569cde07a3e5857e400abc5bcb0e464f021f29",
+      "title": "Hmbown/DeepSeek-TUI",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/ruvnet/ruflo",
+      "link": "https://github.com/Hmbown/DeepSeek-TUI",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1556,19 +1583,10 @@
       "category": "ai"
     },
     {
-      "id": "409354dab0f20df8282080e11f78a01fed385c8d",
-      "title": "LearningCircuit/local-deep-research",
+      "id": "f538e90acf5b83f69b9f215f1ff9cca3eeb8dfd7",
+      "title": "CloakHQ/CloakBrowser",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/LearningCircuit/local-deep-research",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "cca5da9a5439b6fbd2f8f5a519b20120f0b381cd",
-      "title": "docusealco/docuseal",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/docusealco/docuseal",
+      "link": "https://github.com/CloakHQ/CloakBrowser",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1583,55 +1601,19 @@
       "category": "ai"
     },
     {
-      "id": "1606cfe2c2a91a41cc45f731859c6869e9340b81",
-      "title": "TauricResearch/TradingAgents",
+      "id": "409354dab0f20df8282080e11f78a01fed385c8d",
+      "title": "LearningCircuit/local-deep-research",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/TauricResearch/TradingAgents",
+      "link": "https://github.com/LearningCircuit/local-deep-research",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "47a3ac4c4a0f6d8c111d44e172f30f51483e4f81",
-      "title": "bwya77/vscode-dark-islands",
+      "id": "c289dc3d991e222b970344c35cf58dc3763342a2",
+      "title": "ruvnet/ruflo",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/bwya77/vscode-dark-islands",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "318e4c96184b9fdbd116640195176c8b32f3a321",
-      "title": "virattt/dexter",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/virattt/dexter",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "03d9c2ce3223603f52df2a9ca5b3220309c7a44e",
-      "title": "AIDC-AI/Pixelle-Video",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/AIDC-AI/Pixelle-Video",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "2e74d0228d63bddb2160d88b164fe5cb75af4408",
-      "title": "addyosmani/agent-skills",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/addyosmani/agent-skills",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "b17fe165b2f7f76b826d5e010cb0b3be9de7286a",
-      "title": "cocoindex-io/cocoindex",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/cocoindex-io/cocoindex",
+      "link": "https://github.com/ruvnet/ruflo",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1646,37 +1628,19 @@
       "category": "ai"
     },
     {
-      "id": "8134e1aebe3288a8ba96f62f72040d11fc87f19a",
-      "title": "InsForge/InsForge",
+      "id": "2e74d0228d63bddb2160d88b164fe5cb75af4408",
+      "title": "addyosmani/agent-skills",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/InsForge/InsForge",
+      "link": "https://github.com/addyosmani/agent-skills",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "0c7b688bbd1b6ec810fdb3a6d2154852d84abbe7",
-      "title": "PriorLabs/TabPFN",
+      "id": "cca5da9a5439b6fbd2f8f5a519b20120f0b381cd",
+      "title": "docusealco/docuseal",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/PriorLabs/TabPFN",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "f33d1256eee47635a343b215bb5514adb9f94b57",
-      "title": "1jehuang/jcode",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/1jehuang/jcode",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "76608378b66475536688ea5d246bea079805f62f",
-      "title": "mattpocock/skills",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/mattpocock/skills",
+      "link": "https://github.com/docusealco/docuseal",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1686,6 +1650,60 @@
       "title": "yikart/AiToEarn",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/yikart/AiToEarn",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "2f9d2670fac73014a7898a45386701a525116b20",
+      "title": "rohitg00/agentmemory",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/rohitg00/agentmemory",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "03d9c2ce3223603f52df2a9ca5b3220309c7a44e",
+      "title": "AIDC-AI/Pixelle-Video",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/AIDC-AI/Pixelle-Video",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "dcd3b85e5fc33e08cfc6ec7cb238e2699820bb44",
+      "title": "playcanvas/supersplat",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/playcanvas/supersplat",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "7f443c008555b453ccd70a3f8d4e858fb2e0b3c3",
+      "title": "HKUDS/AI-Trader",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/HKUDS/AI-Trader",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "1606cfe2c2a91a41cc45f731859c6869e9340b81",
+      "title": "TauricResearch/TradingAgents",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "8134e1aebe3288a8ba96f62f72040d11fc87f19a",
+      "title": "InsForge/InsForge",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/InsForge/InsForge",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
