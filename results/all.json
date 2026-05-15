@@ -3,8 +3,8 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 615,
-    "last_updated_time": "2026-05-15 03:52:33"
+    "article_num": 616,
+    "last_updated_time": "2026-05-15 11:54:26"
   },
   "article_data": [
     {
@@ -32,6 +32,42 @@
       "link": "https://yukinoshitasherry.github.io/26%E5%A4%96%E5%9C%B0%E9%A3%9F%E7%89%A9/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "046e165d1c58d38ca686fdbecaf2f74134ec188e",
+      "title": "DeepSeek V4的tid2eid是怎么来的？",
+      "created": "2026-05-15 10:52",
+      "link": "https://kexue.fm/archives/11750",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "id": "f4ccdcfa350c369fbe26f170032029e52bdc6157",
+      "title": "科技爱好者周刊（第 396 期）：互联网通信的替代方案",
+      "created": "2026-05-15 08:01",
+      "link": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html",
+      "author": "阮一峰",
+      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
+      "category": "friend"
+    },
+    {
+      "id": "fe2e6bebeddcebccd58fb8219f9e46ab2cede2bd",
+      "title": "Not so locked in any more",
+      "created": "2026-05-15 06:53",
+      "link": "https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "0b7bb97ffb071f3ec8eff8aa31c05e285268dd22",
+      "title": "Quoting Mitchell Hashimoto",
+      "created": "2026-05-15 06:31",
+      "link": "https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -284,6 +320,15 @@
       "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032531&idx=3&sn=d20164b0e4bf6329393c57e669f68886",
       "author": "机器之心",
       "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "33b2a5b847303100c046496ab5c4c4264b683922",
+      "title": "为什么资深开发者讲不清自己的专业能力",
+      "created": "2026-05-12 08:00",
+      "link": "https://baoyu.io/translations/2026-05-12/why-senior-developers-fail-to-communicate-their-expertise",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -624,24 +669,6 @@
       "title": "llm-gemini 0.31",
       "created": "2026-05-08 03:57",
       "link": "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "1fa9b224d7e0fa35e6c34293ac1f661a4c2c8167",
-      "title": "Big Words",
-      "created": "2026-05-08 02:47",
-      "link": "https://simonwillison.net/2026/May/7/big-words/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "c7baf15e1fc3f7078e93d09f2820cd1cce77bfce",
-      "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
-      "created": "2026-05-08 01:56",
-      "link": "https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
@@ -1718,15 +1745,6 @@
       "category": "ai"
     },
     {
-      "id": "67c375e2820f6f35f26b0019cf7ef43a7ba26d9c",
-      "title": "为什么你的\"AI 优先\"战略可能大错特错？",
-      "created": "2026-04-13 08:00",
-      "link": "https://baoyu.io/blog/2026-04-13/ai-first",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "c71a9b894eaf89cddd543442346a1739afeee80b",
       "title": "肖恩技术周刊（第 89 期）：AI算法放大就业不公",
       "created": "2026-04-13 08:00",
@@ -2177,15 +2195,6 @@
       "category": "ai"
     },
     {
-      "id": "cee4d3286a77fe7ebed2e348e6a433c870d2e679",
-      "title": "科技爱好者周刊（第 390 期）：没有语料，大模型就是智障",
-      "created": "2026-03-27 05:49",
-      "link": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html",
-      "author": "阮一峰",
-      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
-      "category": "friend"
-    },
-    {
       "id": "0f0abe79e2988deaa5ebb1005cfe02d2e5b54469",
       "title": "基于流式幂迭代的Muon实现：2. 加速",
       "created": "2026-03-26 13:14",
@@ -2195,21 +2204,21 @@
       "category": "ai"
     },
     {
-      "id": "806d25c728e1942280e75c2b479d60dbf201302d",
-      "title": "强化学习算法-3：GSPO、SAPO及KL散度改进",
-      "created": "2026-03-26 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/03/26/RLHF-3.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b751f403643d498699651cb043a068278d8f21d4",
       "title": "Engineers do get promoted for writing simple code",
       "created": "2026-03-26 08:00",
       "link": "https://seangoedecke.com/simple-work-gets-rewarded/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "806d25c728e1942280e75c2b479d60dbf201302d",
+      "title": "强化学习算法-3：GSPO、SAPO及KL散度改进",
+      "created": "2026-03-26 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/03/26/RLHF-3.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -2546,15 +2555,6 @@
       "category": "ai"
     },
     {
-      "id": "162ac238e58b2b0bf261ef4885d27065d91106e6",
-      "title": "基于流式幂迭代的Muon实现：1. 初识",
-      "created": "2026-03-12 16:57",
-      "link": "https://kexue.fm/archives/11654",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
       "id": "c3f9801d5899bc85d42f8a86ca6bf99dca589c0e",
       "title": "前奏曲",
       "created": "2026-03-12 08:00",
@@ -2870,15 +2870,6 @@
       "category": "ai"
     },
     {
-      "id": "385625ec7d882f02a7b74bdb3c8ac1a192506645",
-      "title": "深入浅出了解生成模型-10：Flow Matching基本原理",
-      "created": "2026-02-23 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/02/23/FlowMatching.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "cad37d404e8c15e14af6deb4214fb3b6476aa9cc",
       "title": "Insider amnesia",
       "created": "2026-02-23 08:00",
@@ -2894,6 +2885,15 @@
       "link": "https://seangoedecke.com/continuous-learning/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "385625ec7d882f02a7b74bdb3c8ac1a192506645",
+      "title": "深入浅出了解生成模型-10：Flow Matching基本原理",
+      "created": "2026-02-23 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/02/23/FlowMatching.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -2960,21 +2960,21 @@
       "category": "ai"
     },
     {
-      "id": "384030fdf4578c8e1c083c1ca8c8bd14a3e66530",
-      "title": "Can We Close the Loop in 2026?",
-      "created": "2026-02-17 08:00",
-      "link": "https://www.philschmid.de/closing-the-loop",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "283f8f35757dad82c325c0208a27e7d91aae6242",
       "title": "LLM-generated skills work, if you generate them afterwards",
       "created": "2026-02-17 08:00",
       "link": "https://seangoedecke.com/generate-skills-afterwards/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "384030fdf4578c8e1c083c1ca8c8bd14a3e66530",
+      "title": "Can We Close the Loop in 2026?",
+      "created": "2026-02-17 08:00",
+      "link": "https://www.philschmid.de/closing-the-loop",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -2996,21 +2996,21 @@
       "category": "ai"
     },
     {
-      "id": "b4665bae5f5e11fc9cc4c52f735b46e9c396fafd",
-      "title": "深入浅出了解生成模型-10：模型蒸馏与剪枝",
-      "created": "2026-02-15 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/02/15/ModelDistillation.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "f3c98e92299c3044e22166fde6bba83d9503e4fb",
       "title": "Two different tricks for fast LLM inference",
       "created": "2026-02-15 08:00",
       "link": "https://seangoedecke.com/fast-llm-inference/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b4665bae5f5e11fc9cc4c52f735b46e9c396fafd",
+      "title": "深入浅出了解生成模型-10：模型蒸馏与剪枝",
+      "created": "2026-02-15 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/02/15/ModelDistillation.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -3365,15 +3365,6 @@
       "category": "ai"
     },
     {
-      "id": "ddecdacb24bd0f7eeb6152205e2cf9f5e1c9e6bd",
-      "title": "肖恩技术周刊（第 77 期）：稀缺特质",
-      "created": "2026-01-05 08:00",
-      "link": "https://weekly.shawnxie.top/content/2026/77.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "15f4a5452b3bd90d618626d5de84e7ff3d1103a7",
       "title": "Adam中的偏差修正起到了什么作用？",
       "created": "2026-01-05 08:00",
@@ -3407,6 +3398,15 @@
       "link": "https://blog.tomorrowdawn.cc/posts/%E6%A2%AF%E5%BA%A6%E9%80%9F%E9%99%8D/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "ddecdacb24bd0f7eeb6152205e2cf9f5e1c9e6bd",
+      "title": "肖恩技术周刊（第 77 期）：稀缺特质",
+      "created": "2026-01-05 08:00",
+      "link": "https://weekly.shawnxie.top/content/2026/77.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -3491,6 +3491,15 @@
       "category": "friend"
     },
     {
+      "id": "f4b3d10b27b983aeffd563b69ad775210aa57b6e",
+      "title": "TileLang笔记",
+      "created": "2025-12-29 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/tilelang%E7%AC%94%E8%AE%B0/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
       "id": "dca9c06155fc07f703291b76a1ea3d8c9054ffdb",
       "title": "肖恩技术周刊（第 76 期）：疯狂的白银",
       "created": "2025-12-29 08:00",
@@ -3506,15 +3515,6 @@
       "link": "https://www.big-yellow-j.top/posts/2025/12/29/SDAcceralate.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "f4b3d10b27b983aeffd563b69ad775210aa57b6e",
-      "title": "TileLang笔记",
-      "created": "2025-12-29 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/tilelang%E7%AC%94%E8%AE%B0/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
@@ -3617,21 +3617,21 @@
       "category": "ai"
     },
     {
-      "id": "6e06423f23f0583c15ce6e16333f59769bdfad75",
-      "title": "肖恩技术周刊（第 75 期）：Slop",
-      "created": "2025-12-22 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/75.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "7dc24dc1833ef76fb90910ee6ae47f3bd8256eea",
       "title": "高斯积分quick review",
       "created": "2025-12-22 08:00",
       "link": "https://blog.tomorrowdawn.cc/posts/%E9%AB%98%E6%96%AF%E7%A7%AF%E5%88%86quick-review/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "6e06423f23f0583c15ce6e16333f59769bdfad75",
+      "title": "肖恩技术周刊（第 75 期）：Slop",
+      "created": "2025-12-22 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/75.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -5021,10 +5021,10 @@
       "category": "ai"
     },
     {
-      "id": "d9569cde07a3e5857e400abc5bcb0e464f021f29",
-      "title": "Hmbown/DeepSeek-TUI",
+      "id": "f538e90acf5b83f69b9f215f1ff9cca3eeb8dfd7",
+      "title": "CloakHQ/CloakBrowser",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/Hmbown/DeepSeek-TUI",
+      "link": "https://github.com/CloakHQ/CloakBrowser",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -5039,19 +5039,10 @@
       "category": "ai"
     },
     {
-      "id": "9440088458c602451356760034724cb62ab23b54",
-      "title": "decolua/9router",
+      "id": "d9569cde07a3e5857e400abc5bcb0e464f021f29",
+      "title": "Hmbown/DeepSeek-TUI",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/decolua/9router",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "1af51839de3f10a133086edacfd5bda8f680d9a2",
-      "title": "yikart/AiToEarn",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/yikart/AiToEarn",
+      "link": "https://github.com/Hmbown/DeepSeek-TUI",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -5066,19 +5057,19 @@
       "category": "ai"
     },
     {
-      "id": "2e74d0228d63bddb2160d88b164fe5cb75af4408",
-      "title": "addyosmani/agent-skills",
+      "id": "1af51839de3f10a133086edacfd5bda8f680d9a2",
+      "title": "yikart/AiToEarn",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/addyosmani/agent-skills",
+      "link": "https://github.com/yikart/AiToEarn",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "409354dab0f20df8282080e11f78a01fed385c8d",
-      "title": "LearningCircuit/local-deep-research",
+      "id": "9440088458c602451356760034724cb62ab23b54",
+      "title": "decolua/9router",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/LearningCircuit/local-deep-research",
+      "link": "https://github.com/decolua/9router",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -5102,10 +5093,10 @@
       "category": "ai"
     },
     {
-      "id": "c289dc3d991e222b970344c35cf58dc3763342a2",
-      "title": "ruvnet/ruflo",
+      "id": "2e74d0228d63bddb2160d88b164fe5cb75af4408",
+      "title": "addyosmani/agent-skills",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/ruvnet/ruflo",
+      "link": "https://github.com/addyosmani/agent-skills",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -5120,15 +5111,6 @@
       "category": "ai"
     },
     {
-      "id": "2732fee73e8306fda2c433ff02be970b033c06b7",
-      "title": "VectifyAI/PageIndex",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/VectifyAI/PageIndex",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "76608378b66475536688ea5d246bea079805f62f",
       "title": "mattpocock/skills",
       "created": "2024-01-01 00:00",
@@ -5138,10 +5120,37 @@
       "category": "ai"
     },
     {
+      "id": "c289dc3d991e222b970344c35cf58dc3763342a2",
+      "title": "ruvnet/ruflo",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/ruvnet/ruflo",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "afb2934b80705b7f3244bc75ba3882e97d19fb7d",
+      "title": "apernet/hysteria",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/apernet/hysteria",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "c2f44f3b7fd9a33d6063ae7edc110369107f334c",
       "title": "datawhalechina/easy-vibe",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/datawhalechina/easy-vibe",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "409354dab0f20df8282080e11f78a01fed385c8d",
+      "title": "LearningCircuit/local-deep-research",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/LearningCircuit/local-deep-research",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
