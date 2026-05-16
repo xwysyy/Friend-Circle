@@ -4,7 +4,7 @@
     "active_num": 38,
     "error_num": 1,
     "article_num": 614,
-    "last_updated_time": "2026-05-16 21:42:53"
+    "last_updated_time": "2026-05-17 03:12:25"
   },
   "article_data": [
     {
@@ -32,6 +32,33 @@
       "link": "https://yukinoshitasherry.github.io/26%E5%A4%96%E5%9C%B0%E9%A3%9F%E7%89%A9/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "6ce3e6ac5419dfb0e6a159fd999cd957c8fd8cc9",
+      "title": "Quoting Julia Evans",
+      "created": "2026-05-17 00:45",
+      "link": "https://simonwillison.net/2026/May/16/julia-evans/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "1edf5e8f9395d98e546d56e79cbe8402ff7a5b6a",
+      "title": "EP215: The Anatomy of an AI Agent",
+      "created": "2026-05-16 23:31",
+      "link": "https://blog.bytebytego.com/p/ep215-the-anatomy-of-an-ai-agent",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "id": "ad1a0b6f01f5a5074513b79e48a69045fcdd065c",
+      "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
+      "created": "2026-05-16 19:33",
+      "link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -224,6 +251,15 @@
       "category": "ai"
     },
     {
+      "id": "52ed20ae303a16018048075627687f1056ee33a2",
+      "title": "datasette-ip-rate-limit 0.1a0",
+      "created": "2026-05-14 12:10",
+      "link": "https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
       "id": "d202300fb54cce5f7cb43709dbeca7ee1c7588e8",
       "title": "全球看中国，灵初智能用10万小时人类数据写下具身智能的中国答案",
       "created": "2026-05-14 12:10",
@@ -248,15 +284,6 @@
       "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032918&idx=3&sn=e3d388c0aedc3f4eff95d652698adc99",
       "author": "机器之心",
       "avatar": "https://www.jiqizhixin.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "52ed20ae303a16018048075627687f1056ee33a2",
-      "title": "datasette-ip-rate-limit 0.1a0",
-      "created": "2026-05-14 12:10",
-      "link": "https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -566,15 +593,6 @@
       "category": "ai"
     },
     {
-      "id": "fdaf19544702bb3413cfa1f891bb007d9cc8f738",
-      "title": "Quoting New York Times Editors’ Note",
-      "created": "2026-05-11 07:58",
-      "link": "https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
       "id": "ea83a6313973cf71ff2d079e1cf15ce994bbdfd0",
       "title": "Agent 应该如何解决繁杂任务：从 /goal 到长时间运行",
       "created": "2026-05-10 22:13",
@@ -638,21 +656,21 @@
       "category": "ai"
     },
     {
-      "id": "115ed7596c9d88cc97dce25e8711a5408d60b61d",
-      "title": "EP214: Claude Code vs. OpenClaw: 5 Design Dimensions",
-      "created": "2026-05-09 23:31",
-      "link": "https://blog.bytebytego.com/p/ep214-claude-code-vs-openclaw-5-design",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
       "id": "33dd6dad274b4c8ff9341a3b178fd6dab5e4c7b6",
       "title": "645 - 《最近买的东西们（9）》",
       "created": "2026-05-09 23:31",
       "link": "https://blog.sorrycc.com/buy-09",
       "author": "sorrycc (云谦)",
       "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "115ed7596c9d88cc97dce25e8711a5408d60b61d",
+      "title": "EP214: Claude Code vs. OpenClaw: 5 Design Dimensions",
+      "created": "2026-05-09 23:31",
+      "link": "https://blog.bytebytego.com/p/ep214-claude-code-vs-openclaw-5-design",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
@@ -890,21 +908,21 @@
       "category": "ai"
     },
     {
-      "id": "351d00366b56e172244301721160e3ddc488dd01",
-      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-      "created": "2026-05-06 08:00",
-      "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5d070b11fab667e0c4572205a8662dd15d2e087f",
       "title": "Anthropic 兄妹 Dario Amodei 和 Daniela Amodei 最新对话：Claude 为什么一直限速？",
       "created": "2026-05-06 08:00",
       "link": "https://baoyu.io/blog/a-conversation-with-dario-amodei-daniela-amodei",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "351d00366b56e172244301721160e3ddc488dd01",
+      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+      "created": "2026-05-06 08:00",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1106,15 +1124,6 @@
       "category": "friend"
     },
     {
-      "id": "a89e6f10b7acf2139166c39d0a16abc516493b21",
-      "title": "DeepInfra on Hugging Face Inference Providers 🔥",
-      "created": "2026-04-29 08:00",
-      "link": "https://huggingface.co/blog/inference-providers-deepinfra",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "ace26a865a7eae55454283b1bb91edc9b7798866",
       "title": "Karpathy 最新访谈：Vibe Coding 只是开始，真正重要的是 Agentic Engineering",
       "created": "2026-04-29 08:00",
@@ -1130,6 +1139,15 @@
       "link": "https://baoyu.io/blog/2026-04-29/manthanguptaa-2034849672985288957",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "a89e6f10b7acf2139166c39d0a16abc516493b21",
+      "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+      "created": "2026-04-29 08:00",
+      "link": "https://huggingface.co/blog/inference-providers-deepinfra",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1277,21 +1295,21 @@
       "category": "ai"
     },
     {
-      "id": "b2ff62f993e156901e2aede1046e3d29e09b5016",
-      "title": "DeepSeek-V4: a million-token context that agents can actually use",
-      "created": "2026-04-24 08:00",
-      "link": "https://huggingface.co/blog/deepseekv4",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "8affeffd93ea0200d114b665617039478b951aa2",
       "title": "为 Agent 设计产品",
       "created": "2026-04-24 08:00",
       "link": "https://baoyu.io/blog/2026-04-24/teddy-riker-2047312986696454584",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b2ff62f993e156901e2aede1046e3d29e09b5016",
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "created": "2026-04-24 08:00",
+      "link": "https://huggingface.co/blog/deepseekv4",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1340,21 +1358,21 @@
       "category": "ai"
     },
     {
-      "id": "4a3a5411219d4e01d9911ddb92aabdb491bfa6fa",
-      "title": "How to Use Transformers.js in a Chrome Extension",
-      "created": "2026-04-23 08:00",
-      "link": "https://huggingface.co/blog/transformersjs-chrome-extension",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "6d08cefd102658270351e24f5d0eb3914c16ed8d",
       "title": "Cat Wu 面试了几百个 PM 候选人，几乎没人答对一个问题：AI 产品经理到底应该干什么？",
       "created": "2026-04-23 08:00",
       "link": "https://baoyu.io/blog/building-agi-pilled-products-cat-wu-head-of-product-claude-code",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "4a3a5411219d4e01d9911ddb92aabdb491bfa6fa",
+      "title": "How to Use Transformers.js in a Chrome Extension",
+      "created": "2026-04-23 08:00",
+      "link": "https://huggingface.co/blog/transformersjs-chrome-extension",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1493,24 +1511,6 @@
       "category": "friend"
     },
     {
-      "id": "ad79cef29a21bc3a72f67bdd36fc2d5a8d2b0b66",
-      "title": "肖恩技术周刊（第 90 期）：过程即护城河",
-      "created": "2026-04-20 08:00",
-      "link": "https://weekly.shawnxie.top/content/2026/90.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
-      "id": "474a050ed104a493dd13ffae9eb5a787782a16d3",
-      "title": "🔥Pytorch使用-3：常见的分布式训练及其实现",
-      "created": "2026-04-20 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/04/20/torch-basic-distribute-1.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "eb22dd50841c859011d40d799dd6c2920ba1e42f",
       "title": "终端的语义层叠：几种终端方案的底层原理",
       "created": "2026-04-20 08:00",
@@ -1529,21 +1529,30 @@
       "category": "ai"
     },
     {
+      "id": "ad79cef29a21bc3a72f67bdd36fc2d5a8d2b0b66",
+      "title": "肖恩技术周刊（第 90 期）：过程即护城河",
+      "created": "2026-04-20 08:00",
+      "link": "https://weekly.shawnxie.top/content/2026/90.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
+      "category": "ai"
+    },
+    {
+      "id": "474a050ed104a493dd13ffae9eb5a787782a16d3",
+      "title": "🔥Pytorch使用-3：常见的分布式训练及其实现",
+      "created": "2026-04-20 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/04/20/torch-basic-distribute-1.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "4fc00ef4ad55f0d1dd30fb806fc931b968d5a156",
       "title": "635 - 《Release Sokki：因为 Espanso 把我原文吃了》",
       "created": "2026-04-19 21:33",
       "link": "https://blog.sorrycc.com/release-sokki",
       "author": "sorrycc (云谦)",
       "avatar": "https://avatars.githubusercontent.com/u/35128",
-      "category": "ai"
-    },
-    {
-      "id": "570a0f5d12aa5867ef6aae170cac9140bd5e1e2e",
-      "title": "EP211: How the JVM Works",
-      "created": "2026-04-18 23:30",
-      "link": "https://blog.bytebytego.com/p/ep211-how-the-jvm-works",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
@@ -3401,19 +3410,19 @@
       "category": "ai"
     },
     {
-      "id": "64a885263404a75b6fda56d21ec2d331d683cc60",
-      "title": "梯度速降",
+      "id": "804fa59122219d2d96cf56ce39edeb9cad3bf507",
+      "title": "矩阵微分乘法法则速记",
       "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E6%A2%AF%E5%BA%A6%E9%80%9F%E9%99%8D/",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "804fa59122219d2d96cf56ce39edeb9cad3bf507",
-      "title": "矩阵微分乘法法则速记",
+      "id": "64a885263404a75b6fda56d21ec2d331d683cc60",
+      "title": "梯度速降",
       "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E9%80%9F%E8%AE%B0/",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E6%A2%AF%E5%BA%A6%E9%80%9F%E9%99%8D/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -3509,21 +3518,21 @@
       "category": "ai"
     },
     {
-      "id": "b9a24d96040d69721c996a7121f4b197f6aafd26",
-      "title": "深入浅出了解生成模型-8：生成加速策略概述",
-      "created": "2025-12-29 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/12/29/SDAcceralate.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "f4b3d10b27b983aeffd563b69ad775210aa57b6e",
       "title": "TileLang笔记",
       "created": "2025-12-29 08:00",
       "link": "https://blog.tomorrowdawn.cc/posts/tilelang%E7%AC%94%E8%AE%B0/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "b9a24d96040d69721c996a7121f4b197f6aafd26",
+      "title": "深入浅出了解生成模型-8：生成加速策略概述",
+      "created": "2025-12-29 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/12/29/SDAcceralate.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -3788,19 +3797,19 @@
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -4550,15 +4559,6 @@
       "link": "https://mathewshen.me/blog/2025/rust-and-python/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
-      "id": "c9d8040bdb3105956b4605d014854f9706d09674",
-      "title": "Understanding and Coding the KV Cache in LLMs from Scratch",
-      "created": "2025-06-17 16:00",
-      "link": "https://magazine.sebastianraschka.com/p/coding-the-kv-cache-in-llms",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
