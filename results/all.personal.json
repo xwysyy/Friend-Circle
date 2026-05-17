@@ -3,62 +3,80 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 234,
-    "last_updated_time": "2026-05-17 11:55:59"
+    "article_num": 237,
+    "last_updated_time": "2026-05-17 16:28:20"
   },
   "article_data": [
     {
-      "id": "45e571f6eda50357454b84836e64dc8e666f87f4",
-      "title": "How I use LLMs as a staff engineer in 2026",
+      "id": "cb150b28bf01d7de978b3bf3787210853fb08ff4",
+      "title": "一个月狂烧130万美元！龙虾之父自曝token账单，费用OpenAI全包",
+      "created": "2026-05-17 11:06",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033486&idx=1&sn=d735fea8f939c9ca3c15a8d7d010fff7",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "fad05066dcfdcb928ce9bace4a5bb91793c466a0",
+      "title": "「世界模型」究竟是什么？一文看懂其前世今生与百亿赌局",
+      "created": "2026-05-17 11:06",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033486&idx=2&sn=a01ce91f3d80502dc1db926c3e0d41e2",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "9b19eecd1594be6a27cc9314c7c9fb6f5318c572",
+      "title": "花了1000倍的token，效果可能却没有更好：AI Agent的“隐性账单”长什么样",
+      "created": "2026-05-17 11:06",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033486&idx=3&sn=b78e5f51da1734107dbfbe393a7f6e0a",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "41acf6da1dcca0cab6c099cb3feb6a568a909216",
+      "title": "日常Harness",
       "created": "2026-05-17 08:00",
-      "link": "https://seangoedecke.com/how-i-use-llms-in-2026/",
-      "author": "Sean Goedecke",
-      "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "link": "https://ifuryst.github.io/blog/2026/daily-harness/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
-      "id": "d8cb63d017bb6c9561772061de792c0be48aab5b",
-      "title": "Warelay -> OpenClaw",
-      "created": "2026-05-17 04:23",
-      "link": "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "id": "33aba4fcffccf41dcc9925553587abc5be38bfbd",
+      "title": "LLM Infra 101: 推理模型",
+      "created": "2026-05-17 08:00",
+      "link": "https://ifuryst.github.io/blog/2026/llm-infra-101-model-inference/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
-      "id": "6ce3e6ac5419dfb0e6a159fd999cd957c8fd8cc9",
-      "title": "Quoting Julia Evans",
-      "created": "2026-05-17 00:45",
-      "link": "https://simonwillison.net/2026/May/16/julia-evans/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "id": "cd7ed1b17cb329ffc9ffce9d891bcaa34cd20058",
+      "title": "这一次，不比炫技，比谁更能「干活」",
+      "created": "2026-05-16 18:22",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033444&idx=1&sn=bf08919d1554fd825b9a7607e8db5495",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "1edf5e8f9395d98e546d56e79cbe8402ff7a5b6a",
-      "title": "EP215: The Anatomy of an AI Agent",
-      "created": "2026-05-16 23:31",
-      "link": "https://blog.bytebytego.com/p/ep215-the-anatomy-of-an-ai-agent",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "id": "4a1f9df1c2fd41a4829424bd8bb167e6bdd70f20",
+      "title": "Anthropic又整活，卡片大小的电脑也跑上Claude Code了",
+      "created": "2026-05-16 18:22",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033444&idx=2&sn=22572ba158b074479842c1447338733d",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "ad1a0b6f01f5a5074513b79e48a69045fcdd065c",
-      "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
-      "created": "2026-05-16 19:33",
-      "link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "0c83e7b090a85711b98b467ff105c6752ffd42d5",
-      "title": "创始人手册：打造 AI 原生初创公司",
-      "created": "2026-05-16 08:00",
-      "link": "https://baoyu.io/translations/2026-05-16/the-founders-playbook-building-an-ai-native-startup",
-      "author": "宝玉",
-      "avatar": "https://baoyu.io/favicon.ico",
+      "id": "b742439b28bb343f455f1529684787b8ae75a52e",
+      "title": "机器人为什么需要世界模型？世界顶尖机构联合综述震撼发布",
+      "created": "2026-05-16 18:22",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033444&idx=3&sn=97ddd8c5d09a346e815566d86b22fab6",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -539,21 +557,21 @@
       "category": "ai"
     },
     {
-      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
-      "title": "Google Gemini LangChain Cheatsheet",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
       "title": "Qwen多模态系列论文",
       "created": "2025-04-28 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
+      "title": "Google Gemini LangChain Cheatsheet",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -611,21 +629,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1679,6 +1697,15 @@
       "link": "https://philliphaeusler.com/posts/tic_tac_toe/",
       "author": "Phillip Haeusler",
       "avatar": "https://philliphaeusler.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "001115838b91da96dc1ba1a87b6763a732f04384",
+      "title": "Optimizing LLMs From a Dataset Perspective",
+      "created": "2023-09-15 16:00",
+      "link": "https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
