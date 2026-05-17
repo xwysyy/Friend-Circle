@@ -3,10 +3,28 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 230,
-    "last_updated_time": "2026-05-17 03:13:18"
+    "article_num": 234,
+    "last_updated_time": "2026-05-17 11:55:59"
   },
   "article_data": [
+    {
+      "id": "45e571f6eda50357454b84836e64dc8e666f87f4",
+      "title": "How I use LLMs as a staff engineer in 2026",
+      "created": "2026-05-17 08:00",
+      "link": "https://seangoedecke.com/how-i-use-llms-in-2026/",
+      "author": "Sean Goedecke",
+      "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "d8cb63d017bb6c9561772061de792c0be48aab5b",
+      "title": "Warelay -> OpenClaw",
+      "created": "2026-05-17 04:23",
+      "link": "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
     {
       "id": "6ce3e6ac5419dfb0e6a159fd999cd957c8fd8cc9",
       "title": "Quoting Julia Evans",
@@ -32,6 +50,15 @@
       "link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "0c83e7b090a85711b98b467ff105c6752ffd42d5",
+      "title": "创始人手册：打造 AI 原生初创公司",
+      "created": "2026-05-16 08:00",
+      "link": "https://baoyu.io/translations/2026-05-16/the-founders-playbook-building-an-ai-native-startup",
+      "author": "宝玉",
+      "avatar": "https://baoyu.io/favicon.ico",
       "category": "ai"
     },
     {
@@ -449,15 +476,6 @@
       "category": "ai"
     },
     {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -473,6 +491,15 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -584,21 +611,21 @@
       "category": "ai"
     },
     {
-      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
-      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
-      "created": "2025-04-19 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
       "title": "The State of Reinforcement Learning for LLM Reasoning",
       "created": "2025-04-19 08:00",
       "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
       "author": "Sebastian Raschka",
       "avatar": "https://sebastianraschka.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
+      "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
+      "created": "2025-04-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -782,21 +809,21 @@
       "category": "ai"
     },
     {
-      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
-      "title": "Model Context Protocol (MCP) an overview",
-      "created": "2025-04-03 08:00",
-      "link": "https://www.philschmid.de/mcp-introduction",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
       "title": "The NLP Course is becoming the LLM Course",
       "created": "2025-04-03 08:00",
       "link": "https://huggingface.co/blog/llm-course",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
+      "title": "Model Context Protocol (MCP) an overview",
+      "created": "2025-04-03 08:00",
+      "link": "https://www.philschmid.de/mcp-introduction",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1007,21 +1034,21 @@
       "category": "ai"
     },
     {
-      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
-      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
-      "created": "2025-01-23 08:00",
-      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
       "title": "Oh-Numpy & Oh-Pytorch",
       "created": "2025-01-23 08:00",
       "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
+      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
+      "created": "2025-01-23 08:00",
+      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1439,15 +1466,6 @@
       "category": "ai"
     },
     {
-      "id": "6e9a00bdff8c3e044bcbc504abaca2f109cc9c3b",
-      "title": "anthropics/financial-services",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/anthropics/financial-services",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "f538e90acf5b83f69b9f215f1ff9cca3eeb8dfd7",
       "title": "CloakHQ/CloakBrowser",
       "created": "2024-01-01 00:00",
@@ -1475,6 +1493,15 @@
       "category": "ai"
     },
     {
+      "id": "6e9a00bdff8c3e044bcbc504abaca2f109cc9c3b",
+      "title": "anthropics/financial-services",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/anthropics/financial-services",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "9f093b1fafebec97596b64bf82d600a99132a6d6",
       "title": "bytedance/UI-TARS-desktop",
       "created": "2024-01-01 00:00",
@@ -1488,6 +1515,33 @@
       "title": "decolua/9router",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/decolua/9router",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "3ffc776f8596e65fcb3d1200331d75d0fa563ff4",
+      "title": "Imbad0202/academic-research-skills",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/Imbad0202/academic-research-skills",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "6d0978465cff8cd67f01f41108b3df7b6af8d1ab",
+      "title": "oven-sh/bun",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/oven-sh/bun",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "76608378b66475536688ea5d246bea079805f62f",
+      "title": "mattpocock/skills",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/mattpocock/skills",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1511,19 +1565,10 @@
       "category": "ai"
     },
     {
-      "id": "76608378b66475536688ea5d246bea079805f62f",
-      "title": "mattpocock/skills",
+      "id": "ea9a569724f0eb119a010ef0781c04d251a914b7",
+      "title": "ruvnet/RuView",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/mattpocock/skills",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "dcd3b85e5fc33e08cfc6ec7cb238e2699820bb44",
-      "title": "playcanvas/supersplat",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/playcanvas/supersplat",
+      "link": "https://github.com/ruvnet/RuView",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1538,28 +1583,19 @@
       "category": "ai"
     },
     {
-      "id": "ea9a569724f0eb119a010ef0781c04d251a914b7",
-      "title": "ruvnet/RuView",
+      "id": "6086f857b3c98fc03966cf471b90eb72ae7343ac",
+      "title": "millionco/react-doctor",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/ruvnet/RuView",
+      "link": "https://github.com/millionco/react-doctor",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "2e74d0228d63bddb2160d88b164fe5cb75af4408",
-      "title": "addyosmani/agent-skills",
+      "id": "dcd3b85e5fc33e08cfc6ec7cb238e2699820bb44",
+      "title": "playcanvas/supersplat",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/addyosmani/agent-skills",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "c2f44f3b7fd9a33d6063ae7edc110369107f334c",
-      "title": "datawhalechina/easy-vibe",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/datawhalechina/easy-vibe",
+      "link": "https://github.com/playcanvas/supersplat",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
