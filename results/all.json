@@ -4,7 +4,7 @@
     "active_num": 38,
     "error_num": 1,
     "article_num": 616,
-    "last_updated_time": "2026-05-18 18:14:49"
+    "last_updated_time": "2026-05-18 23:42:58"
   },
   "article_data": [
     {
@@ -32,6 +32,33 @@
       "link": "https://yukinoshitasherry.github.io/26%E5%A4%96%E5%9C%B0%E9%A3%9F%E7%89%A9/",
       "author": "秋月春风的书房",
       "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "00d7e85b191ad425741a71fef3df19a55f6b5f34",
+      "title": "How Grab is Using AI Agents to Boost Team Productivity",
+      "created": "2026-05-18 23:31",
+      "link": "https://blog.bytebytego.com/p/how-grab-is-using-ai-agents-to-boost",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
+      "id": "905a332eca99d77bad3c0ceb958a04b629ba3c4e",
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "created": "2026-05-18 23:12",
+      "link": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "699fe0a3c82973a486629737337d67804a0c402e",
+      "title": "The Open Agent Leaderboard",
+      "created": "2026-05-18 22:12",
+      "link": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -77,6 +104,15 @@
       "link": "https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/",
       "author": "Sean Goedecke",
       "avatar": "https://www.seangoedecke.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "c7e5771e8631b2f7606ae11f873ab54b70079e95",
+      "title": "LLM Infra 101 v0.1: API调用",
+      "created": "2026-05-18 08:00",
+      "link": "https://ifuryst.github.io/blog/2026/llm-infra-101-v0-1-openai-compatible-api/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -1538,15 +1574,6 @@
       "category": "ai"
     },
     {
-      "id": "1607ccd5a49af7a5bc6dd2ce541de719f8c31144",
-      "title": "The Security Architecture of GitHub Agentic Workflow",
-      "created": "2026-04-20 23:30",
-      "link": "https://blog.bytebytego.com/p/the-security-architecture-of-github",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
       "id": "2241598c188b0ddf3864e8ea7c06fd80aca65b5e",
       "title": "637 - 《AI 时代的工程师团队》",
       "created": "2026-04-20 20:34",
@@ -1781,15 +1808,6 @@
       "category": "ai"
     },
     {
-      "id": "3977e92d92e9930f07857e36d6e81d10368f1ec3",
-      "title": "Meet HoloTab by HCompany. Your AI browser companion.",
-      "created": "2026-04-15 17:25",
-      "link": "https://huggingface.co/blog/Hcompany/holotab",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "ee7da049edcbbaaf42c71ce7cfc38d88148234bf",
       "title": "洪绘压图发布！批量转图片格式，批量压缩图片工具（Mac/Windows）",
       "created": "2026-04-15 12:52",
@@ -1916,6 +1934,15 @@
       "category": "ai"
     },
     {
+      "id": "bbd80acaea7658f5d4a22a3b1f79b6156dc5d60e",
+      "title": "🔥Pytorch使用-1：Pytorch计算图等概念",
+      "created": "2026-04-10 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/04/10/torch_basic_torch_compile.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "e6b721834aba174ba2408284c6ce18c8c8bfdc52",
       "title": "科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术",
       "created": "2026-04-10 07:17",
@@ -1968,15 +1995,6 @@
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
       "category": "friend"
-    },
-    {
-      "id": "a3ef54c12f07ae5b04c5cf10a5947faf48b24934",
-      "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
-      "created": "2026-04-09 08:00",
-      "link": "https://huggingface.co/blog/waypoint-1-5",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
     },
     {
       "id": "533aca163e00e7d458a2f14075855f73fbed0336",
@@ -2708,21 +2726,21 @@
       "category": "ai"
     },
     {
-      "id": "21d6d80bd7e913620ab07b9b7b14767bd4c80201",
-      "title": "AI Native 的来时路",
-      "created": "2026-03-10 08:00",
-      "link": "https://mathewshen.me/blog/2026/new-era/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "62f32a6c7f570b397da844e4ecd72610e1a71e01",
       "title": "How Autoresearch will change Small Language Models adoption",
       "created": "2026-03-10 08:00",
       "link": "https://www.philschmid.de/autoresearch",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "21d6d80bd7e913620ab07b9b7b14767bd4c80201",
+      "title": "AI Native 的来时路",
+      "created": "2026-03-10 08:00",
+      "link": "https://mathewshen.me/blog/2026/new-era/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -2744,21 +2762,21 @@
       "category": "ai"
     },
     {
-      "id": "9edff1232626ef0458ec7612a6ac1a55db1ddf13",
-      "title": "RL 算法详解：从 Q-learning 到 GRPO 系列",
-      "created": "2026-03-07 08:00",
-      "link": "https://yukinoshitasherry.github.io/RL%E7%AE%97%E6%B3%95/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
-      "category": "ai"
-    },
-    {
       "id": "5d9d9f42fbfcedd6b9ddcd1027ce16862a221538",
       "title": "Confessions vs. CoT Monitoring vs. Probes: Three Bets on Model Honesty",
       "created": "2026-03-07 08:00",
       "link": "https://subhadipmitra.com/blog/2026/three-bets-model-honesty/",
       "author": "Subhadip Mitra",
       "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
+      "category": "ai"
+    },
+    {
+      "id": "9edff1232626ef0458ec7612a6ac1a55db1ddf13",
+      "title": "RL 算法详解：从 Q-learning 到 GRPO 系列",
+      "created": "2026-03-07 08:00",
+      "link": "https://yukinoshitasherry.github.io/RL%E7%AE%97%E6%B3%95/",
+      "author": "秋月春风的书房",
+      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
       "category": "ai"
     },
     {
@@ -2987,21 +3005,21 @@
       "category": "ai"
     },
     {
-      "id": "a6418b25d679ca65f34ae87a88acdba8fd1ccaec",
-      "title": "模型训练分析-1：Loss以及Grad Norm分析",
-      "created": "2026-02-20 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/02/20/ModelTraining.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "b8cca878bea9f51a281f84db40da371dd7d859cf",
       "title": "Agents: Inner Loop vs Outer Loop",
       "created": "2026-02-20 08:00",
       "link": "https://www.philschmid.de/inner-loop-vs-outer-loop",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "a6418b25d679ca65f34ae87a88acdba8fd1ccaec",
+      "title": "模型训练分析-1：Loss以及Grad Norm分析",
+      "created": "2026-02-20 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/02/20/ModelTraining.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -3308,15 +3326,6 @@
       "link": "https://subhadipmitra.com/blog/2026/rlvr-beyond-math-code/",
       "author": "Subhadip Mitra",
       "avatar": "https://subhadipmitra.com/assets/img/favicon.png?058310854f7b3c920f894a1d42c3c47b",
-      "category": "ai"
-    },
-    {
-      "id": "4b3c6e77d84ede778de668b74e0b90a101746ea8",
-      "title": "十年",
-      "created": "2026-01-18 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/10-yrs/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -4386,15 +4395,6 @@
       "title": "开源模型技术总结-1————Qwen系列模型",
       "created": "2025-08-28 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/08/28/OpenModelQwen.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "28c6e50ab8ef172b3a83430f003d6c6a679396fa",
-      "title": "开源模型技术总结-2————DeepSeek系列模型",
-      "created": "2025-08-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/08/28/OpenModelDeepSeek.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
