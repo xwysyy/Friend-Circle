@@ -3,17 +3,44 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 228,
-    "last_updated_time": "2026-05-19 12:01:37"
+    "article_num": 231,
+    "last_updated_time": "2026-05-19 17:56:43"
   },
   "article_data": [
     {
-      "id": "1c555495cdda75f3c439967eb66075d4a1e806a3",
-      "title": "The last six months in LLMs in five minutes",
-      "created": "2026-05-19 09:09",
-      "link": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "id": "caad9b53b23a38d750bf52b23fe2507de3109305",
+      "title": "如何给自己创作的歌曲生成歌词文件？手打逐字歌词lrc文件教程",
+      "created": "2026-05-19 12:37",
+      "link": "https://blog.zhheo.com/p/rdlrcfqe.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
+      "category": "friend"
+    },
+    {
+      "id": "e044097375aa824d5e5f6493dbc4c12bce29bb46",
+      "title": "从卖token到卖结果，这些公司开始让AI背KPI了",
+      "created": "2026-05-19 12:00",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033888&idx=1&sn=f00bd91a39c2baa5e323a0114afdf173",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "5864b173e865d2e19743e5dfdd616f2efcc2a337",
+      "title": "LLM近期重大架构进化一览：从Gemma 4到DeepSeek V4",
+      "created": "2026-05-19 12:00",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033888&idx=2&sn=0260ac498ecbedb37e83dc0d5288b029",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "64372022f4020f867ff502be62a8c8fb49d4c07d",
+      "title": "ICML 2026 | 突破3DGS光度多义性瓶颈：北航/新国立提出AmbiSuR，重塑高保真3D几何重建",
+      "created": "2026-05-19 12:00",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033888&idx=3&sn=eba91739c595831c281481586a85bc92",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -503,21 +530,21 @@
       "category": "ai"
     },
     {
-      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
-      "title": "Qwen多模态系列论文",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
       "title": "Google Gemini LangChain Cheatsheet",
       "created": "2025-04-28 08:00",
       "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
+      "title": "Qwen多模态系列论文",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -989,21 +1016,21 @@
       "category": "ai"
     },
     {
-      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
-      "title": "Oh-Numpy & Oh-Pytorch",
-      "created": "2025-01-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
       "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
       "created": "2025-01-23 08:00",
       "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
