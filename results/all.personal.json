@@ -3,44 +3,71 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 231,
-    "last_updated_time": "2026-05-19 17:56:43"
+    "article_num": 232,
+    "last_updated_time": "2026-05-19 23:36:53"
   },
   "article_data": [
     {
-      "id": "caad9b53b23a38d750bf52b23fe2507de3109305",
-      "title": "如何给自己创作的歌曲生成歌词文件？手打逐字歌词lrc文件教程",
-      "created": "2026-05-19 12:37",
-      "link": "https://blog.zhheo.com/p/rdlrcfqe.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
-      "category": "friend"
-    },
-    {
-      "id": "e044097375aa824d5e5f6493dbc4c12bce29bb46",
-      "title": "从卖token到卖结果，这些公司开始让AI背KPI了",
-      "created": "2026-05-19 12:00",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033888&idx=1&sn=f00bd91a39c2baa5e323a0114afdf173",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "id": "195f7d699fb663ba2a96777af7763559dad81663",
+      "title": "How Snapchat Serves a Billion Predictions Per Second",
+      "created": "2026-05-19 23:31",
+      "link": "https://blog.bytebytego.com/p/how-snapchat-serves-a-billion-predictions",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
-      "id": "5864b173e865d2e19743e5dfdd616f2efcc2a337",
-      "title": "LLM近期重大架构进化一览：从Gemma 4到DeepSeek V4",
-      "created": "2026-05-19 12:00",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033888&idx=2&sn=0260ac498ecbedb37e83dc0d5288b029",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "id": "02372a6bb65502ab0bedabefe5d58603a944033f",
+      "title": "Ralph：自主AI代理循环工具",
+      "created": "2026-05-19 23:10",
+      "link": "https://lumina.shawnxie.top/article/ralph-zi-zhu-aidai-li-xun-huan-gong-ju-a8f795d6",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
-      "id": "64372022f4020f867ff502be62a8c8fb49d4c07d",
-      "title": "ICML 2026 | 突破3DGS光度多义性瓶颈：北航/新国立提出AmbiSuR，重塑高保真3D几何重建",
-      "created": "2026-05-19 12:00",
-      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033888&idx=3&sn=eba91739c595831c281481586a85bc92",
-      "author": "机器之心",
-      "avatar": "https://www.jiqizhixin.com/favicon.ico",
+      "id": "2c1d0f83f257f8262ded0df828064442eca41983",
+      "title": "Agno：构建、运行和管理AI智能体平台",
+      "created": "2026-05-19 22:35",
+      "link": "https://lumina.shawnxie.top/article/agno-gou-jian-yun-xing-he-guan-li-aizhi-neng-ti-076deef8",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "01820ec5743df8d93c266566e7586d7d63a09bd3",
+      "title": "Qwen3.5-LiveTranslate：所听即所见，所译即所达",
+      "created": "2026-05-19 17:40",
+      "link": "https://qwen.ai/blog?id=qwen3.5-livetranslate",
+      "author": "Qwen",
+      "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
+      "category": "ai"
+    },
+    {
+      "id": "1bd4f1ecf0d1343ae1071f3750bd058c5c1c9ffa",
+      "title": "Introducing the Ettin Reranker Family",
+      "created": "2026-05-19 08:00",
+      "link": "https://huggingface.co/blog/ettin-reranker",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "6ce3544f099712b93ab825a360de833851fa9b7c",
+      "title": "LLM Infra 101 v0.2: KV Cache",
+      "created": "2026-05-19 08:00",
+      "link": "https://ifuryst.github.io/blog/2026/llm-infra-101-v0-2-kv-cache-decode/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "e7a48cd965998096c1d28375f131744ab054d404",
+      "title": "Claude Code安装使用",
+      "created": "2026-05-17 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2026/05/17/ClaudeCode.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -278,19 +305,19 @@
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -800,15 +827,6 @@
       "category": "ai"
     },
     {
-      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
-      "title": "The NLP Course is becoming the LLM Course",
-      "created": "2025-04-03 08:00",
-      "link": "https://huggingface.co/blog/llm-course",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "6f21ada45696ca1a510c7d8f910e953497cfa42c",
       "title": "Model Context Protocol (MCP) an overview",
       "created": "2025-04-03 08:00",
@@ -932,15 +950,6 @@
       "link": "https://mathewshen.me/blog/2025/presentia/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
-      "id": "aa215a063fdb08850634901c15c6b87d3caec9ac",
-      "title": "LLM 生成策略全解析-1：llm模型输出控制",
-      "created": "2025-02-27 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/02/27/LLM-OUT.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -1151,21 +1160,21 @@
       "category": "ai"
     },
     {
-      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
-      "title": "斯坦福小镇解读",
-      "created": "2024-11-28 08:00",
-      "link": "https://mathewshen.me/blog/2024/ai-town/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "af1a476c6de02244b1d5d963fabd8c791aa2dc91",
       "title": "Reward Hacking in Reinforcement Learning",
       "created": "2024-11-28 08:00",
       "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
       "author": "Lilian Weng",
       "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "a7f6d535f0000f4495b5a9321a9f771bc927b8d8",
+      "title": "斯坦福小镇解读",
+      "created": "2024-11-28 08:00",
+      "link": "https://mathewshen.me/blog/2024/ai-town/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
