@@ -3,62 +3,17 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 233,
-    "last_updated_time": "2026-05-19 03:51:19"
+    "article_num": 228,
+    "last_updated_time": "2026-05-19 12:01:37"
   },
   "article_data": [
     {
-      "id": "a15f62575e9358e1183f99e33a65fe21dfd0e979",
-      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-      "created": "2026-05-19 00:00",
-      "link": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "00d7e85b191ad425741a71fef3df19a55f6b5f34",
-      "title": "How Grab is Using AI Agents to Boost Team Productivity",
-      "created": "2026-05-18 23:31",
-      "link": "https://blog.bytebytego.com/p/how-grab-is-using-ai-agents-to-boost",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "905a332eca99d77bad3c0ceb958a04b629ba3c4e",
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-      "created": "2026-05-18 23:12",
-      "link": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "41b2a2f6dff1ea5743f48330494aff8a8dd5ea76",
-      "title": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose",
-      "created": "2026-05-18 22:51",
-      "link": "https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything",
+      "id": "1c555495cdda75f3c439967eb66075d4a1e806a3",
+      "title": "The last six months in LLMs in five minutes",
+      "created": "2026-05-19 09:09",
+      "link": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "699fe0a3c82973a486629737337d67804a0c402e",
-      "title": "The Open Agent Leaderboard",
-      "created": "2026-05-18 22:12",
-      "link": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "c7e5771e8631b2f7606ae11f873ab54b70079e95",
-      "title": "LLM Infra 101 v0.1: API调用",
-      "created": "2026-05-18 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/llm-infra-101-v0-1-openai-compatible-api/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -548,21 +503,21 @@
       "category": "ai"
     },
     {
-      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
-      "title": "Google Gemini LangChain Cheatsheet",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
       "title": "Qwen多模态系列论文",
       "created": "2025-04-28 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
+      "title": "Google Gemini LangChain Cheatsheet",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -620,21 +575,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -773,6 +728,15 @@
       "category": "ai"
     },
     {
+      "id": "f10586db2f38b619ebdb839655484e30f4575f52",
+      "title": "Welcome Llama 4 Maverick & Scout on Hugging Face",
+      "created": "2025-04-05 08:00",
+      "link": "https://huggingface.co/blog/llama4-release",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "07198b0f9a37082f4d65ff59008b05fabb633a3b",
       "title": "Minitorch-1",
       "created": "2025-04-05 00:15",
@@ -797,6 +761,24 @@
       "link": "https://axi.moe/posts/e4s3i6g9/",
       "author": "NolanHo",
       "avatar": "https://axi.moe/assets/icon.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "8a9b9b76a2bf071a9b83f0fcdb507cd78926849b",
+      "title": "Journey to 1 Million Gradio Users!",
+      "created": "2025-04-04 08:00",
+      "link": "https://huggingface.co/blog/gradio-1m",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
+      "title": "The NLP Course is becoming the LLM Course",
+      "created": "2025-04-03 08:00",
+      "link": "https://huggingface.co/blog/llm-course",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1007,21 +989,21 @@
       "category": "ai"
     },
     {
-      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
-      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
-      "created": "2025-01-23 08:00",
-      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
       "title": "Oh-Numpy & Oh-Pytorch",
       "created": "2025-01-23 08:00",
       "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
+      "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
+      "created": "2025-01-23 08:00",
+      "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -1457,24 +1439,6 @@
       "category": "ai"
     },
     {
-      "id": "1af51839de3f10a133086edacfd5bda8f680d9a2",
-      "title": "yikart/AiToEarn",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/yikart/AiToEarn",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "6e9a00bdff8c3e044bcbc504abaca2f109cc9c3b",
-      "title": "anthropics/financial-services",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/anthropics/financial-services",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "6d0978465cff8cd67f01f41108b3df7b6af8d1ab",
       "title": "oven-sh/bun",
       "created": "2024-01-01 00:00",
@@ -1488,6 +1452,24 @@
       "title": "Imbad0202/academic-research-skills",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/Imbad0202/academic-research-skills",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "1af51839de3f10a133086edacfd5bda8f680d9a2",
+      "title": "yikart/AiToEarn",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/yikart/AiToEarn",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "6e9a00bdff8c3e044bcbc504abaca2f109cc9c3b",
+      "title": "anthropics/financial-services",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/anthropics/financial-services",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1511,10 +1493,19 @@
       "category": "ai"
     },
     {
-      "id": "9f093b1fafebec97596b64bf82d600a99132a6d6",
-      "title": "bytedance/UI-TARS-desktop",
+      "id": "6086f857b3c98fc03966cf471b90eb72ae7343ac",
+      "title": "millionco/react-doctor",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/bytedance/UI-TARS-desktop",
+      "link": "https://github.com/millionco/react-doctor",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "52b03674c398defef86a32e816c8eecf41d222f1",
+      "title": "colbymchenry/codegraph",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/colbymchenry/codegraph",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1529,42 +1520,6 @@
       "category": "ai"
     },
     {
-      "id": "9440088458c602451356760034724cb62ab23b54",
-      "title": "decolua/9router",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/decolua/9router",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "7f443c008555b453ccd70a3f8d4e858fb2e0b3c3",
-      "title": "HKUDS/AI-Trader",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/HKUDS/AI-Trader",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "6086f857b3c98fc03966cf471b90eb72ae7343ac",
-      "title": "millionco/react-doctor",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/millionco/react-doctor",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "d9569cde07a3e5857e400abc5bcb0e464f021f29",
-      "title": "Hmbown/DeepSeek-TUI",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/Hmbown/DeepSeek-TUI",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "0479eb501051898d3a423ee74a8774f5a76bdd01",
       "title": "facebook/pyrefly",
       "created": "2024-01-01 00:00",
@@ -1574,10 +1529,10 @@
       "category": "ai"
     },
     {
-      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
-      "title": "obra/superpowers",
+      "id": "9f093b1fafebec97596b64bf82d600a99132a6d6",
+      "title": "bytedance/UI-TARS-desktop",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/obra/superpowers",
+      "link": "https://github.com/bytedance/UI-TARS-desktop",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
