@@ -3,71 +3,62 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 232,
-    "last_updated_time": "2026-05-20 03:58:38"
+    "article_num": 235,
+    "last_updated_time": "2026-05-20 12:02:33"
   },
   "article_data": [
     {
-      "id": "bda6dcb3221f417a25b19bb420252a34e4d3278c",
-      "title": "OlmoEarth v1.1: A more efficient family of models",
-      "created": "2026-05-20 02:38",
-      "link": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "195f7d699fb663ba2a96777af7763559dad81663",
-      "title": "How Snapchat Serves a Billion Predictions Per Second",
-      "created": "2026-05-19 23:31",
-      "link": "https://blog.bytebytego.com/p/how-snapchat-serves-a-billion-predictions",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
-      "id": "02372a6bb65502ab0bedabefe5d58603a944033f",
-      "title": "Ralph：自主AI代理循环工具",
-      "created": "2026-05-19 23:10",
-      "link": "https://lumina.shawnxie.top/article/ralph-zi-zhu-aidai-li-xun-huan-gong-ju-a8f795d6",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "2c1d0f83f257f8262ded0df828064442eca41983",
-      "title": "Agno：构建、运行和管理AI智能体平台",
-      "created": "2026-05-19 22:35",
-      "link": "https://lumina.shawnxie.top/article/agno-gou-jian-yun-xing-he-guan-li-aizhi-neng-ti-076deef8",
-      "author": "肖恩子的知识花园",
-      "avatar": "https://lumina.shawnxie.top/favicon.png",
-      "category": "ai"
-    },
-    {
-      "id": "01820ec5743df8d93c266566e7586d7d63a09bd3",
-      "title": "Qwen3.5-LiveTranslate：所听即所见，所译即所达",
-      "created": "2026-05-19 17:40",
-      "link": "https://qwen.ai/blog?id=qwen3.5-livetranslate",
+      "id": "665d8410f3f9a118bd2660f72ceb17b977dc1128",
+      "title": "Qwen3.7：智能体新前沿",
+      "created": "2026-05-20 10:00",
+      "link": "https://qwen.ai/blog?id=qwen3.7",
       "author": "Qwen",
       "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
       "category": "ai"
     },
     {
-      "id": "6ce3544f099712b93ab825a360de833851fa9b7c",
-      "title": "LLM Infra 101 v0.2: KV Cache",
-      "created": "2026-05-19 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/llm-infra-101-v0-2-kv-cache-decode/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "id": "ac722a7655cbaba48f0a18cd8cee7c0bed569208",
+      "title": "llm-gemini 0.32",
+      "created": "2026-05-20 07:46",
+      "link": "https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
-      "id": "1bd4f1ecf0d1343ae1071f3750bd058c5c1c9ffa",
-      "title": "Introducing the Ettin Reranker Family",
-      "created": "2026-05-19 08:00",
-      "link": "https://huggingface.co/blog/ettin-reranker",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
+      "id": "b49356edd154643c9e2418abd479c4bb353dd369",
+      "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
+      "created": "2026-05-20 06:40",
+      "link": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "4bcf647e906105d1919110d53dcef38a6272663e",
+      "title": "datasette-llm-accountant 0.1a4",
+      "created": "2026-05-20 04:45",
+      "link": "https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "ea78b5950c36c71db4bd03bfc05a3f89c32c1fdf",
+      "title": "llm-gemini 0.32a0",
+      "created": "2026-05-20 04:36",
+      "link": "https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "83155cd8aaa70c4ce7586654cd92791066fb19d1",
+      "title": "datasette-llm 0.1a8",
+      "created": "2026-05-20 04:28",
+      "link": "https://simonwillison.net/2026/May/19/datasette-llm/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -314,19 +305,19 @@
       "category": "ai"
     },
     {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
+      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
+      "title": "SgLang整体流程解析",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
+      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
+      "title": "SGLang KV Cache管理",
       "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
+      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -503,15 +494,6 @@
       "category": "ai"
     },
     {
-      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
-      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
-      "created": "2025-04-30 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "5857d0f63634ffff28371b36fb37d7e699e0f55b",
       "title": "How to Build an MCP Server with Gradio",
       "created": "2025-04-30 08:00",
@@ -527,6 +509,15 @@
       "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "e27d1cf95dbe8318d559c0772529e77bce08c969",
+      "title": "CV中常用Backbone-2：ConvNeXt模型详解",
+      "created": "2025-04-30 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/30/ConvNeXt.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -638,21 +629,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -824,6 +815,24 @@
       "link": "https://axi.moe/posts/e4s3i6g9/",
       "author": "NolanHo",
       "avatar": "https://axi.moe/assets/icon.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "8a9b9b76a2bf071a9b83f0fcdb507cd78926849b",
+      "title": "Journey to 1 Million Gradio Users!",
+      "created": "2025-04-04 08:00",
+      "link": "https://huggingface.co/blog/gradio-1m",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
+      "title": "The NLP Course is becoming the LLM Course",
+      "created": "2025-04-03 08:00",
+      "link": "https://huggingface.co/blog/llm-course",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -1025,21 +1034,21 @@
       "category": "ai"
     },
     {
-      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
-      "title": "Oh-Numpy & Oh-Pytorch",
-      "created": "2025-01-23 08:00",
-      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "4245fb889974df8cae8e157599e9407cfc451cd7",
       "title": "How to align open LLMs in 2025 with DPO and and synthetic data",
       "created": "2025-01-23 08:00",
       "link": "https://www.philschmid.de/rl-with-llms-in-2025-dpo",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "985ac80b0617443f167f1dc0cf70be6bd2941bfd",
+      "title": "Oh-Numpy & Oh-Pytorch",
+      "created": "2025-01-23 08:00",
+      "link": "https://mathewshen.me/blog/2025/oh-numpy-pytorch/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
     },
     {
@@ -1457,10 +1466,10 @@
       "category": "ai"
     },
     {
-      "id": "f538e90acf5b83f69b9f215f1ff9cca3eeb8dfd7",
-      "title": "CloakHQ/CloakBrowser",
+      "id": "2cf296e295334a85aaa208ce6d0b62a212855d0a",
+      "title": "tinyhumansai/openhuman",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/CloakHQ/CloakBrowser",
+      "link": "https://github.com/tinyhumansai/openhuman",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1475,10 +1484,10 @@
       "category": "ai"
     },
     {
-      "id": "6d0978465cff8cd67f01f41108b3df7b6af8d1ab",
-      "title": "oven-sh/bun",
+      "id": "f538e90acf5b83f69b9f215f1ff9cca3eeb8dfd7",
+      "title": "CloakHQ/CloakBrowser",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/oven-sh/bun",
+      "link": "https://github.com/CloakHQ/CloakBrowser",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1493,28 +1502,10 @@
       "category": "ai"
     },
     {
-      "id": "1af51839de3f10a133086edacfd5bda8f680d9a2",
-      "title": "yikart/AiToEarn",
+      "id": "6d0978465cff8cd67f01f41108b3df7b6af8d1ab",
+      "title": "oven-sh/bun",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/yikart/AiToEarn",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "6e9a00bdff8c3e044bcbc504abaca2f109cc9c3b",
-      "title": "anthropics/financial-services",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/anthropics/financial-services",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "76608378b66475536688ea5d246bea079805f62f",
-      "title": "mattpocock/skills",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/mattpocock/skills",
+      "link": "https://github.com/oven-sh/bun",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1529,10 +1520,10 @@
       "category": "ai"
     },
     {
-      "id": "6086f857b3c98fc03966cf471b90eb72ae7343ac",
-      "title": "millionco/react-doctor",
+      "id": "76608378b66475536688ea5d246bea079805f62f",
+      "title": "mattpocock/skills",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/millionco/react-doctor",
+      "link": "https://github.com/mattpocock/skills",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1547,10 +1538,10 @@
       "category": "ai"
     },
     {
-      "id": "afb2934b80705b7f3244bc75ba3882e97d19fb7d",
-      "title": "apernet/hysteria",
+      "id": "1af51839de3f10a133086edacfd5bda8f680d9a2",
+      "title": "yikart/AiToEarn",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/apernet/hysteria",
+      "link": "https://github.com/yikart/AiToEarn",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1565,10 +1556,46 @@
       "category": "ai"
     },
     {
-      "id": "9f093b1fafebec97596b64bf82d600a99132a6d6",
-      "title": "bytedance/UI-TARS-desktop",
+      "id": "6e9a00bdff8c3e044bcbc504abaca2f109cc9c3b",
+      "title": "anthropics/financial-services",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/bytedance/UI-TARS-desktop",
+      "link": "https://github.com/anthropics/financial-services",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "1a6f6c5fef73d710973d6dda4489f8752704ece2",
+      "title": "BigBodyCobain/Shadowbroker",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/BigBodyCobain/Shadowbroker",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "6086f857b3c98fc03966cf471b90eb72ae7343ac",
+      "title": "millionco/react-doctor",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/millionco/react-doctor",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
+      "title": "obra/superpowers",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/obra/superpowers",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "afb2934b80705b7f3244bc75ba3882e97d19fb7d",
+      "title": "apernet/hysteria",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/apernet/hysteria",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
