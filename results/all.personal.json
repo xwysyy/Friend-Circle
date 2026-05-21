@@ -3,17 +3,44 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 229,
-    "last_updated_time": "2026-05-21 23:40:10"
+    "article_num": 232,
+    "last_updated_time": "2026-05-22 04:00:58"
   },
   "article_data": [
     {
-      "id": "12cf66b7fff88bb3689b79d61a39d3ce34b1f02b",
-      "title": "A Guide to Async Patterns in API Design",
-      "created": "2026-05-21 23:30",
-      "link": "https://blog.bytebytego.com/p/a-guide-to-async-patterns-in-api",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "id": "1116f836bd5797c6b34b2dd465599c0c6b4f47f6",
+      "title": "Datasette Agent",
+      "created": "2026-05-22 03:52",
+      "link": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "5cdc26674b25d54edf2dedeff4e330af742a9373",
+      "title": "datasette-agent-sprites 0.1a0",
+      "created": "2026-05-22 02:21",
+      "link": "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "9a479d55e03440076261a7fbd8fce02327ba2f16",
+      "title": "datasette-agent 0.1a3",
+      "created": "2026-05-21 23:04",
+      "link": "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "6f0be354b3119d57f5e60f909df0846990a97161",
+      "title": "LLM Infra 101 v0.3: 静态批处理",
+      "created": "2026-05-21 08:00",
+      "link": "https://ifuryst.github.io/blog/2026/llm-infra-101-v0-3-static-batching/",
+      "author": "ifuryst",
+      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
       "category": "ai"
     },
     {
@@ -503,21 +530,21 @@
       "category": "ai"
     },
     {
-      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
-      "title": "Qwen多模态系列论文",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
       "title": "Google Gemini LangChain Cheatsheet",
       "created": "2025-04-28 08:00",
       "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
       "author": "Philipp Schmid",
       "avatar": "https://www.philschmid.de/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
+      "title": "Qwen多模态系列论文",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
