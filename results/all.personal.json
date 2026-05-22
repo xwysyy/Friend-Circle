@@ -3,89 +3,62 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 237,
-    "last_updated_time": "2026-05-22 12:06:11"
+    "article_num": 233,
+    "last_updated_time": "2026-05-22 17:38:25"
   },
   "article_data": [
     {
-      "id": "e0cb7d3c21891fea631437d50eea1007a52730fa",
-      "title": "科技爱好者周刊（第 397 期）：财富正在向 AI 集中",
-      "created": "2026-05-22 07:58",
-      "link": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html",
-      "author": "阮一峰",
-      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
+      "id": "1957739654098496775b5ce706533045f7f05c1d",
+      "title": "MoE环游记：8、强制序列级均衡",
+      "created": "2026-05-22 14:46",
+      "link": "https://kexue.fm/archives/11760",
+      "author": "苏剑林",
+      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
+      "category": "ai"
+    },
+    {
+      "id": "28784bcad09c152d7efe06f89c856c748e1205c7",
+      "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
+      "created": "2026-05-22 12:48",
+      "link": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "569634acdd21c88d0c74edad5c7ab2ca2821ae98",
+      "title": "为OpenClaw搭建一个免费的搜索引擎，如何让OpenClaw搜索网页内容",
+      "created": "2026-05-22 11:11",
+      "link": "https://blog.zhheo.com/p/9p755adr.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
       "category": "friend"
     },
     {
-      "id": "1116f836bd5797c6b34b2dd465599c0c6b4f47f6",
-      "title": "Datasette Agent",
-      "created": "2026-05-22 03:52",
-      "link": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "id": "81bd09c422389d0bf19f83cc1dbe3d26ea989311",
+      "title": "Meta华人发布ATLAS，一个词搞定可泛化的视觉推理！",
+      "created": "2026-05-22 10:00",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034410&idx=1&sn=8d1fce92f27fb31c31a4d3831eec4004",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "5cdc26674b25d54edf2dedeff4e330af742a9373",
-      "title": "datasette-agent-sprites 0.1a0",
-      "created": "2026-05-22 02:21",
-      "link": "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "id": "44ed7b9a41a11fc0b9e2469caed9d8520b83e244",
+      "title": "人形机器人的「指尖心脏」：这个团队用898天完成空心杯电机国产突围",
+      "created": "2026-05-22 10:00",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034410&idx=2&sn=bd8e6fc293da020712d1ceeca898e8e2",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
-      "id": "3d184fde1ad3a782a5d12de2c10d5ea79bae0194",
-      "title": "datasette-agent-charts 0.1a2",
-      "created": "2026-05-21 23:15",
-      "link": "https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "9a479d55e03440076261a7fbd8fce02327ba2f16",
-      "title": "datasette-agent 0.1a3",
-      "created": "2026-05-21 23:04",
-      "link": "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "6f0be354b3119d57f5e60f909df0846990a97161",
-      "title": "LLM Infra 101 v0.3: 静态批处理",
-      "created": "2026-05-21 08:00",
-      "link": "https://ifuryst.github.io/blog/2026/llm-infra-101-v0-3-static-batching/",
-      "author": "ifuryst",
-      "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
-      "category": "ai"
-    },
-    {
-      "id": "01cb1b7146d5efaba9f81b5777a793cc39c9a36d",
-      "title": "datasette-agent-charts 0.1a1",
-      "created": "2026-05-20 22:52",
-      "link": "https://simonwillison.net/2026/May/20/datasette-agent-charts/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "ee34f98004be8d52cf4049b4e7ec83229fa7ebda",
-      "title": "datasette-agent 0.1a2",
-      "created": "2026-05-15 08:03",
-      "link": "https://simonwillison.net/2026/May/15/datasette-agent/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "9ef85b5b6e9cf979e034de466e759eeb962d2d08",
-      "title": "datasette-agent 0.1a1",
-      "created": "2026-05-15 06:01",
-      "link": "https://simonwillison.net/2026/May/14/datasette-agent/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "id": "499b7c3fad4003b1a37197da7e73a32ced9a3dcf",
+      "title": "CVPR 2026 | 突破短视，理解变化！HiF-VLA：以motion为中心打造「边想边做」的世界动作模型",
+      "created": "2026-05-22 10:00",
+      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034410&idx=3&sn=17ad01c6c46f8d832dca46ab16b6981f",
+      "author": "机器之心",
+      "avatar": "https://www.jiqizhixin.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -194,15 +167,6 @@
       "link": "https://www.big-yellow-j.top/posts/2026/03/21/attention-residuals.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "3578687cf3890e23dc5d1a9ef4befad4c5f4f8d8",
-      "title": "Attention Residuals 回忆录",
-      "created": "2026-03-19 10:02",
-      "link": "https://kexue.fm/archives/11664",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
       "category": "ai"
     },
     {
@@ -575,21 +539,21 @@
       "category": "ai"
     },
     {
-      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
-      "title": "Google Gemini LangChain Cheatsheet",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
       "title": "Qwen多模态系列论文",
       "created": "2025-04-28 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
+      "title": "Google Gemini LangChain Cheatsheet",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
