@@ -3,10 +3,19 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 232,
-    "last_updated_time": "2026-05-22 04:00:58"
+    "article_num": 237,
+    "last_updated_time": "2026-05-22 12:06:11"
   },
   "article_data": [
+    {
+      "id": "e0cb7d3c21891fea631437d50eea1007a52730fa",
+      "title": "科技爱好者周刊（第 397 期）：财富正在向 AI 集中",
+      "created": "2026-05-22 07:58",
+      "link": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html",
+      "author": "阮一峰",
+      "avatar": "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
+      "category": "friend"
+    },
     {
       "id": "1116f836bd5797c6b34b2dd465599c0c6b4f47f6",
       "title": "Datasette Agent",
@@ -21,6 +30,15 @@
       "title": "datasette-agent-sprites 0.1a0",
       "created": "2026-05-22 02:21",
       "link": "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "3d184fde1ad3a782a5d12de2c10d5ea79bae0194",
+      "title": "datasette-agent-charts 0.1a2",
+      "created": "2026-05-21 23:15",
+      "link": "https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
@@ -41,6 +59,33 @@
       "link": "https://ifuryst.github.io/blog/2026/llm-infra-101-v0-3-static-batching/",
       "author": "ifuryst",
       "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "01cb1b7146d5efaba9f81b5777a793cc39c9a36d",
+      "title": "datasette-agent-charts 0.1a1",
+      "created": "2026-05-20 22:52",
+      "link": "https://simonwillison.net/2026/May/20/datasette-agent-charts/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "ee34f98004be8d52cf4049b4e7ec83229fa7ebda",
+      "title": "datasette-agent 0.1a2",
+      "created": "2026-05-15 08:03",
+      "link": "https://simonwillison.net/2026/May/15/datasette-agent/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "9ef85b5b6e9cf979e034de466e759eeb962d2d08",
+      "title": "datasette-agent 0.1a1",
+      "created": "2026-05-15 06:01",
+      "link": "https://simonwillison.net/2026/May/14/datasette-agent/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -602,21 +647,21 @@
       "category": "ai"
     },
     {
-      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
-      "title": "The State of Reinforcement Learning for LLM Reasoning",
-      "created": "2025-04-19 08:00",
-      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-      "author": "Sebastian Raschka",
-      "avatar": "https://sebastianraschka.com/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "88027e6789cf341dadaab4996ee1e0ee6ba7b466",
       "title": "多视觉编码器协同与高低分辨率特征融合技术综述",
       "created": "2025-04-19 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/19/MultiVisEncoding.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "7b05b9b64a586ec61f6b0abd5fb4944c2429d065",
+      "title": "The State of Reinforcement Learning for LLM Reasoning",
+      "created": "2025-04-19 08:00",
+      "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+      "author": "Sebastian Raschka",
+      "avatar": "https://sebastianraschka.com/favicon.ico",
       "category": "ai"
     },
     {
@@ -1457,19 +1502,37 @@
       "category": "ai"
     },
     {
-      "id": "2f9d2670fac73014a7898a45386701a525116b20",
-      "title": "rohitg00/agentmemory",
+      "id": "52b03674c398defef86a32e816c8eecf41d222f1",
+      "title": "colbymchenry/codegraph",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/rohitg00/agentmemory",
+      "link": "https://github.com/colbymchenry/codegraph",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "52b03674c398defef86a32e816c8eecf41d222f1",
-      "title": "colbymchenry/codegraph",
+      "id": "3ffc776f8596e65fcb3d1200331d75d0fa563ff4",
+      "title": "Imbad0202/academic-research-skills",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/colbymchenry/codegraph",
+      "link": "https://github.com/Imbad0202/academic-research-skills",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "df04d9fc138a9f491e6b60ef384ae42e251ced75",
+      "title": "supertone-inc/supertonic",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/supertone-inc/supertonic",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "2f9d2670fac73014a7898a45386701a525116b20",
+      "title": "rohitg00/agentmemory",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/rohitg00/agentmemory",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1493,15 +1556,6 @@
       "category": "ai"
     },
     {
-      "id": "3ffc776f8596e65fcb3d1200331d75d0fa563ff4",
-      "title": "Imbad0202/academic-research-skills",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/Imbad0202/academic-research-skills",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "6d0978465cff8cd67f01f41108b3df7b6af8d1ab",
       "title": "oven-sh/bun",
       "created": "2024-01-01 00:00",
@@ -1511,37 +1565,10 @@
       "category": "ai"
     },
     {
-      "id": "0479eb501051898d3a423ee74a8774f5a76bdd01",
-      "title": "facebook/pyrefly",
+      "id": "66d41b8aa3e54926247b18110ee4e9281f322def",
+      "title": "humanlayer/12-factor-agents",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/facebook/pyrefly",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "76608378b66475536688ea5d246bea079805f62f",
-      "title": "mattpocock/skills",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/mattpocock/skills",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "1af51839de3f10a133086edacfd5bda8f680d9a2",
-      "title": "yikart/AiToEarn",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/yikart/AiToEarn",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
-      "title": "obra/superpowers",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/obra/superpowers",
+      "link": "https://github.com/humanlayer/12-factor-agents",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -1556,19 +1583,37 @@
       "category": "ai"
     },
     {
-      "id": "6086f857b3c98fc03966cf471b90eb72ae7343ac",
-      "title": "millionco/react-doctor",
+      "id": "0479eb501051898d3a423ee74a8774f5a76bdd01",
+      "title": "facebook/pyrefly",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/millionco/react-doctor",
+      "link": "https://github.com/facebook/pyrefly",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "10ba719313a0c83566e4fb1db426c34c44e8815e",
-      "title": "anthropics/skills",
+      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
+      "title": "obra/superpowers",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/anthropics/skills",
+      "link": "https://github.com/obra/superpowers",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "349b5b345e4c048f50dfb2cc9bec9b5fc548b98c",
+      "title": "HKUDS/ViMax",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/HKUDS/ViMax",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "76608378b66475536688ea5d246bea079805f62f",
+      "title": "mattpocock/skills",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/mattpocock/skills",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
