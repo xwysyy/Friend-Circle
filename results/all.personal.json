@@ -3,28 +3,10 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 229,
-    "last_updated_time": "2026-05-23 11:43:17"
+    "article_num": 228,
+    "last_updated_time": "2026-05-23 16:26:41"
   },
   "article_data": [
-    {
-      "id": "e7490cde6e0aaf8e8f01df61f6209267640ad9bf",
-      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-      "created": "2026-05-23 08:02",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "ec79cfe3c2ba9887fabac3f8cfb5cc655d9b8bbc",
-      "title": "The memory shortage is causing a repricing of consumer electronics",
-      "created": "2026-05-23 06:01",
-      "link": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
     {
       "id": "e077c895a75465c549d17f8876c9f3bbc6d20a1b",
       "title": "pi-context：一个让 AI 自己管记忆的小工具",
@@ -503,21 +485,21 @@
       "category": "ai"
     },
     {
-      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
-      "title": "Google Gemini LangChain Cheatsheet",
-      "created": "2025-04-28 08:00",
-      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
-      "author": "Philipp Schmid",
-      "avatar": "https://www.philschmid.de/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "8e8715d12988e0d3fb61e7aaa0953e7fa330fa6c",
       "title": "Qwen多模态系列论文",
       "created": "2025-04-28 08:00",
       "link": "https://www.big-yellow-j.top/posts/2025/04/28/QwenVL.html",
       "author": "Big-Yellow-J",
       "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "2ce9c5e85b51e3ed0b84bcf6a3c8f7860eeec2ad",
+      "title": "Google Gemini LangChain Cheatsheet",
+      "created": "2025-04-28 08:00",
+      "link": "https://www.philschmid.de/gemini-langchain-cheatsheet",
+      "author": "Philipp Schmid",
+      "avatar": "https://www.philschmid.de/favicon.ico",
       "category": "ai"
     },
     {
@@ -768,6 +750,15 @@
       "title": "Journey to 1 Million Gradio Users!",
       "created": "2025-04-04 08:00",
       "link": "https://huggingface.co/blog/gradio-1m",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "b753e22d7ff3122f730737cff75f9ae38103d320",
+      "title": "The NLP Course is becoming the LLM Course",
+      "created": "2025-04-03 08:00",
+      "link": "https://huggingface.co/blog/llm-course",
       "author": "Hugging Face",
       "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
