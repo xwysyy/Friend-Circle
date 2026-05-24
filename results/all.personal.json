@@ -3,53 +3,71 @@
     "friends_num": 39,
     "active_num": 38,
     "error_num": 1,
-    "article_num": 228,
-    "last_updated_time": "2026-05-24 21:46:56"
+    "article_num": 224,
+    "last_updated_time": "2026-05-25 03:24:59"
   },
   "article_data": [
     {
-      "id": "e077c895a75465c549d17f8876c9f3bbc6d20a1b",
-      "title": "pi-context：一个让 AI 自己管记忆的小工具",
-      "created": "2026-04-25 20:00",
-      "link": "https://axi.moe/posts/picontex/",
-      "author": "NolanHo",
-      "avatar": "https://axi.moe/assets/icon.jpg",
+      "id": "27d273aae1ba07a2470638b163a961434ef3ec7d",
+      "title": "Quoting Armin Ronacher",
+      "created": "2026-05-25 02:46",
+      "link": "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
-      "id": "eb22dd50841c859011d40d799dd6c2920ba1e42f",
-      "title": "终端的语义层叠：几种终端方案的底层原理",
-      "created": "2026-04-20 08:00",
-      "link": "https://axi.moe/posts/tstack01/",
-      "author": "NolanHo",
-      "avatar": "https://axi.moe/assets/icon.jpg",
+      "id": "07b49e7ca02851a81585d68ab488d845a90a9dd3",
+      "title": "agents-towards-production：GenAI智能体的完整技术栈教程",
+      "created": "2026-05-24 22:58",
+      "link": "https://lumina.shawnxie.top/article/agents-towards-production-genaizhi-neng-ti-de-wan-b638c35d",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
-      "id": "e4a112a4bcde460f81ae9674089103cd9a6612c6",
-      "title": "我为什么选 WezTerm",
-      "created": "2026-04-20 08:00",
-      "link": "https://axi.moe/posts/whywez01/",
-      "author": "NolanHo",
-      "avatar": "https://axi.moe/assets/icon.jpg",
+      "id": "91873f6e6a2a7cd7496fedc69236ac9168b0dea6",
+      "title": "Sana：高分辨率图像和视频生成框架",
+      "created": "2026-05-24 22:56",
+      "link": "https://lumina.shawnxie.top/article/sana-gao-fen-bian-lu-tu-xiang-he-shi-pin-sheng-85bb1a52",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
-      "id": "756c8565cf726e78c236601a1387db6577ce87af",
-      "title": "Harness Engineering 学习笔记",
-      "created": "2026-04-13 08:00",
-      "link": "https://yukinoshitasherry.github.io/harness_eng/",
-      "author": "秋月春风的书房",
-      "avatar": "https://yukinoshitasherry.github.io/images/favicon.png",
+      "id": "b153a573de3b78e24089bbee36a7fed36624dd2c",
+      "title": "remove-ai-watermarks：去除 AI 生图水印工具",
+      "created": "2026-05-24 22:54",
+      "link": "https://lumina.shawnxie.top/article/remove-ai-watermarks-qu-chu-ai-sheng-tu-shui-yin-ea45e9fc",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
-      "id": "bbd80acaea7658f5d4a22a3b1f79b6156dc5d60e",
-      "title": "🔥Pytorch使用-1：Pytorch计算图等概念",
-      "created": "2026-04-10 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/04/10/torch_basic_torch_compile.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "id": "1996cabf13551cbcec498b44f8b86bef019a5a1a",
+      "title": "Coding agents are giving everyone decision fatigue",
+      "created": "2026-05-21 23:20",
+      "link": "https://lumina.shawnxie.top/article/coding-agents-are-giving-everyone-decision-fatigue-e4333199",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "17cefe93e1e3a58cc6f5ba161e28549996df26c3",
+      "title": "The famous o3 \"GeoGuessr\" prompt did not work",
+      "created": "2026-05-21 22:49",
+      "link": "https://lumina.shawnxie.top/article/the-famous-o3-geoguessr-prompt-did-not-work-89a7ec0b",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "3f964fdc24b17bc7fb2a1e7df57de062964489ae",
+      "title": "Getting the most out of Codex",
+      "created": "2026-05-21 22:41",
+      "link": "https://lumina.shawnxie.top/article/durable-threads-897e01b4",
+      "author": "肖恩子的知识花园",
+      "avatar": "https://lumina.shawnxie.top/favicon.png",
       "category": "ai"
     },
     {
@@ -71,48 +89,12 @@
       "category": "ai"
     },
     {
-      "id": "b60f214a3818824c3441f49787f39015f565b41f",
-      "title": "🔥Pytorch使用-2：dataloader处理过程及模型训练性能分析",
-      "created": "2026-03-31 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/03/31/ModelTraining2.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "0f0abe79e2988deaa5ebb1005cfe02d2e5b54469",
-      "title": "基于流式幂迭代的Muon实现：2. 加速",
-      "created": "2026-03-26 13:14",
-      "link": "https://kexue.fm/archives/11673",
-      "author": "苏剑林",
-      "avatar": "https://kexue.fm/usr/themes/geekg/images/avatar.png",
-      "category": "ai"
-    },
-    {
-      "id": "806d25c728e1942280e75c2b479d60dbf201302d",
-      "title": "强化学习算法-3：GSPO、SAPO及KL散度改进",
-      "created": "2026-03-26 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/03/26/RLHF-3.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "1451499579f8872530956d516e7f7de4ed5d1ec1",
       "title": "LLM 算法岗 | 八股问答（3）· 强化学习与 RLHF - MoonOut",
       "created": "2026-03-21 19:13",
       "link": "https://www.cnblogs.com/moonout/p/19749191",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
-      "id": "8410b8bf548ea909572cca871b70a85d5ce12fc8",
-      "title": "残差连接————Kimi注意力残差/字节混合注意力",
-      "created": "2026-03-21 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/03/21/attention-residuals.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -134,120 +116,12 @@
       "category": "ai"
     },
     {
-      "id": "95efbef24009891cff7adc863138670f4a087821",
-      "title": "模型推理框架vllm-3——KVCache管理器",
-      "created": "2026-03-15 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/03/15/vllm-3.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "1bd146b5753c0b2a3059f34b6af7fd5d5f2ea689",
-      "title": "模型推理框架vllm-2——生成以及调度过程",
-      "created": "2026-03-15 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/03/15/vllm-2.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "45538c7b9b24d2968991b51761dcf89790db422f",
       "title": "LLM 算法岗 | 八股问答（2）· 大模型训练流程与微调技术 - MoonOut",
       "created": "2026-03-11 23:14",
       "link": "https://www.cnblogs.com/moonout/p/19705026",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
-      "category": "ai"
-    },
-    {
-      "id": "b4665bae5f5e11fc9cc4c52f735b46e9c396fafd",
-      "title": "深入浅出了解生成模型-10：模型蒸馏与剪枝",
-      "created": "2026-02-15 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2026/02/15/ModelDistillation.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "34cce56f997c1d5f16bfc54772140640ba531fb9",
-      "title": "RL算法笔记 WIP",
-      "created": "2026-01-26 07:02",
-      "link": "https://axi.moe/posts/kf6ea3bu/",
-      "author": "NolanHo",
-      "avatar": "https://axi.moe/assets/icon.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "c0a073b7c644f2009554544a0c6f52785c1203f7",
-      "title": "自主 Agent / 上下文工程资料索引",
-      "created": "2026-01-04 00:00",
-      "link": "https://ninehills.tech/articles/150.html",
-      "author": "九原山博客",
-      "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
-      "category": "ai"
-    },
-    {
-      "id": "4c955fa0667683f3c73b9d39b626b11998e70a21",
-      "title": "在 RAG 和 Agentic 搜索下做结果融合的一些思路",
-      "created": "2025-12-28 08:29",
-      "link": "https://axi.moe/posts/rn9lt25e/",
-      "author": "NolanHo",
-      "avatar": "https://axi.moe/assets/icon.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "b862cd6209e171582dfddff2fa7c56ba247f57a4",
-      "title": "模型推理框架vllm-1——整体框架及使用",
-      "created": "2025-12-27 08:00",
-      "link": "https://www.big-yellow-j.top/posts/2025/12/27/vllm-1.html",
-      "author": "Big-Yellow-J",
-      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "204136a9df1cd57109d79269cb254017a7491d05",
-      "title": "Tinker RL 测试（含代码库）",
-      "created": "2025-12-25 00:00",
-      "link": "https://ninehills.tech/articles/148.html",
-      "author": "九原山博客",
-      "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
-      "category": "ai"
-    },
-    {
-      "id": "c024de93bd212abb4392d0b0ee3d92223d3b56c9",
-      "title": "mem0 源码阅读：一个工程化记忆系统",
-      "created": "2025-12-09 09:26",
-      "link": "https://axi.moe/posts/9sof0224/",
-      "author": "NolanHo",
-      "avatar": "https://axi.moe/assets/icon.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "d4f615466c4df9e15ed811429fcba0ef41046097",
-      "title": "对 COLMA 认知分层记忆架构的工程化重构与思考",
-      "created": "2025-12-07 11:57",
-      "link": "https://axi.moe/posts/5vhbfhkc/",
-      "author": "NolanHo",
-      "avatar": "https://axi.moe/assets/icon.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "2ff4df9447e531c8049ce3fc4a7a9a5d4b66ea83",
-      "title": "SgLang整体流程解析",
-      "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "3449ce6483b36926ac8bcf1ce6f899e10d23fa32",
-      "title": "SGLang KV Cache管理",
-      "created": "2025-12-04 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/sglang-kv-cache%E7%AE%A1%E7%90%86/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
     },
     {
@@ -341,15 +215,6 @@
       "category": "ai"
     },
     {
-      "id": "2d83cac90d5a6cf445d7c3c239671d179befd163",
-      "title": "LLM KV Cache: A Simple Implementation",
-      "created": "2025-06-03 08:00",
-      "link": "https://mathewshen.me/blog/2025/llm-kv-cache/",
-      "author": "Xiangzhuang Shen",
-      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
-      "category": "ai"
-    },
-    {
       "id": "880a87b090694c20eb09be0eabdf1004d51ac838",
       "title": "Python 更新记录",
       "created": "2025-06-02 02:44",
@@ -410,15 +275,6 @@
       "link": "https://www.less-bug.com/posts/how-to-schedule-tasks-without-explicit-topological-sorting/",
       "author": "Less Bug",
       "avatar": "https://www.less-bug.com/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "87ed01723e4f253703e114fd86a0b16095c52ef2",
-      "title": "Why We Think",
-      "created": "2025-05-01 08:00",
-      "link": "https://lilianweng.github.io/posts/2025-05-01-thinking/",
-      "author": "Lilian Weng",
-      "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
       "category": "ai"
     },
     {
@@ -899,6 +755,24 @@
       "category": "ai"
     },
     {
+      "id": "670c43aeeec6f587dd9a10d35354a26c883ceb46",
+      "title": "DeepSpeed基本原理",
+      "created": "2025-02-24 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/02/24/deepspeed.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "0292d48a6afc79fe95d873eacb428e416c3560d4",
+      "title": "从梯度消失到模型过拟合：归一化、Dropout 和梯度裁剪的深度解析",
+      "created": "2025-02-23 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/02/23/dl-norm.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "0df637fa256ffa2ba859e4dd6fac7cab947a37b0",
       "title": "Deepseek GRPO 中的 KL Divergence",
       "created": "2025-02-23 08:00",
@@ -908,12 +782,48 @@
       "category": "ai"
     },
     {
+      "id": "b1878e0c58c52f68b8962b0e844711a988f1636a",
+      "title": "Kimi/DeepSeek最新论文MoBA与NSA阅读",
+      "created": "2025-02-21 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/02/21/Kimi-DS-Paper.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "0a8af36fb1078d487435525b954ed3541385078d",
       "title": "大语言模型与深度学习书籍推荐",
       "created": "2025-02-20 08:00",
       "link": "https://mathewshen.me/blog/2025/dl-book/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "5d7ffc43bbb7c5cfffb84650d9551dbb88bd5651",
+      "title": "Docunmen AI 中图像高分辨率处理思路汇总",
+      "created": "2025-02-19 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/02/19/DocAI-HR.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "422ff2669a6e08800ef0ae9416d0695c958b7f71",
+      "title": "深入探讨Attention变种与内存优化：从MHA到Flash/Page Attention",
+      "created": "2025-02-17 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/02/17/Attention.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
+      "id": "67c5d7e576e2cea4babfa9069d97b6ac40ababeb",
+      "title": "深度学习中常见的LLM微调技术及其代码",
+      "created": "2025-02-12 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/02/12/finetuning.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -944,6 +854,15 @@
       "category": "ai"
     },
     {
+      "id": "7bfba5554a0c451692e006c9510952ef3cb72584",
+      "title": "LLM中常用的位置编码原理及其代码",
+      "created": "2025-02-03 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/02/03/pos-embedding.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
+      "category": "ai"
+    },
+    {
       "id": "d9939788bcdd111999c7f1c100f0251a090fa692",
       "title": "Mini-R1: Reproduce Deepseek R1 „aha moment“ a RL tutorial",
       "created": "2025-01-30 08:00",
@@ -959,6 +878,15 @@
       "link": "https://ninehills.tech/articles/121.html",
       "author": "九原山博客",
       "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
+      "category": "ai"
+    },
+    {
+      "id": "0fd51fcbaf10fbc451fa8192b539ab1a011b2d6b",
+      "title": "深度学习混合专家模型（MoE）/KV-cache原理及其代码",
+      "created": "2025-01-27 08:00",
+      "link": "https://www.big-yellow-j.top/posts/2025/01/27/MoE-KV-cache.html",
+      "author": "Big-Yellow-J",
+      "avatar": "https://www.big-yellow-j.top/static/img/favicon.ico",
       "category": "ai"
     },
     {
@@ -1970,6 +1898,15 @@
       "category": "ai"
     },
     {
+      "id": "2cf34df8cd699313c11a9c0d3ca7d3bb658b3555",
+      "title": "How to Build an Open-Domain Question Answering System?",
+      "created": "2020-10-29 08:00",
+      "link": "https://lilianweng.github.io/posts/2020-10-29-odqa/",
+      "author": "Lilian Weng",
+      "avatar": "https://avatars.githubusercontent.com/u/901179?v=4",
+      "category": "ai"
+    },
+    {
       "id": "fcf14a5be51b0a8d2c1b175dff6a612aa4393ef3",
       "title": "How much faster are analytical derivatives with Ceres?",
       "created": "2020-10-18 11:30",
@@ -2033,12 +1970,30 @@
       "category": "ai"
     },
     {
+      "id": "c8387dd6a11f8b355a09b8e45f4521ab1207470d",
+      "title": "SRE 技术简报 20200114",
+      "created": "2020-01-14 00:00",
+      "link": "https://ninehills.tech/articles/74.html",
+      "author": "九原山博客",
+      "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
+      "category": "ai"
+    },
+    {
       "id": "ebf74c13b641dfac2814303de01a0a8d59ca499b",
       "title": "2019",
       "created": "2019-12-30 08:00",
       "link": "https://mathewshen.me/blog/2019/2019/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "ad8ddc34fe23d221e850cc89fbd32e33a4251257",
+      "title": "SRE 技术简报 20191222",
+      "created": "2019-12-22 00:00",
+      "link": "https://ninehills.tech/articles/73.html",
+      "author": "九原山博客",
+      "avatar": "https://avatars.githubusercontent.com/u/270298?v=4",
       "category": "ai"
     },
     {
@@ -2055,6 +2010,15 @@
       "title": "所谓偶然",
       "created": "2019-01-19 08:00",
       "link": "https://mathewshen.me/blog/2019/chance/",
+      "author": "Xiangzhuang Shen",
+      "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
+      "category": "ai"
+    },
+    {
+      "id": "b04696f78fefcf90cd9a5015e1fae4d8ace077f0",
+      "title": "奇怪的梦",
+      "created": "2018-07-07 08:00",
+      "link": "https://mathewshen.me/blog/2018/strange-dream/",
       "author": "Xiangzhuang Shen",
       "avatar": "https://avatars.githubusercontent.com/u/17157965?v=4&size=72",
       "category": "ai"
