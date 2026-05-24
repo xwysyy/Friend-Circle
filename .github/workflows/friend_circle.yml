@@ -14,6 +14,8 @@ on:
 env:
   TZ: Asia/Shanghai
   FRIEND_CIRCLE_IGNORE_URL: ${{ secrets.FRIEND_CIRCLE_IGNORE_URL }}
+  FRIEND_CIRCLE_IMPORT_URL: ${{ secrets.FRIEND_CIRCLE_IMPORT_URL }}
+  FRIEND_CIRCLE_IMPORT_TOKEN: ${{ secrets.FRIEND_CIRCLE_IMPORT_TOKEN }}
 
 concurrency:
   group: friend-circle

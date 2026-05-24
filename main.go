@@ -65,6 +65,9 @@ func main() {
 		log.Fatalf("写入 errors.json 失败: %v", err)
 	}
 	log.Println("抓取与写入完成：all.json, errors.json")
+	if err := importResult(client, "all", result); err != nil {
+		log.Fatalf("导入 all 到远端索引失败: %v", err)
+	}
 
 	// --- Second pass: personal (with ignore list) ---
 	ignoreURL := os.Getenv("FRIEND_CIRCLE_IGNORE_URL")
@@ -72,10 +75,12 @@ func main() {
 		ignoreURL = cfg.SpiderSettings.IgnoreURL
 	}
 	ignoreIDs := scraper.FetchIgnoreIDs(ignoreURL, client)
+	personalResult := result
 
 	if len(ignoreIDs) > 0 {
 		log.Printf("已加载忽略列表，共 %d 条，将生成 all.personal.json", len(ignoreIDs))
-		personalResult, personalErrors := collectFromConfig(cfg, client, ignoreIDs)
+		var personalErrors [][]string
+		personalResult, personalErrors = collectFromConfig(cfg, client, ignoreIDs)
 		if personalResult.StatisticalData.ActiveNum == 0 {
 			log.Fatalf("personal active_num=0，中止")
 		}
@@ -95,6 +100,9 @@ func main() {
 		}
 	}
 	log.Println("抓取与写入完成：all.personal.json, errors.personal.json")
+	if err := importResult(client, "personal", personalResult); err != nil {
+		log.Fatalf("导入 personal 到远端索引失败: %v", err)
+	}
 }
 
 // collectFromConfig orchestrates the scraping across all JSON sources.
