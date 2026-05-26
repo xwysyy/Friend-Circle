@@ -3,8 +3,8 @@
     "friends_num": 39,
     "active_num": 37,
     "error_num": 2,
-    "article_num": 602,
-    "last_updated_time": "2026-05-25 23:18:31"
+    "article_num": 603,
+    "last_updated_time": "2026-05-26 17:12:13"
   },
   "article_data": [
     {
@@ -35,6 +35,42 @@
       "category": "ai"
     },
     {
+      "id": "35394e92998ad885db9d6d31f07b0c4abd8607ba",
+      "title": "分享一下我现在都在使用哪些AI工具，以及我的的AI生产力状况",
+      "created": "2026-05-26 13:18",
+      "link": "https://blog.zhheo.com/p/ug37qbz9.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
+      "category": "friend"
+    },
+    {
+      "id": "6d5e535f193580f9934059e0bfc5227b3c067873",
+      "title": "Quoting Corey Quinn",
+      "created": "2026-05-26 10:28",
+      "link": "https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "c2e7831cc5c6c030a76ebbef6972a2e242767311",
+      "title": "Notes on Pope Leo XIV's encyclical on AI",
+      "created": "2026-05-26 07:58",
+      "link": "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
+      "category": "ai"
+    },
+    {
+      "id": "51d55e49e5e397271db7316be36d76a449f704d6",
+      "title": "How CockroachDB Built Vector Indexing at Scale",
+      "created": "2026-05-25 23:30",
+      "link": "https://blog.bytebytego.com/p/how-cockroachdb-built-vector-indexing",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+      "category": "ai"
+    },
+    {
       "id": "e6a4b471268e057c6a6035d91fe26311033327d8",
       "title": "性能超越李飞飞，他们把10亿高斯点的3D世界装进浏览器",
       "created": "2026-05-25 14:32",
@@ -59,6 +95,15 @@
       "link": "https://www.cnblogs.com/moonout/p/20153384",
       "author": "Moon out",
       "avatar": "https://image.xwysyy.cn/misc/20231113183607.png",
+      "category": "ai"
+    },
+    {
+      "id": "3ae5a86a36cf97c36bf2f2d1a2cd1d22269b4c0a",
+      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "created": "2026-05-25 08:00",
+      "link": "https://huggingface.co/blog/agent-glossary",
+      "author": "Hugging Face",
+      "avatar": "https://huggingface.co/favicon.ico",
       "category": "ai"
     },
     {
@@ -107,21 +152,21 @@
       "category": "ai"
     },
     {
-      "id": "27ba04d76eca1497e5fe2e6d7b25984ec563e329",
-      "title": "Mad House — Usborne Creepy Computer Games",
-      "created": "2026-05-25 01:14",
-      "link": "https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
       "id": "1973a75ee09e8dd4b0b74e1d91fbe6f29fd1ea15",
       "title": "锦恢的 AI Agent 小白教程（三）提示词原理及其应用：ChatML、工具调用、提示词注入",
       "created": "2026-05-25 01:14",
       "link": "https://kirigaya.cn/blog/article?seq=376",
       "author": "锦恢",
       "avatar": "https://kirigaya.cn/favicon.png",
+      "category": "ai"
+    },
+    {
+      "id": "27ba04d76eca1497e5fe2e6d7b25984ec563e329",
+      "title": "Mad House — Usborne Creepy Computer Games",
+      "created": "2026-05-25 01:14",
+      "link": "https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything",
+      "author": "Simon Willison",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
     },
     {
@@ -543,24 +588,6 @@
       "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
       "created": "2026-05-20 06:40",
       "link": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "4bcf647e906105d1919110d53dcef38a6272663e",
-      "title": "datasette-llm-accountant 0.1a4",
-      "created": "2026-05-20 04:45",
-      "link": "https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything",
-      "author": "Simon Willison",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
-      "category": "ai"
-    },
-    {
-      "id": "ea78b5950c36c71db4bd03bfc05a3f89c32c1fdf",
-      "title": "llm-gemini 0.32a0",
-      "created": "2026-05-20 04:36",
-      "link": "https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything",
       "author": "Simon Willison",
       "avatar": "https://substackcdn.com/image/fetch/$s_!ghJ7!,w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe68a4ed9-6701-4ace-b17d-00a1fddab42f_450x450.png",
       "category": "ai"
@@ -1142,21 +1169,21 @@
       "category": "ai"
     },
     {
-      "id": "115ed7596c9d88cc97dce25e8711a5408d60b61d",
-      "title": "EP214: Claude Code vs. OpenClaw: 5 Design Dimensions",
-      "created": "2026-05-09 23:31",
-      "link": "https://blog.bytebytego.com/p/ep214-claude-code-vs-openclaw-5-design",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-      "category": "ai"
-    },
-    {
       "id": "33dd6dad274b4c8ff9341a3b178fd6dab5e4c7b6",
       "title": "645 - 《最近买的东西们（9）》",
       "created": "2026-05-09 23:31",
       "link": "https://blog.sorrycc.com/buy-09",
       "author": "sorrycc (云谦)",
       "avatar": "https://avatars.githubusercontent.com/u/35128",
+      "category": "ai"
+    },
+    {
+      "id": "115ed7596c9d88cc97dce25e8711a5408d60b61d",
+      "title": "EP214: Claude Code vs. OpenClaw: 5 Design Dimensions",
+      "created": "2026-05-09 23:31",
+      "link": "https://blog.bytebytego.com/p/ep214-claude-code-vs-openclaw-5-design",
+      "author": "ByteByteGo",
+      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
@@ -1427,15 +1454,6 @@
       "link": "https://baoyu.io/blog/demis-hassabis-agents-agi-and-the-next-big-scientific-breakthrough",
       "author": "宝玉",
       "avatar": "https://baoyu.io/favicon.ico",
-      "category": "ai"
-    },
-    {
-      "id": "a9cb8d6287c4ad5cce8ac2674a1df8d5edf187c8",
-      "title": "The Tech Stack Powering Wise",
-      "created": "2026-04-29 23:31",
-      "link": "https://blog.bytebytego.com/p/the-tech-stack-powering-wise",
-      "author": "ByteByteGo",
-      "avatar": "https://substackcdn.com/image/fetch/$s_!1eXV!,w_80,h_80,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
       "category": "ai"
     },
     {
@@ -1961,15 +1979,6 @@
       "category": "ai"
     },
     {
-      "id": "cfdeed39e5626485322cefd4ffe054cf4f6563bd",
-      "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
-      "created": "2026-04-16 08:00",
-      "link": "https://huggingface.co/blog/ecom-rlve",
-      "author": "Hugging Face",
-      "avatar": "https://huggingface.co/favicon.ico",
-      "category": "ai"
-    },
-    {
       "id": "ee7da049edcbbaaf42c71ce7cfc38d88148234bf",
       "title": "洪绘压图发布！批量转图片格式，批量压缩图片工具（Mac/Windows）",
       "created": "2026-04-15 12:52",
@@ -2436,15 +2445,6 @@
       "author": "Qwen",
       "avatar": "https://img.alicdn.com/imgextra/i1/O1CN01Lisg2I1mDPi8yGUez_!!6000000004920-2-tps-84-84.png",
       "category": "ai"
-    },
-    {
-      "id": "7f4ff05dbfe4210b76b54a800123c51d609c0851",
-      "title": "洪绘存图发布：保存浏览器图片为指定格式、提取网页所有图片、屏幕截图插件",
-      "created": "2026-03-29 14:41",
-      "link": "https://blog.zhheo.com/p/drqm39ob.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
-      "category": "friend"
     },
     {
       "id": "2b3c1159cf7b07928c191b7122e4c014f294ed2c",
@@ -3437,28 +3437,10 @@
       "category": "ai"
     },
     {
-      "id": "ddecdacb24bd0f7eeb6152205e2cf9f5e1c9e6bd",
-      "title": "肖恩技术周刊（第 77 期）：稀缺特质",
-      "created": "2026-01-05 08:00",
-      "link": "https://weekly.shawnxie.top/content/2026/77.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "15f4a5452b3bd90d618626d5de84e7ff3d1103a7",
       "title": "Adam中的偏差修正起到了什么作用？",
       "created": "2026-01-05 08:00",
       "link": "https://blog.tomorrowdawn.cc/posts/adam%E4%B8%AD%E7%9A%84%E5%81%8F%E5%B7%AE%E4%BF%AE%E6%AD%A3%E8%B5%B7%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8/",
-      "author": "TomorrowDawn's Blog",
-      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
-      "category": "ai"
-    },
-    {
-      "id": "3b471576c20b1223ee665aedd34483dfa922ca58",
-      "title": "矩阵微分热身",
-      "created": "2026-01-05 08:00",
-      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E7%83%AD%E8%BA%AB/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
       "category": "ai"
@@ -3479,6 +3461,24 @@
       "link": "https://blog.tomorrowdawn.cc/posts/%E6%A2%AF%E5%BA%A6%E9%80%9F%E9%99%8D/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "3b471576c20b1223ee665aedd34483dfa922ca58",
+      "title": "矩阵微分热身",
+      "created": "2026-01-05 08:00",
+      "link": "https://blog.tomorrowdawn.cc/posts/%E7%9F%A9%E9%98%B5%E5%BE%AE%E5%88%86%E7%83%AD%E8%BA%AB/",
+      "author": "TomorrowDawn's Blog",
+      "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "ddecdacb24bd0f7eeb6152205e2cf9f5e1c9e6bd",
+      "title": "肖恩技术周刊（第 77 期）：稀缺特质",
+      "created": "2026-01-05 08:00",
+      "link": "https://weekly.shawnxie.top/content/2026/77.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -3554,21 +3554,21 @@
       "category": "friend"
     },
     {
-      "id": "dca9c06155fc07f703291b76a1ea3d8c9054ffdb",
-      "title": "肖恩技术周刊（第 76 期）：疯狂的白银",
-      "created": "2025-12-29 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/76.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "f4b3d10b27b983aeffd563b69ad775210aa57b6e",
       "title": "TileLang笔记",
       "created": "2025-12-29 08:00",
       "link": "https://blog.tomorrowdawn.cc/posts/tilelang%E7%AC%94%E8%AE%B0/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "dca9c06155fc07f703291b76a1ea3d8c9054ffdb",
+      "title": "肖恩技术周刊（第 76 期）：疯狂的白银",
+      "created": "2025-12-29 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/76.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -3662,21 +3662,21 @@
       "category": "ai"
     },
     {
-      "id": "6e06423f23f0583c15ce6e16333f59769bdfad75",
-      "title": "肖恩技术周刊（第 75 期）：Slop",
-      "created": "2025-12-22 08:00",
-      "link": "https://weekly.shawnxie.top/content/2025/75.html",
-      "author": "肖恩技术周刊",
-      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
-      "category": "ai"
-    },
-    {
       "id": "7dc24dc1833ef76fb90910ee6ae47f3bd8256eea",
       "title": "高斯积分quick review",
       "created": "2025-12-22 08:00",
       "link": "https://blog.tomorrowdawn.cc/posts/%E9%AB%98%E6%96%AF%E7%A7%AF%E5%88%86quick-review/",
       "author": "TomorrowDawn's Blog",
       "avatar": "https://blog.tomorrowdawn.cc/fav.jpg",
+      "category": "ai"
+    },
+    {
+      "id": "6e06423f23f0583c15ce6e16333f59769bdfad75",
+      "title": "肖恩技术周刊（第 75 期）：Slop",
+      "created": "2025-12-22 08:00",
+      "link": "https://weekly.shawnxie.top/content/2025/75.html",
+      "author": "肖恩技术周刊",
+      "avatar": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png",
       "category": "ai"
     },
     {
@@ -4976,6 +4976,15 @@
       "category": "ai"
     },
     {
+      "id": "15b0d2e8aa56dbbb9272fc220ba1968d24c9b083",
+      "title": "Lum1104/Understand-Anything",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/Lum1104/Understand-Anything",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
       "id": "3ffc776f8596e65fcb3d1200331d75d0fa563ff4",
       "title": "Imbad0202/academic-research-skills",
       "created": "2024-01-01 00:00",
@@ -5012,15 +5021,6 @@
       "category": "ai"
     },
     {
-      "id": "15b0d2e8aa56dbbb9272fc220ba1968d24c9b083",
-      "title": "Lum1104/Understand-Anything",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/Lum1104/Understand-Anything",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
       "id": "f538e90acf5b83f69b9f215f1ff9cca3eeb8dfd7",
       "title": "CloakHQ/CloakBrowser",
       "created": "2024-01-01 00:00",
@@ -5048,37 +5048,19 @@
       "category": "ai"
     },
     {
-      "id": "c2f44f3b7fd9a33d6063ae7edc110369107f334c",
-      "title": "datawhalechina/easy-vibe",
+      "id": "6564a172d5558f90a1f2a9532167b493939f5882",
+      "title": "dograh-hq/dograh",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/datawhalechina/easy-vibe",
+      "link": "https://github.com/dograh-hq/dograh",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
     },
     {
-      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
-      "title": "obra/superpowers",
+      "id": "9fa69d5f53710e3a1c04b56a1af83ce5b0fb1346",
+      "title": "presenton/presenton",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/obra/superpowers",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "36917ef32b441dc1267859059cff87fff8d86bcd",
-      "title": "K-Dense-AI/scientific-agent-skills",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "author": "GitHub Trending RSS",
-      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "category": "ai"
-    },
-    {
-      "id": "4747a804fd4584863d91d5dbdd7a2f406fc624a7",
-      "title": "stablyai/orca",
-      "created": "2024-01-01 00:00",
-      "link": "https://github.com/stablyai/orca",
+      "link": "https://github.com/presenton/presenton",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -5093,10 +5075,19 @@
       "category": "ai"
     },
     {
-      "id": "1af51839de3f10a133086edacfd5bda8f680d9a2",
-      "title": "yikart/AiToEarn",
+      "id": "2046f5e50fafe44ab9382efbd7ce4484b55575ee",
+      "title": "obra/superpowers",
       "created": "2024-01-01 00:00",
-      "link": "https://github.com/yikart/AiToEarn",
+      "link": "https://github.com/obra/superpowers",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "8a116f781769e3d8c250757c8521a18aea158fa4",
+      "title": "wechat-article/wechat-article-exporter",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/wechat-article/wechat-article-exporter",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
@@ -5106,6 +5097,24 @@
       "title": "cursor/plugins",
       "created": "2024-01-01 00:00",
       "link": "https://github.com/cursor/plugins",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "4a896a6a6de97732883796f6beb8aff27b34a8c7",
+      "title": "phodal/routa",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/phodal/routa",
+      "author": "GitHub Trending RSS",
+      "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "category": "ai"
+    },
+    {
+      "id": "a67bb8d2a6b423507df124720c24d43b990cf127",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "created": "2024-01-01 00:00",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "author": "GitHub Trending RSS",
       "avatar": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       "category": "ai"
