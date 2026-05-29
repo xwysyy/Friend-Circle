@@ -66,7 +66,8 @@ func main() {
 	if ignoreURL == "" {
 		ignoreURL = cfg.SpiderSettings.IgnoreURL
 	}
-	ignoreIDs := scraper.FetchIgnoreIDs(ignoreURL, client)
+	ignoreToken := os.Getenv("FRIEND_CIRCLE_IMPORT_TOKEN")
+	ignoreIDs := scraper.FetchIgnoreIDs(ignoreURL, ignoreToken, client)
 	personalResult := result
 	personalErrors := errorEntries
 

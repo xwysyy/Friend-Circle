@@ -132,7 +132,7 @@ func LoadFriends(source string, client *http.Client) ([][]string, error) {
 }
 
 // FetchIgnoreIDs loads the ignore ID list from a URL or local file.
-func FetchIgnoreIDs(source string, client *http.Client) map[string]struct{} {
+func FetchIgnoreIDs(source string, token string, client *http.Client) map[string]struct{} {
 	ids := make(map[string]struct{})
 	source = strings.TrimSpace(source)
 	if source == "" {
@@ -148,6 +148,10 @@ func FetchIgnoreIDs(source string, client *http.Client) map[string]struct{} {
 			return ids
 		}
 		setDefaultHeaders(req)
+		token = strings.TrimSpace(token)
+		if token != "" {
+			req.Header.Set("Authorization", "Bearer "+token)
+		}
 		resp, err := client.Do(req)
 		if err != nil {
 			log.Printf("获取忽略列表失败：%s；错误：%v", source, err)

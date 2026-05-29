@@ -52,5 +52,7 @@
 - Respect timeouts; reuse `http.Client` (connection pooling via Transport).
 - `results/` JSON outputs are ignored. CI publishes data by calling the blog
   import API, not by committing generated artifacts.
+- Ignore export requests use the same Bearer token as imports
+  (`FRIEND_CIRCLE_IMPORT_TOKEN`); do not put tokens in `ignore_url`.
 - Do not commit `agentic-rss/**/node_modules/`, `agentic-rss/**/dist/`, or runtime-local lockfiles. They are local tooling artifacts.
 - Adapter secrets should come from Worker secrets or Node.js environment variables, not source files.
