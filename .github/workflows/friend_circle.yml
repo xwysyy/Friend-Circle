@@ -29,8 +29,6 @@ jobs:
     steps:
     - name: Pull Latest Repository
       uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.PAT_TOKEN }}
 
     - name: Setup Go
       uses: actions/setup-go@v5
@@ -40,20 +38,3 @@ jobs:
 
     - name: Check RSS feeds
       run: go run .
-
-    - name: Commit changes
-      run: |
-        git config user.name 'GitHub Actions'
-        git config user.email 'actions@github.com'
-        git add .
-        if git diff --cached --quiet; then
-          echo "No changes to commit"
-          exit 0
-        fi
-        git commit -m "chore: update rss feeds"
-        for attempt in 1 2 3; do
-          if git push origin master; then exit 0; fi
-          echo "push attempt $attempt failed, rebasing"
-          git pull --rebase -X theirs origin master
-        done
-        git push origin master

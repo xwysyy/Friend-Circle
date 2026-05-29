@@ -1,8 +1,6 @@
 package main
 
 import (
-	"encoding/json"
-	"fmt"
 	"log"
 	"net/http"
 	"os"
@@ -51,20 +49,14 @@ func main() {
 
 	client := scraper.NewHTTPClient()
 
-	// --- First pass: all.json + errors.json ---
+	// --- First pass: full index ---
 	result, errorEntries := collectFromConfig(cfg, client, nil)
 
 	if result.StatisticalData.ActiveNum == 0 {
 		log.Fatalf("active_num=0，中止")
 	}
 
-	if err := writeJSON(filepath.Join(resultsDir, "all.json"), result); err != nil {
-		log.Fatalf("写入 all.json 失败: %v", err)
-	}
-	if err := writeJSON(filepath.Join(resultsDir, "errors.json"), errorEntries); err != nil {
-		log.Fatalf("写入 errors.json 失败: %v", err)
-	}
-	log.Println("抓取与写入完成：all.json, errors.json")
+	log.Printf("抓取完成：all，共 %d 篇，错误 %d 条", len(result.ArticleData), len(errorEntries))
 	if err := importResult(client, "all", result); err != nil {
 		log.Fatalf("导入 all 到远端索引失败: %v", err)
 	}
@@ -76,30 +68,18 @@ func main() {
 	}
 	ignoreIDs := scraper.FetchIgnoreIDs(ignoreURL, client)
 	personalResult := result
+	personalErrors := errorEntries
 
 	if len(ignoreIDs) > 0 {
-		log.Printf("已加载忽略列表，共 %d 条，将生成 all.personal.json", len(ignoreIDs))
-		var personalErrors [][]string
+		log.Printf("已加载忽略列表，共 %d 条，将生成 personal 远端索引", len(ignoreIDs))
 		personalResult, personalErrors = collectFromConfig(cfg, client, ignoreIDs)
 		if personalResult.StatisticalData.ActiveNum == 0 {
 			log.Fatalf("personal active_num=0，中止")
 		}
-		if err := writeJSON(filepath.Join(resultsDir, "all.personal.json"), personalResult); err != nil {
-			log.Fatalf("写入 all.personal.json 失败: %v", err)
-		}
-		if err := writeJSON(filepath.Join(resultsDir, "errors.personal.json"), personalErrors); err != nil {
-			log.Fatalf("写入 errors.personal.json 失败: %v", err)
-		}
 	} else {
-		log.Println("忽略列表为空（或不可用），all.personal.json 将与 all.json 相同")
-		if err := writeJSON(filepath.Join(resultsDir, "all.personal.json"), result); err != nil {
-			log.Fatalf("写入 all.personal.json 失败: %v", err)
-		}
-		if err := writeJSON(filepath.Join(resultsDir, "errors.personal.json"), errorEntries); err != nil {
-			log.Fatalf("写入 errors.personal.json 失败: %v", err)
-		}
+		log.Println("忽略列表为空（或不可用），personal 远端索引将与 all 相同")
 	}
-	log.Println("抓取与写入完成：all.personal.json, errors.personal.json")
+	log.Printf("抓取完成：personal，共 %d 篇，错误 %d 条", len(personalResult.ArticleData), len(personalErrors))
 	if err := importResult(client, "personal", personalResult); err != nil {
 		log.Fatalf("导入 personal 到远端索引失败: %v", err)
 	}
@@ -162,35 +142,4 @@ func collectFromConfig(
 	scraper.SortArticlesByTime(aggregated)
 
 	return aggregated, allErrors
-}
-
-func writeJSON(path string, data any) error {
-	tmp := path + ".tmp"
-	f, err := os.Create(tmp)
-	if err != nil {
-		return fmt.Errorf("create %s: %w", tmp, err)
-	}
-
-	enc := json.NewEncoder(f)
-	enc.SetIndent("", "  ")
-	enc.SetEscapeHTML(false)
-	if err := enc.Encode(data); err != nil {
-		f.Close()
-		os.Remove(tmp)
-		return fmt.Errorf("encode %s: %w", tmp, err)
-	}
-	if err := f.Sync(); err != nil {
-		f.Close()
-		os.Remove(tmp)
-		return fmt.Errorf("sync %s: %w", tmp, err)
-	}
-	if err := f.Close(); err != nil {
-		os.Remove(tmp)
-		return fmt.Errorf("close %s: %w", tmp, err)
-	}
-	if err := os.Rename(tmp, path); err != nil {
-		os.Remove(tmp)
-		return fmt.Errorf("rename %s -> %s: %w", tmp, path, err)
-	}
-	return nil
 }

@@ -10,7 +10,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/xwysyy/Friend-Circle)
 
-一个用 Go 写的友链文章聚合器。从 `config/*.json` 读取友链列表，并发抓取 RSS/Atom，输出 JSON 到 `results/`。`agentic-rss/` 存放 RSS adapter 模板，处理没有稳定 RSS 的站点。
+一个用 Go 写的友链文章聚合器。从 `config/*.json` 读取友链列表，并发抓取 RSS/Atom，再导入博客侧的远端索引。`agentic-rss/` 存放 RSS adapter 模板，处理没有稳定 RSS 的站点。
 
 </div>
 
@@ -23,9 +23,10 @@
 - 时间统一：文章时间输出为 `YYYY-MM-DD HH:MM`，按时间倒序排列。
 - RSS/Atom 解析：通过 [`gofeed`](https://github.com/mmcdole/gofeed) 转成统一结构。
 - 多分类聚合：`json_url` 指向本地文件时，会合并同目录全部 `*.json`，文件名写入 `category`。
-- 个人忽略列表：可选 `ignore_url` 或 `FRIEND_CIRCLE_IGNORE_URL`，生成 `all.personal.json`。
+- 个人忽略列表：可选 `ignore_url` 或 `FRIEND_CIRCLE_IGNORE_URL`，生成 personal 远端索引。
 - 链接改写：可按友链名或域名匹配，执行前缀或正则替换。
 - 自动更新：GitHub Actions 每 6 小时运行一次，也支持手动触发。
+- 远端导入：通过 `FRIEND_CIRCLE_IMPORT_URL` 和 `FRIEND_CIRCLE_IMPORT_TOKEN` 写入博客 API。
 
 ## 📦 快速开始
 
@@ -39,7 +40,7 @@ go mod download
 go run .
 ```
 
-完成后在 `results/` 下生成：`all.json`、`errors.json`、`all.personal.json`、`errors.personal.json`、`grab.log`。
+完成后会导入 `all` 和 `personal` 两套远端索引，并在 `results/grab.log` 写入运行日志。
 
 ## 🔧 配置（`config/conf.yaml`）
 
@@ -50,7 +51,7 @@ spider_settings:
   article_count: 20                  # 每个博客最多抓取文章数
   max_workers: 5                     # 并发数，建议 ≤ 20
 
-  # 可选：忽略列表（用于生成 all.personal.json）
+  # 可选：忽略列表（用于生成 personal 远端索引）
   # 支持 http(s) 或本地 json；可被环境变量 FRIEND_CIRCLE_IGNORE_URL 覆盖
   ignore_url: "https://example.com/api/ignore/export"
 
@@ -66,7 +67,7 @@ spider_settings:
 
 ## 🤝 数据源（`friend.json`）
 
-每条目固定四元组：`[name, blog_url, avatar, feed_url]`。`feed_url` 必须可访问 RSS/Atom，否则被记录到 `errors.json`。
+每条目固定四元组：`[name, blog_url, avatar, feed_url]`。`feed_url` 必须可访问 RSS/Atom，否则会被记录到运行日志。
 
 ```json
 {
@@ -92,13 +93,15 @@ config/
 └── lang.json       # 分类：lang
 ```
 
-## 📤 运行产物（`results/`）
+## 📤 运行产物与远端导入
 
-- `all.json` / `errors.json`：全量抓取结果，及失败友链的原始 4 元组列表。
-- `all.personal.json` / `errors.personal.json`：当 `ignore_url` 可达且非空时再跑一遍，跳过命中条目；否则与 `all.json` / `errors.json` 一致。
-- `grab.log`：运行日志（`.gitignore` 中已忽略）。
+默认运行不会提交生成 JSON。程序会：
 
-输出 JSON 形如：
+- 抓取全量文章并导入博客侧 `all` 索引。
+- 读取忽略列表后抓取 personal 索引；当忽略列表为空或不可用时，personal 索引与 all 相同。
+- 写入 `results/grab.log` 作为运行日志（`.gitignore` 中已忽略）。
+
+远端导入 payload 形如：
 
 ```json
 {
@@ -123,15 +126,15 @@ config/
 }
 ```
 
-## ☁️ Vercel 部署
+## ☁️ 博客侧导入
 
-仓库内 `vercel.json` 已映射常用静态路径：
+定时任务通过以下环境变量把结果导入博客侧 API：
 
-- `/all.json`、`/errors.json` → `results/...`
-- `/all.personal.json`、`/errors.personal.json` → `results/...`
-- `/friend.json` → `config/friend.json`
+- `FRIEND_CIRCLE_IMPORT_URL`
+- `FRIEND_CIRCLE_IMPORT_TOKEN`
+- `FRIEND_CIRCLE_IGNORE_URL`
 
-把仓库部署为静态站点后，可以直接消费这些 JSON。
+当前生产导入 URL 由 `xwysyy-blog` 仓库维护，服务端负责将 payload 写入 Upstash Redis。
 
 ## 🧰 Agentic RSS
 
@@ -145,7 +148,7 @@ config/
 
 ## 🗓️ 自动化（GitHub Actions）
 
-工作流 `.github/workflows/friend_circle.yml` 每 6 小时运行一次，也支持 `workflow_dispatch`。抓取结果以 `chore: update rss feeds` 提交回仓库。Fork 后需要在仓库 secrets 配置 `PAT_TOKEN`。
+工作流 `.github/workflows/friend_circle.yml` 每 6 小时运行一次，也支持 `workflow_dispatch`。抓取结果直接导入博客侧 API，不再把 `results/*.json` 提交回仓库。Fork 后需要配置导入相关 secrets。
 
 ## 🧱 项目结构
 
@@ -161,7 +164,7 @@ config/
 ├── config/
 │   ├── conf.yaml          # 抓取配置
 │   └── *.json             # 各分类友链列表
-├── results/               # 运行产物（提交入库；仅日志被忽略）
+├── results/               # 运行日志（生成 JSON 已忽略）
 ├── agentic-rss/           # RSS adapter 编写提示与运行时模板
 │   ├── prompts/
 │   ├── runtime-worker/
@@ -173,13 +176,13 @@ config/
 ## ❓ FAQ
 
 - **没数据？** 检查 `json_url` 可达、`friend.json` 结构正确、`feed_url` 可访问。
-- **某站抓取失败？** 查 `results/grab.log` 与 `errors.json`，必要时更新该站点 `feed_url`。
-- **`all.personal.json` 与 `all.json` 一致？** 说明忽略列表不可用或为空，程序会复制全量抓取结果。
+- **某站抓取失败？** 查 `results/grab.log`，必要时更新该站点 `feed_url`。
+- **personal 索引与 all 一致？** 说明忽略列表不可用或为空，程序会复用全量抓取结果。
 - **某站没有可用 RSS？** 先看 `agentic-rss/README.md`，用 runtime 模板生成一个 RSS endpoint，再把该 endpoint 写入对应 `config/*.json` 的第 4 项。
 
 ## 📝 提交规范
 
-遵循 [Conventional Commits](https://www.conventionalcommits.org/)：`type(scope)!: subject`，类型为 `build | chore | ci | docs | feat | fix | perf | refactor | revert | style | test`。CI 自动提交统一使用 `chore: update rss feeds`。
+遵循 [Conventional Commits](https://www.conventionalcommits.org/)：`type(scope)!: subject`，类型为 `build | chore | ci | docs | feat | fix | perf | refactor | revert | style | test`。
 
 ## 🪪 License
 

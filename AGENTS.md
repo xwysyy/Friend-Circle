@@ -11,10 +11,10 @@
 - `config/`: Config and friend list
   - `conf.yaml`: Spider settings (`enable`, `json_url`, `article_count`, `max_workers`, optional `ignore_url`, optional `link_rewrites`).
   - `*.json`: Friend lists (each file = a category; merged when `json_url` points at a local path).
-- `results/`: Runtime outputs (generated)
-  - `all.json` / `errors.json`: full scrape.
-  - `all.personal.json` / `errors.personal.json`: second pass that skips IDs from `ignore_url` (or env `FRIEND_CIRCLE_IGNORE_URL`); falls back to the full scrape when the ignore list is empty/unreachable.
+- `results/`: Runtime logs
   - `grab.log`: run log (gitignored).
+  - Generated JSON result files are no longer committed; scheduled runs import
+    scraped data directly into the blog API.
 - `agentic-rss/`: RSS adapter templates for sites without a reliable RSS feed
   - `prompts/adapter-author.md`: instructions for generating a site adapter.
   - `runtime-worker/`: Cloudflare Worker template.
@@ -45,12 +45,12 @@
 - Conventional Commits:
   - Format: `type(scope)!: subject`
   - Types: `build|chore|ci|docs|feat|fix|perf|refactor|revert|style|test`
-  - CI uses message `chore: update rss feeds`
 - PRs include: clear description, linked issues, config changes, sample commands/endpoints, and screenshots/log snippets when relevant.
 
 ## Security & Configuration Tips
 - Keep secrets out of `config/conf.yaml`; use reachable `json_url` and realistic `article_count`.
 - Respect timeouts; reuse `http.Client` (connection pooling via Transport).
-- `results/` JSON outputs are committed (CI publishes them); only `results/grab.log` is gitignored.
+- `results/` JSON outputs are ignored. CI publishes data by calling the blog
+  import API, not by committing generated artifacts.
 - Do not commit `agentic-rss/**/node_modules/`, `agentic-rss/**/dist/`, or runtime-local lockfiles. They are local tooling artifacts.
 - Adapter secrets should come from Worker secrets or Node.js environment variables, not source files.
