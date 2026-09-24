@@ -26,7 +26,7 @@
 - 个人忽略列表：可选 `ignore_url` 或 `FRIEND_CIRCLE_IGNORE_URL`，生成 personal 远端索引。
 - 日期截断：可选 `since`，早于该日期或没有发布时间的文章不收录，也不占每个博客的抓取名额。
 - 链接改写：可按友链名或域名匹配，执行前缀或正则替换。
-- 自动更新：GitHub Actions 每 6 小时运行一次，也支持手动触发。
+- 自动更新：GitHub Actions 按 workflow 里的 `schedule` 定时运行，也支持手动触发。
 - 远端导入：通过 `FRIEND_CIRCLE_IMPORT_URL` 和 `FRIEND_CIRCLE_IMPORT_TOKEN` 写入博客 API。
 
 ## 📦 快速开始
@@ -150,7 +150,7 @@ config/
 
 ## 🗓️ 自动化（GitHub Actions）
 
-工作流 `.github/workflows/friend_circle.yml` 每 6 小时运行一次，也支持 `workflow_dispatch`。抓取结果直接导入博客侧 API，不再把 `results/*.json` 提交回仓库。Fork 后需要配置导入相关 secrets。
+工作流 `.github/workflows/friend_circle.yml` 按其中的 `schedule` 定时运行，也支持 `workflow_dispatch`。抓取结果直接导入博客侧 API，不再把 `results/*.json` 提交回仓库。Fork 后需要配置导入相关 secrets。
 
 ## 🧱 项目结构
 
