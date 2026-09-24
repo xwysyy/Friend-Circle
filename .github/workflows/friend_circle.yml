@@ -42,13 +42,3 @@ jobs:
     - name: Show grab log
       if: always()
       run: cat results/grab.log
-
-    - name: Diagnose import endpoints
-      if: always()
-      run: |
-        for url in "$FRIEND_CIRCLE_IMPORT_URL" "$FRIEND_CIRCLE_IGNORE_URL" "https://blog.xwysyy.com/api/friend-circle/articles/import"; do
-          host=$(printf '%s' "$url" | sed -E 's#^[a-zA-Z]+://([^/:]+).*#\1#')
-          echo "=== host: $host"
-          dig +noall +answer "$host" || true
-          curl -sS -o /dev/null -D - --max-time 20 "$url" | grep -i -E '^(HTTP|server|via|x-error-code|cf-ray|x-vercel-id|x-vercel-error)' || true
-        done
