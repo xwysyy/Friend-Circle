@@ -38,3 +38,7 @@ jobs:
 
     - name: Check RSS feeds
       run: go run .
+
+    - name: Show grab log
+      if: always()
+      run: cat results/grab.log
