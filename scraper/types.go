@@ -20,7 +20,7 @@ type StatisticalData struct {
 	LastUpdatedTime string `json:"last_updated_time"`
 }
 
-// Result is the top-level output structure written to all.json.
+// Result is the aggregated crawl output imported into the blog index.
 type Result struct {
 	StatisticalData StatisticalData `json:"statistical_data"`
 	ArticleData     []Article       `json:"article_data"`
