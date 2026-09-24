@@ -9,6 +9,8 @@ spider_settings:
   json_url: "config/friend.json"
   article_count: 20
   max_workers: 5
+  # 可选：只收录该日期（Asia/Shanghai 当天 0 点）及之后发布的文章，格式 YYYY-MM-DD；没有发布时间的文章也会跳过
+  since: "2026-09-24"
   # 可选：忽略列表来源（用于生成 personal 远端索引，忽略的文章会在抓取阶段跳过并向更旧文章补位）
   # - 支持 http(s) 地址或本地 json 文件路径
   # - 博客导出接口：GET /api/friend-circle/ignore/export，需 FRIEND_CIRCLE_IMPORT_TOKEN；CI 用 FRIEND_CIRCLE_IGNORE_URL 覆盖此项

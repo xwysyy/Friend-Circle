@@ -24,6 +24,7 @@
 - RSS/Atom 解析：通过 [`gofeed`](https://github.com/mmcdole/gofeed) 转成统一结构。
 - 多分类聚合：`json_url` 指向本地文件时，会合并同目录全部 `*.json`，文件名写入 `category`。
 - 个人忽略列表：可选 `ignore_url` 或 `FRIEND_CIRCLE_IGNORE_URL`，生成 personal 远端索引。
+- 日期截断：可选 `since`，早于该日期或没有发布时间的文章不收录，也不占每个博客的抓取名额。
 - 链接改写：可按友链名或域名匹配，执行前缀或正则替换。
 - 自动更新：GitHub Actions 每 6 小时运行一次，也支持手动触发。
 - 远端导入：通过 `FRIEND_CIRCLE_IMPORT_URL` 和 `FRIEND_CIRCLE_IMPORT_TOKEN` 写入博客 API。
@@ -50,6 +51,7 @@ spider_settings:
   json_url: "config/friend.json"     # 数据源（本地路径或 http(s)）
   article_count: 20                  # 每个博客最多抓取文章数
   max_workers: 5                     # 并发数，建议 ≤ 20
+  since: "2026-09-24"                # 可选：只收录该日期（北京时间）及之后发布的文章
 
   # 可选：忽略列表（用于生成 personal 远端索引）
   # 支持 http(s) 或本地 json；可被环境变量 FRIEND_CIRCLE_IGNORE_URL 覆盖

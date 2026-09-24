@@ -115,6 +115,7 @@ func collectFromConfig(
 			spider.ArticleCount,
 			spider.MaxWorkers,
 			ignoreIDs,
+			spider.SinceTime,
 		)
 
 		// Inject category

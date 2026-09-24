@@ -52,6 +52,7 @@ func ParseFeed(
 	avatar string,
 	count int,
 	ignoreIDs map[string]struct{},
+	since time.Time,
 ) ([]Article, error) {
 	// First attempt with standard headers
 	resp, err := FetchWithRetry(ctx, client, url, false)
@@ -84,10 +85,20 @@ func ParseFeed(
 
 	var articles []Article
 	skipped := 0
+	beforeSince := 0
 
 	for _, item := range feed.Items {
 		if len(articles) >= count {
 			break
+		}
+
+		publishedAt := item.PublishedParsed
+		if publishedAt == nil {
+			publishedAt = item.UpdatedParsed
+		}
+		if !since.IsZero() && (publishedAt == nil || publishedAt.Before(since)) {
+			beforeSince++
+			continue
 		}
 
 		var published string
@@ -122,6 +133,9 @@ func ParseFeed(
 
 	if skipped > 0 {
 		log.Printf("Feed 已跳过 %d 篇被忽略文章：%s", skipped, url)
+	}
+	if beforeSince > 0 {
+		log.Printf("Feed 已跳过 %d 篇早于 %s 或没有时间的文章：%s", beforeSince, since.Format("2006-01-02"), url)
 	}
 
 	return articles, nil

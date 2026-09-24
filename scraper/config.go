@@ -9,6 +9,7 @@ import (
 	"os"
 	"path/filepath"
 	"strings"
+	"time"
 
 	"gopkg.in/yaml.v3"
 )
@@ -29,6 +30,13 @@ func LoadConfig(path string) (*Config, error) {
 	}
 	if cfg.SpiderSettings.MaxWorkers <= 0 {
 		cfg.SpiderSettings.MaxWorkers = 10
+	}
+	if since := strings.TrimSpace(cfg.SpiderSettings.Since); since != "" {
+		t, err := time.ParseInLocation("2006-01-02", since, shanghai)
+		if err != nil {
+			return nil, fmt.Errorf("解析 since 失败（格式应为 YYYY-MM-DD）: %w", err)
+		}
+		cfg.SpiderSettings.SinceTime = t
 	}
 	return &cfg, nil
 }

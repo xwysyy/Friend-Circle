@@ -149,6 +149,7 @@ func FetchAndProcessAll(
 	articleCount int,
 	maxWorkers int,
 	ignoreIDs map[string]struct{},
+	since time.Time,
 ) (*Result, [][]string) {
 	totalFriends := len(friends)
 	if maxWorkers <= 0 {
@@ -176,7 +177,7 @@ func FetchAndProcessAll(
 			sem <- struct{}{}
 			defer func() { <-sem }()
 
-			result := processFriend(client, f, articleCount, ignoreIDs)
+			result := processFriend(client, f, articleCount, ignoreIDs, since)
 
 			mu.Lock()
 			defer mu.Unlock()
@@ -216,6 +217,7 @@ func processFriend(
 	friend []string,
 	count int,
 	ignoreIDs map[string]struct{},
+	since time.Time,
 ) FriendResult {
 	// Validate entry
 	if len(friend) < 4 || strings.TrimSpace(friend[3]) == "" {
@@ -237,7 +239,7 @@ func processFriend(
 	ctx, cancel := context.WithTimeout(context.Background(), requestTimeout)
 	defer cancel()
 
-	articles, err := ParseFeed(ctx, client, feedURL, name, avatar, count, ignoreIDs)
+	articles, err := ParseFeed(ctx, client, feedURL, name, avatar, count, ignoreIDs, since)
 	if err != nil {
 		log.Printf("%s 的 feed 抓取失败：%s: %v", name, feedURL, err)
 		return FriendResult{

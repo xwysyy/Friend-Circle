@@ -1,5 +1,7 @@
 package scraper
 
+import "time"
+
 // Article represents a single blog article in the output JSON.
 type Article struct {
 	ID       string `json:"id"`
@@ -46,7 +48,11 @@ type SpiderSettings struct {
 	ArticleCount int             `yaml:"article_count"`
 	MaxWorkers   int             `yaml:"max_workers"`
 	IgnoreURL    string          `yaml:"ignore_url"`
+	Since        string          `yaml:"since"`
 	LinkRewrites []LinkRewrite   `yaml:"link_rewrites"`
+
+	// SinceTime is Since parsed as midnight Asia/Shanghai; zero means no cutoff.
+	SinceTime time.Time `yaml:"-"`
 }
 
 // LinkRewrite defines a link rewriting rule group.

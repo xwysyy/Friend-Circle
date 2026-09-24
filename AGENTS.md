@@ -9,7 +9,7 @@
   - `feed.go`: RSS/Atom feed parsing via `gofeed` + time normalization.
   - `rewriter.go`: Link rewriting (prefix + regex).
 - `config/`: Config and friend list
-  - `conf.yaml`: Spider settings (`enable`, `json_url`, `article_count`, `max_workers`, optional `ignore_url`, optional `link_rewrites`).
+  - `conf.yaml`: Spider settings (`enable`, `json_url`, `article_count`, `max_workers`, optional `ignore_url`, optional `since`, optional `link_rewrites`).
   - `*.json`: Friend lists (each file = a category; merged when `json_url` points at a local path).
 - `results/`: Runtime logs
   - `grab.log`: run log (gitignored).
